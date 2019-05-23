@@ -223,10 +223,11 @@ function loadOverpass()
 	//req.open("GET", overpassApi + encodeURIComponent(query), true);
 	//req.send(null);
 
-	compareData(queriedDatasets, {});
+	compareData(queriedDatasets, [{type:'count'}]);
 	queryStatus.busy = false;
 	if (queryStatus.waiting)
 		loadOverpass();
+
 }
 
 function displayPoint(datasetName, tileName, idx)
