@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Záboří v poli",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Záboří",
+                "P6736": "2815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26595,
+                    48.99498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Dobčicemi a Zábořím",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Záboří",
+                "P6736": "2813"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25733,
+                    48.99338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Záboří",
+                "P31": "Kaplička",
+                "P131^label:cs": "Záboří",
+                "P6736": "2814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26574,
+                    48.99189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple východně od Záboří",
+                "P31": "Kaple",
+                "P131^label:cs": "Záboří",
+                "P6736": "2816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27395,
+                    48.98873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Dobčic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Záboří",
+                "P6736": "1931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24905,
+                    48.99533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Dobčic u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Záboří",
+                "P6736": "1930"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24169,
+                    48.99607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Dobčic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Záboří",
+                "P6736": "1929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23926,
+                    48.99821
+                ]
+            }
+        }
+    ]
+}

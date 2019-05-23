@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha poustevníka Jana u Svatojanského pramene v Kersku",
+                "P31": "Socha",
+                "P131^label:cs": "Hradištko",
+                "P6736": "17142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90964,
+                    50.15388
+                ]
+            }
+        }
+    ]
+}

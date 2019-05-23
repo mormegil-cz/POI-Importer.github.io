@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatých Cyrila a Metoděje jižně od Čeladné",
+                "P31": "Kaple",
+                "P131^label:cs": "Čeladná",
+                "P6736": "9271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.33807,
+                    49.51222
+                ]
+            }
+        }
+    ]
+}

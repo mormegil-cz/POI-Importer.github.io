@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "křížek u pumpy Benzina u Střechova nad Sázavou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Trhový Štěpánov",
+                "P6736": "21302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0191,
+                    49.75268
+                ]
+            }
+        }
+    ]
+}

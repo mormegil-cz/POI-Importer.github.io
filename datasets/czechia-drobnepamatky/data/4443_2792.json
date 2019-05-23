@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Podivicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kaliště",
+                "P6736": "19276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28173,
+                    49.60423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Podivic u cesty do Bělic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kaliště",
+                "P6736": "19275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28379,
+                    49.60262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Podivicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Kaliště",
+                "P6736": "19274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28177,
+                    49.6042
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Olší",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Opařany",
+                "P6736": "10486"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50853,
+                    49.43502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Olší",
+                "P31": "Kaple",
+                "P131^label:cs": "Opařany",
+                "P6736": "10485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5086,
+                    49.43505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na kruhovém objezdu u Oltyně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Opařany",
+                "P6736": "2248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52354,
+                    49.42522
+                ]
+            }
+        }
+    ]
+}

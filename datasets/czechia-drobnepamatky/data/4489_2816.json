@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Areálu vinohradnických staveb ve Skanzenu Strážnice",
+                "P31": "Obrázek",
+                "P131^label:cs": "Strážnice",
+                "P6736": "13856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.30666,
+                    48.90263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Areálu vinohradnických staveb ve Skanzenu Strážnice",
+                "P31": "Boží muka",
+                "P131^label:cs": "Strážnice",
+                "P6736": "13855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.30765,
+                    48.90296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem Svatého Martina ve Strážnici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Strážnice",
+                "P6736": "12890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3131,
+                    48.90109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem Nanebevzetí Panny Marie ve Strážnici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Strážnice",
+                "P6736": "12889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3114,
+                    48.90113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Jana Nepomuckého ve Strážnici na Piaristickém náměstí",
+                "P31": "Socha",
+                "P131^label:cs": "Strážnice",
+                "P6736": "12888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.31194,
+                    48.90068
+                ]
+            }
+        }
+    ]
+}

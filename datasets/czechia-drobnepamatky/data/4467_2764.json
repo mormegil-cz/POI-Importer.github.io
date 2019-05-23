@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Jana Nepomuckého v Olešnici",
+                "P31": "Socha",
+                "P131^label:cs": "Olešnice v Orlických horách",
+                "P6736": "12149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33375,
+                    50.37362
+                ]
+            }
+        }
+    ]
+}

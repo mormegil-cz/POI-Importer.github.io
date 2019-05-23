@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Honezovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Honezovice",
+                "P6736": "4243"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06267,
+                    49.63812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli u Honezovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lisov",
+                "P6736": "2928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08337,
+                    49.63904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce v Honezovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Honezovice",
+                "P6736": "2926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06561,
+                    49.63908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Honezovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Honezovice",
+                "P6736": "1538"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05582,
+                    49.63572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Honezovic",
+                "P31": "Kaple",
+                "P131^label:cs": "Honezovice",
+                "P6736": "1539"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05463,
+                    49.63535
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Slatiny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chudenice",
+                "P6736": "3397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1897,
+                    49.4504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Slatině",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chudenice",
+                "P6736": "3396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18875,
+                    49.4462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Slatiny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chudenice",
+                "P6736": "3395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18705,
+                    49.44151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Chudenic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chudenice",
+                "P6736": "3276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18906,
+                    49.46474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v sadu u Chudenic",
+                "P31": "Památník",
+                "P131^label:cs": "Chudenice",
+                "P6736": "3275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18797,
+                    49.4626
+                ]
+            }
+        }
+    ]
+}

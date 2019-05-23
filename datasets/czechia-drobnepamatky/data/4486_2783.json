@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Šumvaldě u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Šumvald",
+                "P6736": "23843"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.14027,
+                    49.84409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Plinkoutu na křižovatce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dlouhá Loučka",
+                "P6736": "23330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16955,
+                    49.83836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Plinkoutu vedle polní cesty",
+                "P31": "Boží muka",
+                "P131^label:cs": "Dlouhá Loučka",
+                "P6736": "22920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16586,
+                    49.84407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Šumvaldu na severním okraji obce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Šumvald",
+                "P6736": "22919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.14514,
+                    49.84742
+                ]
+            }
+        }
+    ]
+}

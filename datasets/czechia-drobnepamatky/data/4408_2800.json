@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Slatiny u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Slatina",
+                "P6736": "5895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7409,
+                    49.38211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Svéradic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5893"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74975,
+                    49.37738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Svéradic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74609,
+                    49.37378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Svéradicích",
+                "P31": "Památník",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5891"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73876,
+                    49.37542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Svéradic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73876,
+                    49.37598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Svéradic u kaple vpravo",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73372,
+                    49.37397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Svéradic u kaple vlevo",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73367,
+                    49.37414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple západně od Svéradic",
+                "P31": "Kaple",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73378,
+                    49.37405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Svéradic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.733,
+                    49.37374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Svéradic jižně od kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73368,
+                    49.37359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Svéradic u mostu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73238,
+                    49.37282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Svéradicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73903,
+                    49.37133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Svéradicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7394,
+                    49.37143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Svéradicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5881"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73903,
+                    49.37122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Svéradic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73515,
+                    49.36963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Svéradic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svéradice",
+                "P6736": "5879"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73251,
+                    49.36824
+                ]
+            }
+        }
+    ]
+}

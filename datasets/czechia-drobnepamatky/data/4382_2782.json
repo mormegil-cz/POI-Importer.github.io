@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Broumova",
+                "P31": "Kaple",
+                "P131^label:cs": "Broumov",
+                "P6736": "6548"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60909,
+                    49.88863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Broumově u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "6547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60627,
+                    49.88922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník západně od Broumova",
+                "P31": "Památník",
+                "P131^label:cs": "Broumov",
+                "P6736": "6546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58922,
+                    49.89291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Broumova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "6545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59112,
+                    49.89192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Víta jižně od Broumova",
+                "P31": "Socha",
+                "P131^label:cs": "Broumov",
+                "P6736": "6544"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5988,
+                    49.88835
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční hodiny na domě v Chlumu severně od návsi",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Chlum",
+                "P6736": "18083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65785,
+                    49.93742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Chlumu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chlum",
+                "P6736": "18082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65959,
+                    49.93616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Dolanech u Hlinců naproti kostelu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hlince",
+                "P6736": "13211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65507,
+                    49.94685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hlincích",
+                "P31": "Kaple",
+                "P131^label:cs": "Hlince",
+                "P6736": "3914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62408,
+                    49.94855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hlincích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hlince",
+                "P6736": "3913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62417,
+                    49.94855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hlincích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hlince",
+                "P6736": "3912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62537,
+                    49.94855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Chlumu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chlum",
+                "P6736": "3835"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65929,
+                    49.93526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Chlumu",
+                "P31": "Kaple",
+                "P131^label:cs": "Chlum",
+                "P6736": "3834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65936,
+                    49.93529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vojtěcha u Hřešihlav",
+                "P31": "Socha",
+                "P131^label:cs": "Kladruby",
+                "P6736": "1591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62391,
+                    49.93084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela svatého Petra a Pavla u Ptyče",
+                "P31": "Socha",
+                "P131^label:cs": "Hlince",
+                "P6736": "1518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65564,
+                    49.9477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Hlinců u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hlince",
+                "P6736": "1516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62735,
+                    49.94855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nedaleko Ptyče",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hlince",
+                "P6736": "1517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65421,
+                    49.94762
+                ]
+            }
+        }
+    ]
+}

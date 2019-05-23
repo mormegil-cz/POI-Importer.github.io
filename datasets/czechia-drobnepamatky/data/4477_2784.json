@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Petrušově na polním rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Staré Město",
+                "P6736": "21863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7457,
+                    49.82276
+                ]
+            }
+        }
+    ]
+}

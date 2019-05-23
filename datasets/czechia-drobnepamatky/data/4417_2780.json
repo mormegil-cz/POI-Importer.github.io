@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Srbsku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Srbsko",
+                "P6736": "15016"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13711,
+                    49.93817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Srbsku na návsi U Lípy",
+                "P31": "Kaplička",
+                "P131^label:cs": "Srbsko",
+                "P6736": "15015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13461,
+                    49.9369
+                ]
+            }
+        }
+    ]
+}

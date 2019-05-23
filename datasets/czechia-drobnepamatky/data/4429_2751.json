@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Lindavě jižně od kostela",
+                "P31": "Kaple",
+                "P131^label:cs": "Cvikov",
+                "P6736": "13836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63942,
+                    50.73684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Neznámý památník nebo pomník východně od kostela v Lindavě",
+                "P31": "Neznámý",
+                "P131^label:cs": "Cvikov",
+                "P6736": "13833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65979,
+                    50.7485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého západně od kostela v Lindavě",
+                "P31": "Socha",
+                "P131^label:cs": "Cvikov",
+                "P6736": "13644"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65842,
+                    50.7495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha anděla (uprostřed) u kostela v Lindavě",
+                "P31": "Socha",
+                "P131^label:cs": "Cvikov",
+                "P6736": "13643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65857,
+                    50.74902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u kostela v Lindavě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Cvikov",
+                "P6736": "13393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6586,
+                    50.74902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha u kostela v Lindavě",
+                "P31": "Socha",
+                "P131^label:cs": "Cvikov",
+                "P6736": "13392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65853,
+                    50.74908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha u kostela v Lindavě",
+                "P31": "Socha",
+                "P131^label:cs": "Cvikov",
+                "P6736": "13391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6586,
+                    50.74894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Lindavě u silnice západně od kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Cvikov",
+                "P6736": "13354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66227,
+                    50.75154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Lindavě u silnice západně od kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Cvikov",
+                "P6736": "13353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66261,
+                    50.7523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž na štítu domu v Lindavě na křižovatce silnic ze Cvikova a do Kunratic u Cvikova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Cvikov",
+                "P6736": "13352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66267,
+                    50.75264
+                ]
+            }
+        }
+    ]
+}

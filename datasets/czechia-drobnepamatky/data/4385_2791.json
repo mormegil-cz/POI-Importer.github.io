@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Pavlíkově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třemešné",
+                "P6736": "4903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71655,
+                    49.61715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Dubci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třemešné",
+                "P6736": "3780"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72325,
+                    49.63054
+                ]
+            }
+        }
+    ]
+}

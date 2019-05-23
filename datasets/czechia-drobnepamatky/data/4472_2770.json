@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Podlesí v Orlických Horách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bartošovice v Orlických horách",
+                "P6736": "12595"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54264,
+                    50.23077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Františka Xaverského u Neratova",
+                "P31": "Socha",
+                "P131^label:cs": "Bartošovice v Orlických horách",
+                "P6736": "11875"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55314,
+                    50.21709
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Stéla pro Terezín v parku u muzea v Malé pevnosti Terezín",
+                "P31": "Plastika",
+                "P131^label:cs": "Terezín",
+                "P6736": "23965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16582,
+                    50.5134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha vlevo od vchodu do Kavalíru 2 v Terezíně",
+                "P31": "Socha",
+                "P131^label:cs": "Terezín",
+                "P6736": "17358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15205,
+                    50.50764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v ulici v severní části obce Travčice",
+                "P31": "Kaple",
+                "P131^label:cs": "Travčice",
+                "P6736": "17130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18942,
+                    50.50538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v obci Travčice",
+                "P31": "Kaple",
+                "P131^label:cs": "Travčice",
+                "P6736": "17129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19009,
+                    50.50301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce na návsi v obci Travčice",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Travčice",
+                "P6736": "17128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18986,
+                    50.50308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v obci Travčice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Travčice",
+                "P6736": "17127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18706,
+                    50.50428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození v Jiráskových sadech v Terezíně",
+                "P31": "Pomník",
+                "P131^label:cs": "Terezín",
+                "P6736": "14182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15175,
+                    50.51241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Hygieia před Kavalírem II v Terezíně",
+                "P31": "Socha",
+                "P131^label:cs": "Terezín",
+                "P6736": "14181"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15123,
+                    50.50747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Pomona před Kavalírem II v Terezíně",
+                "P31": "Socha",
+                "P131^label:cs": "Terezín",
+                "P6736": "14180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1514,
+                    50.50749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Tylově ulici v Bohušovicích nad Ohří",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bohušovice nad Ohří",
+                "P6736": "14179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15243,
+                    50.49354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Husa na Husově náměstí v Bohušovicích nad Ohří",
+                "P31": "Pomník",
+                "P131^label:cs": "Bohušovice nad Ohří",
+                "P6736": "14178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15047,
+                    50.49362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z I. světové války na židovském hřbitově v Terezíně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Terezín",
+                "P6736": "6204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15055,
+                    50.50162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve tvaru menory na židovském hřbitově v Terezíně",
+                "P31": "Památník",
+                "P131^label:cs": "Terezín",
+                "P6736": "6203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15154,
+                    50.50198
+                ]
+            }
+        }
+    ]
+}

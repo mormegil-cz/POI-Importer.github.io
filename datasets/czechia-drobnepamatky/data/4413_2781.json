@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen u silnice na Knížkovice západně od Zdic",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Zdice",
+                "P6736": "25842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96539,
+                    49.91254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen západně od návsi v Knížkovicích",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Zdice",
+                "P6736": "25841"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94912,
+                    49.91131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u silnice z Vorlovy ulice ve Zdicích do Knížkovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zdice",
+                "P6736": "25840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95816,
+                    49.91132
+                ]
+            }
+        }
+    ]
+}

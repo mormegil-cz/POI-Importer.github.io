@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bílově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílov",
+                "P6736": "3807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42717,
+                    50.01887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u Bílova",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Bílov",
+                "P6736": "3806"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42782,
+                    50.01715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Bílově",
+                "P31": "Kaple",
+                "P131^label:cs": "Bílov",
+                "P6736": "3805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42497,
+                    50.01741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bílově u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílov",
+                "P6736": "3804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42506,
+                    50.0174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bílově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bílov",
+                "P6736": "3803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42453,
+                    50.01749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen v Bílově",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Bílov",
+                "P6736": "3802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42225,
+                    50.01748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Sedlce u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sedlec",
+                "P6736": "2468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41788,
+                    50.00845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Potvorova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40773,
+                    50.01322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Potvorova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40442,
+                    50.01698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí nad Bílovem a nad Vysokou Libyní",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílov",
+                "P6736": "1234"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43386,
+                    50.02532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Vysoké Libyně u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílov",
+                "P6736": "1239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4438,
+                    50.01204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u polní cesty severně od Bílova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bílov",
+                "P6736": "1231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41987,
+                    50.02244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka mezi Bílovem a Vysokou Libyní",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bílov",
+                "P6736": "1235"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43768,
+                    50.02154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Potvorova u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílov",
+                "P6736": "1236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41122,
+                    50.0162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Bílova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílov",
+                "P6736": "1233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43052,
+                    50.0215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u pole východně od Potvorova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílov",
+                "P6736": "1237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41529,
+                    50.0192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Potvorovem a Bílovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílov",
+                "P6736": "1238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41854,
+                    50.01748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Bílova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bílov",
+                "P6736": "1232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42786,
+                    50.01717
+                ]
+            }
+        }
+    ]
+}

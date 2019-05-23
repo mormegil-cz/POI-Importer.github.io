@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Staré Vodě u Mariánských Lázní",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Stará Voda",
+                "P6736": "9608"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58717,
+                    49.99604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v zámeckém parku v Kynžvartě",
+                "P31": "Kašna",
+                "P131^label:cs": "Lázně Kynžvart",
+                "P6736": "9590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60402,
+                    50.00447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na zámku Kynžvart",
+                "P31": "Kašna",
+                "P131^label:cs": "Lázně Kynžvart",
+                "P6736": "9589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60566,
+                    50.00428
+                ]
+            }
+        }
+    ]
+}

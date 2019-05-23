@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého v Bílovicích nad Svitavou",
+                "P31": "Kaple",
+                "P131^label:cs": "Bílovice nad Svitavou",
+                "P6736": "14275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67406,
+                    49.24781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese jižně od Babic nad Svitavou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Babice nad Svitavou",
+                "P6736": "14262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69158,
+                    49.26627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bílovicích nad Svitavou v ulici Na Skále",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílovice nad Svitavou",
+                "P6736": "14261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67825,
+                    49.25415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bílovicích nad Svitavou v Havlíčkově ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílovice nad Svitavou",
+                "P6736": "14260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67565,
+                    49.25019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v první světové válce v Bílovicích nad Svitavou",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bílovice nad Svitavou",
+                "P6736": "14259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67425,
+                    49.24693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v druhé světové válce v Bílovicích nad Svitavou",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bílovice nad Svitavou",
+                "P6736": "14258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67373,
+                    49.24748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Miroslava Tyrše v Bílovicích nad Svitavou",
+                "P31": "Pomník",
+                "P131^label:cs": "Bílovice nad Svitavou",
+                "P6736": "14257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67377,
+                    49.24763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Busta Stanislava Kostky Neumanna v Bílovicích nad Svitavou",
+                "P31": "Pomník",
+                "P131^label:cs": "Bílovice nad Svitavou",
+                "P6736": "14256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67545,
+                    49.24558
+                ]
+            }
+        }
+    ]
+}

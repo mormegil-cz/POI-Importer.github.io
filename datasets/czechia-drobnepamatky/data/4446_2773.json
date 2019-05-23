@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v parku v Končicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Žiželice",
+                "P6736": "17147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.39003,
+                    50.13388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v parku ve středu Končic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Žiželice",
+                "P6736": "17146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38984,
+                    50.13397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěná zvonice na místě bývalého kostela v Končicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Žiželice",
+                "P6736": "17145"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38965,
+                    50.13399
+                ]
+            }
+        }
+    ]
+}

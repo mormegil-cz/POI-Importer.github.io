@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jihovýchodně od Stádlece",
+                "P31": "Kaplička",
+                "P131^label:cs": "Stádlec",
+                "P6736": "7599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50471,
+                    49.3714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Dobřejic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malšice",
+                "P6736": "7598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53022,
+                    49.36374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dobřejicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Malšice",
+                "P6736": "7597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53458,
+                    49.36077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka východně od Dobřejic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Malšice",
+                "P6736": "7596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54054,
+                    49.36019
+                ]
+            }
+        }
+    ]
+}

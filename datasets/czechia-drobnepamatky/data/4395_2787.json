@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž severně od Kbelan",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Kbelany",
+                "P6736": "8812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14253,
+                    49.7453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Rochlově",
+                "P31": "Socha",
+                "P131^label:cs": "Rochlov",
+                "P6736": "8810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14673,
+                    49.7306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník lípy svobody v Rochlově",
+                "P31": "Památník",
+                "P131^label:cs": "Rochlov",
+                "P6736": "8809"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14507,
+                    49.72791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž severozápadně od Kamenného Újezdu",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Nýřany",
+                "P6736": "8801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17369,
+                    49.72944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž na okraji lesa severně od Rochlova",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Kbelany",
+                "P6736": "6822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15761,
+                    49.74321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí U Červeného kříže",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nýřany",
+                "P6736": "6821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16326,
+                    49.74266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Rochlově v zámecké zahradě",
+                "P31": "Socha",
+                "P131^label:cs": "Rochlov",
+                "P6736": "6180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14469,
+                    49.7324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rochlově v zámecké zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rochlov",
+                "P6736": "6179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1448,
+                    49.73206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Rochlově",
+                "P31": "Památník",
+                "P131^label:cs": "Rochlov",
+                "P6736": "4682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14582,
+                    49.73069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Blatnici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rochlov",
+                "P6736": "4621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14908,
+                    49.72586
+                ]
+            }
+        }
+    ]
+}

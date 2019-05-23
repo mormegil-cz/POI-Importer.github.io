@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Chrášťanech u křižovatky",
+                "P31": "Kaple",
+                "P131^label:cs": "Chrášťany",
+                "P6736": "7536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6697,
+                    50.14617
+                ]
+            }
+        }
+    ]
+}

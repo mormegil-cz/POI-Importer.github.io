@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u tenisových kurtů v Tajanově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25528,
+                    49.40303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u restaurace v Tajanově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25786,
+                    49.40218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého v Tajanově",
+                "P31": "Kaple",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25908,
+                    49.40197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na mostě přes Úhlavu u Tajanova",
+                "P31": "Socha",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26246,
+                    49.40309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela svatého Martina pod Klatovskou hůrkou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26785,
+                    49.39516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u cesty z Beňov ke Klatovské hůrce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15587"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26626,
+                    49.39389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v osadě Beňovy",
+                "P31": "Kaple",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2623,
+                    49.39084
+                ]
+            }
+        }
+    ]
+}

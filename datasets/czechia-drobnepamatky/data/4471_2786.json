@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Koclířova na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Koclířov",
+                "P6736": "15115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50768,
+                    49.75994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Krista v Koclířově",
+                "P31": "Socha",
+                "P131^label:cs": "Koclířov",
+                "P6736": "12382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.52146,
+                    49.77496
+                ]
+            }
+        }
+    ]
+}

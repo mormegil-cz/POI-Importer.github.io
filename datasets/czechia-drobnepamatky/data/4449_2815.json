@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Rancířova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dešná",
+                "P6736": "20308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53178,
+                    48.93858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Rancířova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Dešná",
+                "P6736": "20307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.51684,
+                    48.93958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Hluboké I",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dešná",
+                "P6736": "20306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52369,
+                    48.92353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Hluboké II",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dešná",
+                "P6736": "20302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52309,
+                    48.92712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Rancířova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dešná",
+                "P6736": "20301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5352,
+                    48.93151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně od Rancířova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Dešná",
+                "P6736": "20300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53686,
+                    48.9309
+                ]
+            }
+        }
+    ]
+}

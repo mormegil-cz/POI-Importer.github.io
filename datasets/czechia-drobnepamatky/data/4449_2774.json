@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vápně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Vápno",
+                "P6736": "14708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53167,
+                    50.10445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého ve Vápně",
+                "P31": "Socha",
+                "P131^label:cs": "Vápno",
+                "P6736": "14707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53396,
+                    50.10455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sopřeči",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sopřeč",
+                "P6736": "14483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55639,
+                    50.09373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Malých Výklekách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malé Výkleky",
+                "P6736": "14480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53837,
+                    50.1202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie severně od Přepych",
+                "P31": "Socha",
+                "P131^label:cs": "Přepychy",
+                "P6736": "14463"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.51662,
+                    50.11117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Přepychách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Přepychy",
+                "P6736": "14462"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.51927,
+                    50.10623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Přepychách",
+                "P31": "Zvonička",
+                "P131^label:cs": "Přepychy",
+                "P6736": "14461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.51901,
+                    50.10628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Přepychách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Přepychy",
+                "P6736": "14460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.51897,
+                    50.10624
+                ]
+            }
+        }
+    ]
+}

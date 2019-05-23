@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Skočic u silnice I/22",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Skočice",
+                "P6736": "2499"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10918,
+                    49.18286
+                ]
+            }
+        }
+    ]
+}

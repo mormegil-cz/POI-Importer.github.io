@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského ve výklenku kostela v Košticích",
+                "P31": "Socha",
+                "P131^label:cs": "Koštice",
+                "P6736": "20777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94112,
+                    50.40259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na návsi v Košticích",
+                "P31": "Socha",
+                "P131^label:cs": "Koštice",
+                "P6736": "20776"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94288,
+                    50.40269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Košticích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Koštice",
+                "P6736": "20775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9431,
+                    50.40256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí ve Vojnicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koštice",
+                "P6736": "20511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94153,
+                    50.42376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi ve Vojnicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Koštice",
+                "P6736": "20510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94216,
+                    50.42284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi ve Vojnicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Koštice",
+                "P6736": "20509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94215,
+                    50.42294
+                ]
+            }
+        }
+    ]
+}

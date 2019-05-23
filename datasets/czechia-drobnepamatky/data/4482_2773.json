@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým Vikantice u kostela",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Vikantice",
+                "P6736": "24229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99376,
+                    50.1364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž u Vikantic vedle silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vikantice",
+                "P6736": "23889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97297,
+                    50.13049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž na okraji Vikantic na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vikantice",
+                "P6736": "23888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98367,
+                    50.13389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Šléglově na okraji obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Šléglov",
+                "P6736": "22889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98095,
+                    50.14776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Vikantic na rozcestí",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vikantice",
+                "P6736": "22887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98805,
+                    50.1417
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Stříteže při cestě do Poličky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Polička",
+                "P6736": "21993"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24833,
+                    49.73705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Stříteži u Poličky západní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Polička",
+                "P6736": "21992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24134,
+                    49.74804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Širokém Dole východně od centra obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Široký Důl",
+                "P6736": "21991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22344,
+                    49.74638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Stříteži u Poličky",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Polička",
+                "P6736": "21886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2432,
+                    49.74665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Širokém Dole u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Široký Důl",
+                "P6736": "21884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22,
+                    49.74591
+                ]
+            }
+        }
+    ]
+}

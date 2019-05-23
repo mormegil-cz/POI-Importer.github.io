@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Cihelně u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hlavňovice",
+                "P6736": "14437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42837,
+                    49.25145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž severně od Cihelny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hlavňovice",
+                "P6736": "14436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42785,
+                    49.25348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Horním Staňkově u hlavního vchodu do zámku",
+                "P31": "Kašna",
+                "P131^label:cs": "Hlavňovice",
+                "P6736": "14411"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41815,
+                    49.25723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Horním Stankově na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hlavňovice",
+                "P6736": "14410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41931,
+                    49.25704
+                ]
+            }
+        }
+    ]
+}

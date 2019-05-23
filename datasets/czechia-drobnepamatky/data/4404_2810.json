@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v bývalém Zhůří u Rejštejna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rejštejn",
+                "P6736": "16030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5562,
+                    49.08649
+                ]
+            }
+        }
+    ]
+}

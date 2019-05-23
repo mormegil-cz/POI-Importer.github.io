@@ -1,0 +1,1669 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické busty Vzduch a Jitro na jižním schodišti Trojského zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41292,
+                    50.11641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické busty Poledne a Oheň na jižním schodišti Trojského zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41295,
+                    50.11633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické busty Amerika a Evropa na jižním schodišti Trojského zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41289,
+                    50.11629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické busty Země a Soumrak na jižním schodišti Trojského zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41276,
+                    50.11642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické busty Noc a Voda na jižním schodišti Trojského zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25740"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41271,
+                    50.11638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické busty Afrika a Asie na jižním schodišti Trojského zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41274,
+                    50.11631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Bakchus (Dionýsos) na jižním schodišti Trojského zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41286,
+                    50.11627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Saturn (Kronos) na jižním schodišti Trojského zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25737"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41277,
+                    50.11629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Centrální kašna v zahradě Trojského zámku",
+                "P31": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "25736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41251,
+                    50.11548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Paridův soud v zahradě Trojského zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41346,
+                    50.11534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna vlevo na terase Trojského zámku",
+                "P31": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "25734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41206,
+                    50.11625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna vpravo na terase Trojského zámku",
+                "P31": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "25733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41348,
+                    50.11603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u vchodu do Trojského zámku",
+                "P31": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "25732"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41297,
+                    50.11666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy nad portálem archivu Církve československé husitské",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39741,
+                    50.09789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v ulici Nad Hradním vodojemem",
+                "P31": "Zvonička",
+                "P131^label:cs": "Praha",
+                "P6736": "24286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37357,
+                    50.09269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník československým vojákům na Vítězném náměstí",
+                "P31": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "24285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3948,
+                    50.10012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy koní v Šabachově parku",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3976,
+                    50.09817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ženy na rohu domu Václavkova 20",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39777,
+                    50.0972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Masarykův pomník na Bachmačském náměstí",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "24282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39946,
+                    50.09749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Husův kámen na Bachmačském náměstí",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Praha",
+                "P6736": "24281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39931,
+                    50.09783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Spejbla a Hurvínka před divadlem S+H v Dejvické ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39886,
+                    50.09897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Evy Olmerové na domě Eliášova 21 v Praze",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Praha",
+                "P6736": "24279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40233,
+                    50.10001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy nad portálem budovy 4 v ulici Československé armády",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39964,
+                    50.10058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy nad portálem budovy 4 v ulici Československé armády",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39988,
+                    50.10056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha dětí na náměstí Svobody",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40012,
+                    50.10101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník československým letcům padlým 1939-1945 na náměstí Svobody",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "24275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39968,
+                    50.10093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha alegorie Dunaje na budově na rohu ulic Rooseveltova a Charlese de Gaulla",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39999,
+                    50.10373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha alegorie Vltavy na budově na rohu ulic Rooseveltova a U Zeměpisného ústavu",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40141,
+                    50.10411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Ženy ve dvoře nemocnice Bubeneč",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24272"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40107,
+                    50.10704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "O´Higginsův pomník v parku Generála Lázaro Cárdenase",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "24271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39804,
+                    50.1064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Maxe Švabinského na domě 4 na náměstí Interbrigády",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Praha",
+                "P6736": "24270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39632,
+                    50.1065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha maršála Koněva v Praze",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "24269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39524,
+                    50.10597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Teslův pomník v ulici Nikoly Tesly",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "24268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39419,
+                    50.10561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlého v květnu 1945 na Flemingově náměstí",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "24267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39225,
+                    50.10465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika u Fakulty strojní ČVUT v Technické ulici",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39121,
+                    50.10316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup-obelisk před Fakultou architektury ČVUT v Thákurově ulici",
+                "P31": "Sloup",
+                "P131^label:cs": "Praha",
+                "P6736": "24265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38977,
+                    50.10459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Skleněná plastika Kniha v Kolejní ulici",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24264"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3893,
+                    50.10558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v květnu 1945 v parku v Thákurově ulici",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "24263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38782,
+                    50.10232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Mojžíše na atice Arcibiskupského semináře v Thákurově ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38728,
+                    50.10252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ježíše Krista na atice Arcibiskupského semináře v Thákurově ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38717,
+                    50.10233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Rabíndranátha Thákura v Thákurově ulici",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "24260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38748,
+                    50.10072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Vstřícné kameny v parku Hadovka",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37584,
+                    50.09869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika El Niňo v parku Hadovka",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3763,
+                    50.09876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Cesta v parku Hadovka",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37679,
+                    50.09874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Přelet v parku Hadovka",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37727,
+                    50.09883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Malý Marťan v parku Hadovka",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37764,
+                    50.09889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlému v květnu 1945 u cesty mezi ulicemi Na Kotlářce a Šárecká",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "24254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38297,
+                    50.10534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Josefa Masopusta u stadionu Na Julisce",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "24253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38832,
+                    50.11026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Surikaty před hlavním vchodem do ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41158,
+                    50.11659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jiřího Jandy poblíž hlavního vchodu v ZOO Praha",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "24068"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41119,
+                    50.11707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha klisny a hříběte koně Převalského u severního vchodu ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40897,
+                    50.11866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha boha Ganéši u pavilonu slonů v ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24066"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40573,
+                    50.11894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha bohyně Párvatí u výběhu slonů v ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24065"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40568,
+                    50.1188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha boha Šivy u výběhu slonů v ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24064"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40546,
+                    50.11884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Tři postavy v západní části ZOO Praha",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40108,
+                    50.11946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Kanec v severní části ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4027,
+                    50.11995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Zdeňka Jaroše poblíž výběhu velbloudů v ZOO Praha",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "24061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40286,
+                    50.11813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Kůň Převalský u výběhu koní Převalského v ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40522,
+                    50.11762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Radegast na rozcestí v centru ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40456,
+                    50.11855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Morový sloup poblíž výběhu bizonů v ZOO Praha",
+                "P31": "Sloup",
+                "P131^label:cs": "Praha",
+                "P6736": "24058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40237,
+                    50.11892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Kondor u cesty Zakázanka v ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40611,
+                    50.11702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Pijící šelma u cesty k velké voliéře v ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24056"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40678,
+                    50.11677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Kozel u cesty pod lanovkou v ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24055"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40604,
+                    50.11671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Pelikáni na rozcestí k pavilonu pelikánů v ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40659,
+                    50.11621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Žába poblíž dětské tramvaje v ZOO Praha",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.407,
+                    50.11576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Dětské hry poblíž výběhu plameňáků v ZOO Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24052"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40964,
+                    50.11592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska lachtanů Hýta a Batul v ZOO Praha",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Praha",
+                "P6736": "24051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41057,
+                    50.11624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Bronzová plastika lachtana u pavilonu lachtanů v ZOO Praha",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24050"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41047,
+                    50.11623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník donátorů u vzdělávacího centra v ZOO Praha",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "24049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41033,
+                    50.11673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Prastará moudrost u vzdělávacího centra v ZOO Praha",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24048"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41025,
+                    50.11678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Charlotty Garrigue Masarykové na domě 239/13 v Mickiewiczově ulici",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "23755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40716,
+                    50.09552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika u hotelu Hoffmeister v Chotkově ulici",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "23644"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40906,
+                    50.09291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Český lev v serpentině Chotkovy ulice",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "23643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4065,
+                    50.09294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna ve zdi v ulici Pod Bruskou",
+                "P31": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "23642"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40934,
+                    50.09338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší alegorie Noci u Míčovny v Královské zahradě",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "23640"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40131,
+                    50.09263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna se sochou Herkula v Královské zahradě",
+                "P31": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "23639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40106,
+                    50.09298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Niké v Chotkových sadech",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "23638"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40762,
+                    50.09423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Jana Malypetra v Praze",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Praha",
+                "P6736": "23637"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40491,
+                    50.09544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna Zpívající fontána u letohrádku královny Anny",
+                "P31": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "23634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40482,
+                    50.09362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Vítězství u letohrádku královny Anny",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "23633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40518,
+                    50.09349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v květnu 1945 v parku u ulice K Brusce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "23632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40525,
+                    50.09611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v květnu 1945 v parku v ulici Na Valech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "23631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40777,
+                    50.09668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Oblak v parku v ulici Na Valech",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "23630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40762,
+                    50.09641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika v parku u Badeniho ulice",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "23629"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40805,
+                    50.09623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Komenský se loučí s vlastí u Bílkovy vily",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "23628"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40866,
+                    50.0951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha kardinála Josefa Berana v Praze-Dejvicích",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "22895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3878,
+                    50.10253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník parašutistům Československé armády v Praze-Dejvicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "22894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39094,
+                    50.10304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší 'Setkání u studny' v Praze-Dejvicích",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "22764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38272,
+                    50.0997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým za 2. světové války v Praze-Dejvicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "22238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37621,
+                    50.11007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika 'Schoulená' v Praze-Dejvicích, ul. Šárecká",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "22221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38036,
+                    50.11275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník vojákům Rudé armády u Pražského hradu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "22186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39944,
+                    50.09322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Jana Nepomuckého na okraji sídliště Baba",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "19587"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3798,
+                    50.11372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Karla Lukase v ulici Pod kaštany v Dejvicích",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Praha",
+                "P6736": "19586"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4054,
+                    50.09844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník štábního kapitána Václava Morávka na Prašném mostě",
+                "P31": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "19440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39604,
+                    50.09512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Mistra Jana Husa v Praze",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "17232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38398,
+                    50.11896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Praze-Dejvicích v Banskobystrické ulici",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "14391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39188,
+                    50.1001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Replika morového sloupu v Praze-Troji v Trojské ulici",
+                "P31": "Sloup",
+                "P131^label:cs": "Praha",
+                "P6736": "14320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41159,
+                    50.11822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Julia Zeyera v Chotkových sadech na Praze 1",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "14314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40798,
+                    50.09392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v první světové válce v Praze-Střešovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "14211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38095,
+                    50.09402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Benita Juáreze v Praze-Bubenči",
+                "P31": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "14144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39826,
+                    50.1067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Simóna Bolívara v Praze-Bubenči",
+                "P31": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "14143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3987,
+                    50.1069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Busta Alexandra Sergejeviče Puškina v Praze-Bubenči na Puškinově náměstí",
+                "P31": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "14141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40294,
+                    50.10288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička se sochou svatého Jana Nepomuckého v Praze-Bubenči v Gotthardské ulici",
+                "P31": "Kaplička",
+                "P131^label:cs": "Praha",
+                "P6736": "13874"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40828,
+                    50.10394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice v Praze-Dejvicích v ulici Nad Komornickou",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "13873"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37624,
+                    50.10208
+                ]
+            }
+        }
+    ]
+}

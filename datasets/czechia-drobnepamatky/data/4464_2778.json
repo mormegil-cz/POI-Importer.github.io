@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník dostavby železniční trati Choceň - Meziměstí - Broumov",
+                "P31": "Památník",
+                "P131^label:cs": "Choceň",
+                "P6736": "17228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21332,
+                    49.99208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Prokopa na jižním okraji Chocně",
+                "P31": "Socha",
+                "P131^label:cs": "Choceň",
+                "P6736": "12893"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21052,
+                    49.99416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Srubech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Sruby",
+                "P6736": "12231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17473,
+                    49.99986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník letců západně od Dvořiska u letiště",
+                "P31": "Památník",
+                "P131^label:cs": "Choceň",
+                "P6736": "12229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17973,
+                    49.97966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník jižně od Chocně",
+                "P31": "Pomník",
+                "P131^label:cs": "Choceň",
+                "P6736": "11804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.20823,
+                    49.9941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Srubech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sruby",
+                "P6736": "11751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1733,
+                    49.99505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník K.H.Borovského v Chocni na Lhotách",
+                "P31": "Památník",
+                "P131^label:cs": "Choceň",
+                "P6736": "11702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21526,
+                    49.99379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Chocně na kraji lesa",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Choceň",
+                "P6736": "11570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.20416,
+                    49.97964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Chocně na kraji lesa",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Choceň",
+                "P6736": "11569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.20427,
+                    49.98013
+                ]
+            }
+        }
+    ]
+}

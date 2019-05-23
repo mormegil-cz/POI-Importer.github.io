@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Rybníka u lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "5092"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67144,
+                    49.53956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u lesíku v místě zaniklého Malého Horšína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "2735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.69026,
+                    49.53754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli jižně od zaniklého Malého Horšína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "2734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6932,
+                    49.5349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na místě zaniklého kostela Novosedly",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "2199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67808,
+                    49.54893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad zaniklým Malým Horšínem u zaniklých Novosedel",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "2094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67806,
+                    49.53989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Rybníka na místě zaniklé vsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "2098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67501,
+                    49.52857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zaniklého Mostku u silnice do Rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "2097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67085,
+                    49.54158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zaniklé Jánské Hutě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "2095"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6632,
+                    49.53905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad zaniklým Malým Horšínem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "2093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67911,
+                    49.53848
+                ]
+            }
+        }
+    ]
+}

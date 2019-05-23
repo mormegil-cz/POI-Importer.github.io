@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Hornosína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hornosín",
+                "P6736": "8512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8534,
+                    49.48084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník železniční nehody jižně od Závišína",
+                "P31": "Památník",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87053,
+                    49.48057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Závišíně na hrázi",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86779,
+                    49.48431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Závišíně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8490"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8676,
+                    49.48519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Závišíně",
+                "P31": "Kaple",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8489"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86788,
+                    49.48538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Závišína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86869,
+                    49.48843
+                ]
+            }
+        }
+    ]
+}

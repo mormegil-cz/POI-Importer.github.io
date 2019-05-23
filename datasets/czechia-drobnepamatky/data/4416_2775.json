@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž L.P. 1880 v Horním Bezděkově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Bezděkov",
+                "P6736": "23336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0671,
+                    50.08209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Lesní ulici, Horní Bezděkov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Bezděkov",
+                "P6736": "23335"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07463,
+                    50.08275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička sv. Jana Nepomuckého v Poteplí",
+                "P31": "Kaplička",
+                "P131^label:cs": "Malé Kyšice",
+                "P6736": "23263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07519,
+                    50.0664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička u Proškova mlýna v Poteplí",
+                "P31": "Zvonička",
+                "P131^label:cs": "Malé Kyšice",
+                "P6736": "23030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07691,
+                    50.06642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve 2. světové válce v Poteplí",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horní Bezděkov",
+                "P6736": "23029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07598,
+                    50.06694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Floriána v Kyšicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Kyšice",
+                "P6736": "21105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10618,
+                    50.09179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve světových válkách v Kyšicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kyšice",
+                "P6736": "21104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10607,
+                    50.09148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž na návsi v Kyšicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kyšice",
+                "P6736": "21103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10622,
+                    50.09173
+                ]
+            }
+        }
+    ]
+}

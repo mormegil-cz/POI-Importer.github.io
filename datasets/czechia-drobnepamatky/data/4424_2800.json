@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Srlíně",
+                "P31": "Kaple",
+                "P131^label:cs": "Bernartice",
+                "P6736": "7683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44814,
+                    49.37631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Srlíně",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bernartice",
+                "P6736": "7673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44966,
+                    49.37505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Srlíně u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bernartice",
+                "P6736": "7672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44552,
+                    49.37607
+                ]
+            }
+        }
+    ]
+}

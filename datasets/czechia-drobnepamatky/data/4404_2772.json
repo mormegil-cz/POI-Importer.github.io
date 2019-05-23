@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Nové Vsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Děkov",
+                "P6736": "15730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57035,
+                    50.172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce v Nové Vsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Děkov",
+                "P6736": "15729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57043,
+                    50.17207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Děkově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Děkov",
+                "P6736": "15728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55444,
+                    50.17055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hokově na křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hořovičky",
+                "P6736": "10407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56153,
+                    50.15656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hokově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hořovičky",
+                "P6736": "10406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56183,
+                    50.15638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Děkově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Děkov",
+                "P6736": "10404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55439,
+                    50.17055
+                ]
+            }
+        }
+    ]
+}

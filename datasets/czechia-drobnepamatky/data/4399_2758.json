@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty v severní části Zákoutí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blatno",
+                "P6736": "23077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35458,
+                    50.54982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty do horní části Zákoutí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blatno",
+                "P6736": "23076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35218,
+                    50.54819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Zákoutí",
+                "P31": "Kaple",
+                "P131^label:cs": "Blatno",
+                "P6736": "23075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35146,
+                    50.54621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na rozcestí u kaple v Zákoutí",
+                "P31": "Socha",
+                "P131^label:cs": "Blatno",
+                "P6736": "23074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35095,
+                    50.54621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Zákoutí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blatno",
+                "P6736": "23073"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35349,
+                    50.54527
+                ]
+            }
+        }
+    ]
+}

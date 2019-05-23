@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lipí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "4194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22575,
+                    49.96902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Lipí",
+                "P31": "Kaple",
+                "P131^label:cs": "Manětín",
+                "P6736": "4193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22505,
+                    49.96814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek východně od Nového Městečka",
+                "P31": "Obrázek",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18995,
+                    49.96128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na stromě u Lipí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "1935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2241,
+                    49.96104
+                ]
+            }
+        }
+    ]
+}

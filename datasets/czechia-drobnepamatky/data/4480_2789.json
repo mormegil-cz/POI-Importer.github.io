@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Bouzova u Panského rybníka",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90392,
+                    49.68545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Kadeřína vedle lesní cesty",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18426"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89812,
+                    49.66863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Kadeříně",
+                "P31": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89227,
+                    49.6695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Kadeřína na okraji lesa",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18424"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89115,
+                    49.67322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Kadeřína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18423"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89125,
+                    49.6729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Blažově u kaple svatého Martina",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88263,
+                    49.68338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Martina v Blažově",
+                "P31": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88267,
+                    49.68344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětí druhé světové války v Javoříčku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Luká",
+                "P6736": "8948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91841,
+                    49.67225
+                ]
+            }
+        }
+    ]
+}

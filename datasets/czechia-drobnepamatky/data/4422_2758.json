@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Rochově",
+                "P31": "Kaple",
+                "P131^label:cs": "Úštěk",
+                "P6736": "23499"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34144,
+                    50.54803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na návsi v Rochově",
+                "P31": "Pomník",
+                "P131^label:cs": "Úštěk",
+                "P6736": "23498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34131,
+                    50.54829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u mostu přes Úštěcký potok severně od Rochova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úštěk",
+                "P6736": "23497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34054,
+                    50.55251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tetčiněvsi na křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úštěk",
+                "P6736": "9577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34614,
+                    50.56109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Tetčiněvsi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Úštěk",
+                "P6736": "9576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34613,
+                    50.56093
+                ]
+            }
+        }
+    ]
+}

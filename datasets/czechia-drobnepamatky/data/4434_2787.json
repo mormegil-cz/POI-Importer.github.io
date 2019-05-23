@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého vedle pomníku padlým ve středu Radošovic",
+                "P31": "Socha",
+                "P131^label:cs": "Radošovice",
+                "P6736": "23278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86718,
+                    49.74097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v obou světových válkách a politických vězňů ve středu Radošovic",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Radošovice",
+                "P6736": "23277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86745,
+                    49.74093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Radošovicích v plotě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Radošovice",
+                "P6736": "6781"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87034,
+                    49.73965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička nad Radošovicemi u polní cesty",
+                "P31": "Kaplička",
+                "P131^label:cs": "Radošovice",
+                "P6736": "2443"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86975,
+                    49.74635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Radošovicemi u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Radošovice",
+                "P6736": "2442"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87139,
+                    49.74867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí nad Radošovicemi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Radošovice",
+                "P6736": "2441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86427,
+                    49.74606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Radošovic",
+                "P31": "Kaple",
+                "P131^label:cs": "Radošovice",
+                "P6736": "2444"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87075,
+                    49.73811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Domašínem na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlašim",
+                "P6736": "1416"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88777,
+                    49.72525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Radošovic u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlašim",
+                "P6736": "1420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87162,
+                    49.73627
+                ]
+            }
+        }
+    ]
+}

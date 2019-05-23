@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník T. G. Masaryka ve Štarnově v parku",
+                "P31": "Pomník",
+                "P131^label:cs": "Štarnov",
+                "P6736": "22484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27502,
+                    49.68773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Štarnova vedle potoku Aleš",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Štarnov",
+                "P6736": "20621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.28876,
+                    49.69204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým uprostřed Štarnova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Štarnov",
+                "P6736": "19053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27282,
+                    49.68652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Štarnova na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štarnov",
+                "P6736": "18936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.28135,
+                    49.68433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Štarnově před kostelem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štarnov",
+                "P6736": "18935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27133,
+                    49.6856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Štarnově v parku u restaurace",
+                "P31": "Zvonička",
+                "P131^label:cs": "Štarnov",
+                "P6736": "18927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27365,
+                    49.68699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž ve Štarnově u kostela",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Štarnov",
+                "P6736": "12121"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27164,
+                    49.68562
+                ]
+            }
+        }
+    ]
+}

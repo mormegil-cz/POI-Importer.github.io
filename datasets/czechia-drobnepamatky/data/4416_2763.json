@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha žáby na návsi v Žabovřeskách nad Ohří",
+                "P31": "Socha",
+                "P131^label:cs": "Žabovřesky nad Ohří",
+                "P6736": "18389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0905,
+                    50.41385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Žabovřeskách nad Ohří",
+                "P31": "Kaple",
+                "P131^label:cs": "Žabovřesky nad Ohří",
+                "P6736": "18388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09105,
+                    50.41286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Žabovřeskách nad Ohří",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Žabovřesky nad Ohří",
+                "P6736": "18387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09117,
+                    50.41225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na západním okraji Žabovřesk nad Ohří",
+                "P31": "Kaplička",
+                "P131^label:cs": "Žabovřesky nad Ohří",
+                "P6736": "18386"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08958,
+                    50.41267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný sloup na rozcestí v Radovesicích",
+                "P31": "Sloup",
+                "P131^label:cs": "Radovesice",
+                "P6736": "18385"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07112,
+                    50.41157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na návsi v Radovesicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Radovesice",
+                "P6736": "18384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06878,
+                    50.40904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Radovesicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Radovesice",
+                "P6736": "18383"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0686,
+                    50.40952
+                ]
+            }
+        }
+    ]
+}

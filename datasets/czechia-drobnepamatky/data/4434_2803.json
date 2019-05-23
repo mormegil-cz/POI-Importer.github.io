@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Chotěmic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "11989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86802,
+                    49.27974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Chotěmic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87676,
+                    49.27274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Chotěmic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87779,
+                    49.27282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chotěmicích na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87673,
+                    49.27579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Chotěmicích vlevo",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87563,
+                    49.27505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Chotěmicích vpravo",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87566,
+                    49.27501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chotěmic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87045,
+                    49.27425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Chotěmicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87572,
+                    49.27505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chotěmic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86305,
+                    49.27285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chotěmicích u cesty do Záluží",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87416,
+                    49.27716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Chotěmic u zatáčky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87691,
+                    49.2785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Chotěmic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87734,
+                    49.27853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chotěmic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěmice",
+                "P6736": "8250"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88311,
+                    49.27824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Lipovce",
+                "P31": "Kaple",
+                "P131^label:cs": "Deštná",
+                "P6736": "7005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88623,
+                    49.28598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí nedaleko Lipovky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Deštná",
+                "P6736": "1941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87507,
+                    49.29338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Lipovky u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Deštná",
+                "P6736": "1946"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89584,
+                    49.28299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně Lipovky",
+                "P31": "Kaplička",
+                "P131^label:cs": "Deštná",
+                "P6736": "1943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88957,
+                    49.28524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Lipovky u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Deštná",
+                "P6736": "1945"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89467,
+                    49.28393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Lipovky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Deštná",
+                "P6736": "1942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88089,
+                    49.28754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Lipovky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Deštná",
+                "P6736": "1944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89382,
+                    49.28416
+                ]
+            }
+        }
+    ]
+}

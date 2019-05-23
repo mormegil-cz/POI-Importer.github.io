@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí u Němčí",
+                "P31": "Kaplička",
+                "P131^label:cs": "Malečov",
+                "P6736": "17907"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.11848,
+                    50.61584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí k lyžařskému vleku v Pohoří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malečov",
+                "P6736": "17906"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13397,
+                    50.62361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Čeřeništi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malečov",
+                "P6736": "14669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.11644,
+                    50.60236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička pod hřbitovem v Čeřeništi",
+                "P31": "Kaplička",
+                "P131^label:cs": "Malečov",
+                "P6736": "14668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.12107,
+                    50.601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný sloup u silnice do Čeřeniště",
+                "P31": "Sloup",
+                "P131^label:cs": "Malečov",
+                "P6736": "14667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13132,
+                    50.60162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Maří Magdaleny v lese u Tašova",
+                "P31": "Kaple",
+                "P131^label:cs": "Tašov",
+                "P6736": "14666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14233,
+                    50.61017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na návsi v Tašově",
+                "P31": "Pomník",
+                "P131^label:cs": "Tašov",
+                "P6736": "14665"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1349,
+                    50.61458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Tašově",
+                "P31": "Kaple",
+                "P131^label:cs": "Tašov",
+                "P6736": "14664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13415,
+                    50.61452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Tašově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Tašov",
+                "P6736": "9082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13489,
+                    50.61459
+                ]
+            }
+        }
+    ]
+}

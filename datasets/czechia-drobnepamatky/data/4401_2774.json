@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u Stebna",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Kryry",
+                "P6736": "17423"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42729,
+                    50.11764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Stebna",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kryry",
+                "P6736": "17422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42716,
+                    50.11731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severozápadně od Krt",
+                "P31": "Boží muka",
+                "P131^label:cs": "Krty",
+                "P6736": "8136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42496,
+                    50.0964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Prokopa v Krtech",
+                "P31": "Socha",
+                "P131^label:cs": "Krty",
+                "P6736": "8134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43189,
+                    50.09242
+                ]
+            }
+        }
+    ]
+}

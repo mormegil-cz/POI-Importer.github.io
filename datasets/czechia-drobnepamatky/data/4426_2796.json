@@ -1,0 +1,485 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pranýř v Jistebnici",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52639,
+                    49.48552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna se sochou svatého Jana Nepomuckého v Jistebnici",
+                "P31": "Kašna",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52739,
+                    49.48572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jistebnici na náměstí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7787"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52738,
+                    49.48597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Jistebnici v Táborské ulici",
+                "P31": "Kaplička",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7786"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53203,
+                    49.4834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hůrce",
+                "P31": "Kaple",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54327,
+                    49.46981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple jihozápadně od Jistebnice",
+                "P31": "Kaple",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51837,
+                    49.47797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Zvěstoníně",
+                "P31": "Zvonička",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "6744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50478,
+                    49.48793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Zvěstonína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "2885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50559,
+                    49.48796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - úvodní zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1665"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52303,
+                    49.48325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 13. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51881,
+                    49.47787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 12. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51924,
+                    49.47792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 11. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51957,
+                    49.47791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 10. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52047,
+                    49.47786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice -14. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51849,
+                    49.47781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 9. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51991,
+                    49.47785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 8. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52095,
+                    49.47858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 7. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52179,
+                    49.47977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 6. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52211,
+                    49.48056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 5. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52255,
+                    49.48173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 4. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52254,
+                    49.48201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 3. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52273,
+                    49.48242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 2. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1660"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52283,
+                    49.48267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křížové cestě u Jistebnice - 1. zastavení",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1658"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52287,
+                    49.48301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříže u kostela Máří Magdaleny nad Jistebnicí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51878,
+                    49.4779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Jistebnice u zaniklé cesty",
+                "P31": "Boží muka",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51914,
+                    49.48214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Jistebnice nedaleko rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1659"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51645,
+                    49.48913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Jistebnice u zaniklé cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51818,
+                    49.48132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka východně od Jistebnice",
+                "P31": "Boží muka",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53386,
+                    49.4826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička nad Jistebnicí v polích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5432,
+                    49.47784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Jistebnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1657"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51922,
+                    49.48706
+                ]
+            }
+        }
+    ]
+}

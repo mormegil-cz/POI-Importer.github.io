@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horce nad Moravou na ulici Míru u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horka nad Moravou",
+                "P6736": "17015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22161,
+                    49.64204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Josefa v Horce nad Moravou na ulici Míru",
+                "P31": "Kaple",
+                "P131^label:cs": "Horka nad Moravou",
+                "P6736": "16798"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22163,
+                    49.64204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Skrbně vedle polní cesty",
+                "P31": "Boží muka",
+                "P131^label:cs": "Skrbeň",
+                "P6736": "15715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18523,
+                    49.64015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Skrbně na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Skrbeň",
+                "P6736": "15714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18354,
+                    49.64174
+                ]
+            }
+        }
+    ]
+}

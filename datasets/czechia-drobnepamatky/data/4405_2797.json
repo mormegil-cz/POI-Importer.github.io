@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kramolíně",
+                "P31": "Kaple",
+                "P131^label:cs": "Kramolín",
+                "P6736": "9985"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57996,
+                    49.44806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Kramolíně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kramolín",
+                "P6736": "9984"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57996,
+                    49.4481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kramolíně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kramolín",
+                "P6736": "9983"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57996,
+                    49.44815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Kozlovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kramolín",
+                "P6736": "9982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5806,
+                    49.45751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Kramolína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kramolín",
+                "P6736": "9981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5824,
+                    49.44814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Maňovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mileč",
+                "P6736": "9980"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60144,
+                    49.45195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Maňovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Mileč",
+                "P6736": "9979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6002,
+                    49.45272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Maňovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Mileč",
+                "P6736": "9978"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60019,
+                    49.45285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Maňovicích na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mileč",
+                "P6736": "9977"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60027,
+                    49.45294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Maňovic u zemědělského areálu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mileč",
+                "P6736": "9976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59778,
+                    49.45486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Maňovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mileč",
+                "P6736": "9975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59457,
+                    49.45785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kozlovicích na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kozlovice",
+                "P6736": "9974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58363,
+                    49.46453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kozlovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kozlovice",
+                "P6736": "9973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5838,
+                    49.46423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kozlovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Kozlovice",
+                "P6736": "9972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58371,
+                    49.46424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Záhoří",
+                "P31": "Kaple",
+                "P131^label:cs": "Mileč",
+                "P6736": "5973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61738,
+                    49.46104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Záhoří u Maňovského rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mileč",
+                "P6736": "5972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60964,
+                    49.45682
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Adamově za kostelem svaté Barbory",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Adamov",
+                "P6736": "14357"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65533,
+                    49.30063
+                ]
+            }
+        }
+    ]
+}

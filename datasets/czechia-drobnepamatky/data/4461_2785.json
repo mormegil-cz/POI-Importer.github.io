@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v České Rybné západní okraj obce",
+                "P31": "Socha",
+                "P131^label:cs": "Proseč",
+                "P6736": "23969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0666,
+                    49.80078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v České Rybné",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Proseč",
+                "P6736": "23968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0722,
+                    49.80068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Miřetíně ve středu obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Proseč",
+                "P6736": "23526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05277,
+                    49.80769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Lawrence Saywela v Miřetíně severní okraj obce",
+                "P31": "Pomník",
+                "P131^label:cs": "Proseč",
+                "P6736": "22938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05006,
+                    49.80794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Miřetíně",
+                "P31": "Zvonička",
+                "P131^label:cs": "Proseč",
+                "P6736": "21987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05185,
+                    49.80731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v České Rybné ve středu obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Proseč",
+                "P6736": "21887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07444,
+                    49.79957
+                ]
+            }
+        }
+    ]
+}

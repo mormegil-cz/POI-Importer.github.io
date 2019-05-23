@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Kryštofa v Dolech",
+                "P31": "Socha",
+                "P131^label:cs": "Luže",
+                "P6736": "21706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05358,
+                    49.87095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice Na Pokloně poblíž Střemošice",
+                "P31": "Sloup",
+                "P131^label:cs": "Střemošice",
+                "P6736": "9269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07288,
+                    49.89451
+                ]
+            }
+        }
+    ]
+}

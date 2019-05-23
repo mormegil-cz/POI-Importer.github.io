@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Krouského na náměstí v Katusicích",
+                "P31": "Památník",
+                "P131^label:cs": "Katusice",
+                "P6736": "21652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.77808,
+                    50.44621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na křižovatce silnic v Katusicích",
+                "P31": "Boží muka",
+                "P131^label:cs": "Katusice",
+                "P6736": "21651"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7766,
+                    50.44437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. sv. válce ve stěně kostela Nanebevzetí Panny Marie na náměstí v Katusicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Katusice",
+                "P6736": "21650"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.77922,
+                    50.44629
+                ]
+            }
+        }
+    ]
+}

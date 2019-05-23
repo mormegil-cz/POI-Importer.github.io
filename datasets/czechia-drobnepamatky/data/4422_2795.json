@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Březí",
+                "P31": "Kaplička",
+                "P131^label:cs": "Zhoř",
+                "P6736": "7794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35587,
+                    49.49898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Březí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zhoř",
+                "P6736": "7791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35856,
+                    49.49993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Březí",
+                "P31": "Kaple",
+                "P131^label:cs": "Zhoř",
+                "P6736": "7792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35852,
+                    49.49991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Hněvanic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chyšky",
+                "P6736": "1273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3585,
+                    49.51715
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Země na Chodově",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "14295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49271,
+                    50.02478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Zeměkoule na Chodově",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "14294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49186,
+                    50.02507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Kalvárie v Kunraticích",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "14223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47565,
+                    50.01192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Svobody na Chodově",
+                "P31": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "9051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49735,
+                    50.03532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 1. světové války v Kunraticích",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "9024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48346,
+                    50.01331
+                ]
+            }
+        }
+    ]
+}

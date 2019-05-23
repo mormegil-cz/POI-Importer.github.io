@@ -1,0 +1,373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Horosedlích",
+                "P31": "Socha",
+                "P131^label:cs": "Horosedly",
+                "P6736": "10522"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05172,
+                    49.51194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Horosedel",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horosedly",
+                "P6736": "10521"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04992,
+                    49.51107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlých v Horosedlech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horosedly",
+                "P6736": "10520"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05363,
+                    49.51348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Horosedel",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horosedly",
+                "P6736": "10519"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0507,
+                    49.51584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník pozemkové reformy u Mirovic",
+                "P31": "Památník",
+                "P131^label:cs": "Horosedly",
+                "P6736": "10518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0455,
+                    49.51521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mirovicích u budovy Husova sboru",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04422,
+                    49.51536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Mirovic",
+                "P31": "Kaple",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03905,
+                    49.51839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mirovicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03873,
+                    49.51796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mirovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03735,
+                    49.5159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Mirovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10513"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03339,
+                    49.51522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník před kostelem v Mirovicích",
+                "P31": "Památník",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03359,
+                    49.51519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mirovicích před kostelem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03374,
+                    49.51517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Mirovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03391,
+                    49.5151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Mirovicích",
+                "P31": "Sloup",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03645,
+                    49.51594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mirovicích u Táborské ulice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03053,
+                    49.51248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mirovicích v Nádražní ulici u Kuchařova Mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03842,
+                    49.50883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Mirovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02526,
+                    49.51365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Plíškovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02008,
+                    49.51504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Horosedlích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Horosedly",
+                "P6736": "10495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05329,
+                    49.51396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka východně od Mirovic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Horosedly",
+                "P6736": "8009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04561,
+                    49.51489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Horosedel",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horosedly",
+                "P6736": "8002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05779,
+                    49.51705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Plíškovicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Mirovice",
+                "P6736": "7927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01934,
+                    49.51548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Horosedlích",
+                "P31": "Kaple",
+                "P131^label:cs": "Horosedly",
+                "P6736": "7926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05202,
+                    49.51424
+                ]
+            }
+        }
+    ]
+}

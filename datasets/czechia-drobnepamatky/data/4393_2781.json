@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Pláně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ostrov u Bezdružic",
+                "P6736": "8825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0698,
+                    49.90095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Budči na návsi u nádrže",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "8824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09339,
+                    49.90186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Krsů",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krsy",
+                "P6736": "5689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06802,
+                    49.92212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Vodárna u Blažimi",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Blažim",
+                "P6736": "5639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05324,
+                    49.91566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Nejsvětější Trojice v Pláni",
+                "P31": "Socha",
+                "P131^label:cs": "Ostrov u Bezdružic",
+                "P6736": "4721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07802,
+                    49.90694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Pláně",
+                "P31": "Boží muka",
+                "P131^label:cs": "Ostrov u Bezdružic",
+                "P6736": "4720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07962,
+                    49.90683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Budeči u zatáčky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "4719"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09218,
+                    49.90165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ve Štipoklasech",
+                "P31": "Socha",
+                "P131^label:cs": "Úněšov",
+                "P6736": "3471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09368,
+                    49.91471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Krsů",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krsy",
+                "P6736": "1831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06964,
+                    49.9226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u východně od Budeče",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "1295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09335,
+                    49.90165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Blažimi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blažim",
+                "P6736": "1244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0535,
+                    49.92094
+                ]
+            }
+        }
+    ]
+}

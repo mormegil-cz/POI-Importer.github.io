@@ -1,0 +1,453 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u farmy zvané Peklo severně od Pelhřimova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "23792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20711,
+                    49.44665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na zahradě u čp.31 v Krasíkovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "23560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22774,
+                    49.46114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Hodějovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20618,
+                    49.46482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hodějovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20625,
+                    49.46479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u samoty U Švejdů severně od zemědělského statku Peklo",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21209,
+                    49.45203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u samoty U Švejdů severně od zemědělského statku Peklo",
+                "P31": "Kaplička",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20587"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21175,
+                    49.45223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice mezi Kojčicemi a Krasíkovicemi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24553,
+                    49.46731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Krasíkovic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "19892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21977,
+                    49.45987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Radětína u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2254,
+                    49.45121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Poříčského Dvora mezi Kojčicemi a Krasíkovicemi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23892,
+                    49.46264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník vedle hlavní silnice mezi Humpolcem a Pelhřimovem u Hamru",
+                "P31": "Pomník",
+                "P131^label:cs": "Olešná",
+                "P6736": "18918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24027,
+                    49.45331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Tichého Mlýna v Radětíně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18860"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23003,
+                    49.44917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Radětína na mezi u polní cesty do Pelhřimova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22648,
+                    49.4495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Radětínského rybníka u cesty do Radětína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22564,
+                    49.44759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Krasíkovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "18833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22873,
+                    49.46166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Krasíkovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "18831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22882,
+                    49.46165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zemědělského družstva na západním okraji Krasíkovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "18830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22672,
+                    49.46227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž poblíž Krasíkovického rybníka u Krasíkovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "18828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22399,
+                    49.46619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním okraji Krasíkovic u cesty do Radětína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "18818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22864,
+                    49.45998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na kopci Vrcha mezí Radětínem a Krasíkovicemi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22792,
+                    49.45629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Radětíně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22682,
+                    49.45217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Radětíně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22684,
+                    49.45225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Radětíně",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22684,
+                    49.45221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u rybníka v Krasíkovicích",
+                "P31": "Boží muka",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "18696"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23082,
+                    49.4614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jižní části Krasíkovic u čp.18",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "18695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22816,
+                    49.46054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hotelu Farma u Služátek",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24726,
+                    49.45913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž v zahrádkářské kolonii U Hamru",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "11108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23203,
+                    49.44467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny severovýchodně od Pelhřimova",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23536,
+                    49.44337
+                ]
+            }
+        }
+    ]
+}

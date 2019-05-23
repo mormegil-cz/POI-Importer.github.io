@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie Immaculaty v Hynčině",
+                "P31": "Socha",
+                "P131^label:cs": "Hynčina",
+                "P6736": "13154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78156,
+                    49.85159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Hynčiny vedle polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hynčina",
+                "P6736": "13119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77557,
+                    49.85615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Hynčiny vedle polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hynčina",
+                "P6736": "13118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77637,
+                    49.857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Hynčiny vedle polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hynčina",
+                "P6736": "13117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78609,
+                    49.85557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hynčině ve stráni nad silnicí",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hynčina",
+                "P6736": "13110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78018,
+                    49.8513
+                ]
+            }
+        }
+    ]
+}

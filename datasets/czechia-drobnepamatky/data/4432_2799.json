@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska na rodném domě sochaře Františka Bílka v Chýnově",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Chýnov",
+                "P6736": "19498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80637,
+                    49.40305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Chýnově u mostu",
+                "P31": "Kaplička",
+                "P131^label:cs": "Chýnov",
+                "P6736": "7999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80839,
+                    49.4038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nové Vsi u Chýnova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nová Ves u Chýnova",
+                "P6736": "7258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78558,
+                    49.39264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Nové Vsi u Chýnova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Nová Ves u Chýnova",
+                "P6736": "7257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78576,
+                    49.39232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Nové Vsi u Chýnova",
+                "P31": "Kaple",
+                "P131^label:cs": "Nová Ves u Chýnova",
+                "P6736": "7256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78366,
+                    49.39209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chýnově v Turovecké ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chýnov",
+                "P6736": "6671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80474,
+                    49.40146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u křižovatky v Chýnově",
+                "P31": "Kašna",
+                "P131^label:cs": "Chýnov",
+                "P6736": "6670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80688,
+                    49.40266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky v Chýnově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chýnov",
+                "P6736": "6669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80714,
+                    49.40266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jihovýchodně od Nové Vsi u Chýnova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Nová Ves u Chýnova",
+                "P6736": "5857"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79016,
+                    49.39019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chýnova v lese",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nová Ves u Chýnova",
+                "P6736": "2188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.77088,
+                    49.40578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chýnova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nová Ves u Chýnova",
+                "P6736": "2187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.78868,
+                    49.40518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Chýnova u továrny",
+                "P31": "Kaplička",
+                "P131^label:cs": "Chýnov",
+                "P6736": "1643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80053,
+                    49.40394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chýnova v poli",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chýnov",
+                "P6736": "1645"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80053,
+                    49.40721
+                ]
+            }
+        }
+    ]
+}

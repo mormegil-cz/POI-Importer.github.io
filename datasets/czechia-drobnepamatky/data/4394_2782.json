@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Číhané u plotu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "10126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12727,
+                    49.89391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Skupče u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pernarec",
+                "P6736": "10125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10977,
+                    49.87311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Číhané",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Úněšov",
+                "P6736": "8823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12321,
+                    49.89383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Něšova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pernarec",
+                "P6736": "8821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10939,
+                    49.87972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Miru ve Skupči",
+                "P31": "Památník",
+                "P131^label:cs": "Pernarec",
+                "P6736": "8820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11015,
+                    49.87227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž za kostelem v Číhané",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "5673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12252,
+                    49.89427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Hvožďanech u návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "5672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12296,
+                    49.8718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Hvožďan u cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "4819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12459,
+                    49.87905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Hvožďan u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "4818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12092,
+                    49.87294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Hvožďan u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "4817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1234,
+                    49.87227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Číhané u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "4810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12307,
+                    49.89386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Číhané",
+                "P31": "Socha",
+                "P131^label:cs": "Úněšov",
+                "P6736": "4717"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12276,
+                    49.89387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Skupči",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pernarec",
+                "P6736": "3991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11038,
+                    49.87194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší v Číhané",
+                "P31": "Socha",
+                "P131^label:cs": "Úněšov",
+                "P6736": "3990"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12365,
+                    49.89354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Číhané na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Úněšov",
+                "P6736": "3989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12788,
+                    49.89378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Něšova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pernarec",
+                "P6736": "2160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10544,
+                    49.88395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Něšova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pernarec",
+                "P6736": "2161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10684,
+                    49.88369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty východně od Něšova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pernarec",
+                "P6736": "2158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11253,
+                    49.88561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí severně nad Něšovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pernarec",
+                "P6736": "2159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1071,
+                    49.88461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Číhané u lesíka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "1611"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12543,
+                    49.88618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Číhané",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "1354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11628,
+                    49.89381
+                ]
+            }
+        }
+    ]
+}

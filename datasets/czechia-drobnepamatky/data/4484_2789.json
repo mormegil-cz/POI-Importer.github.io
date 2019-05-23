@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nasobůrkách na křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Litovel",
+                "P6736": "23014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06282,
+                    49.68893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Neposkvrněného početí Panny Marie v Nasobůrkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Litovel",
+                "P6736": "23013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05947,
+                    49.68834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Litovli na okraji části Nasobůrky",
+                "P31": "Boží muka",
+                "P131^label:cs": "Litovel",
+                "P6736": "22918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06405,
+                    49.68818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Chořelic v poli",
+                "P31": "Boží muka",
+                "P131^label:cs": "Litovel",
+                "P6736": "22916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.07774,
+                    49.67731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Floriána v Chořelicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Litovel",
+                "P6736": "17028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.07951,
+                    49.69104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chořelicích u kaple svatého Floriána",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Litovel",
+                "P6736": "17012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.07941,
+                    49.69101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž u Rozvadovic vedle cyklostezky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Litovel",
+                "P6736": "16995"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.08865,
+                    49.68151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Rozvadovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Litovel",
+                "P6736": "16217"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.09426,
+                    49.67955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Chořelicích u hřbitova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Litovel",
+                "P6736": "16101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0778,
+                    49.68251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Litovli v Palackého ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Litovel",
+                "P6736": "13263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.07417,
+                    49.69587
+                ]
+            }
+        }
+    ]
+}

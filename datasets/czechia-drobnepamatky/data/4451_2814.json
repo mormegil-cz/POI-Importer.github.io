@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Police",
+                "P31": "Kaplička",
+                "P131^label:cs": "Police",
+                "P6736": "20237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.62321,
+                    48.97174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Jiratic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jiratice",
+                "P6736": "20236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61526,
+                    48.97977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Kostníkách jižní okraj obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kostníky",
+                "P6736": "20160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.63412,
+                    48.97328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kostníkách u kostela narození Panny Marie",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostníky",
+                "P6736": "20159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.635,
+                    48.97328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Police",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Police",
+                "P6736": "20123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60963,
+                    48.96142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Police",
+                "P31": "Kaplička",
+                "P131^label:cs": "Police",
+                "P6736": "20122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61518,
+                    48.96307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce v Polici",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Police",
+                "P6736": "19812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.62406,
+                    48.96776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kostník u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostníky",
+                "P6736": "19607"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.64021,
+                    48.97821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kostníkách severní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostníky",
+                "P6736": "19573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.63805,
+                    48.97732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Kostníkách severní okraj obce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kostníky",
+                "P6736": "19572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.63812,
+                    48.97737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kostníkách severovýchodní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostníky",
+                "P6736": "19571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.64098,
+                    48.97591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Kostník",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostníky",
+                "P6736": "19570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.63298,
+                    48.97112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Františka Xaverského v Polici",
+                "P31": "Socha",
+                "P131^label:cs": "Police",
+                "P6736": "19569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.62716,
+                    48.96685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Polici střed obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Police",
+                "P6736": "19562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.63037,
+                    48.96579
+                ]
+            }
+        }
+    ]
+}

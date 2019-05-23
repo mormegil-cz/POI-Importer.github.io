@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z 1. světové války v Kalku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kalek",
+                "P6736": "9060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32549,
+                    50.57558
+                ]
+            }
+        }
+    ]
+}

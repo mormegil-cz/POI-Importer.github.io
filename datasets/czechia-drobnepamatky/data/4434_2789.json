@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloupová výklenková kaplička jižně od Vlašimi při silnici do Kondrace",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vlašim",
+                "P6736": "23280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8939,
+                    49.68913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční hodiny u lidové hvězdárny při silnici jižně od Vlašimi",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Vlašim",
+                "P6736": "23279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89425,
+                    49.69197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kondrace",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "6784"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88456,
+                    49.67263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi třemi stromy u polní cesty nad Kondrací",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "1759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89491,
+                    49.66809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Kondrací v ohradnících",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "1760"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88983,
+                    49.66782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty nad Kondrací",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "1758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8946,
+                    49.67136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u stromů v poli u Kondrace",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "1757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88089,
+                    49.67096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Ovčin",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "1484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87134,
+                    49.69082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Dubu u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "1482"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87477,
+                    49.67473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Dubu u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "1481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87027,
+                    49.67577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Dubu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "1480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86858,
+                    49.6795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Ovčin",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "1483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87436,
+                    49.69326
+                ]
+            }
+        }
+    ]
+}

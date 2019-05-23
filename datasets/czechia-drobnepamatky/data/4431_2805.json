@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice u Doňova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Doňov",
+                "P6736": "1437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76172,
+                    49.21624
+                ]
+            }
+        }
+    ]
+}

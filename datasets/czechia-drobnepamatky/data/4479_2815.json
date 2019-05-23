@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u místní cesty východně od vinařských sklípků v Bořeticích",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bořetice",
+                "P6736": "25298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85389,
+                    48.92373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Výklenková kaplička u rozhledny Kraví hora severně od Bořetic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bořetice",
+                "P6736": "25296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84697,
+                    48.92868
+                ]
+            }
+        }
+    ]
+}

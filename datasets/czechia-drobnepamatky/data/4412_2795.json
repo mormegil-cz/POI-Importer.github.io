@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana severovýchodně od Bělčic",
+                "P31": "Socha",
+                "P131^label:cs": "Koupě",
+                "P6736": "8464"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89795,
+                    49.51091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na památné lípě západně od Podruhlí",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8462"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90232,
+                    49.49831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u památné lípy západně od Podruhlí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90243,
+                    49.49823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Podruhlí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90729,
+                    49.4968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Podruhlí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91396,
+                    49.49855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Na Hůrce v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8444"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92303,
+                    49.49869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Koupě u rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koupě",
+                "P6736": "8442"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92506,
+                    49.5076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Koupi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Koupě",
+                "P6736": "8441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91863,
+                    49.51417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Koupě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koupě",
+                "P6736": "8440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9284,
+                    49.51356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Koupě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koupě",
+                "P6736": "8439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92056,
+                    49.51873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Koupi",
+                "P31": "Kaple",
+                "P131^label:cs": "Koupě",
+                "P6736": "8438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91859,
+                    49.5142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Koupě u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koupě",
+                "P6736": "8437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90973,
+                    49.518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce v Koupi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koupě",
+                "P6736": "8436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91726,
+                    49.5153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Slavětíně u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hudčice",
+                "P6736": "8433"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89188,
+                    49.52443
+                ]
+            }
+        }
+    ]
+}

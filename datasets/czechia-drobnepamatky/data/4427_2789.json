@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na nádvoří zámku ve Vrchotových Janovicích",
+                "P31": "Kašna",
+                "P131^label:cs": "Vrchotovy Janovice",
+                "P6736": "25561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57825,
+                    49.6685
+                ]
+            }
+        }
+    ]
+}

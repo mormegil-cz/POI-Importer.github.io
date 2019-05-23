@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na Šibeniční hoře severozápadně od Svaté Maří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svatá Maří",
+                "P6736": "18132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83816,
+                    49.0692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Štítkovském Brdě u domu",
+                "P31": "Kaplička",
+                "P131^label:cs": "Svatá Maří",
+                "P6736": "18131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83924,
+                    49.07317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Bošic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bošice",
+                "P6736": "17470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83393,
+                    49.092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bohumilické aleji východně od Bohumilic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bohumilice",
+                "P6736": "17468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82548,
+                    49.09441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi ve Štítkově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svatá Maří",
+                "P6736": "16852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83043,
+                    49.07241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Návesní kaple svatého Pavla ve Štítkově",
+                "P31": "Kaple",
+                "P131^label:cs": "Svatá Maří",
+                "P6736": "16845"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83039,
+                    49.07253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Štítkově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Svatá Maří",
+                "P6736": "16844"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83036,
+                    49.07251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Štítkovském Brdě jihovýchodně od Štítkova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svatá Maří",
+                "P6736": "16603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84146,
+                    49.0717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u památné lípy jižně od Záhoří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bošice",
+                "P6736": "16025"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83404,
+                    49.07826
+                ]
+            }
+        }
+    ]
+}

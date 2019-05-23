@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Barbory na mostě v Dobřívě",
+                "P31": "Socha",
+                "P131^label:cs": "Dobřív",
+                "P6736": "7159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68733,
+                    49.71665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Dobřívě",
+                "P31": "Socha",
+                "P131^label:cs": "Dobřív",
+                "P6736": "7158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68762,
+                    49.71658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v Dobřívě",
+                "P31": "Pomník",
+                "P131^label:cs": "Dobřív",
+                "P6736": "7157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6861,
+                    49.71562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Dobříva u okraje hřbitova",
+                "P31": "Kaple",
+                "P131^label:cs": "Dobřív",
+                "P6736": "7155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68013,
+                    49.71763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Dobříva",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobřív",
+                "P6736": "7156"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68023,
+                    49.71745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Dobříva",
+                "P31": "Kaple",
+                "P131^label:cs": "Dobřív",
+                "P6736": "7154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68043,
+                    49.71716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Dobříva",
+                "P31": "Kaplička",
+                "P131^label:cs": "Dobřív",
+                "P6736": "7153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68166,
+                    49.71702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Mirošova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobřív",
+                "P6736": "7152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67283,
+                    49.70752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v Dobřívě",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dobřív",
+                "P6736": "3760"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6848,
+                    49.71515
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník lípy bratrství u hranic ve Starém Hrozenkově",
+                "P31": "Pomník",
+                "P131^label:cs": "Starý Hrozenkov",
+                "P6736": "22944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.89666,
+                    48.95224
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u kostela v Petrovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Petrovice",
+                "P6736": "7771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33847,
+                    49.55406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u cesty do Týnčan",
+                "P31": "Kaple",
+                "P131^label:cs": "Petrovice",
+                "P6736": "2694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32872,
+                    49.57751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Týnčan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "2695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33007,
+                    49.5815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kuní u cesty do Týnčan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "2693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32911,
+                    49.57293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka východně od Kuní",
+                "P31": "Boží muka",
+                "P131^label:cs": "Petrovice",
+                "P6736": "2691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32869,
+                    49.57116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kuní",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "2692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32954,
+                    49.57031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Skoupého",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "2503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35213,
+                    49.57902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Skoupého",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "2502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3424,
+                    49.579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Petrovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "2296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33413,
+                    49.55716
+                ]
+            }
+        }
+    ]
+}

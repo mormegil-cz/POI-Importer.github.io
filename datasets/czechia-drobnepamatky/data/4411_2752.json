@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník zaniklého kostela v zaniklé obci Habartice",
+                "P31": "Pomník",
+                "P131^label:cs": "Krupka",
+                "P6736": "21355"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88058,
+                    50.72219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Napoleonský pomník v místě fary zaniklé obce Habartice",
+                "P31": "Pomník",
+                "P131^label:cs": "Krupka",
+                "P6736": "21354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87973,
+                    50.72188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník zaniklé obce Habartice",
+                "P31": "Pomník",
+                "P131^label:cs": "Krupka",
+                "P6736": "21353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87944,
+                    50.72195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž zvaný Goldammerův u cesty z Horní Krupky do Habartic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krupka",
+                "P6736": "21352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86564,
+                    50.71065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlému rudoarmějci severně od Fojtovic",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Krupka",
+                "P6736": "21351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85165,
+                    50.72029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem pochodu smrti severně od Fojtovic",
+                "P31": "Památník",
+                "P131^label:cs": "Krupka",
+                "P6736": "21350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85159,
+                    50.72027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Fojtovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krupka",
+                "P6736": "14317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85679,
+                    50.71605
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Seménkovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "24712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66772,
+                    50.36863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Královny v Seménkovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "24711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66796,
+                    50.36861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Pavla ve výklenku kostela Nanebevzetí v Postoloprtech",
+                "P31": "Socha",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7002,
+                    50.35997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Petra ve výklenku kostela Nanebevzetí v Postoloprtech",
+                "P31": "Socha",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70039,
+                    50.36001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Mírovém náměstí v Postoloprtech",
+                "P31": "Kašna",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70079,
+                    50.36039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup s Pietou na Mírovém náměstí v Postoloprtech",
+                "P31": "Sloup",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21033"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70054,
+                    50.36039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník u plavecké haly v Postoloprtech",
+                "P31": "Pomník",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69681,
+                    50.36041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na hřbitově v Postoloprtech",
+                "P31": "Kaple",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69477,
+                    50.36397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před hřbitovem v Postoloprtech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69557,
+                    50.36283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Václava před hřbitovem v Postoloprtech",
+                "P31": "Sloup",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6948,
+                    50.36258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého před hřbitovem v Postoloprtech",
+                "P31": "Socha",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69533,
+                    50.36273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi ve Rvenicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67963,
+                    50.37227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním okraji Rvenic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68295,
+                    50.36908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Povalený podstavec ulomeného kříže u polní cesty na sever od Postoloprt",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21025"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68672,
+                    50.36747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ulomeného kříže u silnice do Rvenic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6869,
+                    50.36651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Masarykově ulici na západním okraji Postoloprt",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68117,
+                    50.36291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha dělníka v Palackého ulici v Postoloprtech",
+                "P31": "Socha",
+                "P131^label:cs": "Postoloprty",
+                "P6736": "21022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69142,
+                    50.35914
+                ]
+            }
+        }
+    ]
+}

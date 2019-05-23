@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Erb na severní zdi domu v západní části Zhoře",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Krakovec",
+                "P6736": "12997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65826,
+                    50.02437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Mistra Jana Husa jižně od hradu v Krakovci",
+                "P31": "Socha",
+                "P131^label:cs": "Krakovec",
+                "P6736": "12996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6396,
+                    50.0167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen u silnice severně od Krakovce",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Krakovec",
+                "P6736": "12995"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63786,
+                    50.0267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Krakovci",
+                "P31": "Zvonička",
+                "P131^label:cs": "Krakovec",
+                "P6736": "10677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63799,
+                    50.01904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Krakovci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Krakovec",
+                "P6736": "10676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63797,
+                    50.01864
+                ]
+            }
+        }
+    ]
+}

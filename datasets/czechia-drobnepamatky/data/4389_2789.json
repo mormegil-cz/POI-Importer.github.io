@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v lese u Borovanského rybníka",
+                "P31": "Boží muka",
+                "P131^label:cs": "Staré Sedlo",
+                "P6736": "8900"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88776,
+                    49.67685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Borovanského rybníka",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Staré Sedlo",
+                "P6736": "5080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88966,
+                    49.67469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Tuněchodech",
+                "P31": "Kaple",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91984,
+                    49.67514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Tuněchod",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91826,
+                    49.67494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Tuněchod",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "2688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91826,
+                    49.67498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen v lese nad Starým Sedlem u prudkého svahu",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Staré Sedlo",
+                "P6736": "2532"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87865,
+                    49.67304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen v lese nad Starým Sedlem",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Staré Sedlo",
+                "P6736": "2531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89054,
+                    49.67784
+                ]
+            }
+        }
+    ]
+}

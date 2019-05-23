@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny se zvonicí ve Věrovanech",
+                "P31": "Kaple",
+                "P131^label:cs": "Věrovany",
+                "P6736": "15407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2883,
+                    49.46741
+                ]
+            }
+        }
+    ]
+}

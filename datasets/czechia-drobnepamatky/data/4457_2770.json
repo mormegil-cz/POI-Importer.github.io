@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u železniční tratě v ulici Kladská v Hradci Králové",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "17165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.86848,
+                    50.22169
+                ]
+            }
+        }
+    ]
+}

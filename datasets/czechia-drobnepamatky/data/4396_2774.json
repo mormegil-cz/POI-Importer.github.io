@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Protivci",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Žlutice",
+                "P6736": "18013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21552,
+                    50.101
+                ]
+            }
+        }
+    ]
+}

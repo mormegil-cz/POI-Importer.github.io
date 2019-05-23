@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na návsi v Radonicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Radonice",
+                "P6736": "19003"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61168,
+                    50.14223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve středu Dehtár",
+                "P31": "Zvonička",
+                "P131^label:cs": "Jenštejn",
+                "P6736": "16890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63301,
+                    50.14256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Radonicích u Prahy před Obecním domem",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Radonice",
+                "P6736": "15704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61268,
+                    50.14205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na západním okraji Radonic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Radonice",
+                "P6736": "15360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5944,
+                    50.14589
+                ]
+            }
+        }
+    ]
+}

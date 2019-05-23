@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Lestkova u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lestkov",
+                "P6736": "9849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87333,
+                    49.8713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vysokém Jamném",
+                "P31": "Kaple",
+                "P131^label:cs": "Lestkov",
+                "P6736": "6488"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84384,
+                    49.88206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vysokém Jamném",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lestkov",
+                "P6736": "6487"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84477,
+                    49.88241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Vysokého Jamné",
+                "P31": "Kaple",
+                "P131^label:cs": "Lestkov",
+                "P6736": "6486"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85269,
+                    49.88203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Lestkově",
+                "P31": "Památník",
+                "P131^label:cs": "Lestkov",
+                "P6736": "6485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87016,
+                    49.88181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského v Lestkově",
+                "P31": "Socha",
+                "P131^label:cs": "Lestkov",
+                "P6736": "6484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87104,
+                    49.88293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Dominika v Lestkově",
+                "P31": "Socha",
+                "P131^label:cs": "Lestkov",
+                "P6736": "6483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87189,
+                    49.88297
+                ]
+            }
+        }
+    ]
+}

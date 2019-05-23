@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Doubravě",
+                "P31": "Kaple",
+                "P131^label:cs": "Puclice",
+                "P6736": "4435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99335,
+                    49.563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Doubravy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Puclice",
+                "P6736": "4433"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98796,
+                    49.55833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Malém Malahově",
+                "P31": "Kaple",
+                "P131^label:cs": "Puclice",
+                "P6736": "4428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00382,
+                    49.56921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Malém Malahově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Puclice",
+                "P6736": "4427"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00376,
+                    49.57021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně Malého Malahova na svahu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Puclice",
+                "P6736": "3972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00461,
+                    49.5681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Malém Malahově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Puclice",
+                "P6736": "3971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0045,
+                    49.56962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Malého Malahova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Puclice",
+                "P6736": "3970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00694,
+                    49.5705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Malým Malahov u silnice k Doubravě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Puclice",
+                "P6736": "2007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00215,
+                    49.56742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí u nad Malým Malahovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Puclice",
+                "P6736": "2005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99886,
+                    49.57161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Malým Malahovem na kopci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Puclice",
+                "P6736": "2006"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99817,
+                    49.57603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Malým Malahovem a Doubravou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Puclice",
+                "P6736": "1438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99664,
+                    49.56461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v polích za Doubravou u Puclic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Puclice",
+                "P6736": "1440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99564,
+                    49.55996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Doubravy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Puclice",
+                "P6736": "1439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99032,
+                    49.56255
+                ]
+            }
+        }
+    ]
+}

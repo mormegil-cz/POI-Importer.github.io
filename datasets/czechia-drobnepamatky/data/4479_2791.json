@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Kladek na polním rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladky",
+                "P6736": "16211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83844,
+                    49.63668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Panny Marie ve Dzbelu",
+                "P31": "Kaplička",
+                "P131^label:cs": "Dzbel",
+                "P6736": "15660"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85429,
+                    49.61184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Jana Nepomuckého ve Dzbelu na návsi",
+                "P31": "Socha",
+                "P131^label:cs": "Dzbel",
+                "P6736": "15659"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84976,
+                    49.61351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Jesence u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jesenec",
+                "P6736": "15644"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86056,
+                    49.6167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Antonína na okraji Jesence",
+                "P31": "Kaplička",
+                "P131^label:cs": "Jesenec",
+                "P6736": "15643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86146,
+                    49.61164
+                ]
+            }
+        }
+    ]
+}

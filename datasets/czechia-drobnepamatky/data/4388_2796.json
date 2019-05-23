@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým jižně od Otova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Otov",
+                "P6736": "3998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84297,
+                    49.47956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na okraji lesa nad Žďánovem",
+                "P31": "Kaplička",
+                "P131^label:cs": "Ždánov",
+                "P6736": "2859"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86034,
+                    49.46898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Meclovem a Otovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Otov",
+                "P6736": "2266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86363,
+                    49.49313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Otova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Otov",
+                "P6736": "2268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84114,
+                    49.48254
+                ]
+            }
+        }
+    ]
+}

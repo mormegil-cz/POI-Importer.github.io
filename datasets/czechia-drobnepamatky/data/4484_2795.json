@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Petra Bezruče v Kostelci na Hané v Tyršově ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Kostelec na Hané",
+                "P6736": "14072"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05765,
+                    49.51305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Čelechovicích na Hané",
+                "P31": "Kaple",
+                "P131^label:cs": "Čelechovice na Hané",
+                "P6736": "9316"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.09348,
+                    49.51641
+                ]
+            }
+        }
+    ]
+}

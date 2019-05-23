@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek u Líchov",
+                "P31": "Boží muka",
+                "P131^label:cs": "Dublovice",
+                "P6736": "19246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30973,
+                    49.67685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kapli v Líchovech",
+                "P31": "Kaple",
+                "P131^label:cs": "Dublovice",
+                "P6736": "19245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32075,
+                    49.67612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Líchov",
+                "P31": "Kaplička",
+                "P131^label:cs": "Dublovice",
+                "P6736": "19244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32585,
+                    49.67609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na Zrůbku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Svatý Jan",
+                "P6736": "19242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28843,
+                    49.6768
+                ]
+            }
+        }
+    ]
+}

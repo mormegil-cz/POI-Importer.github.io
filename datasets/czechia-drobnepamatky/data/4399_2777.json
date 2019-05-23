@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Hluboké",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žihle",
+                "P6736": "8615"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32358,
+                    50.02655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hluboké na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žihle",
+                "P6736": "4392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32596,
+                    50.02875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Hluboké",
+                "P31": "Zvonička",
+                "P131^label:cs": "Žihle",
+                "P6736": "4391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3251,
+                    50.02897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u Kalce",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Žihle",
+                "P6736": "4390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3279,
+                    50.02092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Velké Černé Hati",
+                "P31": "Socha",
+                "P131^label:cs": "Mladotice",
+                "P6736": "4389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33343,
+                    50.00875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chrášťovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "4232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34914,
+                    50.00777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Chrášťovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "4230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35341,
+                    50.01073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese nad Chráštovicemi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "2945"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34749,
+                    50.01685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji lesa nad Chráštovicemi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "2944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35237,
+                    50.01247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u Chrášťovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "2943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35174,
+                    50.00945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od zámku Kalec u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žihle",
+                "P6736": "1688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32792,
+                    50.02085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Masaryka u Hluboké",
+                "P31": "Památník",
+                "P131^label:cs": "Žihle",
+                "P6736": "1524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32262,
+                    50.03241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Hluboké",
+                "P31": "Kaple",
+                "P131^label:cs": "Žihle",
+                "P6736": "1523"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32312,
+                    50.03186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u pole severně od Velké Černé Hati",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "1326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33102,
+                    50.0125
+                ]
+            }
+        }
+    ]
+}

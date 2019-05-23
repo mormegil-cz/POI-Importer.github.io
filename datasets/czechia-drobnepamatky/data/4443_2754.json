@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší svatých Petra a Pavla a Dobrého pastýře v Bratříkově",
+                "P31": "Socha",
+                "P131^label:cs": "Pěnčín",
+                "P6736": "9276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25447,
+                    50.68007
+                ]
+            }
+        }
+    ]
+}

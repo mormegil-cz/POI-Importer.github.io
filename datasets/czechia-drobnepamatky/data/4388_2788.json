@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého jižně od Holostřev u Havlova Mlýna",
+                "P31": "Socha",
+                "P131^label:cs": "Bor",
+                "P6736": "9829"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85866,
+                    49.71068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěná socha jižně od Holostřev u Havlova Mlýna",
+                "P31": "Socha",
+                "P131^label:cs": "Bor",
+                "P6736": "9828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85881,
+                    49.71069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Holostřevech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bor",
+                "P6736": "9827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85996,
+                    49.72015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Holostřev",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9826"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8596,
+                    49.71685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Holostřevech na návsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Bor",
+                "P6736": "9825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85948,
+                    49.7205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Kosova nad Dolským mlýnem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84506,
+                    49.71144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Kosova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83301,
+                    49.70386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Kosova západně od rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8324,
+                    49.6978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Kosova východně od rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83273,
+                    49.69771
+                ]
+            }
+        }
+    ]
+}

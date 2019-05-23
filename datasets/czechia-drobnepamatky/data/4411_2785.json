@@ -1,0 +1,453 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Hvozdci",
+                "P31": "Kaple",
+                "P131^label:cs": "Hvozdec",
+                "P6736": "14266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87872,
+                    49.8092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Hvozdci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hvozdec",
+                "P6736": "14265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87874,
+                    49.80922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Hvozdci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hvozdec",
+                "P6736": "14264"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87896,
+                    49.80714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Hvozdcem a Mrtníkem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hvozdec",
+                "P6736": "14263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87518,
+                    49.80292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka pod kostelem v Mrtníku",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hvozdec",
+                "P6736": "14219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8745,
+                    49.80056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na hřbitově v Mrtníku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hvozdec",
+                "P6736": "14200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87317,
+                    49.80037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž před kostelem v Mrtníku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hvozdec",
+                "P6736": "14197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87264,
+                    49.80029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Litinový kříž před kostelem v Mrtníku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hvozdec",
+                "P6736": "14196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87268,
+                    49.80043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Neřežíně",
+                "P31": "Kaple",
+                "P131^label:cs": "Chaloupky",
+                "P6736": "14060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8832,
+                    49.7862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Neřežíně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chaloupky",
+                "P6736": "14059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88313,
+                    49.78622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 2. svět. války na Chaloupkách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chaloupky",
+                "P6736": "14058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8721,
+                    49.7911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. svět. válce na Chaloupkách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chaloupky",
+                "P6736": "14057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86819,
+                    49.79224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž vedle pomníku padlým na Kleštěnici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Komárov",
+                "P6736": "14056"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85079,
+                    49.79255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. svět. válce z Kleštěnice",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Komárov",
+                "P6736": "14055"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85081,
+                    49.79258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Litinová socha 'Snění' v Komárově",
+                "P31": "Socha",
+                "P131^label:cs": "Komárov",
+                "P6736": "14054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85834,
+                    49.8058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Litinový zahradní stůl v Komárově",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Komárov",
+                "P6736": "14053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85835,
+                    49.80574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Litinová socha 'Chlapec s rybou' v Komárově",
+                "P31": "Socha",
+                "P131^label:cs": "Komárov",
+                "P6736": "14052"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8584,
+                    49.8057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha 'Síla' před sokolovnou v Komárově",
+                "P31": "Socha",
+                "P131^label:cs": "Komárov",
+                "P6736": "14051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85961,
+                    49.80393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha 'Svornost' před sokolovnou v Komárově",
+                "P31": "Socha",
+                "P131^label:cs": "Komárov",
+                "P6736": "14050"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85957,
+                    49.80389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Litinový kříž u křižovatky před sokolovnou v Komárově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Komárov",
+                "P6736": "14049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85933,
+                    49.80411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska na portálu starého komárovského zámku",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Komárov",
+                "P6736": "14048"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85813,
+                    49.80567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Dr. Miroslava Tyrše v Komárově",
+                "P31": "Památník",
+                "P131^label:cs": "Komárov",
+                "P6736": "14047"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85814,
+                    49.80552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Komárově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Komárov",
+                "P6736": "14046"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85732,
+                    49.80528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Litinová váza v Komárově",
+                "P31": "Plastika",
+                "P131^label:cs": "Komárov",
+                "P6736": "14045"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85679,
+                    49.80658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní sloup Jubilejní zemské výstavy v Praze r. 1891",
+                "P31": "Sloup",
+                "P131^label:cs": "Komárov",
+                "P6736": "13782"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85697,
+                    49.80668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na náměstí Míru v Komárově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Komárov",
+                "P6736": "13781"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85779,
+                    49.8065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u křižovatky v Komárově",
+                "P31": "Boží muka",
+                "P131^label:cs": "Komárov",
+                "P6736": "13737"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85768,
+                    49.80817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Komárově",
+                "P31": "Kaple",
+                "P131^label:cs": "Komárov",
+                "P6736": "6969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85735,
+                    49.80527
+                ]
+            }
+        }
+    ]
+}

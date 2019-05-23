@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Pečetíně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5466"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40351,
+                    49.41841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Pečetíně",
+                "P31": "Zvonička",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5465"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40483,
+                    49.41906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek východně od Pečetína",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5464"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40918,
+                    49.42126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně od Pečetína",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5463"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40902,
+                    49.42123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Třebíšova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40658,
+                    49.43202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Pečetína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5462"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4057,
+                    49.42043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Třebíšova u rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40915,
+                    49.4356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Třebíšova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41624,
+                    49.43483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Třebíšově",
+                "P31": "Zvonička",
+                "P131^label:cs": "Předslav",
+                "P6736": "5458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41026,
+                    49.43275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Třebíšově u zvoničky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5457"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41029,
+                    49.43275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Třebíšova u cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41201,
+                    49.42886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hůrce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5455"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4215,
+                    49.42793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Němčic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43236,
+                    49.43159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Němčicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Předslav",
+                "P6736": "5453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4276,
+                    49.43501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Němčicích",
+                "P31": "Socha",
+                "P131^label:cs": "Předslav",
+                "P6736": "5452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42706,
+                    49.43503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka západně od Němčic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Předslav",
+                "P6736": "5450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41841,
+                    49.43842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Němčicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42577,
+                    49.43534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Němčic",
+                "P31": "Kaple",
+                "P131^label:cs": "Předslav",
+                "P6736": "5449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42432,
+                    49.43598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Němčic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5448"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42333,
+                    49.43737
+                ]
+            }
+        }
+    ]
+}

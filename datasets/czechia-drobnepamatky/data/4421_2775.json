@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Centrální kříž na hřbitově v Praze-Ruzyni",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "20889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30957,
+                    50.07692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Rocha v Praze, ul. Karlovarská",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "17832"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32195,
+                    50.07587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Šebestiána v Praze, ul. Karlovarská",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "17831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32184,
+                    50.07587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "8. kaple Hájecké cesty v Praze",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "17796"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32067,
+                    50.07586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. svět. válce v Praze 6, ul. Drnovská",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "17749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31031,
+                    50.08152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na Starém náměstí v Praze 6",
+                "P31": "Kaplička",
+                "P131^label:cs": "Praha",
+                "P6736": "17748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31101,
+                    50.08197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mohyla Bitvy na Bílé Hoře v Praze",
+                "P31": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "16672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31926,
+                    50.07826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hřbitovní kaple Svatého Lazara v Ruzyni",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "13583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30927,
+                    50.07698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha před pohřebním ústavem u Plzeňské ulice v Praze",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "11148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32554,
+                    50.06525
+                ]
+            }
+        }
+    ]
+}

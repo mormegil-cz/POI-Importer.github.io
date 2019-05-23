@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice u zámku Vranov nad Dyjí",
+                "P31": "Kaple",
+                "P131^label:cs": "Vranov nad Dyjí",
+                "P6736": "23492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81073,
+                    48.89297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy na nádvoří zámku Vranov nad Dyjí",
+                "P31": "Socha",
+                "P131^label:cs": "Vranov nad Dyjí",
+                "P6736": "23491"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8116,
+                    48.89262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na nádvoří zámku Vranov nad Dyjí",
+                "P31": "Kašna",
+                "P131^label:cs": "Vranov nad Dyjí",
+                "P6736": "23490"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81131,
+                    48.89259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Podmyčích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Podmyče",
+                "P6736": "20262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.78256,
+                    48.88753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Podmyčích u hřbitova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Podmyče",
+                "P6736": "19857"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.78565,
+                    48.88298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Vranova nad Dyjí",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vranov nad Dyjí",
+                "P6736": "19856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7982,
+                    48.89325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Felicitiny studánky ve Vranově nad Dyjí",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vranov nad Dyjí",
+                "P6736": "13454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8041,
+                    48.89087
+                ]
+            }
+        }
+    ]
+}

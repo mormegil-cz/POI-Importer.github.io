@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Jiřína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vyskytná nad Jihlavou",
+                "P6736": "25178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46648,
+                    49.43081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Ježené",
+                "P31": "Kaple",
+                "P131^label:cs": "Ježená",
+                "P6736": "19509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46567,
+                    49.41656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od osady Maršov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zbilidy",
+                "P6736": "19508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43716,
+                    49.42216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Bulíkův kříž u Dušejova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dušejov",
+                "P6736": "12002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43083,
+                    49.413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Hejskových",
+                "P31": "Kaplička",
+                "P131^label:cs": "Dušejov",
+                "P6736": "11520"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42909,
+                    49.42018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Hlaváčkova mlýna jižně od Ježené",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ježená",
+                "P6736": "11517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4677,
+                    49.411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty ke Skřivánku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vyskytná nad Jihlavou",
+                "P6736": "11472"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46604,
+                    49.43697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Karasova kaplička u Jiřína",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vyskytná nad Jihlavou",
+                "P6736": "11396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46327,
+                    49.4345
+                ]
+            }
+        }
+    ]
+}

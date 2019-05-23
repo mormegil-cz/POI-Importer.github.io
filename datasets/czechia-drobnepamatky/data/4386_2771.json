@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie Immaculaty v Lokti",
+                "P31": "Sloup",
+                "P131^label:cs": "Loket",
+                "P6736": "9640"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75404,
+                    50.18689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí v Lokti",
+                "P31": "Kašna",
+                "P131^label:cs": "Loket",
+                "P6736": "9638"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75385,
+                    50.186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice v Lokti",
+                "P31": "Sloup",
+                "P131^label:cs": "Loket",
+                "P6736": "9637"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75401,
+                    50.18597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Gloriet na parkánu v Lokti",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Loket",
+                "P6736": "9540"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75321,
+                    50.18749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jiřího Popela z Lobkovicz v Lokti",
+                "P31": "Pomník",
+                "P131^label:cs": "Loket",
+                "P6736": "9534"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75408,
+                    50.18662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Lokti",
+                "P31": "Kaplička",
+                "P131^label:cs": "Loket",
+                "P6736": "9533"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75644,
+                    50.18788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na hradbách v Lokti",
+                "P31": "Kašna",
+                "P131^label:cs": "Loket",
+                "P6736": "9532"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75372,
+                    50.18517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Německého tělovýchovného spolku v Lokti",
+                "P31": "Pomník",
+                "P131^label:cs": "Loket",
+                "P6736": "9531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75035,
+                    50.18705
+                ]
+            }
+        }
+    ]
+}

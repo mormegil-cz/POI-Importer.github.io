@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty nad Rozvadovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rozvadov",
+                "P6736": "2460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56337,
+                    49.67102
+                ]
+            }
+        }
+    ]
+}

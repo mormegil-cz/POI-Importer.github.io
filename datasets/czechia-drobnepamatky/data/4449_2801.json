@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Popic u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jihlava",
+                "P6736": "19410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53402,
+                    49.35176
+                ]
+            }
+        }
+    ]
+}

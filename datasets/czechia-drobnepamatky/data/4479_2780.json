@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Křtitele ve Zborově",
+                "P31": "Kaple",
+                "P131^label:cs": "Zborov",
+                "P6736": "25383"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83466,
+                    49.94342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zborově před kaplí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zborov",
+                "P6736": "21578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8347,
+                    49.94349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek ve Zborově na dolním konci",
+                "P31": "Obrázek",
+                "P131^label:cs": "Zborov",
+                "P6736": "18530"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83968,
+                    49.94345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na západním okraji Zborova na Moravě při silnici do Štítů",
+                "P31": "Boží muka",
+                "P131^label:cs": "Zborov",
+                "P6736": "18357"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83246,
+                    49.94344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Zborově na Moravě",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Zborov",
+                "P6736": "18356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83366,
+                    49.94384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Postřelmůvku na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postřelmůvek",
+                "P6736": "16970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87462,
+                    49.92454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na severním okraji Svébohova",
+                "P31": "Kaple",
+                "P131^label:cs": "Svébohov",
+                "P6736": "12848"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83994,
+                    49.9236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Svébohova na rozcestí v polích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svébohov",
+                "P6736": "12845"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83882,
+                    49.93075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Klášterce pod lesem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olšany",
+                "P6736": "12324"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87027,
+                    49.94836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na okraji Zborova",
+                "P31": "Obrázek",
+                "P131^label:cs": "Zborov",
+                "P6736": "12069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83137,
+                    49.94585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Rovenska na okraji lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rovensko",
+                "P6736": "11878"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85592,
+                    49.92579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Rovenska na křižovatce polních cest",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rovensko",
+                "P6736": "11877"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85883,
+                    49.92429
+                ]
+            }
+        }
+    ]
+}

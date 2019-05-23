@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Petrovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Jablonné v Podještědí",
+                "P6736": "9359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76791,
+                    50.80627
+                ]
+            }
+        }
+    ]
+}

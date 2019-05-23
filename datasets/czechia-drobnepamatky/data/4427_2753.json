@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup s Kristem v Moskevské ulici v České Lípě",
+                "P31": "Sloup",
+                "P131^label:cs": "Česká Lípa",
+                "P6736": "20704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54605,
+                    50.68465
+                ]
+            }
+        }
+    ]
+}

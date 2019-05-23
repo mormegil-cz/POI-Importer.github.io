@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Návesní kaple v Sýrovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46821,
+                    50.26049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána u návesní kaple v Sýrovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46798,
+                    50.26053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Václava severně od Blšan",
+                "P31": "Kaple",
+                "P131^label:cs": "Blšany",
+                "P6736": "20058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47449,
+                    50.23571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Pšova u Podbořan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Podbořany",
+                "P6736": "19939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45122,
+                    50.25007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie v Pšově u Podbořan",
+                "P31": "Sloup",
+                "P131^label:cs": "Podbořany",
+                "P6736": "19938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45801,
+                    50.25295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Pšově u Podbořan",
+                "P31": "Socha",
+                "P131^label:cs": "Podbořany",
+                "P6736": "19937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45868,
+                    50.25331
+                ]
+            }
+        }
+    ]
+}

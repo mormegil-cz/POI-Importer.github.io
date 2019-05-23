@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Lubnice I",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "20223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60271,
+                    48.94914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lubnici před kostelem svatého Jiří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "20163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61385,
+                    48.93951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lubnici za kostelem svatého Jiří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "20162"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61382,
+                    48.93927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lubnicí",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Lubnice",
+                "P6736": "20161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61378,
+                    48.9392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Lubnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "19912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60749,
+                    48.95116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lubnici severně u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "19911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60782,
+                    48.94543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lubnici severní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "19816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61276,
+                    48.94134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Korolupech západní část obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Korolupy",
+                "P6736": "19781"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6439,
+                    48.92971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Lubnice",
+                "P31": "Boží muka",
+                "P131^label:cs": "Lubnice",
+                "P6736": "19669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61425,
+                    48.93505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jižně od Lubnice",
+                "P31": "Kaplička",
+                "P131^label:cs": "Lubnice",
+                "P6736": "19668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61719,
+                    48.93469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Korolup",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Korolupy",
+                "P6736": "19667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.63236,
+                    48.92823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Korolup na křižovatce do Uherčic a Lubnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Uherčice",
+                "P6736": "19544"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.62187,
+                    48.92693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Korolup",
+                "P31": "Kaplička",
+                "P131^label:cs": "Korolupy",
+                "P6736": "19543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.62801,
+                    48.92809
+                ]
+            }
+        }
+    ]
+}

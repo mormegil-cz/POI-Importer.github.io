@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Trpíku západní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Trpík",
+                "P6736": "15502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56787,
+                    49.8476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Trpíku u kapličky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Trpík",
+                "P6736": "15501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5693,
+                    49.84937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Trpíku na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Trpík",
+                "P6736": "15500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56961,
+                    49.84922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Květné u Lukové u kapličky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luková",
+                "P6736": "15499"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.59362,
+                    49.84999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Květné u Lukové jižní část",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luková",
+                "P6736": "15498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.59418,
+                    49.84813
+                ]
+            }
+        }
+    ]
+}

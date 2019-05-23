@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Lomu",
+                "P31": "Kaple",
+                "P131^label:cs": "Lom",
+                "P6736": "7627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99275,
+                    49.4094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Lomu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lom",
+                "P6736": "1977"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99827,
+                    49.41058
+                ]
+            }
+        }
+    ]
+}

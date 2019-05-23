@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v lese jihovýchodně od Kunžaku",
+                "P31": "Obrázek",
+                "P131^label:cs": "Kunžak",
+                "P6736": "12645"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21656,
+                    49.09266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Terezína u Kunžaku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kunžak",
+                "P6736": "12498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24479,
+                    49.08309
+                ]
+            }
+        }
+    ]
+}

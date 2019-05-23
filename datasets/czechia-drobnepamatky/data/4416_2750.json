@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u domu 97 ve Sněžnické ulici v Jílovém",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jílové",
+                "P6736": "16149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10239,
+                    50.76536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník doktora Josefa Prokopa ve Sněžnické ulici v Jílovém",
+                "P31": "Pomník",
+                "P131^label:cs": "Jílové",
+                "P6736": "16148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09619,
+                    50.7715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Sněžníku",
+                "P31": "Kaple",
+                "P131^label:cs": "Jílové",
+                "P6736": "16147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08742,
+                    50.78556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kámen zvaný Zifferstein v lese poblíž cesty z Jílového na Sněžník",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Jílové",
+                "P6736": "16146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08953,
+                    50.77745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník četaře Tomáše Webera",
+                "P31": "Pomník",
+                "P131^label:cs": "Jílové",
+                "P6736": "16145"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08734,
+                    50.78612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u silnice ve Sněžníku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Jílové",
+                "P6736": "16144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08699,
+                    50.7894
+                ]
+            }
+        }
+    ]
+}

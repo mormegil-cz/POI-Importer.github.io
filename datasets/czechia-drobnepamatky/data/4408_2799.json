@@ -1,0 +1,533 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u silnice severně od Slatiny naproti kamenolomu",
+                "P31": "Boží muka",
+                "P131^label:cs": "Slatina",
+                "P6736": "22612"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.744,
+                    49.39453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenné sluneční hodiny u lomu severně od Slatiny",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Slatina",
+                "P6736": "22611"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74434,
+                    49.39476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Bezděkova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradiště",
+                "P6736": "8375"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74093,
+                    49.41074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Donáta v Chanovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71929,
+                    49.40597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Chanovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71225,
+                    49.40739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Chanovic pod Chlumem",
+                "P31": "Kaplička",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71388,
+                    49.40663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž severně od Chanovic",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71459,
+                    49.40683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chanovicích u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71631,
+                    49.40547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Chanovic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71405,
+                    49.40801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Chanovic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71488,
+                    49.40693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chanovicích u haly",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7225,
+                    49.40604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chanovic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73324,
+                    49.40454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chanovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72476,
+                    49.40249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chanovicích na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71784,
+                    49.40437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Chanovic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71783,
+                    49.40017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Chanovic u lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71664,
+                    49.39766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Dobrotic v poli",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7155,
+                    49.39439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Dobrotic u rybníka Vicín",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5907"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72049,
+                    49.39273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Dobroticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5906"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71355,
+                    49.39329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dobroticích",
+                "P31": "Kaple",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5905"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71277,
+                    49.39175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Dobroticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5904"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71287,
+                    49.39173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jižně od Dobrotic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71283,
+                    49.39011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Dobrotic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5901"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72318,
+                    49.38712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Slatině",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Slatina",
+                "P6736": "5902"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74345,
+                    49.38925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Slatině",
+                "P31": "Památník",
+                "P131^label:cs": "Slatina",
+                "P6736": "5900"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74521,
+                    49.38851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Vestavěná kaplička ve Slatině",
+                "P31": "Kaplička",
+                "P131^label:cs": "Slatina",
+                "P6736": "5899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74409,
+                    49.38716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Slatině",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Slatina",
+                "P6736": "5898"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74344,
+                    49.38873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Slatině",
+                "P31": "Kaple",
+                "P131^label:cs": "Slatina",
+                "P6736": "5897"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74495,
+                    49.38861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Slatiny u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Slatina",
+                "P6736": "5896"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74104,
+                    49.38562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem v Chanovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "4015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7166,
+                    49.40541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Chanovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chanovice",
+                "P6736": "4014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71642,
+                    49.4053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Chanovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Chanovice",
+                "P6736": "4013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71684,
+                    49.40503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese na rozcestí západně od Chanovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Slatina",
+                "P6736": "2507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74427,
+                    49.40261
+                ]
+            }
+        }
+    ]
+}

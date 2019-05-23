@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník bývalého kostela v Jelení",
+                "P31": "Památník",
+                "P131^label:cs": "Nové Hamry",
+                "P6736": "17690"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67044,
+                    50.39589
+                ]
+            }
+        }
+    ]
+}

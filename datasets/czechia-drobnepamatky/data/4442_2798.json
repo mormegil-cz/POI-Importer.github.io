@@ -1,0 +1,981 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Josefa Dobiáše na domě čp. 287 v Hrnčířské ulici",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "24076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22056,
+                    49.4324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u garáží v Požárnické ulici v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "23970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21682,
+                    49.42496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na bývalém hřbitově u kaple Božího Těla v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "23559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23065,
+                    49.41193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u železničního nádraží v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "21751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22272,
+                    49.42109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve výklenku Šrejnarovského domu v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22256,
+                    49.43093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska rodiny Lipských na domě čp. 79 na Masarykovo náměstí v Pelhřimově",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22375,
+                    49.43098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na dvoře Šrejnarovského domu v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22215,
+                    49.43093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný křížek ve Skrýšovské ulici v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23002,
+                    49.41671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Městské šatlavě v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20753"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22199,
+                    49.43082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u vchodu do Městské šatlavy v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22192,
+                    49.43078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na domě Mléčných lahůdek čp.27 na Masarykově náměstí v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22327,
+                    49.43034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Václava Petrů v Pelhřimově",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20750"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22635,
+                    49.43212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Msgre F. B. Vaňka v Pelhřimově",
+                "P31": "Památník",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21981,
+                    49.43135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého v Městských sadech v Pelhřimově",
+                "P31": "Socha",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22443,
+                    49.43451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Městských sadech v Pelhřimově u ulice Sdružená",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22318,
+                    49.43735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Obětem 2. světové války v Nádražní ulici v Pelhřimově",
+                "P31": "Pomník",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20653"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22258,
+                    49.4175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pelhřimově u vodojemu v části Polní Dvůr",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23363,
+                    49.42207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Pelhřimova do Putimova u vodojemu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23665,
+                    49.42394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Pelhřimova do Putimova jižně od hřbitova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23657,
+                    49.42441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Pelhřimova ve Vlásenické ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20628"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2077,
+                    49.42886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Obětem 1. a 2. světové války ve Skrýšově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24103,
+                    49.41158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Skrýšova u hlavní silnice",
+                "P31": "Boží muka",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23937,
+                    49.41511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Josefa Mareše severně od Skrýšova",
+                "P31": "Pomník",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24101,
+                    49.41485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici Slovanského bratrství u nemocnice v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23212,
+                    49.4341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Pelhřimova u vrchu V Hatích u cesty do Chválova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "19222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24826,
+                    49.43477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lejšovce u křižovatky na Skrýšov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18776"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24593,
+                    49.42067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zahrádkářské kolonii u železniční tratě v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21307,
+                    49.42149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici Pod Floriánem v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18737"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21532,
+                    49.4246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u základní školy v Komenského ulici v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21763,
+                    49.42794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici F. Bílka v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21045,
+                    49.43125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Floriána jihozápadně od Pelhřimova",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "11928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21183,
+                    49.42591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Busta MUDr. Jaroslava Pujmana v areálu nemocnice v Pelhřimově",
+                "P31": "Socha",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22924,
+                    49.43385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Pelhřimova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22805,
+                    49.43938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Pelhřimova u lesíka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22773,
+                    49.43902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozzcestí u Humpolecké ulice v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22937,
+                    49.4351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Pelhřimovského pěšce v Pelhřimově",
+                "P31": "Plastika",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2242,
+                    49.43253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna se sochou svatého Jakuba Většího v Pelhřimově na náměstí",
+                "P31": "Kašna",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10316"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22327,
+                    49.43083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve výklenku u kostela v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22228,
+                    49.43119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Pelhřimově u kostela",
+                "P31": "Socha",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22201,
+                    49.43103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava u náměstí v Pelhřimově",
+                "P31": "Socha",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22202,
+                    49.4307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž misie u kostela v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22161,
+                    49.43118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v parku v Pelhřimově",
+                "P31": "Socha",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2201,
+                    49.43144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v parku v Pelhřimovš",
+                "P31": "Boží muka",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10310"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21977,
+                    49.43142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou v parku u Pichmannovy ulice v Pelhřimově",
+                "P31": "Sloup",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21927,
+                    49.43167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v parku u Pichmannovy ulice v Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21939,
+                    49.43153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Pichmannově ulici v Pelhřimově",
+                "P31": "Boží muka",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21821,
+                    49.43122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u Pelhřimovské lípy",
+                "P31": "Památník",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22007,
+                    49.42978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha u Třídy Legií v Pelhřimově",
+                "P31": "Socha",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21978,
+                    49.4293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamen před Gymnáziem Pelhřimov",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22128,
+                    49.42912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha u Gymnázia Pelhřimov, vpravo od vchodu",
+                "P31": "Socha",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22143,
+                    49.42896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha u Gymnázia Pelhřimov, vlevo od vchodu",
+                "P31": "Socha",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22148,
+                    49.42899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u kaple v Nádražní ulici v Pelhřimově",
+                "P31": "Boží muka",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22485,
+                    49.42644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížové kameny u kaple v Nádražní ulici v Pelhřimově",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22478,
+                    49.42638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Pelhřimově v Nádražní ulici",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22472,
+                    49.42645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Pelhřimově u Nádražní ulice",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22464,
+                    49.42592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pelhřimově nad garážemi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23042,
+                    49.42542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým sovětským vojákům v Pelhřimově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23103,
+                    49.42752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v I. světové válce v Pelhřimově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23099,
+                    49.42765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem komunistického režimu v Pelhřimově",
+                "P31": "Památník",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23085,
+                    49.4278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pelhřimově na křižovatce u Křemešnické ulice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10293"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23035,
+                    49.42808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v budově nemocnice v Pelhřimově",
+                "P31": "Kašna",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "10292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22836,
+                    49.43372
+                ]
+            }
+        }
+    ]
+}

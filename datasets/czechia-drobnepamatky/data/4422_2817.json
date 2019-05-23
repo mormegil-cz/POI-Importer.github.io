@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v části Na Kopečku u Třísova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Holubov",
+                "P6736": "21110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34817,
+                    48.87847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice jižně od Třísova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Holubov",
+                "P6736": "21109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3467,
+                    48.87961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Třísově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Holubov",
+                "P6736": "21108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3464,
+                    48.88352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u cesty k Dívčímu Kameni",
+                "P31": "Kaplička",
+                "P131^label:cs": "Holubov",
+                "P6736": "21107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34928,
+                    48.88386
+                ]
+            }
+        }
+    ]
+}

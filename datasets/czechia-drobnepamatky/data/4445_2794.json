@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na severním okraji Humpolce u cesty do Brunky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Humpolec",
+                "P6736": "19965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34771,
+                    49.55125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Obětem 1. a 2. světové války a komunismu v Humpolci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Humpolec",
+                "P6736": "19921"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35998,
+                    49.54126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela sv. Mikuláše v Humpolci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Humpolec",
+                "P6736": "19920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35967,
+                    49.5416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Dr. Aleše Hrdličky na Dolním náměstí v Humpolci",
+                "P31": "Památník",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35846,
+                    49.54198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním okraji Humpolce u dálnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34902,
+                    49.52702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha T. G. Masaryka v Humpolci",
+                "P31": "Socha",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18778"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35345,
+                    49.53751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památný kámen Ivanu 'Magorovi' Jirousovi v Humpolci",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36025,
+                    49.53901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u městské hájovny U Svatého Václava nad Humpolcem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.37459,
+                    49.5302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad vodojem u Šibeničního vrchu v Humpolci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36666,
+                    49.53116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník rumunským vojákům u železniční trati v Humpolci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35843,
+                    49.53088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Humpolci v Nerudově ulici",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Humpolec",
+                "P6736": "12126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35094,
+                    49.54685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen v Humpolci v Pelhřimovské ulici",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Humpolec",
+                "P6736": "12125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34736,
+                    49.53013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památný kámen nejslavnějšímu přistěhovalci",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Humpolec",
+                "P6736": "9613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3567,
+                    49.54333
+                ]
+            }
+        }
+    ]
+}

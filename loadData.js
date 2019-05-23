@@ -25,8 +25,8 @@ function loadDatasets()
 				{
 					if (req.readyState != 4)
 					    return;
-				        var response = req.responseText
-				        if (response == '')
+					var response = req.responseText
+					if (response == '')
 					    return;
 					var settings = JSON.parse(response);
 					settings.url = datasets[country][dataset].url;
@@ -124,8 +124,8 @@ function loadData()
 					{
 						if (req.readyState != 4)
 						    return;
-					        var response = req.responseText
-					        if (response == '')
+						var response = req.responseText
+						if (response == '')
 						    return;
 					    
 						var data = geojsonToPointlist(JSON.parse(response));
@@ -220,8 +220,13 @@ function loadOverpass()
 			loadOverpass();
 	}
 	queryStatus.busy = true;
-	req.open("GET", overpassApi + encodeURIComponent(query), true);
-	req.send(null);	
+	//req.open("GET", overpassApi + encodeURIComponent(query), true);
+	//req.send(null);
+
+	compareData(queriedDatasets, {});
+	queryStatus.busy = false;
+	if (queryStatus.waiting)
+		loadOverpass();
 }
 
 function displayPoint(datasetName, tileName, idx)

@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Třemošné v ulici U Trati",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třemošná",
+                "P6736": "15267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38683,
+                    49.82398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Husitů západně od Záluží na svahu",
+                "P31": "Památník",
+                "P131^label:cs": "Třemošná",
+                "P6736": "8104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3623,
+                    49.81512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník severně od Záluží",
+                "P31": "Památník",
+                "P131^label:cs": "Třemošná",
+                "P6736": "5697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36655,
+                    49.82593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem druhé světové války v Třemošné",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třemošná",
+                "P6736": "5293"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39699,
+                    49.82172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v první světové válce v Třemošné",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třemošná",
+                "P6736": "5292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39698,
+                    49.82175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Třemošné v Družstevní ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třemošná",
+                "P6736": "5291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39129,
+                    49.82366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší v Třemošné",
+                "P31": "Socha",
+                "P131^label:cs": "Třemošná",
+                "P6736": "5290"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39504,
+                    49.81528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým západně od záluží",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třemošná",
+                "P6736": "4801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36167,
+                    49.81589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem druhé světové války u Horní Břízy",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horní Bříza",
+                "P6736": "4713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36818,
+                    49.8341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Třemošné na svahu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třemošná",
+                "P6736": "4359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39026,
+                    49.82544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Třemošné u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třemošná",
+                "P6736": "4358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39637,
+                    49.82219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Záluží",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třemošná",
+                "P6736": "4357"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37736,
+                    49.81576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Třemošné",
+                "P31": "Kaple",
+                "P131^label:cs": "Třemošná",
+                "P6736": "4164"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3928,
+                    49.82382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Záluží u sportovního areálu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třemošná",
+                "P6736": "2835"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36267,
+                    49.81581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Záluží u cesty do Plzně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třemošná",
+                "P6736": "2834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36849,
+                    49.81075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen západně od Záluží",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Třemošná",
+                "P6736": "2832"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36519,
+                    49.81452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha mistra Jana Husa severně od Třemošné",
+                "P31": "Socha",
+                "P131^label:cs": "Třemošná",
+                "P6736": "2679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39038,
+                    49.8296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na kopci severně od Třemošné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třemošná",
+                "P6736": "2678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39032,
+                    49.82993
+                ]
+            }
+        }
+    ]
+}

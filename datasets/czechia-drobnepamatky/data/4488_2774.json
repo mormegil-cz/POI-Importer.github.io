@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Hedviky u křižovatky silnic ve Vidlech",
+                "P31": "Kaple",
+                "P131^label:cs": "Vrbno pod Pradědem",
+                "P6736": "17221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26719,
+                    50.10472
+                ]
+            }
+        }
+    ]
+}

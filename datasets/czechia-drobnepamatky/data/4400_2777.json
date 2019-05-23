@@ -1,0 +1,517 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Přehořově",
+                "P31": "Zvonička",
+                "P131^label:cs": "Žihle",
+                "P6736": "10817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38044,
+                    50.02891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Odlezlech",
+                "P31": "Zvonička",
+                "P131^label:cs": "Žihle",
+                "P6736": "8611"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36932,
+                    50.02017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Odlezel",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žihle",
+                "P6736": "8128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36762,
+                    50.01733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Odlezel",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žihle",
+                "P6736": "8127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3704,
+                    50.01945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Potvorova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Potvorov",
+                "P6736": "5241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39444,
+                    50.02715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Přehořova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žihle",
+                "P6736": "4229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37061,
+                    50.02552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička nad Přehořovem",
+                "P31": "Kaplička",
+                "P131^label:cs": "Žihle",
+                "P6736": "4228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38354,
+                    50.02482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník nad Přehořovem",
+                "P31": "Pomník",
+                "P131^label:cs": "Žihle",
+                "P6736": "4227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38167,
+                    50.03001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Přehořově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žihle",
+                "P6736": "4226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37738,
+                    50.02865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Přehořově",
+                "P31": "Kaple",
+                "P131^label:cs": "Žihle",
+                "P6736": "4225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3794,
+                    50.02857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Potvorově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "3801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40135,
+                    50.01674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Potvorově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Potvorov",
+                "P6736": "3800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3999,
+                    50.01647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Potvorově",
+                "P31": "Socha",
+                "P131^label:cs": "Potvorov",
+                "P6736": "3799"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39993,
+                    50.01683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup v Potvorově",
+                "P31": "Sloup",
+                "P131^label:cs": "Potvorov",
+                "P6736": "3798"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3996,
+                    50.01637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Potvorova na rozcestí u polní cesty k vlakové zastávce",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "3797"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39586,
+                    50.0183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž u Potvorova u polní cesty k vlakové zastávce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "3796"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38962,
+                    50.01897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Odlezlích",
+                "P31": "Socha",
+                "P131^label:cs": "Žihle",
+                "P6736": "2946"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37008,
+                    50.02036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chrášťovic u lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "2942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36389,
+                    50.008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříže u Přehořova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žihle",
+                "P6736": "2391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37001,
+                    50.02779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Potvorova na rozcestí u polní cesty k vlakové zastávce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2375"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3959,
+                    50.01832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Potvorova u polní cesty k vlakové zastávce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38958,
+                    50.01899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Potvorova u křižovatky",
+                "P31": "Boží muka",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40016,
+                    50.01391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli u Potvorova u zaniklé cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2378"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40319,
+                    50.01982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty severně od Potvorova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39715,
+                    50.02039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Potvorova u okraje lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38883,
+                    50.0121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Potvorova u zahrad",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39814,
+                    50.0142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice severně od Potvorova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39591,
+                    50.01875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Potvorova u zahrad",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39563,
+                    50.01514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž vlakové zastávky Potvorov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Potvorov",
+                "P6736": "2367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37582,
+                    50.02488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Potvorova u okraje lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žihle",
+                "P6736": "2224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38763,
+                    50.01672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Odlezel",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žihle",
+                "P6736": "2223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37009,
+                    50.02338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Chrášťovicemi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "1632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36077,
+                    50.01556
+                ]
+            }
+        }
+    ]
+}

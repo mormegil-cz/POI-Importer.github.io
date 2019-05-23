@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Soutok Labe s Orlicí v Hradci Králové",
+                "P31": "Socha",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16848"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.82497,
+                    50.2042
+                ]
+            }
+        }
+    ]
+}

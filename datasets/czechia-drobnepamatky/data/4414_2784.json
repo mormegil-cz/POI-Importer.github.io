@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Lhotce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Lhotka",
+                "P6736": "17479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9964,
+                    49.83227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Lhotce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lhotka",
+                "P6736": "17478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9975,
+                    49.83366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Anny ve Lhotce",
+                "P31": "Kaple",
+                "P131^label:cs": "Lhotka",
+                "P6736": "17477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99806,
+                    49.83445
+                ]
+            }
+        }
+    ]
+}

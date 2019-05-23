@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pozůstatek brusírny skla v lese u Huťského potoka západně od Staré Knížecí Hutě",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Lesná",
+                "P6736": "18367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.44991,
+                    49.72958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Zlatém Potoku",
+                "P31": "Boží muka",
+                "P131^label:cs": "Lesná",
+                "P6736": "18012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.43907,
+                    49.74739
+                ]
+            }
+        }
+    ]
+}

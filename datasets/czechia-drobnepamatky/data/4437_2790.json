@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi ve Chmelné u Vlašimi",
+                "P31": "Kaple",
+                "P131^label:cs": "Chmelná",
+                "P6736": "17097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98861,
+                    49.64816
+                ]
+            }
+        }
+    ]
+}

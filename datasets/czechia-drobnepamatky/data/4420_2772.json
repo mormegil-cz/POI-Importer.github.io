@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika vodníka u rybníka v Libochovičkách",
+                "P31": "Plastika",
+                "P131^label:cs": "Libochovičky",
+                "P6736": "17518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23837,
+                    50.17255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. svět. válce v Libochovičkách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Libochovičky",
+                "P6736": "17517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23855,
+                    50.17306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Narození Panny Marie v Libochovičkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Libochovičky",
+                "P6736": "17515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23859,
+                    50.17305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný pamětní kříž na Okoři",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Okoř",
+                "P6736": "17268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25774,
+                    50.16268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 1. a 2. svět. války v Malých Čičovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Číčovice",
+                "P6736": "16746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24911,
+                    50.15578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nalezení sv. Kříže v Čičovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Číčovice",
+                "P6736": "15930"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25065,
+                    50.15478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Svrkyně",
+                "P31": "Boží muka",
+                "P131^label:cs": "Svrkyně",
+                "P6736": "15474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2774,
+                    50.17369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec sochy sv. Salvátora u Čičovic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Číčovice",
+                "P6736": "15468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26921,
+                    50.14954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u Malých Čičovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Číčovice",
+                "P6736": "15467"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26218,
+                    50.1539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž ve Velkých Čičovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Číčovice",
+                "P6736": "15466"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23993,
+                    50.1529
+                ]
+            }
+        }
+    ]
+}

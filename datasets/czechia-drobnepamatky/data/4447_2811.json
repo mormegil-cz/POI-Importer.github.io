@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Hradištka",
+                "P31": "Boží muka",
+                "P131^label:cs": "Dačice",
+                "P6736": "11212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44121,
+                    49.05202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník partyzána u Hradištka",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dačice",
+                "P6736": "11210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43353,
+                    49.06607
+                ]
+            }
+        }
+    ]
+}

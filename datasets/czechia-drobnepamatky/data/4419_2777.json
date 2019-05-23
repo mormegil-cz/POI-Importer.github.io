@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem ve světových válkách v Drahelčicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Drahelčice",
+                "P6736": "22669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2036,
+                    50.03103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Jana Nepomuckého v Drahelčicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Drahelčice",
+                "P6736": "22668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20326,
+                    50.03145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž pod Masarykovou lípou v Drahelčicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drahelčice",
+                "P6736": "22667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19886,
+                    50.03112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší severně od Rudné u dálnice D5",
+                "P31": "Socha",
+                "P131^label:cs": "Rudná",
+                "P6736": "7175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21752,
+                    50.03403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník dálnice D5 severně od Rudné",
+                "P31": "Památník",
+                "P131^label:cs": "Rudná",
+                "P6736": "7174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21756,
+                    50.03405
+                ]
+            }
+        }
+    ]
+}

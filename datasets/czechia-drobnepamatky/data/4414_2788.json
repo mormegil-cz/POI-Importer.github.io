@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Trhových Dušníků",
+                "P31": "Boží muka",
+                "P131^label:cs": "Trhové Dušníky",
+                "P6736": "23098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01575,
+                    49.71014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice v Trhových Dušníkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Trhové Dušníky",
+                "P6736": "23097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01381,
+                    49.71318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Trhových Dušníkách",
+                "P31": "Kaplička",
+                "P131^label:cs": "Trhové Dušníky",
+                "P6736": "23096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01271,
+                    49.71434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Trhových Dušníkách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Trhové Dušníky",
+                "P6736": "23095"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0125,
+                    49.7138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Novém Podlesí",
+                "P31": "Kaple",
+                "P131^label:cs": "Podlesí",
+                "P6736": "13172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97895,
+                    49.70232
+                ]
+            }
+        }
+    ]
+}

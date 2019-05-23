@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží kámen u Kraselova",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Štěchovice",
+                "P6736": "16317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78059,
+                    49.23578
+                ]
+            }
+        }
+    ]
+}

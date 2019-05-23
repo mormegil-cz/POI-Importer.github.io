@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Losina",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěšov",
+                "P6736": "3684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21467,
+                    49.63687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Losiny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěšov",
+                "P6736": "3683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2205,
+                    49.63636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Losiny na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěšov",
+                "P6736": "2016"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21465,
+                    49.63691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na bývalé křížové cestě pod Křížovým vrchem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotěšov",
+                "P6736": "1978"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20845,
+                    49.62254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na lesním rozcestí pod Křížovým vrchem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dnešice",
+                "P6736": "1330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20705,
+                    49.61599
+                ]
+            }
+        }
+    ]
+}

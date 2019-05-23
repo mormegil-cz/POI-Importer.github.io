@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup se sochami svaté Tekly a svatého Floriána v Divnici",
+                "P31": "Sloup",
+                "P131^label:cs": "Slavičín",
+                "P6736": "9300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.91259,
+                    49.08617
+                ]
+            }
+        }
+    ]
+}

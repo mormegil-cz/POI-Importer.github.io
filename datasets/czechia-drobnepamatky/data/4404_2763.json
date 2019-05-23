@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice severně od Velemyšlevsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velemyšleves",
+                "P6736": "24697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57015,
+                    50.40793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Josefa ve Velemyšlevsi",
+                "P31": "Socha",
+                "P131^label:cs": "Velemyšleves",
+                "P6736": "23956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5655,
+                    50.40274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi ve Velemyšlevsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velemyšleves",
+                "P6736": "23955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56463,
+                    50.40232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Zálezlech",
+                "P31": "Kaple",
+                "P131^label:cs": "Velemyšleves",
+                "P6736": "23954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55095,
+                    50.40741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Krista na kříži v jižní části Zálezel",
+                "P31": "Socha",
+                "P131^label:cs": "Velemyšleves",
+                "P6736": "23953"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55138,
+                    50.40523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u silnice západně od Zálezel",
+                "P31": "Kaplička",
+                "P131^label:cs": "Velemyšleves",
+                "P6736": "23951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54687,
+                    50.40664
+                ]
+            }
+        }
+    ]
+}

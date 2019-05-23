@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice Maršov",
+                "P31": "Zvonička",
+                "P131^label:cs": "Uherský Brod",
+                "P6736": "14342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.67999,
+                    49.07299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Biskupicích",
+                "P31": "Socha",
+                "P131^label:cs": "Biskupice",
+                "P6736": "9299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.70924,
+                    49.08388
+                ]
+            }
+        }
+    ]
+}

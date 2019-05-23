@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Prostřený stůl v ulici Na Mlejnku",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41047,
+                    50.03379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy ve štítě Branického divadla",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41378,
+                    50.03589
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Prokopa jihozápadně od Buškovic",
+                "P31": "Socha",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20066"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35756,
+                    50.20399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Dvércích na návsi",
+                "P31": "Socha",
+                "P131^label:cs": "Nepomyšl",
+                "P6736": "19979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32599,
+                    50.20424
+                ]
+            }
+        }
+    ]
+}

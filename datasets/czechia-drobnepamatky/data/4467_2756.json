@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Heřmánkovicích východní okraj obce II",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Heřmánkovice",
+                "P6736": "22535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32807,
+                    50.62354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Heřmánkovicích východní okraj obce I",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Heřmánkovice",
+                "P6736": "22534"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32609,
+                    50.6176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Heřmánkovicích jižní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Heřmánkovice",
+                "P6736": "22408"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32371,
+                    50.61272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Heřmánkovicích jihovýchodní okraj obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Heřmánkovice",
+                "P6736": "22404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32628,
+                    50.61458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Josefa v Heřmánkovicích jižní část obce",
+                "P31": "Socha",
+                "P131^label:cs": "Heřmánkovice",
+                "P6736": "22288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32419,
+                    50.61633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Bolestné matky Boží v Olivětíně vedle pivovaru",
+                "P31": "Kaple",
+                "P131^label:cs": "Broumov",
+                "P6736": "22283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33406,
+                    50.60404
+                ]
+            }
+        }
+    ]
+}

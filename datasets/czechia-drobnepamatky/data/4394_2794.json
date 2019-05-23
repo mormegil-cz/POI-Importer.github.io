@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Krchlebech",
+                "P31": "Kaple",
+                "P131^label:cs": "Staňkov",
+                "P6736": "4740"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11077,
+                    49.54405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Čermné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čermná",
+                "P6736": "3464"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11144,
+                    49.5327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Čermné",
+                "P31": "Kaple",
+                "P131^label:cs": "Čermná",
+                "P6736": "3463"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11471,
+                    49.53173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Čermné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čermná",
+                "P6736": "3462"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12253,
+                    49.53521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Čermné",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Čermná",
+                "P6736": "3461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1164,
+                    49.53173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Čermné v parčíku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Čermná",
+                "P6736": "3460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11627,
+                    49.53137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Krchleb u cesty do Staňkova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Staňkov",
+                "P6736": "1812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09952,
+                    49.54524
+                ]
+            }
+        }
+    ]
+}

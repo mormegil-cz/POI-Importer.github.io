@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Miroslava Tyrše na Knihově ve Zdicích",
+                "P31": "Památník",
+                "P131^label:cs": "Zdice",
+                "P6736": "23124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98617,
+                    49.91671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve II. svět. válce ve Zdicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Zdice",
+                "P6736": "23123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97961,
+                    49.91516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v I. svět. válce ve Zdicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Zdice",
+                "P6736": "23122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9795,
+                    49.91511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela Narození Panny Marie ve Zdicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zdice",
+                "P6736": "23094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97754,
+                    49.91229
+                ]
+            }
+        }
+    ]
+}

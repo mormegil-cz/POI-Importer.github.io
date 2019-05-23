@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička usedlosti Perníkářka v Praze-Dejvicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Praha",
+                "P6736": "22239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36815,
+                    50.10237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička sv. Václava na Velké louce, Praha-Dejvice",
+                "P31": "Kaplička",
+                "P131^label:cs": "Praha",
+                "P6736": "22222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37002,
+                    50.10802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Chlapec s vlašťovkou v Praze-Vokovicích",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "21021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36056,
+                    50.10086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Ležící žena v Praze-Vokovicích",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "21020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36281,
+                    50.09959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Matka s dítětem v Praze-Vokovicích",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "21019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35922,
+                    50.09893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Praze-Lysolajích",
+                "P31": "Boží muka",
+                "P131^label:cs": "Praha",
+                "P6736": "20333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36967,
+                    50.119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička se zvonicí ve Vokovicích, ul. Ke Dvoru",
+                "P31": "Kaplička",
+                "P131^label:cs": "Praha",
+                "P6736": "19738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34146,
+                    50.09624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž ve Vokovicích, ul. Ke Dvoru",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "19737"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34489,
+                    50.09615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jan Nepomucký, ul. V Šáreckém údolí, Praha",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "19708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36897,
+                    50.1115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým obce Vokovic v Praze",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "18187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34489,
+                    50.09641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Daniela Adama z Veleslavína v Praze",
+                "P31": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "18186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34749,
+                    50.09449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Praze-Veleslavíně",
+                "P31": "Zvonička",
+                "P131^label:cs": "Praha",
+                "P6736": "18185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34976,
+                    50.09276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Centrální kříž na hřbitově v Nebušicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "18178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32694,
+                    50.11462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hřbitovní kaple v Praze-Nebušicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "18177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32691,
+                    50.11479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Jana Nepomuckého na Jenerálce",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "16761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35379,
+                    50.10691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Michaela archanděla v Praze-Dejvicích v ulici Duchoslávce",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "13872"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36936,
+                    50.10167
+                ]
+            }
+        }
+    ]
+}

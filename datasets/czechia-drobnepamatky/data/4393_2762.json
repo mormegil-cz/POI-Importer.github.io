@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník letecké bitvy na náměstí Jana Švermy v Kovářské",
+                "P31": "Památník",
+                "P131^label:cs": "Kovářská",
+                "P6736": "17583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05396,
+                    50.43861
+                ]
+            }
+        }
+    ]
+}

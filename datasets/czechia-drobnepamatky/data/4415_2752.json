@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "smírčí kříž ve východní část hřbitovní zdi v Arnultovicích",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Velké Chvojno",
+                "P6736": "21666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04601,
+                    50.71309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem válek v na návsi v Arnultovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Velké Chvojno",
+                "P6736": "14151"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04526,
+                    50.71274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním okraji Arnultovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velké Chvojno",
+                "P6736": "14149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04566,
+                    50.7108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž na návsi v Arnultovicích",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Velké Chvojno",
+                "P6736": "14148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04572,
+                    50.71291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi u kostela v Arnultovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velké Chvojno",
+                "P6736": "14147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04553,
+                    50.71274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v severní části Arnultovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velké Chvojno",
+                "P6736": "14146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04666,
+                    50.71534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Velkého Chvojna do Arnultovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velké Chvojno",
+                "P6736": "14145"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04216,
+                    50.71679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "socha svatého Jana Nepomuckého ve Žďáru",
+                "P31": "Socha",
+                "P131^label:cs": "Velké Chvojno",
+                "P6736": "13339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0266,
+                    50.72935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Velkém Chvojně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Velké Chvojno",
+                "P6736": "9447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0369,
+                    50.73179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Žďáru",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Velké Chvojno",
+                "P6736": "9222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02194,
+                    50.72754
+                ]
+            }
+        }
+    ]
+}

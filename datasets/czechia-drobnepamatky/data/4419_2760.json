@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Nučnic do Oken",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Polepy",
+                "P6736": "17527"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23422,
+                    50.50556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Nučnicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Křešice",
+                "P6736": "17526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22651,
+                    50.51119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny na návsi v Nučničkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Travčice",
+                "P6736": "17132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21967,
+                    50.50581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Nučničkách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Travčice",
+                "P6736": "17131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21964,
+                    50.50637
+                ]
+            }
+        }
+    ]
+}

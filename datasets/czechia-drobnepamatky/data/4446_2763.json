@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty mezi Náchodskem a Robousy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jičín",
+                "P6736": "16759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40967,
+                    50.41153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný pamětní kříž v Robousích u Jičína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jičín",
+                "P6736": "14453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40867,
+                    50.4245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Náchodsku, Kacákova Lhota u Jičína",
+                "P31": "Socha",
+                "P131^label:cs": "Kacákova Lhota",
+                "P6736": "14429"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41449,
+                    50.40951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vojtěcha v Robousích",
+                "P31": "Socha",
+                "P131^label:cs": "Jičín",
+                "P6736": "9386"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4058,
+                    50.41734
+                ]
+            }
+        }
+    ]
+}

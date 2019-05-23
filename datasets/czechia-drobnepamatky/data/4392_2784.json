@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lomničce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kšice",
+                "P6736": "4824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01305,
+                    49.82114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie jižně od Trpíst",
+                "P31": "Socha",
+                "P131^label:cs": "Trpísty",
+                "P6736": "4750"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05153,
+                    49.81624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Sviňomazech",
+                "P31": "Kaple",
+                "P131^label:cs": "Trpísty",
+                "P6736": "4715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04183,
+                    49.82943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u trati severně od Lomničky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kšice",
+                "P6736": "1971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01573,
+                    49.82199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Lomničkou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kšice",
+                "P6736": "1972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.016,
+                    49.81994
+                ]
+            }
+        }
+    ]
+}

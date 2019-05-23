@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Litinová socha granátníka v Holoubkově",
+                "P31": "Socha",
+                "P131^label:cs": "Holoubkov",
+                "P6736": "13634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69183,
+                    49.77507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Holoubkově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Holoubkov",
+                "P6736": "6892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6936,
+                    49.77487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Holoubkově v parku",
+                "P31": "Památník",
+                "P131^label:cs": "Holoubkov",
+                "P6736": "6891"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69192,
+                    49.77527
+                ]
+            }
+        }
+    ]
+}

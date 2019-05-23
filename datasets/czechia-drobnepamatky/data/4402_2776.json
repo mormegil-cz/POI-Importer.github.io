@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Žďáru u Rakovníka",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Žďár",
+                "P6736": "10414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45933,
+                    50.05794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Otěvěkách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Žďár",
+                "P6736": "10411"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4741,
+                    50.05951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen severovýchodně od Vysoké Libyně",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Vysoká Libyně",
+                "P6736": "10383"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46368,
+                    50.03644
+                ]
+            }
+        }
+    ]
+}

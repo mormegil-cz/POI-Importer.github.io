@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v ulici Počátecké v Žirovnici",
+                "P31": "Boží muka",
+                "P131^label:cs": "Žirovnice",
+                "P6736": "23291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1939,
+                    49.25431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Obětem 1. a 2. světové války v Žirovnici",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Žirovnice",
+                "P6736": "19739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18686,
+                    49.25505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v parčíku před zámkem v Žirovnici",
+                "P31": "Sloup",
+                "P131^label:cs": "Žirovnice",
+                "P6736": "19728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1851,
+                    49.25241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž vedle kostela sv. Filipa a Jakuba v Žirovnici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žirovnice",
+                "P6736": "19727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18646,
+                    49.25272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na Husově náměstí v Žirovnici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žirovnice",
+                "P6736": "19679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18825,
+                    49.25302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hlavní silnice mezi Žirovnicí a Strannou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žirovnice",
+                "P6736": "19671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16439,
+                    49.26579
+                ]
+            }
+        }
+    ]
+}

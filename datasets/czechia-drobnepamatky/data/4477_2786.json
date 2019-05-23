@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Svojanově při silnici na Mírov",
+                "P31": "Boží muka",
+                "P131^label:cs": "Borušov",
+                "P6736": "17188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78698,
+                    49.77493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž jižně od Svojnova u silnice",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Borušov",
+                "P6736": "13111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77265,
+                    49.77903
+                ]
+            }
+        }
+    ]
+}

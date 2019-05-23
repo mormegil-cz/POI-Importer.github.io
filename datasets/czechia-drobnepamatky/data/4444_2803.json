@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na východním okraji Horní Vsi v části Na Obci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Ves",
+                "P6736": "20140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3138,
+                    49.29585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Horní Vsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Ves",
+                "P6736": "20139"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30342,
+                    49.29208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Horní Vsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Ves",
+                "P6736": "20138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30739,
+                    49.29348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Václava v Horní Vsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Horní Ves",
+                "P6736": "20137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30737,
+                    49.29355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Horní Vsi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horní Ves",
+                "P6736": "20136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30902,
+                    49.29445
+                ]
+            }
+        }
+    ]
+}

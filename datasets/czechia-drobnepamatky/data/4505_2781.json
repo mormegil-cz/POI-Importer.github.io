@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nových Sedlicích před kostelem Nejsvětějšího Srdce Ježíšova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nové Sedlice",
+                "P6736": "23582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.00276,
+                    49.90733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem světové války ve Štítině u hřbitova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Štítina",
+                "P6736": "23581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01428,
+                    49.91128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Štítině na křižovatce ulic Hlavní a Palackého",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štítina",
+                "P6736": "23580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01161,
+                    49.91431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Štítině před kaplí svaté Maří Magdalény",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štítina",
+                "P6736": "23579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01084,
+                    49.91744
+                ]
+            }
+        }
+    ]
+}

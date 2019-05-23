@@ -1,0 +1,549 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Skleněná plastika u Městského úřadu v Kamenickém Šenově",
+                "P31": "Plastika",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47234,
+                    50.77451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Havlíčkově ulici v Kamenickém Šenově",
+                "P31": "Socha",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47136,
+                    50.77243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u domu Palackého 180 v Kamenickém Šenově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47131,
+                    50.77135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u domu Tyršova 198 v Kamenickém Šenově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25587"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47237,
+                    50.77018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice 13 v Kamenickém Šenově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48321,
+                    50.77231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička poblíž domu 9.května 705 v Kamenickém Šenově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48419,
+                    50.77133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vavřince na kostele svatého Vavřince v Práchni",
+                "P31": "Socha",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48931,
+                    50.76907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Františka z Assisi v zahradě domu 125 v Práchni",
+                "P31": "Socha",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48927,
+                    50.76889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Prácheňské ulici v Práchni",
+                "P31": "Socha",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48847,
+                    50.76834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u domu Prácheňská 114 v Práchni",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48771,
+                    50.7677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup poblíž Panské skály v Kamenickém Šenově",
+                "P31": "Sloup",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48527,
+                    50.76887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Palackého ulici v Kamenickém Šenově",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47384,
+                    50.76803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na pastvině na západním okraji Kamenického Šenova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46723,
+                    50.76878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u domu Mistrovická 816 v Kamenickém Šenově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46724,
+                    50.77148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí Lidické a Mistrovické ulice v Kamenickém Šenově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25575"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46953,
+                    50.77276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lidické ulici v Kamenickém Šenově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46768,
+                    50.77518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kamenické ulici v Kamenickém Šenově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "25573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46797,
+                    50.77578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Panské skály v Kamenickém Šenově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "17589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48577,
+                    50.77058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička u kostela v Horním Prysku",
+                "P31": "Zvonička",
+                "P131^label:cs": "Prysk",
+                "P6736": "17556"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49386,
+                    50.79035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha západně od kostela v Horním Prysku",
+                "P31": "Socha",
+                "P131^label:cs": "Prysk",
+                "P6736": "17555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49108,
+                    50.79038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ve zdi u kostela v Horním Prysku",
+                "P31": "Socha",
+                "P131^label:cs": "Prysk",
+                "P6736": "17554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49393,
+                    50.79036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž západně od kostela v Horním Prysku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Prysk",
+                "P6736": "17553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49245,
+                    50.7904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u kostela v Horním Prysku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Prysk",
+                "P6736": "17552"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49375,
+                    50.79028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční hodiny na kostelu v Kamenickém Šenově",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "17370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46896,
+                    50.77713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Kostelním vrchu v Kamenickém Šenově",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "17369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46876,
+                    50.77769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na náměstí Míru v Kamenickém Šenově",
+                "P31": "Socha",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "17368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46928,
+                    50.77703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na náměstí Míru v Kamenickém Šenově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "17367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46909,
+                    50.77684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v ulici Osvobození v Kamenickém Šenově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "17366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47225,
+                    50.77439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v ulici 9. května v Kamenickém Šenově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "17365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47861,
+                    50.77176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Erb na doměv ulici 9. května v Kamenickém Šenově",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "17364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47337,
+                    50.77237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Ozdobné ostění v ulici 9. května v Kamenickém Šenově",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "17363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47445,
+                    50.77235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Ozdobné ostění v ulici 9. května v Kamenickém Šenově",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "17362"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47461,
+                    50.77233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí T.G.Masaryka v Kamenickém Šenově",
+                "P31": "Kašna",
+                "P131^label:cs": "Kamenický Šenov",
+                "P6736": "17361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47249,
+                    50.77302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Horním Prysku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Prysk",
+                "P6736": "9236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49376,
+                    50.79029
+                ]
+            }
+        }
+    ]
+}

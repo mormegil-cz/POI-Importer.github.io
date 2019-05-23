@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Josefina ve středu Hluboké u Krucemburku",
+                "P31": "Socha",
+                "P131^label:cs": "Krucemburk",
+                "P6736": "17254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85608,
+                    49.66043
+                ]
+            }
+        }
+    ]
+}

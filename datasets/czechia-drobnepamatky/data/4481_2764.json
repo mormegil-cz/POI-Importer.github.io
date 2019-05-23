@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Travné u hlavní silnice",
+                "P31": "Kaplička",
+                "P131^label:cs": "Javorník",
+                "P6736": "15516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93785,
+                    50.37375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Javorníka na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Javorník",
+                "P6736": "15475"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95772,
+                    50.37502
+                ]
+            }
+        }
+    ]
+}

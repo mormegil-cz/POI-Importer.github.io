@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Venancia v ulici K Velešovu v Potštejně",
+                "P31": "Socha",
+                "P131^label:cs": "Potštejn",
+                "P6736": "21871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30159,
+                    50.08286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vrbice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vrbice",
+                "P6736": "12139"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26268,
+                    50.08741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Prorubech",
+                "P31": "Kaplička",
+                "P131^label:cs": "Proruby",
+                "P6736": "12097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29546,
+                    50.07013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Prorubech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Proruby",
+                "P6736": "11806"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29692,
+                    50.06988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka západně od Potštejna",
+                "P31": "Boží muka",
+                "P131^label:cs": "Potštejn",
+                "P6736": "11701"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2897,
+                    50.08113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chlen",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chleny",
+                "P6736": "11682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26089,
+                    50.07618
+                ]
+            }
+        }
+    ]
+}

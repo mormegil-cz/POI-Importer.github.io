@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v poli východně od Háje u Loučné pod Klínovcem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Loučná pod Klínovcem",
+                "P6736": "17585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00221,
+                    50.41292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Háji u Loučné pod Klínovcem",
+                "P31": "Kaple",
+                "P131^label:cs": "Loučná pod Klínovcem",
+                "P6736": "17584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99598,
+                    50.41381
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Ďáblic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "14351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48548,
+                    50.15446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Bořanovického háje",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bořanovice",
+                "P6736": "14350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47765,
+                    50.1731
+                ]
+            }
+        }
+    ]
+}

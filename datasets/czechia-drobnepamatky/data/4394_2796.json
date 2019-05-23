@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kolovče",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09807,
+                    49.488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kolovče u továrny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09771,
+                    49.48637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kolovči na náměstí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10867,
+                    49.48764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kolovče",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3534"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10853,
+                    49.49159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kolovče u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3533"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11281,
+                    49.49133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kolovči v Tyršově ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3532"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11141,
+                    49.48945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kolovči v Palackého ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11164,
+                    49.48478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Kolovče",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3530"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.111,
+                    49.48251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Kolovči",
+                "P31": "Památník",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11129,
+                    49.48359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kolovči",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10864,
+                    49.48672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kolovči na křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3527"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10578,
+                    49.48666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od městysu Koloveč u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10061,
+                    49.48408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od městysu Koloveč",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koloveč",
+                "P6736": "3525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09793,
+                    49.48273
+                ]
+            }
+        }
+    ]
+}

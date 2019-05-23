@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na západním okraji obce Pořežín u křižovatky silnice na Přibyslav a místních komunikací",
+                "P31": "Boží muka",
+                "P131^label:cs": "Velká Losenice",
+                "P6736": "15837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80335,
+                    49.57829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na kraji Nových Dvorů u Velké Losenice u silničky na Pořežín",
+                "P31": "Boží muka",
+                "P131^label:cs": "Nové Dvory",
+                "P6736": "15831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80355,
+                    49.56734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve středu Nových Dvorů u Velké Losenice",
+                "P31": "Kaplička",
+                "P131^label:cs": "Nové Dvory",
+                "P6736": "15830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80833,
+                    49.56427
+                ]
+            }
+        }
+    ]
+}

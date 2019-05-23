@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lišicích na svahu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "10915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35863,
+                    49.61372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Lišic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "10914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35642,
+                    49.62127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lišicích u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "10913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35289,
+                    49.61535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lišicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "10912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35369,
+                    49.61409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Lišic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "10911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34483,
+                    49.6116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Lišicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "10910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35427,
+                    49.61381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Marie v Horní Lukavici",
+                "P31": "Socha",
+                "P131^label:cs": "Horní Lukavice",
+                "P6736": "10909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32879,
+                    49.61161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve zdi v Horní Lukavici",
+                "P31": "Kaplička",
+                "P131^label:cs": "Horní Lukavice",
+                "P6736": "10908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32804,
+                    49.61237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horní Lukavici západně od návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Lukavice",
+                "P6736": "10906"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32586,
+                    49.61137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chlumčanech v ulici K Rokličkám",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chlumčany",
+                "P6736": "10902"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31885,
+                    49.6352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chlumčan u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chlumčany",
+                "P6736": "10899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32134,
+                    49.62937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chlumčan u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chlumčany",
+                "P6736": "10898"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33134,
+                    49.63001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hradčanech",
+                "P31": "Kaple",
+                "P131^label:cs": "Chlumčany",
+                "P6736": "10895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35073,
+                    49.62825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Marie Trylčové u Hradčan",
+                "P31": "Památník",
+                "P131^label:cs": "Chlumčany",
+                "P6736": "10894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34957,
+                    49.63065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horní Lukavici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Lukavice",
+                "P6736": "5037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33122,
+                    49.61187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Horní Lukavici",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horní Lukavice",
+                "P6736": "4116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32702,
+                    49.61171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Horní Lukavici",
+                "P31": "Kaple",
+                "P131^label:cs": "Horní Lukavice",
+                "P6736": "4115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32701,
+                    49.61186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Horní Lukavici",
+                "P31": "Socha",
+                "P131^label:cs": "Horní Lukavice",
+                "P6736": "4114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32457,
+                    49.61229
+                ]
+            }
+        }
+    ]
+}

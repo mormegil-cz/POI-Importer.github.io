@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Rudé armády v Hlučíně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hlučín",
+                "P6736": "9297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19704,
+                    49.8961
+                ]
+            }
+        }
+    ]
+}

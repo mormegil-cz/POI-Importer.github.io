@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník vikáře Wenzela Kunze u Teplé",
+                "P31": "Pomník",
+                "P131^label:cs": "Teplá",
+                "P6736": "10428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84161,
+                    49.97384
+                ]
+            }
+        }
+    ]
+}

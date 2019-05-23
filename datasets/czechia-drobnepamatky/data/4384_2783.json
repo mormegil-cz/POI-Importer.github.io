@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dolní Jadruži u potůčku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chodský Újezd",
+                "P6736": "6576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68826,
+                    49.86446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dolní Jadruži",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chodský Újezd",
+                "P6736": "6575"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68492,
+                    49.86625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chodského Újezdu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chodský Újezd",
+                "P6736": "6567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66128,
+                    49.8651
+                ]
+            }
+        }
+    ]
+}

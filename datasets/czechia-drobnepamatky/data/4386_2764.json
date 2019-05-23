@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z 1. světové války v Horní Blatné",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horní Blatná",
+                "P6736": "9047"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76976,
+                    50.39003
+                ]
+            }
+        }
+    ]
+}

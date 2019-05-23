@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník u silnice mezi Urbanicemi a Turkovicemi",
+                "P31": "Pomník",
+                "P131^label:cs": "Urbanice",
+                "P6736": "14778"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55927,
+                    49.97057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Urbanicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Urbanice",
+                "P6736": "14536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56387,
+                    49.97598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Urbanicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Urbanice",
+                "P6736": "14535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56767,
+                    49.97337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž s deskou padlých občanů v Urbanicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Urbanice",
+                "P6736": "14534"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56769,
+                    49.97337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Rašovech",
+                "P31": "Zvonička",
+                "P131^label:cs": "Turkovice",
+                "P6736": "14533"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58106,
+                    49.96293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rašovech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Turkovice",
+                "P6736": "14532"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58104,
+                    49.96294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ledci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Choltice",
+                "P6736": "14527"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.59544,
+                    49.97491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Ledci",
+                "P31": "Zvonička",
+                "P131^label:cs": "Choltice",
+                "P6736": "14526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.59545,
+                    49.97493
+                ]
+            }
+        }
+    ]
+}

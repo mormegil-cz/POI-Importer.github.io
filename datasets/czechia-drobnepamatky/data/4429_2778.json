@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Říčanech Radošovicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Říčany",
+                "P6736": "14861"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66701,
+                    50.00135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Říčanech u Prahy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Říčany",
+                "P6736": "14288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64124,
+                    49.98664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Říčanech Radošovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Říčany",
+                "P6736": "13741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67094,
+                    50.00085
+                ]
+            }
+        }
+    ]
+}

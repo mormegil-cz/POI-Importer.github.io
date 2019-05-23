@@ -1,0 +1,453 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Plané v parku pod školou II",
+                "P31": "Památník",
+                "P131^label:cs": "Planá",
+                "P6736": "6586"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73581,
+                    49.86646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Plané v parku pod školou",
+                "P31": "Památník",
+                "P131^label:cs": "Planá",
+                "P6736": "6585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73546,
+                    49.86679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Medvěda v Plané u ulice Na Příkopech",
+                "P31": "Socha",
+                "P131^label:cs": "Planá",
+                "P6736": "6584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73665,
+                    49.86761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chodové Plané",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6534"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.70836,
+                    49.88902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Chodové Plané v areálu pivovaru Chodovar",
+                "P31": "Památník",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72829,
+                    49.89328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Chodové Plané na náměstí",
+                "P31": "Památník",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72935,
+                    49.89435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Chodové Plané na náměstí",
+                "P31": "Kašna",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72943,
+                    49.89461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Chodové Plané",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6513"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72724,
+                    49.88822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník jižně od Chodové Plané",
+                "P31": "Památník",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72601,
+                    49.88792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Chodové Plané u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73344,
+                    49.88725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Chodové Plané",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73501,
+                    49.88393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Svaté Anny u Plané",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72168,
+                    49.8796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník u Svaté Anny u Plané",
+                "P31": "Pomník",
+                "P131^label:cs": "Planá",
+                "P6736": "6508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72162,
+                    49.88038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Plané u cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72989,
+                    49.87769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Plané",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73168,
+                    49.8768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severozápadně od Plané",
+                "P31": "Kaplička",
+                "P131^label:cs": "Planá",
+                "P6736": "6505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73232,
+                    49.87639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Plané v lese",
+                "P31": "Kaplička",
+                "P131^label:cs": "Planá",
+                "P6736": "6504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73905,
+                    49.87901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Plané v Zámecké ulici",
+                "P31": "Kaplička",
+                "P131^label:cs": "Planá",
+                "P6736": "6502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73713,
+                    49.87233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Plané",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73843,
+                    49.87794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Plané v Zámecké ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73642,
+                    49.87097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Plané u Slepé ulice",
+                "P31": "Socha",
+                "P131^label:cs": "Planá",
+                "P6736": "6500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73584,
+                    49.87097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Plané u Mezibranské ulice",
+                "P31": "Plastika",
+                "P131^label:cs": "Planá",
+                "P6736": "6499"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73612,
+                    49.86908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Plané v Mezibranské ulici",
+                "P31": "Kašna",
+                "P131^label:cs": "Planá",
+                "P6736": "6498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73592,
+                    49.86896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Plané na náměstí Svobody v parčíku",
+                "P31": "Kašna",
+                "P131^label:cs": "Planá",
+                "P6736": "6497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73767,
+                    49.86842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Plané",
+                "P31": "Socha",
+                "P131^label:cs": "Planá",
+                "P6736": "6496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73812,
+                    49.86836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození v Plané",
+                "P31": "Památník",
+                "P131^label:cs": "Planá",
+                "P6736": "6495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73959,
+                    49.86814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Plané na náměstí Svobody",
+                "P31": "Kašna",
+                "P131^label:cs": "Planá",
+                "P6736": "6494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73946,
+                    49.86823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Plané v Revoluční ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6493"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74343,
+                    49.87206
+                ]
+            }
+        }
+    ]
+}

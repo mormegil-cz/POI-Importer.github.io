@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Kříže západně od Nové Říše u Brázdova Mlýnu",
+                "P31": "Kaple",
+                "P131^label:cs": "Nová Říše",
+                "P6736": "21083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54536,
+                    49.1457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na západním okraji Nové Říše u pumpy",
+                "P31": "Kaplička",
+                "P131^label:cs": "Nová Říše",
+                "P6736": "21082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55609,
+                    49.14307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u obecního úřadu ve Vystrčenovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vystrčenovice",
+                "P6736": "21079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53258,
+                    49.15199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi ve Vystrčenovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vystrčenovice",
+                "P6736": "21052"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52997,
+                    49.15111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Vystrčenovicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Vystrčenovice",
+                "P6736": "21051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5301,
+                    49.15114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Nové Říše",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nová Říše",
+                "P6736": "21049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55031,
+                    49.14415
+                ]
+            }
+        }
+    ]
+}

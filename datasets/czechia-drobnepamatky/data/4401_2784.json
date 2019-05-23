@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastiky severně od České Břízy",
+                "P31": "Plastika",
+                "P131^label:cs": "Česká Bříza",
+                "P6736": "10371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42325,
+                    49.83431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v České Bříze",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Česká Bříza",
+                "P6736": "5104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42995,
+                    49.82841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v České Bříze",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Česká Bříza",
+                "P6736": "4858"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42964,
+                    49.82868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Petra a Pavla v České Bříze",
+                "P31": "Kaple",
+                "P131^label:cs": "Česká Bříza",
+                "P6736": "4857"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42935,
+                    49.83024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Zručí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zruč-Senec",
+                "P6736": "2883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43566,
+                    49.81207
+                ]
+            }
+        }
+    ]
+}

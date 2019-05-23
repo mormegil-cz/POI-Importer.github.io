@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Valtínově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kunžak",
+                "P6736": "12739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26225,
+                    49.09816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Valtínově u kostela Panny Marie",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kunžak",
+                "P6736": "12738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26155,
+                    49.09872
+                ]
+            }
+        }
+    ]
+}

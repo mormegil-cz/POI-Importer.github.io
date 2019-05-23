@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple a boží muka ve středu osady Palčice",
+                "P31": "Kaple",
+                "P131^label:cs": "Čechtice",
+                "P6736": "17084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97057,
+                    49.61406
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kaplička při silnici ze Záluží do Vlastiboře",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vlastiboř",
+                "P6736": "21598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65553,
+                    49.25052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vescích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vesce",
+                "P6736": "6406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67601,
+                    49.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vescích",
+                "P31": "Kaple",
+                "P131^label:cs": "Vesce",
+                "P6736": "6405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67583,
+                    49.24966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vescích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Vesce",
+                "P6736": "6404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67556,
+                    49.24962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Záluží",
+                "P31": "Kaple",
+                "P131^label:cs": "Vlastiboř",
+                "P6736": "6403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65811,
+                    49.24859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Záluží",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlastiboř",
+                "P6736": "6402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65801,
+                    49.24862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Vlastiboři",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlastiboř",
+                "P6736": "6401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6367,
+                    49.25746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vlastiboři",
+                "P31": "Kaple",
+                "P131^label:cs": "Vlastiboř",
+                "P6736": "6400"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63667,
+                    49.25739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vlastiboři",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Vlastiboř",
+                "P6736": "6399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63639,
+                    49.25733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Záluží na okraji lesíku u pole",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vlastiboř",
+                "P6736": "2836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65891,
+                    49.25017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jižně od Záluží",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vlastiboř",
+                "P6736": "2837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6577,
+                    49.24653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Vlastiboře",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlastiboř",
+                "P6736": "2766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63391,
+                    49.2579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Vesců",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vesce",
+                "P6736": "2741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67456,
+                    49.2481
+                ]
+            }
+        }
+    ]
+}

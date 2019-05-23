@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Lejčkova",
+                "P31": "Kaple",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88008,
+                    49.43756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lejčkově u cesty na Oblajovice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88259,
+                    49.43401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lejčkově u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8829,
+                    49.43304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Lejčkově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88274,
+                    49.43301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník odboje v Lejčkově",
+                "P31": "Památník",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88309,
+                    49.43242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Lejčkově",
+                "P31": "Zvonička",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88241,
+                    49.43225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lejčkově u zvoničky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88243,
+                    49.43227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Lejčkově",
+                "P31": "Kaple",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88265,
+                    49.43158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horních Hořicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86382,
+                    49.43392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Horních Hořicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86306,
+                    49.43395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Horních Hořicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8621,
+                    49.43406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž vpřed kostelem v Poříně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87972,
+                    49.41146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Poříně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87958,
+                    49.41151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zastávky Prasetín",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "2383"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89411,
+                    49.43306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Pořína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "2363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87864,
+                    49.41622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple nad Lejčkovem",
+                "P31": "Kaple",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "2215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88008,
+                    49.43756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Horní Hořice nad silnicí I/19",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "1718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.85936,
+                    49.42727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Horní Hořice na svahu u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "1407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.85893,
+                    49.43506
+                ]
+            }
+        }
+    ]
+}

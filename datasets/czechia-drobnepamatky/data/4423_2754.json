@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem nacismu ve Valteřicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Žandov",
+                "P6736": "23024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40653,
+                    50.67968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížu potoka naproti domu 62 ve Valteřicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žandov",
+                "P6736": "23023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40731,
+                    50.67891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v dolní části Heřmanic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žandov",
+                "P6736": "23022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40293,
+                    50.67116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Heřmanicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Žandov",
+                "P6736": "23021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39287,
+                    50.66745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž naproti domu 19 v Heřmanicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žandov",
+                "P6736": "23020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39009,
+                    50.66624
+                ]
+            }
+        }
+    ]
+}

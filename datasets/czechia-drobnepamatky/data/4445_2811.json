@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Lidéřovicích východní okraj obce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Peč",
+                "P6736": "12913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3756,
+                    49.0658
+                ]
+            }
+        }
+    ]
+}

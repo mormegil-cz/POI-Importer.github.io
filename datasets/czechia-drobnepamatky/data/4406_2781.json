@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Kladrub",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "8155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62465,
+                    49.91806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Skoupého",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "8075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6547,
+                    49.90492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Hlohovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hlohovice",
+                "P6736": "8074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64562,
+                    49.89563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kapličky v Kladrubech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63088,
+                    49.9132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kladrubech",
+                "P31": "Kaple",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3845"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63086,
+                    49.91326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kladrubech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3844"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63148,
+                    49.91302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Skoupém",
+                "P31": "Kaple",
+                "P131^label:cs": "Mlečice",
+                "P6736": "3839"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6651,
+                    49.90572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Prašném Újezdu",
+                "P31": "Kaple",
+                "P131^label:cs": "Mlečice",
+                "P6736": "3838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65997,
+                    49.91354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Prašném Újezdu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mlečice",
+                "P6736": "3837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65994,
+                    49.91357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Prašném Újezdu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Mlečice",
+                "P6736": "3836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66172,
+                    49.91389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křiž u Prašného Újezdu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mlečice",
+                "P6736": "2384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66462,
+                    49.91334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Vojenic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "1721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62888,
+                    49.9026
+                ]
+            }
+        }
+    ]
+}

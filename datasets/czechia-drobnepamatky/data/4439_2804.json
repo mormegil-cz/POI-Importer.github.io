@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nové Včelnici u Paseckého rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nová Včelnice",
+                "P6736": "11128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07475,
+                    49.2435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Žďáru",
+                "P31": "Kaple",
+                "P131^label:cs": "Žďár",
+                "P6736": "11127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07523,
+                    49.25525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Žďáru",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žďár",
+                "P6736": "11126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07516,
+                    49.25523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha kmene Zullu ve Žďáru",
+                "P31": "Socha",
+                "P131^label:cs": "Žďár",
+                "P6736": "11125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07737,
+                    49.25699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Žďáru u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žďár",
+                "P6736": "11124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08246,
+                    49.25637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Žďáru u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žďár",
+                "P6736": "11123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07554,
+                    49.26304
+                ]
+            }
+        }
+    ]
+}

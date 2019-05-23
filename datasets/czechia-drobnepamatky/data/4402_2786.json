@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Soška Svaté Barbory u portálu železničních tunelů u Ejpovic",
+                "P31": "Socha",
+                "P131^label:cs": "Kyšice",
+                "P6736": "9766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47942,
+                    49.76333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na křížové cestě v Dýšině - 14. zastavení",
+                "P31": "Obrázek",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49024,
+                    49.77599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od kostela v Dýšině",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4895,
+                    49.77605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na křížové cestě v Dýšině - 2. zastavení",
+                "P31": "Obrázek",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49075,
+                    49.77813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na křížové cestě v Dýšině - 1. zastavení",
+                "P31": "Obrázek",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49064,
+                    49.777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dýšině u kostela na svahu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4901,
+                    49.77654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u kostela v Dýšině",
+                "P31": "Obrázek",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49035,
+                    49.77645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník české házené v Červeném Hrádku",
+                "P31": "Památník",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45835,
+                    49.75703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kyšic u zatáčky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kyšice",
+                "P6736": "5145"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49014,
+                    49.75882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Kyšicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kyšice",
+                "P6736": "5055"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4873,
+                    49.75735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kyšicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Kyšice",
+                "P6736": "5054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48439,
+                    49.75443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kyšicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kyšice",
+                "P6736": "5053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48504,
+                    49.75413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dýšině před kostelem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dýšina",
+                "P6736": "4937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49036,
+                    49.7766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Červeném Hrádku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45869,
+                    49.75817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Kyšicích na návsi",
+                "P31": "Památník",
+                "P131^label:cs": "Kyšice",
+                "P6736": "4529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48442,
+                    49.75484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kyšicích na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kyšice",
+                "P6736": "4528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48461,
+                    49.75526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dýšině nedaleko kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dýšina",
+                "P6736": "3853"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49052,
+                    49.77676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Červeném Hrádku",
+                "P31": "Kaple",
+                "P131^label:cs": "Plzeň",
+                "P6736": "3852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45874,
+                    49.75821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Dýšinou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dýšina",
+                "P6736": "1500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48231,
+                    49.77531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Červeným Hrádkem u silnice do Dýšiny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "1341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46291,
+                    49.76152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v lese Zábělá nad Újezdem",
+                "P31": "Obrázek",
+                "P131^label:cs": "Plzeň",
+                "P6736": "1300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45172,
+                    49.77294
+                ]
+            }
+        }
+    ]
+}

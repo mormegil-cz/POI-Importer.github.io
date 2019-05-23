@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Jana Nepomuckého a Pavla ve středu obce",
+                "P31": "Kaple",
+                "P131^label:cs": "Štětí",
+                "P6736": "21979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37429,
+                    50.48812
+                ]
+            }
+        }
+    ]
+}

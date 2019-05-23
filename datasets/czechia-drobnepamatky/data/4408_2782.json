@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památný kámen severně od Přísednice",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "11908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74103,
+                    49.88821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památný kříž nešťastné události severně od Přísednice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "11907"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74562,
+                    49.88683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Přísednici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75003,
+                    49.88241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Přísednici",
+                "P31": "Kaple",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75006,
+                    49.88246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Sýkorova Mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73233,
+                    49.89403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Třebnušky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72397,
+                    49.88913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Třebnušce u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71985,
+                    49.89207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Třebnušce",
+                "P31": "Kaple",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8050"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71997,
+                    49.89213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Třebnušky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Terešov",
+                "P6736": "8048"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71208,
+                    49.89204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Rudova Mlýna",
+                "P31": "Socha",
+                "P131^label:cs": "Drahoňův Újezd",
+                "P6736": "8040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73302,
+                    49.87567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Drahoňova Újezdu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drahoňův Újezd",
+                "P6736": "8039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72512,
+                    49.87077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Drahoňově Újezdu u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drahoňův Újezd",
+                "P6736": "8038"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72643,
+                    49.8751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Drahoňově Újezdu v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drahoňův Újezd",
+                "P6736": "8037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72704,
+                    49.87874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Drahoňově Újezdu",
+                "P31": "Socha",
+                "P131^label:cs": "Drahoňův Újezd",
+                "P6736": "8036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72486,
+                    49.87734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Drahoňově Újezdu u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drahoňův Újezd",
+                "P6736": "8035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7251,
+                    49.87749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník popraveného v Drahoňově Újezdu",
+                "P31": "Památník",
+                "P131^label:cs": "Drahoňův Újezd",
+                "P6736": "8034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72527,
+                    49.87674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Drahoňova Újezdu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drahoňův Újezd",
+                "P6736": "8033"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72316,
+                    49.87687
+                ]
+            }
+        }
+    ]
+}

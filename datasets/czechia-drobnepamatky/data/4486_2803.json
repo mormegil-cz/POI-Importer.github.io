@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Josefa Kroutila v Koválovicích",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "24408"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17103,
+                    49.28523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Koválovicích naproti faře",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "22058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.171,
+                    49.28524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Koválovicích u hřbitova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "21703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16618,
+                    49.28602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Koválovicích u fary",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "21702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17125,
+                    49.285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Anděla v Osíčanech v zahradě na rozcestí",
+                "P31": "Socha",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "21700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17113,
+                    49.28173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Osíčanech u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "21699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17565,
+                    49.27745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž u Tištína vedle silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tištín",
+                "P6736": "21626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16627,
+                    49.29614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Piety u Koválovic vedle silnice",
+                "P31": "Socha",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "21625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16681,
+                    49.29287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Koválovic vedle silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "21624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16734,
+                    49.2905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Osíčanech vedle silnice u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "21464"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17332,
+                    49.27825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Osíčanech vedle silnice",
+                "P31": "Kaple",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "21463"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1734,
+                    49.27822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Koválovicích u kaple vedle silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "21462"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16948,
+                    49.28551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Dominika v Koválovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "21461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16956,
+                    49.28548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Osíčan vedle silnice",
+                "P31": "Obrázek",
+                "P131^label:cs": "Koválovice-Osíčany",
+                "P6736": "21460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17785,
+                    49.27228
+                ]
+            }
+        }
+    ]
+}

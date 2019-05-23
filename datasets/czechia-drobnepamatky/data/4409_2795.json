@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Metlech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předmíř",
+                "P6736": "7724"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7647,
+                    49.5022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník povodně v Metlech",
+                "P31": "Památník",
+                "P131^label:cs": "Předmíř",
+                "P6736": "7723"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76413,
+                    49.50199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Metlech u Metelského potoka",
+                "P31": "Boží muka",
+                "P131^label:cs": "Předmíř",
+                "P6736": "7722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76434,
+                    49.50181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Metlech",
+                "P31": "Kaple",
+                "P131^label:cs": "Předmíř",
+                "P6736": "7721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76403,
+                    49.50138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Březí",
+                "P31": "Kaple",
+                "P131^label:cs": "Březí",
+                "P6736": "7715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79785,
+                    49.50856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Březí",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Březí",
+                "P6736": "7713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79786,
+                    49.50868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Březí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březí",
+                "P6736": "7714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79786,
+                    49.5086
+                ]
+            }
+        }
+    ]
+}

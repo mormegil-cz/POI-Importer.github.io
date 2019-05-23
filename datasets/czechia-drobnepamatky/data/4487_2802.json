@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Mořic vedle polní cesty",
+                "P31": "Boží muka",
+                "P131^label:cs": "Mořice",
+                "P6736": "21100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19187,
+                    49.3232
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Ohaře",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "7051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05005,
+                    49.54595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Boješicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "6830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04156,
+                    49.53878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Boješicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Mirovice",
+                "P6736": "6829"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04146,
+                    49.5388
+                ]
+            }
+        }
+    ]
+}

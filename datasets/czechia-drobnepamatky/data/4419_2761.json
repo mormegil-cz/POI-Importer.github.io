@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Olešku",
+                "P31": "Kaple",
+                "P131^label:cs": "Oleško",
+                "P6736": "16903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19755,
+                    50.48036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice u kostela svaté Kateřiny v Libotenicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Libotenice",
+                "P6736": "16902"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23295,
+                    50.48395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Libotenicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Libotenice",
+                "P6736": "16901"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2309,
+                    50.47675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. a 2.světové válce v Libotenicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Libotenice",
+                "P6736": "16900"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23058,
+                    50.4765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Hrobcích",
+                "P31": "Kaple",
+                "P131^label:cs": "Hrobce",
+                "P6736": "16899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23218,
+                    50.46294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hrobcích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hrobce",
+                "P6736": "9124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23077,
+                    50.46278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Rohatcích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hrobce",
+                "P6736": "9111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20292,
+                    50.45988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Rohatcích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hrobce",
+                "P6736": "9094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20292,
+                    50.4599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z 1. a 2. světové války v Hrobcích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hrobce",
+                "P6736": "9049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23073,
+                    50.46274
+                ]
+            }
+        }
+    ]
+}

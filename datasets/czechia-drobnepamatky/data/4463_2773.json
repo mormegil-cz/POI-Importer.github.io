@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hřibinách v místní části Paseky",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hřibiny-Ledská",
+                "P6736": "24547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16487,
+                    50.14321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Česticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čestice",
+                "P6736": "12840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14813,
+                    50.13085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Česticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čestice",
+                "P6736": "12431"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1429,
+                    50.12349
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Starý zemědělský stroj v jížní části osady Bučiny",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Podmokly",
+                "P6736": "12764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72007,
+                    49.94888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen východně od Podmokel",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Podmokly",
+                "P6736": "12759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72811,
+                    49.93389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Podmokelského Mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Podmokly",
+                "P6736": "8092"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74164,
+                    49.94302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník odboje u Podmokelského Mlýna",
+                "P31": "Pomník",
+                "P131^label:cs": "Podmokly",
+                "P6736": "8091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74335,
+                    49.94485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Podmokel",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Podmokly",
+                "P6736": "2341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.711,
+                    49.9423
+                ]
+            }
+        }
+    ]
+}

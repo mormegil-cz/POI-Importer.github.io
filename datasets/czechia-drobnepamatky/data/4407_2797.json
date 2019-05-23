@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník jihovýchodně od Životic u silnice",
+                "P31": "Pomník",
+                "P131^label:cs": "Životice",
+                "P6736": "8565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69186,
+                    49.46423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Životic u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Životice",
+                "P6736": "8564"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69053,
+                    49.46413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Životicích u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Životice",
+                "P6736": "8563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68431,
+                    49.46431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Životicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Životice",
+                "P6736": "8562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68369,
+                    49.46458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Životic u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Životice",
+                "P6736": "8561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68475,
+                    49.46191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Životicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Životice",
+                "P6736": "8560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68562,
+                    49.46663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Životicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Životice",
+                "P6736": "8559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68394,
+                    49.46453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Životicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Životice",
+                "P6736": "8558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68568,
+                    49.46667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kotouně u lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67438,
+                    49.45713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kotouně u Spáleného rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66811,
+                    49.46021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kotouně u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8429"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6789,
+                    49.45448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Kotouni",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67721,
+                    49.45249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod kostelem v Kotouni",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8427"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67747,
+                    49.45234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník severně od Oselců",
+                "P31": "Pomník",
+                "P131^label:cs": "Oselce",
+                "P6736": "8426"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68007,
+                    49.44246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Oselců v lese",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67416,
+                    49.44276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Donáta u Oselců",
+                "P31": "Socha",
+                "P131^label:cs": "Oselce",
+                "P6736": "8424"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67497,
+                    49.44069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Řesanic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70957,
+                    49.43976
+                ]
+            }
+        }
+    ]
+}

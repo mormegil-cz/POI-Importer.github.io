@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Nemojova u cesty do Putimova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26626,
+                    49.39906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním okraji Putimova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Putimov",
+                "P6736": "20543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26892,
+                    49.41095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Na Horách u čp.44 jižně od Proseče pod Křemešníkem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Proseč pod Křemešníkem",
+                "P6736": "18811"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28777,
+                    49.40692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Radňově",
+                "P31": "Zvonička",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.273,
+                    49.38443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na severním okraji Radňova směrem na Harlíkov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27423,
+                    49.38557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Radňova u zemědělských staveb směrem na Zajíčkov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27037,
+                    49.38453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Nemojově",
+                "P31": "Zvonička",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27224,
+                    49.39953
+                ]
+            }
+        }
+    ]
+}

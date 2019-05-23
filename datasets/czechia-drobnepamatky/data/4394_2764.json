@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník zaniklých obcí v Perštejně",
+                "P31": "Památník",
+                "P131^label:cs": "Perštejn",
+                "P6736": "24022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11123,
+                    50.37568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hřbitova v Perštejně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Perštejn",
+                "P6736": "24021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10961,
+                    50.37521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Busta Václava Řezáče v Perštejně",
+                "P31": "Socha",
+                "P131^label:cs": "Perštejn",
+                "P6736": "13732"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11304,
+                    50.37986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Perštejně",
+                "P31": "Kaplička",
+                "P131^label:cs": "Perštejn",
+                "P6736": "13731"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11266,
+                    50.38023
+                ]
+            }
+        }
+    ]
+}

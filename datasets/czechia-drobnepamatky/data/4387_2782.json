@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Ovčín",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6491"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78925,
+                    49.86944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Ovčínech",
+                "P31": "Kaple",
+                "P131^label:cs": "Planá",
+                "P6736": "6490"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.79039,
+                    49.86892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple západně od Vysokého Jamné",
+                "P31": "Kaple",
+                "P131^label:cs": "Planá",
+                "P6736": "6489"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.80672,
+                    49.87454
+                ]
+            }
+        }
+    ]
+}

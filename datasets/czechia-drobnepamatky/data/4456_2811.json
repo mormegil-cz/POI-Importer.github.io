@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Moravských Budějovicích v Jaroměřické ulici",
+                "P31": "Kaplička",
+                "P131^label:cs": "Moravské Budějovice",
+                "P6736": "20324"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.82062,
+                    49.05502
+                ]
+            }
+        }
+    ]
+}

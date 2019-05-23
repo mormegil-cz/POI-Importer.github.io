@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika na cyklostezce u osady Slapany",
+                "P31": "Plastika",
+                "P131^label:cs": "Cheb",
+                "P6736": "24184"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37257,
+                    50.02933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník smíření v bývalé Krásné Lípě",
+                "P31": "Pomník",
+                "P131^label:cs": "Cheb",
+                "P6736": "9555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35829,
+                    50.02874
+                ]
+            }
+        }
+    ]
+}

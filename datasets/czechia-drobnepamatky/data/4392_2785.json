@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Únehlích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Únehle",
+                "P6736": "4828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01519,
+                    49.79162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Únehlích",
+                "P31": "Kaple",
+                "P131^label:cs": "Únehle",
+                "P6736": "4827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01507,
+                    49.79147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Erpužicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Erpužice",
+                "P6736": "4826"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03529,
+                    49.80707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Únehlí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Únehle",
+                "P6736": "4753"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01051,
+                    49.78134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Erpužic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Erpužice",
+                "P6736": "4752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03081,
+                    49.80486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Únehlích na svahu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Únehle",
+                "P6736": "4751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01758,
+                    49.79278
+                ]
+            }
+        }
+    ]
+}

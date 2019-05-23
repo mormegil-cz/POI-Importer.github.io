@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Dubného u hráze rybníka Nuzov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dubné",
+                "P6736": "1811"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37151,
+                    48.98417
+                ]
+            }
+        }
+    ]
+}

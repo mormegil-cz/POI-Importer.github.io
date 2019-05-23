@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Osíku v severovýchodní části obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Osík",
+                "P6736": "21716"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29226,
+                    49.84779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského v Osíku na kamenném mostě",
+                "P31": "Socha",
+                "P131^label:cs": "Osík",
+                "P6736": "21449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29386,
+                    49.85292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava v Osíku na kamenném mostě",
+                "P31": "Socha",
+                "P131^label:cs": "Osík",
+                "P6736": "21448"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29391,
+                    49.85294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Osíku u hřbitova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Osík",
+                "P6736": "21442"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28073,
+                    49.84326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Osíku poblíž Markova mlýna",
+                "P31": "Kaplička",
+                "P131^label:cs": "Osík",
+                "P6736": "21441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29024,
+                    49.84615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník padlým v 1 světové válce v Osíku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Osík",
+                "P6736": "21434"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28332,
+                    49.84219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Osíku v severní části obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Osík",
+                "P6736": "21433"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29249,
+                    49.85326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Osíku v části zvané Lazaret",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Osík",
+                "P6736": "21428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29102,
+                    49.86019
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Červeném Újezdci",
+                "P31": "Kaple",
+                "P131^label:cs": "Vlastec",
+                "P6736": "11054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22484,
+                    49.37432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Červeném Újezdci",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vlastec",
+                "P6736": "11053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22404,
+                    49.37319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u nádraží Vlastec",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlastec",
+                "P6736": "11051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22175,
+                    49.36864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vlastce u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlastec",
+                "P6736": "11050"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21869,
+                    49.36579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vlastci",
+                "P31": "Kaple",
+                "P131^label:cs": "Vlastec",
+                "P6736": "11049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21257,
+                    49.36571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vlastce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlastec",
+                "P6736": "11048"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21809,
+                    49.36578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Vlastci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlastec",
+                "P6736": "11047"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21258,
+                    49.36569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vlastci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Vlastec",
+                "P6736": "11046"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2114,
+                    49.36577
+                ]
+            }
+        }
+    ]
+}

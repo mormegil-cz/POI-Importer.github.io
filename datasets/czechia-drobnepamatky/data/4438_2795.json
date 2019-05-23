@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého ve Velké Chyšce",
+                "P31": "Socha",
+                "P131^label:cs": "Velká Chyška",
+                "P6736": "19403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03866,
+                    49.51168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve východní části Velké Chyšky u čp.30",
+                "P31": "Kaplička",
+                "P131^label:cs": "Velká Chyška",
+                "P6736": "19402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04158,
+                    49.51183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Velké Chyšky směrem k fotbalovému hřišti",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velká Chyška",
+                "P6736": "19401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03375,
+                    49.512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Velké Chyšky u silnice do Lesné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velká Chyška",
+                "P6736": "19354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04457,
+                    49.5141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Lesné u silnice do Velké Chyšky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lesná",
+                "P6736": "19353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05175,
+                    49.51705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rybníků v severní části Lesné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lesná",
+                "P6736": "19351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05816,
+                    49.52026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Lesné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lesná",
+                "P6736": "19350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05817,
+                    49.51783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Lesné",
+                "P31": "Kaple",
+                "P131^label:cs": "Lesná",
+                "P6736": "19349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05819,
+                    49.51786
+                ]
+            }
+        }
+    ]
+}

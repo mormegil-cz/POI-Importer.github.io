@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hořejanech u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tochovice",
+                "P6736": "7202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01587,
+                    49.58986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Tochovicích u kostela",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Tochovice",
+                "P6736": "7201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99205,
+                    49.59594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Tochovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Tochovice",
+                "P6736": "7200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98929,
+                    49.59735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple západně od Tochovic",
+                "P31": "Kaple",
+                "P131^label:cs": "Tochovice",
+                "P6736": "7199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98657,
+                    49.59597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Hořejan",
+                "P31": "Boží muka",
+                "P131^label:cs": "Tochovice",
+                "P6736": "1542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00854,
+                    49.59019
+                ]
+            }
+        }
+    ]
+}

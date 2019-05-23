@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Záluží",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Záluží",
+                "P6736": "24786"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3235,
+                    50.45874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný sloup s křížkem na rozcestí v Hasičské ulici ve Vrbici",
+                "P31": "Sloup",
+                "P131^label:cs": "Vrbice",
+                "P6736": "16050"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28809,
+                    50.48345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Floriána ve Vrbici",
+                "P31": "Kaple",
+                "P131^label:cs": "Vrbice",
+                "P6736": "16049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28641,
+                    50.48333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec s ulomeným křížem na Hlavní ulici u hřiště ve Vrbici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vrbice",
+                "P6736": "16048"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2864,
+                    50.47864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. světové válce na návsi ve Vetlé",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Vrbice",
+                "P6736": "16047"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28887,
+                    50.47205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec s ulomeným křížem na rozcestí ve Vetlé",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vrbice",
+                "P6736": "16046"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28878,
+                    50.47523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice na jižním okraji Mastířovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vrbice",
+                "P6736": "16045"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30829,
+                    50.48468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Mastířovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Vrbice",
+                "P6736": "16044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30868,
+                    50.48542
+                ]
+            }
+        }
+    ]
+}

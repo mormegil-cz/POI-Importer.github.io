@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomníky padlým v Dašicích na křižovatce ulic Křičenského a U Kasáren",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dašice",
+                "P6736": "21641"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.90628,
+                    50.02637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kostěnicích poblíž obecního úřadu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostěnice",
+                "P6736": "21638"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.90338,
+                    50.00925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dašicích na křižovatce ulic Křičenského a U Kasáren",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dašice",
+                "P6736": "21636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9065,
+                    50.02645
+                ]
+            }
+        }
+    ]
+}

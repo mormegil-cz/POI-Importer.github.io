@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na východním okraji obce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Norberčany",
+                "P6736": "23180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.47827,
+                    49.76898
+                ]
+            }
+        }
+    ]
+}

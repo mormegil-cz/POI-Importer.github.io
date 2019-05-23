@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hřbitovní kaple v obci Libá",
+                "P31": "Kaple",
+                "P131^label:cs": "Libá",
+                "P6736": "13514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23139,
+                    50.12912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Libé",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Libá",
+                "P6736": "9487"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23482,
+                    50.12683
+                ]
+            }
+        }
+    ]
+}

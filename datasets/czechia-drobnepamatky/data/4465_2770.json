@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Solnici v Dobrušské ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Solnice",
+                "P6736": "24599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23563,
+                    50.20602
+                ]
+            }
+        }
+    ]
+}

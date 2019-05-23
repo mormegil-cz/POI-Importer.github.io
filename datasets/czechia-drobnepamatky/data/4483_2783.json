@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Kamenné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenná",
+                "P6736": "20748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03323,
+                    49.86148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Rocha v Rohli u hřbitova",
+                "P31": "Socha",
+                "P131^label:cs": "Rohle",
+                "P6736": "20745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01698,
+                    49.86149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Huberta v Rohli",
+                "P31": "Kaplička",
+                "P131^label:cs": "Rohle",
+                "P6736": "20743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01179,
+                    49.85255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Antonína v Rohli na okraji obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Rohle",
+                "P6736": "20740"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01426,
+                    49.85664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž ve Veleboři naproti hřbitovu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Klopina",
+                "P6736": "19332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01708,
+                    49.84303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Rohli u kostela",
+                "P31": "Socha",
+                "P131^label:cs": "Rohle",
+                "P6736": "16278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01636,
+                    49.86013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Rohli u kostela",
+                "P31": "Kaplička",
+                "P131^label:cs": "Rohle",
+                "P6736": "16277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01701,
+                    49.85974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Rohli u kostela",
+                "P31": "Kaplička",
+                "P131^label:cs": "Rohle",
+                "P6736": "16276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01666,
+                    49.86003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Kalvárie v Rohli u kostela",
+                "P31": "Socha",
+                "P131^label:cs": "Rohle",
+                "P6736": "16275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0165,
+                    49.85999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Svaté Trojice v Rohli ve středu obce",
+                "P31": "Sloup",
+                "P131^label:cs": "Rohle",
+                "P6736": "16274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01347,
+                    49.86093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kamenné ve středu obce",
+                "P31": "Kaple",
+                "P131^label:cs": "Kamenná",
+                "P6736": "13087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03324,
+                    49.86153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Kamenné u turistické stezky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenná",
+                "P6736": "12931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03272,
+                    49.85886
+                ]
+            }
+        }
+    ]
+}

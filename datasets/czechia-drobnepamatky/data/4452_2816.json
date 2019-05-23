@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Podhradí nad Dyjí u kapličky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Podhradí nad Dyjí",
+                "P6736": "20429"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.68686,
+                    48.89981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice na návsi v Podhradí nad Dyjí",
+                "P31": "Sloup",
+                "P131^label:cs": "Podhradí nad Dyjí",
+                "P6736": "13419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.68565,
+                    48.90042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana a svatého Pavla v Podhradí nad Dyjí",
+                "P31": "Kaple",
+                "P131^label:cs": "Podhradí nad Dyjí",
+                "P6736": "13418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.68684,
+                    48.89978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Kosmicky načasovaná parapyramidální potence od Lubo Kristka u mostu v Podhradí nad Dyjí",
+                "P31": "Plastika",
+                "P131^label:cs": "Podhradí nad Dyjí",
+                "P6736": "13417"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.68438,
+                    48.89956
+                ]
+            }
+        }
+    ]
+}

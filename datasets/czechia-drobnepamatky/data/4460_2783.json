@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna svatého Jana ve Skutči na náměstí",
+                "P31": "Kašna",
+                "P131^label:cs": "Skuteč",
+                "P6736": "23821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.99611,
+                    49.84316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice ve Zbožňově",
+                "P31": "Kaple",
+                "P131^label:cs": "Skuteč",
+                "P6736": "23820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02038,
+                    49.85381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí Nejsvětější Trojice ve Zbožňově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Skuteč",
+                "P6736": "23819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02039,
+                    49.85378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zbožnově severní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Skuteč",
+                "P6736": "23814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0235,
+                    49.85476
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Hanova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lestkov",
+                "P6736": "6478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85859,
+                    49.91557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hanově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lestkov",
+                "P6736": "6477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87177,
+                    49.90779
+                ]
+            }
+        }
+    ]
+}

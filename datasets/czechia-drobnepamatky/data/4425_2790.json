@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "křížek u hřbitova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kosova Hora",
+                "P6736": "23256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47118,
+                    49.65773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kaplička v Kosově Hoře",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kosova Hora",
+                "P6736": "22093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47056,
+                    49.65205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v západní části Kosovy Hory",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kosova Hora",
+                "P6736": "20804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46511,
+                    49.65583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek v Kosově Hoře- u kostela",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kosova Hora",
+                "P6736": "19631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47364,
+                    49.65456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek u Kosovy Hory",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kosova Hora",
+                "P6736": "19517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48503,
+                    49.65654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž-památník u Kosovy Hory",
+                "P31": "Památník",
+                "P131^label:cs": "Kosova Hora",
+                "P6736": "19199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46559,
+                    49.64953
+                ]
+            }
+        }
+    ]
+}

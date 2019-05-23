@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kámen-pranýř u kaple svatých Apoštolů v Polepech",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Polepy",
+                "P6736": "20760"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26488,
+                    50.5046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Oknech",
+                "P31": "Kaple",
+                "P131^label:cs": "Polepy",
+                "P6736": "17528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2395,
+                    50.5048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození u školy v Polepech",
+                "P31": "Pomník",
+                "P131^label:cs": "Polepy",
+                "P6736": "16058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26521,
+                    50.50765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatých Apoštolů na návsi v Polepech",
+                "P31": "Kaple",
+                "P131^label:cs": "Polepy",
+                "P6736": "16057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26509,
+                    50.50459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v centru Polep",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Polepy",
+                "P6736": "16056"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26456,
+                    50.50542
+                ]
+            }
+        }
+    ]
+}

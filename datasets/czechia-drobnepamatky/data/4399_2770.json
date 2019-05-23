@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na kopci u silnice do Dvérců",
+                "P31": "Boží muka",
+                "P131^label:cs": "Nepomyšl",
+                "P6736": "19975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31665,
+                    50.20939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie u Nepomyšle",
+                "P31": "Socha",
+                "P131^label:cs": "Nepomyšl",
+                "P6736": "19973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32173,
+                    50.2244
+                ]
+            }
+        }
+    ]
+}

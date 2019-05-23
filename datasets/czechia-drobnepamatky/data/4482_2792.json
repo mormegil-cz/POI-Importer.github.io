@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Laškově u zámku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Laškov",
+                "P6736": "16909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00128,
+                    49.58418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Krakovci u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Laškov",
+                "P6736": "16212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98912,
+                    49.59707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Krakovci u zámku",
+                "P31": "Kaple",
+                "P131^label:cs": "Laškov",
+                "P6736": "14505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98914,
+                    49.59712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Krakovci",
+                "P31": "Socha",
+                "P131^label:cs": "Laškov",
+                "P6736": "14455"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98845,
+                    49.59962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Antonína Paduánského u Krakovce",
+                "P31": "Kaple",
+                "P131^label:cs": "Laškov",
+                "P6736": "14454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98305,
+                    49.59395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na okraji Laškova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Laškov",
+                "P6736": "14427"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99692,
+                    49.58393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Krakovci na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Laškov",
+                "P6736": "14425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98869,
+                    49.59644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na okraji Krakovce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Laškov",
+                "P6736": "14424"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99133,
+                    49.5957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Františka na okraji Krakovce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Laškov",
+                "P6736": "11927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98758,
+                    49.59564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž na kraji Krakovce",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Laškov",
+                "P6736": "11926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99101,
+                    49.59584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na kraji Krakovce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Laškov",
+                "P6736": "11925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99104,
+                    49.59581
+                ]
+            }
+        }
+    ]
+}

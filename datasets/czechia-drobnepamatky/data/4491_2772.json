@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nanebevzetí Panny Marie (Schnaubelova kaple) na severním okraji Mnichova",
+                "P31": "Kaple",
+                "P131^label:cs": "Vrbno pod Pradědem",
+                "P6736": "17263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.37082,
+                    50.15444
+                ]
+            }
+        }
+    ]
+}

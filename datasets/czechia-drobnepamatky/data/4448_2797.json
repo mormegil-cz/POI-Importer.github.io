@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Šteflova kaple u Hlávkova",
+                "P31": "Kaple",
+                "P131^label:cs": "Vyskytná nad Jihlavou",
+                "P6736": "12345"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.48898,
+                    49.44307
+                ]
+            }
+        }
+    ]
+}

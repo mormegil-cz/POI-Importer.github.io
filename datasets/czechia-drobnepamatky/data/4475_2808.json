@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Panny Marie, svatého Ignácie a Františka v Tuřanech",
+                "P31": "Socha",
+                "P131^label:cs": "Brno",
+                "P6736": "9341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6679,
+                    49.1476
+                ]
+            }
+        }
+    ]
+}

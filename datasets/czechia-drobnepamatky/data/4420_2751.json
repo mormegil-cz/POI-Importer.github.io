@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Anny u restaurace v osadě Jedlka",
+                "P31": "Socha",
+                "P131^label:cs": "Malá Veleň",
+                "P6736": "19746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.278,
+                    50.74335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v osadě Jedlka",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Malá Veleň",
+                "P6736": "19745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27756,
+                    50.74349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve východní části Březin u Děčína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Děčín",
+                "P6736": "17413"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25255,
+                    50.75949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Chlumu v Březinách u Děčína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Děčín",
+                "P6736": "17412"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24095,
+                    50.7562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec s ulomeným křížem v ulici Kosmonautů v Březinách u Děčína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Děčín",
+                "P6736": "17280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24321,
+                    50.76325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Matouše u kaple v Březinách u Děčína",
+                "P31": "Socha",
+                "P131^label:cs": "Děčín",
+                "P6736": "17279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25806,
+                    50.76147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Troska kříže nebo pomníku v Českolipské ulici v Březinách u Děčína",
+                "P31": "Neznámý",
+                "P131^label:cs": "Děčín",
+                "P6736": "17278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25076,
+                    50.7639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Březinách u Děčína",
+                "P31": "Kaple",
+                "P131^label:cs": "Děčín",
+                "P6736": "17277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25813,
+                    50.76152
+                ]
+            }
+        }
+    ]
+}

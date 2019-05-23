@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sedlečku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bukovany",
+                "P6736": "7554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10007,
+                    49.5701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec sochy či kříže v Bukovanech",
+                "P31": "Neznámý",
+                "P131^label:cs": "Bukovany",
+                "P6736": "7553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10191,
+                    49.57358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chraštičkách u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chraštice",
+                "P6736": "7215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08317,
+                    49.57154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chraštičkách v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chraštice",
+                "P6736": "7214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07843,
+                    49.57191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Chraštičkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chraštice",
+                "P6736": "7213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07801,
+                    49.5719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Chraštičkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Chraštice",
+                "P6736": "7212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07792,
+                    49.57185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Chrašticích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chraštice",
+                "P6736": "7211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07184,
+                    49.57714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Chrašticích",
+                "P31": "Socha",
+                "P131^label:cs": "Chraštice",
+                "P6736": "7210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07179,
+                    49.5765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Bukovan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bukovany",
+                "P6736": "1299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08822,
+                    49.56982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jižně od Bukovan",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bukovany",
+                "P6736": "1298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09627,
+                    49.56707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Bukovan",
+                "P31": "Kaple",
+                "P131^label:cs": "Bukovany",
+                "P6736": "1297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09578,
+                    49.57428
+                ]
+            }
+        }
+    ]
+}

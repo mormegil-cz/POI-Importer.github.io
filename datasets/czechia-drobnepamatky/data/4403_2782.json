@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Čivicích",
+                "P31": "Památník",
+                "P131^label:cs": "Dobříč",
+                "P6736": "10366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51197,
+                    49.88216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Čívic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobříč",
+                "P6736": "4266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50772,
+                    49.88072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kaceřově",
+                "P31": "Kaple",
+                "P131^label:cs": "Kaceřov",
+                "P6736": "4265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51263,
+                    49.87056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Čívicích na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobříč",
+                "P6736": "4067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51277,
+                    49.88356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Čívicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dobříč",
+                "P6736": "4066"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51262,
+                    49.88338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jižní části Čívic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobříč",
+                "P6736": "4065"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51217,
+                    49.8815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kaceřově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kaceřov",
+                "P6736": "4064"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51283,
+                    49.87063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u Kaceřova",
+                "P31": "Památník",
+                "P131^label:cs": "Kaceřov",
+                "P6736": "4063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51077,
+                    49.86875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Kaceřovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kaceřov",
+                "P6736": "1683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50916,
+                    49.8725
+                ]
+            }
+        }
+    ]
+}

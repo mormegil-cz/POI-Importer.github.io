@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší svatého Cyrila a Metoděje v Boskovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Boskovice",
+                "P6736": "9333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65096,
+                    49.49072
+                ]
+            }
+        }
+    ]
+}

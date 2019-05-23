@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Božanově jihovýchodní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Božanov",
+                "P6736": "22720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34664,
+                    50.51789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Božanově západní část obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Božanov",
+                "P6736": "22434"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34507,
+                    50.51851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Božanově západní část obce",
+                "P31": "Zvonička",
+                "P131^label:cs": "Božanov",
+                "P6736": "22430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34103,
+                    50.51732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny v Martínkovicích západní okraj obce",
+                "P31": "Kaple",
+                "P131^label:cs": "Martínkovice",
+                "P6736": "22290"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30643,
+                    50.54067
+                ]
+            }
+        }
+    ]
+}

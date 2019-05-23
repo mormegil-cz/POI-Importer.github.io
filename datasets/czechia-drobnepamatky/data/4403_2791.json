@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup u Vlčtejna",
+                "P31": "Sloup",
+                "P131^label:cs": "Vlčtejn",
+                "P6736": "6009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49125,
+                    49.61295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chlumánkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlčtejn",
+                "P6736": "5768"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50044,
+                    49.61108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Žákavě",
+                "P31": "Kaplička",
+                "P131^label:cs": "Žákava",
+                "P6736": "5171"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53039,
+                    49.63001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Žákavě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žákava",
+                "P6736": "5170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53298,
+                    49.62773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Nezvěstic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nezvěstice",
+                "P6736": "5169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.502,
+                    49.63906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Vyšší památník nad Nezvěsticemi",
+                "P31": "Památník",
+                "P131^label:cs": "Nezvěstice",
+                "P6736": "5115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53133,
+                    49.63854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník nad Nezvěsticemi",
+                "P31": "Památník",
+                "P131^label:cs": "Nezvěstice",
+                "P6736": "5114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5312,
+                    49.63854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava v Žákavě",
+                "P31": "Socha",
+                "P131^label:cs": "Žákava",
+                "P6736": "4970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52894,
+                    49.63027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Žákavě",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Žákava",
+                "P6736": "4967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52935,
+                    49.63007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty jižně od Žákavy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žákava",
+                "P6736": "2830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52368,
+                    49.63
+                ]
+            }
+        }
+    ]
+}

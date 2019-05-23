@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Horních Hošticích při cestě na Javorník",
+                "P31": "Kaplička",
+                "P131^label:cs": "Javorník",
+                "P6736": "20469"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96893,
+                    50.42259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Horních Hošticích severní okraj obce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Javorník",
+                "P6736": "20468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96481,
+                    50.42472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bílém Potoce na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Javorník",
+                "P6736": "16733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9941,
+                    50.41171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Javorník",
+                "P6736": "16728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99492,
+                    50.41191
+                ]
+            }
+        }
+    ]
+}

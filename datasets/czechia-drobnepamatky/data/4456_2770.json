@@ -1,0 +1,613 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici Za Hřbitovem v Pouchově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "17170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84438,
+                    50.2301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým občanům Věkoš v první světové válce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "17169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8365,
+                    50.22933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí ve Věkoších v Hradci Králové",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "17168"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83595,
+                    50.22858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Neposkvrněného početí Panny Marie na Slezském Předměstí v Hradci Králové",
+                "P31": "Kaple",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "17167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85071,
+                    50.21526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na rozcestí v ulici Kladská v Hradci Králové",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "17166"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85977,
+                    50.21533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Josefa u kostela Nanebevzetí Panny Marie na Velkém náměstí v Hradci Králové",
+                "P31": "Kaple",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "17141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83429,
+                    50.20928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Klimenta na Velkém náměstí v Hradci Králové",
+                "P31": "Kaple",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "17140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83086,
+                    50.20923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "patník na Pospíšilově třídě v Hradci Králové",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8418,
+                    50.21333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Studna s mříží na Velkém náměstí v Hradci Králové",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83369,
+                    50.20942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Vítěze před budovou gymnázia Josefa Kajetána Tyla v Hradci Králové",
+                "P31": "Socha",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.82544,
+                    50.20853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Abstraktní skulptura před nákupním centrem ve Věkoších",
+                "P31": "Plastika",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16877"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8395,
+                    50.22589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Milenci u Klicperova divadla v Hradci Králové",
+                "P31": "Plastika",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16876"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83349,
+                    50.21085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Evy před budovou Klicperova divadla v Hradci Králové",
+                "P31": "Socha",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16875"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83369,
+                    50.21088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v bitvě u Hradce Králové roku 1866 na vojenském hřbitově v Pouchově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84484,
+                    50.22902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Tomáše Garrique Masaryka na Masarykově náměstí v Hradci Králové",
+                "P31": "Památník",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.82471,
+                    50.21209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým Rudoarmějcům na vojenském hřbitově v Pouchově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84499,
+                    50.22851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v první světové válce v Pouchově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16860"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84713,
+                    50.23029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hřbitova při kostelu svatého Pavla v Pouchově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16858"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84696,
+                    50.2305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v parku u hřbitova v Pouchově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16857"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84717,
+                    50.22964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Barokní kašna se sousoším svatého Jana Nepomuckého na Malém náměstí v Hradci Králové",
+                "P31": "Kašna",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83621,
+                    50.21049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Věkoších",
+                "P31": "Zvonička",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83592,
+                    50.2286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Jana Žižky v Hradci Králové",
+                "P31": "Památník",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16854"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83343,
+                    50.21158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Ladislava Jana Pospíšila v Hradci Králové",
+                "P31": "Pomník",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16853"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8375,
+                    50.21137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před katedrálou Svatého Ducha na Velkém náměstí v Hradci Králové",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83145,
+                    50.2088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník mistra Jana Husa u kostela Českobratrské církve evangelické v Hradci Králové",
+                "P31": "Pomník",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83856,
+                    50.20973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Karla Šimka v Hradci Králové",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83209,
+                    50.21439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník k poctě Aloise Jiráska a jeho Bratrstva v Hradci Králové",
+                "P31": "Pomník",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.82724,
+                    50.20674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník mistra Jana Husa v Pouchově",
+                "P31": "Pomník",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8467,
+                    50.22932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "pomník padlým ve světových válkách a obětem nacistického a komunistického teroru u haly TJ Sokol Hradec Králové",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16785"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.82857,
+                    50.2136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "umělecká plastika kočky před Dětským denním rehabilitačním stacionářem v Hradci Králové",
+                "P31": "Plastika",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16779"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84825,
+                    50.21894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "socha Boženy Němcové před budovou Gymnazia Boženy Němcové v Hradci Králové",
+                "P31": "Socha",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16776"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83892,
+                    50.21227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Květ Polabí na třídě SNP v Hradci Králové",
+                "P31": "Plastika",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16769"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85094,
+                    50.21713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlých ve světových válkách na třídě SNP v Hradci Králové",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16768"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85887,
+                    50.22116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Marie Panny Pomocné na Slezském Předměstí v Hradci Králové",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85082,
+                    50.21527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obelisk věnovaný památce Jana Voneše",
+                "P31": "Památník",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8421,
+                    50.2084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Marka u kaple Neposkvrněného početí Panny Marie v Hradci Králové",
+                "P31": "Socha",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16719"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85058,
+                    50.21524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Hradci Králové - Pouchově",
+                "P31": "Socha",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "9274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84724,
+                    50.23049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Morový sloup na Velkém náměstí v Hradci Králové",
+                "P31": "Sloup",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "9273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83276,
+                    50.20922
+                ]
+            }
+        }
+    ]
+}

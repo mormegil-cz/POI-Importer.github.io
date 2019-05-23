@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce v Hostišovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9299,
+                    49.48995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Bělčic u dráhy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88928,
+                    49.49087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Podruhlí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8466"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91428,
+                    49.49565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek východně od Podruhlí",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92078,
+                    49.49403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lukách jihovýchodně od Hostišovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8457"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92726,
+                    49.48228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hostišovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92478,
+                    49.48658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Hostišovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8455"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9246,
+                    49.48642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Hostišovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92184,
+                    49.48312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Drahenického Málkova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blatná",
+                "P6736": "8453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91695,
+                    49.47775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Černívska u cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Uzeničky",
+                "P6736": "8450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92869,
+                    49.47549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Hostišovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93057,
+                    49.48427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Menhiry u Drahenického Málkova",
+                "P31": "Menhir",
+                "P131^label:cs": "Blatná",
+                "P6736": "8011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90715,
+                    49.47545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Drahenickém Málkově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Blatná",
+                "P6736": "7705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90051,
+                    49.47246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Drahenickém Málkově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blatná",
+                "P6736": "7704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90117,
+                    49.47296
+                ]
+            }
+        }
+    ]
+}

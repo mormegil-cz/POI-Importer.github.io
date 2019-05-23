@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v osadě Chrastná",
+                "P31": "Zvonička",
+                "P131^label:cs": "Vlastislav",
+                "P6736": "20280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94595,
+                    50.4914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Piety v osadě Chrastná",
+                "P31": "Socha",
+                "P131^label:cs": "Vlastislav",
+                "P6736": "20279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94602,
+                    50.49144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u potoka Modla ve Vlastislavi",
+                "P31": "Kaple",
+                "P131^label:cs": "Vlastislav",
+                "P6736": "18035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95042,
+                    50.5017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský obrázek u silnice z Teplé do Třebenic",
+                "P31": "Obrázek",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96901,
+                    50.48662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Navštívení Panny Marie v Teplé",
+                "P31": "Kaple",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96679,
+                    50.48875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž naproti kapli v Teplé",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96677,
+                    50.48865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v osadě Dřínek u Teplé",
+                "P31": "Kaplička",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96622,
+                    50.49196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u odbočky polní cesty od silnice před Teplou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlastislav",
+                "P6736": "15385"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96323,
+                    50.4903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého ve Vlastislavi",
+                "P31": "Kaple",
+                "P131^label:cs": "Vlastislav",
+                "P6736": "15381"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95508,
+                    50.49712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zámku ve Vlastislavi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vlastislav",
+                "P6736": "15379"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95972,
+                    50.49835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Sutomi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97232,
+                    50.50143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Sutomi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97443,
+                    50.50273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž u rozcestí ke hřbitovu v Sutomi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97142,
+                    50.50573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vlastislavi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Vlastislav",
+                "P6736": "9415"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95522,
+                    50.49713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Teplé u Třebenic",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třebenice",
+                "P6736": "9115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96584,
+                    50.48945
+                ]
+            }
+        }
+    ]
+}

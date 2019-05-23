@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Novém Malíně před kostelem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nový Malín",
+                "P6736": "20487"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03273,
+                    49.94304
+                ]
+            }
+        }
+    ]
+}

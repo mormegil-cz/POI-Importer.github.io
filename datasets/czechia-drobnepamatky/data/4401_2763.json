@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánská kaplička u kostela v Březně",
+                "P31": "Kaplička",
+                "P131^label:cs": "Březno",
+                "P6736": "23881"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4212,
+                    50.40166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Josefa na rozcestí ulic Dlouhá a Radniční v Březně",
+                "P31": "Sloup",
+                "P131^label:cs": "Březno",
+                "P6736": "23880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4233,
+                    50.40276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětí transportů smrti v dubnu 1945 u hřbitova v Březně",
+                "P31": "Památník",
+                "P131^label:cs": "Březno",
+                "P6736": "23879"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42762,
+                    50.40456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Magická brána-hodiny života u hřbitova v Březně",
+                "P31": "Plastika",
+                "P131^label:cs": "Březno",
+                "P6736": "23878"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42695,
+                    50.40506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na hřbitově v Březně",
+                "P31": "Zvonička",
+                "P131^label:cs": "Březno",
+                "P6736": "23877"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4268,
+                    50.40506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie u dálnice D7 u Droužkovic",
+                "P31": "Kaple",
+                "P131^label:cs": "Droužkovice",
+                "P6736": "23577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42568,
+                    50.42768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici Rudé Armády v Droužkovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Droužkovice",
+                "P6736": "23567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43197,
+                    50.42937
+                ]
+            }
+        }
+    ]
+}

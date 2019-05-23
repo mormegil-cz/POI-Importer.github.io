@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Nečemicích",
+                "P31": "Socha",
+                "P131^label:cs": "Tuchořice",
+                "P6736": "15749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63953,
+                    50.24117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Nečemicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Tuchořice",
+                "P6736": "15748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64032,
+                    50.24137
+                ]
+            }
+        }
+    ]
+}

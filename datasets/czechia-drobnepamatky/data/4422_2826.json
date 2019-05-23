@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Floriána u silnice z Vyššího Brodu do Herbertova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vyšší Brod",
+                "P6736": "15908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3288,
+                    48.61856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u mostu přes Vltavici v Herbertově",
+                "P31": "Socha",
+                "P131^label:cs": "Vyšší Brod",
+                "P6736": "13830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35191,
+                    48.62085
+                ]
+            }
+        }
+    ]
+}

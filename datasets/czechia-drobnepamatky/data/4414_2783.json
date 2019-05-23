@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice západně od Neumětel.",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Neumětely",
+                "P6736": "17497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01579,
+                    49.84953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Mistra Jana Husa v Lochovicích",
+                "P31": "Památník",
+                "P131^label:cs": "Lochovice",
+                "P6736": "17226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98577,
+                    49.85301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Centrální kříž na hřbitově v Lochovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lochovice",
+                "P6736": "17225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97555,
+                    49.85304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého v Lochovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Lochovice",
+                "P6736": "17224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97878,
+                    49.85166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lochovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Lochovice",
+                "P6736": "17223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97818,
+                    49.85157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Františka Xaverského v Lochovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Lochovice",
+                "P6736": "17215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97826,
+                    49.85176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie v Lochovicích",
+                "P31": "Sloup",
+                "P131^label:cs": "Lochovice",
+                "P6736": "17213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97811,
+                    49.85205
+                ]
+            }
+        }
+    ]
+}

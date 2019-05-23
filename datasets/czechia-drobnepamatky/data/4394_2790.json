@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vsi Touškov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ves Touškov",
+                "P6736": "6185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12457,
+                    49.66423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Vsi Touškov",
+                "P31": "Památník",
+                "P131^label:cs": "Ves Touškov",
+                "P6736": "3926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11934,
+                    49.6624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého ve Vsi Touškov",
+                "P31": "Socha",
+                "P131^label:cs": "Ves Touškov",
+                "P6736": "3925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1192,
+                    49.66153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela ve Vsi Touškov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ves Touškov",
+                "P6736": "3924"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11856,
+                    49.66195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vsi Touškov",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ves Touškov",
+                "P6736": "3923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11859,
+                    49.66187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Vsi Touškov",
+                "P31": "Boží muka",
+                "P131^label:cs": "Ves Touškov",
+                "P6736": "2743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12087,
+                    49.66316
+                ]
+            }
+        }
+    ]
+}

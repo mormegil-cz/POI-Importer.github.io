@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Újezd u Uničova na rozcestí naproti parku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd",
+                "P6736": "25872"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18177,
+                    49.76876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie Újezd u Uničova ve středu obce",
+                "P31": "Sloup",
+                "P131^label:cs": "Újezd",
+                "P6736": "25870"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18133,
+                    49.76194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Želechovice na návsi u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Želechovice",
+                "P6736": "25763"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.14243,
+                    49.75313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Cyrila a Metoděje Želechovice na návsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Želechovice",
+                "P6736": "25762"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.14289,
+                    49.75323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Svobody Želechovice na návsi",
+                "P31": "Památník",
+                "P131^label:cs": "Želechovice",
+                "P6736": "25761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.14311,
+                    49.75349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Újezdu v centru obce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Újezd",
+                "P6736": "25387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18007,
+                    49.76449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Újezdu v parku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Újezd",
+                "P6736": "25386"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18155,
+                    49.76813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým Brníčko na návsi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Uničov",
+                "P6736": "25028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.14368,
+                    49.77244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Újezdu u Uničova poblíž Unexu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd",
+                "P6736": "24029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.15992,
+                    49.77591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Brníčku na křižovatce",
+                "P31": "Kaple",
+                "P131^label:cs": "Uničov",
+                "P6736": "22514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.14037,
+                    49.77168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie Immaculaty u Želechovic",
+                "P31": "Sloup",
+                "P131^label:cs": "Želechovice",
+                "P6736": "16087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.14386,
+                    49.75711
+                ]
+            }
+        }
+    ]
+}

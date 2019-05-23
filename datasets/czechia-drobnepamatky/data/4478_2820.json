@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Studánka, pramen 'Psíček' u Lednice",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Lednice",
+                "P6736": "14404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80995,
+                    48.80103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha vlka s erbem Kinských u zámeckého skleníku v Lednici",
+                "P31": "Socha",
+                "P131^label:cs": "Lednice",
+                "P6736": "13980"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80812,
+                    48.80119
+                ]
+            }
+        }
+    ]
+}

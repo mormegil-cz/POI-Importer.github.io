@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník na Járu Cimrmana na západním okraji Mečíře",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Křinec",
+                "P6736": "25570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09281,
+                    50.26949
+                ]
+            }
+        }
+    ]
+}

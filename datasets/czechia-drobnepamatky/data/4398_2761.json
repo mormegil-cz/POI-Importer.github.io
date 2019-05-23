@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na pastvině východně od Křimova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Křimov",
+                "P6736": "23609"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31023,
+                    50.48186
+                ]
+            }
+        }
+    ]
+}

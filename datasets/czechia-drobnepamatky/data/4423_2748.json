@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Skalní kaple sv. Ignáce ve středu obce",
+                "P31": "Kaple",
+                "P131^label:cs": "Jetřichovice",
+                "P6736": "21978"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37387,
+                    50.83849
+                ]
+            }
+        }
+    ]
+}

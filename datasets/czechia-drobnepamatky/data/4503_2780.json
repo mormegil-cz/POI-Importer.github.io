@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy ptáků na Ptačím vrchu v Opavě",
+                "P31": "Socha",
+                "P131^label:cs": "Opava",
+                "P6736": "14138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.90362,
+                    49.93515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Osvoboditelů v Opavě",
+                "P31": "Kašna",
+                "P131^label:cs": "Opava",
+                "P6736": "14137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.90749,
+                    49.93942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Horním náměstí v Opavě",
+                "P31": "Kašna",
+                "P131^label:cs": "Opava",
+                "P6736": "14136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.90231,
+                    49.9389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v sadech Svobody v Opavě",
+                "P31": "Kašna",
+                "P131^label:cs": "Opava",
+                "P6736": "14135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9028,
+                    49.93546
+                ]
+            }
+        }
+    ]
+}

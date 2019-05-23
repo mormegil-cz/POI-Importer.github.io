@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Kolíně ve Třídvorské ulici",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kolín",
+                "P6736": "13221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22378,
+                    50.03274
+                ]
+            }
+        }
+    ]
+}

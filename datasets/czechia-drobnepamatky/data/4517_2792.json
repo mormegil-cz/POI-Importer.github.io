@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěná socha rybáře v Morávce",
+                "P31": "Socha",
+                "P131^label:cs": "Morávka",
+                "P6736": "14916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52213,
+                    49.59555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie v Morávce",
+                "P31": "Sloup",
+                "P131^label:cs": "Morávka",
+                "P6736": "14912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5392,
+                    49.58625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník vodního díla na Morávce v Morávce",
+                "P31": "Památník",
+                "P131^label:cs": "Morávka",
+                "P6736": "14896"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53608,
+                    49.58381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník u přehrady v Morávce",
+                "P31": "Pomník",
+                "P131^label:cs": "Morávka",
+                "P6736": "14895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53657,
+                    49.58375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník staviteli beskydských přehrad v Morávce",
+                "P31": "Památník",
+                "P131^label:cs": "Morávka",
+                "P6736": "14894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53635,
+                    49.5839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník dvěma popraveným z 2. světové války v Morávce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Morávka",
+                "P6736": "14893"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53527,
+                    49.58651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník umučeným v Morávce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Morávka",
+                "P6736": "14892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52805,
+                    49.59092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska na hasičské zbrojnici v Morávce",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Morávka",
+                "P6736": "14891"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.51596,
+                    49.60123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska profesoru Janu Larišovi v Morávce",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Morávka",
+                "P6736": "14890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.50967,
+                    49.59628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na počátku údolí Vlaského v Morávce",
+                "P31": "Zvonička",
+                "P131^label:cs": "Morávka",
+                "P6736": "14889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.51035,
+                    49.59879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v údolí Vlaského v Morávce",
+                "P31": "Zvonička",
+                "P131^label:cs": "Morávka",
+                "P6736": "14888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.50849,
+                    49.587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v údolí Velkého Lipového v Morávce",
+                "P31": "Zvonička",
+                "P131^label:cs": "Morávka",
+                "P6736": "14886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.54063,
+                    49.60358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěná boží muka v Morávce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Morávka",
+                "P6736": "14884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.51785,
+                    49.60499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v údolí Malého Lipového v Morávce",
+                "P31": "Obrázek",
+                "P131^label:cs": "Morávka",
+                "P6736": "14883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5222,
+                    49.60966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v údolí Vlaského potoka v Morávce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Morávka",
+                "P6736": "14879"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.50855,
+                    49.58692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž poblíž parkoviště Na Lipovém v Morávce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Morávka",
+                "P6736": "14875"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5267,
+                    49.59371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Morávce v místní části Dolinky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Morávka",
+                "P6736": "14874"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52671,
+                    49.59668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v údolí potoka Mražok v Morávce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Morávka",
+                "P6736": "14873"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5418,
+                    49.6071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v údolí Velkého Lipového v Morávce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Morávka",
+                "P6736": "14872"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53682,
+                    49.6042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v údolí Velkého Lipového v Morávce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Morávka",
+                "P6736": "14871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52788,
+                    49.60059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Pražma do Morávky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Morávka",
+                "P6736": "14870"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.50633,
+                    49.60559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Noční přechod u Morávky",
+                "P31": "Socha",
+                "P131^label:cs": "Morávka",
+                "P6736": "9272"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52683,
+                    49.5933
+                ]
+            }
+        }
+    ]
+}

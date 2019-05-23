@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Nekoři v horní části obce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Nekoř",
+                "P6736": "16999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55707,
+                    50.05239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Bredůvce",
+                "P31": "Zvonička",
+                "P131^label:cs": "Nekoř",
+                "P6736": "11588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56201,
+                    50.04528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie Lurdské v Nekoři",
+                "P31": "Socha",
+                "P131^label:cs": "Nekoř",
+                "P6736": "11585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5466,
+                    50.06015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Nekoře",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nekoř",
+                "P6736": "11584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54756,
+                    50.06359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Bredůvce u křižovatky",
+                "P31": "Socha",
+                "P131^label:cs": "Nekoř",
+                "P6736": "11580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56201,
+                    50.04526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Šedivce",
+                "P31": "Socha",
+                "P131^label:cs": "Šedivec",
+                "P6736": "11579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53789,
+                    50.05258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha nad Nekoří",
+                "P31": "Neznámý",
+                "P131^label:cs": "Nekoř",
+                "P6736": "11578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53555,
+                    50.05696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u kostela v Nekoři",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nekoř",
+                "P6736": "9304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55181,
+                    50.05563
+                ]
+            }
+        }
+    ]
+}

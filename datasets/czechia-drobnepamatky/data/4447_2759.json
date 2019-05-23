@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela v Bělé u Staré Paky",
+                "P31": "Socha",
+                "P131^label:cs": "Bělá",
+                "P6736": "21531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44493,
+                    50.53398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší svatého Jana Křtitele při křtu Ježíše v Bělé u Staré Paky",
+                "P31": "Socha",
+                "P131^label:cs": "Bělá",
+                "P6736": "21530"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44509,
+                    50.53432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v Ústí u Staré Paky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Stará Paka",
+                "P6736": "21529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44666,
+                    50.51693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Ústí u Staré Paky",
+                "P31": "Kaplička",
+                "P131^label:cs": "Stará Paka",
+                "P6736": "21528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46362,
+                    50.51632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u silnice z Roškopova do Ústí u Staré Paky",
+                "P31": "Kaplička",
+                "P131^label:cs": "Stará Paka",
+                "P6736": "21527"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46666,
+                    50.51678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Madony v Ústí u Staré Paky",
+                "P31": "Socha",
+                "P131^label:cs": "Stará Paka",
+                "P6736": "21526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46065,
+                    50.51588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí na dolním konci Nové Vsi nad Popelkou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42706,
+                    50.51497
+                ]
+            }
+        }
+    ]
+}

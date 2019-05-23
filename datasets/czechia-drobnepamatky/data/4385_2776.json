@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka sv. Marka u Pramenů",
+                "P31": "Boží muka",
+                "P131^label:cs": "Prameny",
+                "P6736": "24045"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7232,
+                    50.05268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie u Pramenů",
+                "P31": "Kaple",
+                "P131^label:cs": "Prameny",
+                "P6736": "24044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71952,
+                    50.04813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž na bývalém hřbitově v Pramenech u silnice na Mnichov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Prameny",
+                "P6736": "15064"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73968,
+                    50.04934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Pramenech u silnice na Mnichov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Prameny",
+                "P6736": "15063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73866,
+                    50.05042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Pramenech východně od návsi",
+                "P31": "Socha",
+                "P131^label:cs": "Prameny",
+                "P6736": "15062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73325,
+                    50.04973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Pramenech východně od návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Prameny",
+                "P6736": "15061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73329,
+                    50.04956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční hodiny jihozápadně od návsi v Pramenech",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Prameny",
+                "P6736": "15060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7314,
+                    50.0483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník jihozápadně od návsi v Pramenech",
+                "P31": "Pomník",
+                "P131^label:cs": "Prameny",
+                "P6736": "15017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72896,
+                    50.04752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na křížové cestě západně od Pramenů",
+                "P31": "Obrázek",
+                "P131^label:cs": "Prameny",
+                "P6736": "15014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7246,
+                    50.04789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na křížové cestě západně od Pramenů",
+                "P31": "Obrázek",
+                "P131^label:cs": "Prameny",
+                "P6736": "15013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72468,
+                    50.04782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika na křížové cestě západně od Pramenů",
+                "P31": "Plastika",
+                "P131^label:cs": "Prameny",
+                "P6736": "15012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72473,
+                    50.04792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na křížové cestě západně od Pramenů",
+                "P31": "Obrázek",
+                "P131^label:cs": "Prameny",
+                "P6736": "15011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72408,
+                    50.04797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika na křížové cestě západně od Pramenů",
+                "P31": "Plastika",
+                "P131^label:cs": "Prameny",
+                "P6736": "15010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72419,
+                    50.0479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika na křížové cestě západně od Pramenů",
+                "P31": "Plastika",
+                "P131^label:cs": "Prameny",
+                "P6736": "15009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72408,
+                    50.04795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika na křížové cestě západně od Pramenů",
+                "P31": "Plastika",
+                "P131^label:cs": "Prameny",
+                "P6736": "15008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72282,
+                    50.04815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Berty Marie Lugertové",
+                "P31": "Pomník",
+                "P131^label:cs": "Prameny",
+                "P6736": "9214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73273,
+                    50.04976
+                ]
+            }
+        }
+    ]
+}

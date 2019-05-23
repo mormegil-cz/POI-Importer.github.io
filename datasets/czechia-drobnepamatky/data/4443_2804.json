@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památný kámen osvobození v roce 1945 u pomníku padlých v Jihlávce",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Jihlávka",
+                "P6736": "23296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29289,
+                    49.26118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník padlým v první světové válce v Jihlávce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Jihlávka",
+                "P6736": "23295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2928,
+                    49.26123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Letohrádku sv. Vojtěcha u Počátek",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Počátky",
+                "P6736": "19492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25245,
+                    49.26655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž poblíž pramene Jihlavy u silnice mezi Počátkami a Jihlávkou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Počátky",
+                "P6736": "19490"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2739,
+                    49.26085
+                ]
+            }
+        }
+    ]
+}

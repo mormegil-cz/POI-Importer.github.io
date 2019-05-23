@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Antonína Paduánského na mostě hradu Veveří",
+                "P31": "Socha",
+                "P131^label:cs": "Brno",
+                "P6736": "22392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46224,
+                    49.25681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Sarkandera na mostě hradu Veveří",
+                "P31": "Socha",
+                "P131^label:cs": "Brno",
+                "P6736": "22391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46233,
+                    49.2568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého na mostě hradu Veveří",
+                "P31": "Socha",
+                "P131^label:cs": "Brno",
+                "P6736": "22390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46232,
+                    49.25684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník 80 let zrušení roboty a 10 let výročí trvání Československé republiky u hlavní brány hradu Veveří",
+                "P31": "Památník",
+                "P131^label:cs": "Brno",
+                "P6736": "22383"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46144,
+                    49.25653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník návštěvy Sira Winstona Churchilla na hradu Veveří",
+                "P31": "Památník",
+                "P131^label:cs": "Brno",
+                "P6736": "22382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4627,
+                    49.25687
+                ]
+            }
+        }
+    ]
+}

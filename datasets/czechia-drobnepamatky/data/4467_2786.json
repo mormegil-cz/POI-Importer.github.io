@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Bolestného Krista v Chmelíku na návsi",
+                "P31": "Socha",
+                "P131^label:cs": "Chmelík",
+                "P6736": "21718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3334,
+                    49.77289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chmelíku u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chmelík",
+                "P6736": "21589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33397,
+                    49.77274
+                ]
+            }
+        }
+    ]
+}

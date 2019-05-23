@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u kostela v Malé Skalici",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8978"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03634,
+                    50.39657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Malé Skalici",
+                "P31": "Socha",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03714,
+                    50.39527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Barunky Panklové v Malé Skalici",
+                "P31": "Pomník",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8966"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03626,
+                    50.39584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Donáta u kostela v Malé Skalici",
+                "P31": "Socha",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03581,
+                    50.39629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriana u kostela v Malé Skalici",
+                "P31": "Socha",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8964"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03613,
+                    50.39644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela v Malé Skalici",
+                "P31": "Socha",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03582,
+                    50.39643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem v Malé Skalici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8962"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03589,
+                    50.39606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž za kostelem v Malé Skalici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03635,
+                    50.39649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve zdi u kostela v Malé Skalici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8960"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0362,
+                    50.39659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž u kostela v Malé Skalici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8959"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03601,
+                    50.39619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Malé Skalici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8958"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03495,
+                    50.39779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Havlíčkově ulici v Malé Skalici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8957"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03743,
+                    50.39766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž obětem pěšího pluku v Malé Skalici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03736,
+                    50.39776
+                ]
+            }
+        }
+    ]
+}

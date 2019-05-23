@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Michaela v Bukovině u Podbořanského Rohozce",
+                "P31": "Kaple",
+                "P131^label:cs": "Podbořanský Rohozec",
+                "P6736": "20256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25365,
+                    50.21909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Notburgy Ebenské",
+                "P31": "Kaple",
+                "P131^label:cs": "Podbořanský Rohozec",
+                "P6736": "19971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26184,
+                    50.21643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Podbořanském Rohozci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Podbořanský Rohozec",
+                "P6736": "19969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26206,
+                    50.21625
+                ]
+            }
+        }
+    ]
+}

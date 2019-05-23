@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jihozápadně od Bítova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Lochousice",
+                "P6736": "8805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09103,
+                    49.69097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Radějovicích na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Přehýšov",
+                "P6736": "3937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07212,
+                    49.69553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Radějovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Přehýšov",
+                "P6736": "3936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07202,
+                    49.69578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vrhavči",
+                "P31": "Kaple",
+                "P131^label:cs": "Kostelec",
+                "P6736": "3929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0548,
+                    49.68665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Vrhavče",
+                "P31": "Kaple",
+                "P131^label:cs": "Kostelec",
+                "P6736": "3928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05636,
+                    49.68947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Floriána v Lochousicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Lochousice",
+                "P6736": "3927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09105,
+                    49.67509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Radějovic na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Přehýšov",
+                "P6736": "2421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07331,
+                    49.6949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Radějovic u plotu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Přehýšov",
+                "P6736": "2422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07247,
+                    49.69439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Lochousicemi a Ostrovem u Stříbra nad Vrhavčí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lochousice",
+                "P6736": "1969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07213,
+                    49.68252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Lochousic u cesty do Horních Sekyřan mezi stromy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lochousice",
+                "P6736": "1966"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09272,
+                    49.67952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Lochousicemi a Ostrovem u Stříbra",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lochousice",
+                "P6736": "1968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07839,
+                    49.68129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Lochousic u cesty do Horních Sekyřan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lochousice",
+                "P6736": "1965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09249,
+                    49.68198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Lochousic u staré cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lochousice",
+                "P6736": "1967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09231,
+                    49.67853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lesíku u Lochousic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lochousice",
+                "P6736": "1964"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08417,
+                    49.67897
+                ]
+            }
+        }
+    ]
+}

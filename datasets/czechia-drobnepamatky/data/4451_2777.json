@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomníky padlým v první a druhé světové válce v Mělicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Přelouč",
+                "P6736": "14372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61845,
+                    50.03553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mělicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Přelouč",
+                "P6736": "14371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61837,
+                    50.03556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v Mělicích u mostu přes Labe",
+                "P31": "Pomník",
+                "P131^label:cs": "Přelouč",
+                "P6736": "14370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61699,
+                    50.03354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Valech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Valy",
+                "P6736": "14369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61703,
+                    50.02984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Valech",
+                "P31": "Zvonička",
+                "P131^label:cs": "Valy",
+                "P6736": "14368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61701,
+                    50.0298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie ve Valech",
+                "P31": "Socha",
+                "P131^label:cs": "Valy",
+                "P6736": "14367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61541,
+                    50.03025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Klenovce",
+                "P31": "Zvonička",
+                "P131^label:cs": "Přelouč",
+                "P6736": "14366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60117,
+                    50.02412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Klenovce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Přelouč",
+                "P6736": "14365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60109,
+                    50.02409
+                ]
+            }
+        }
+    ]
+}

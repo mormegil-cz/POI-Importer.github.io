@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Pěkově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Police nad Metují",
+                "P6736": "22519"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23222,
+                    50.56994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Honů u cesty do Broumova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Křinice",
+                "P6736": "22251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24812,
+                    50.58782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Honském sedle",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Police nad Metují",
+                "P6736": "22250"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24339,
+                    50.58516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Honech střed obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Police nad Metují",
+                "P6736": "22249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23799,
+                    50.58118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Pěkova u silnice do Teplic nad Metují",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Police nad Metují",
+                "P6736": "22246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21661,
+                    50.56935
+                ]
+            }
+        }
+    ]
+}

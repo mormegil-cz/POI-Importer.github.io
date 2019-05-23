@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Nových Mitrovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Nové Mitrovice",
+                "P6736": "5288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68368,
+                    49.57947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chynína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čížkov",
+                "P6736": "5017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70477,
+                    49.5623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Nových Mitrovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čížkov",
+                "P6736": "4287"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68441,
+                    49.57399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Železném Újezdu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čížkov",
+                "P6736": "3987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67485,
+                    49.56427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Železném Újezdu",
+                "P31": "Socha",
+                "P131^label:cs": "Čížkov",
+                "P6736": "3986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67412,
+                    49.56168
+                ]
+            }
+        }
+    ]
+}

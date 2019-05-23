@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Pozďatíně",
+                "P31": "Kaple",
+                "P131^label:cs": "Pozďatín",
+                "P6736": "9351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03675,
+                    49.23655
+                ]
+            }
+        }
+    ]
+}

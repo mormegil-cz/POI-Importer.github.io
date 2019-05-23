@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Březině ve středu obce",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "11303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62023,
+                    49.65132
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Františka jižně od Slavic",
+                "P31": "Socha",
+                "P131^label:cs": "Horní Kozolupy",
+                "P6736": "9875"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95053,
+                    49.81306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Slavic",
+                "P31": "Kaple",
+                "P131^label:cs": "Horní Kozolupy",
+                "P6736": "9874"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.94779,
+                    49.82164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Horních Kozolup u zničené cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Kozolupy",
+                "P6736": "9869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93644,
+                    49.83522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Horních Kozolup u lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Kozolupy",
+                "P6736": "9867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9295,
+                    49.83271
+                ]
+            }
+        }
+    ]
+}

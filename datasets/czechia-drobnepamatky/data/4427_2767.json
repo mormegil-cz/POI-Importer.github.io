@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela v Liblicích",
+                "P31": "Socha",
+                "P131^label:cs": "Liblice",
+                "P6736": "24412"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58846,
+                    50.31162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u kostela v Liblicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Liblice",
+                "P6736": "24410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58903,
+                    50.31143
+                ]
+            }
+        }
+    ]
+}

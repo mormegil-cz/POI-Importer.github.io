@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Mezné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mezná",
+                "P6736": "19932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20489,
+                    49.3465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska na domě čp.15 v místní části Vlásenice-Drbohlavy",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17894,
+                    49.3485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Drážďan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Častrov",
+                "P6736": "6706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17059,
+                    49.32593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vlásenici-Drbohlavech u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "6069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17801,
+                    49.34979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vlásenici-Drobohlavech",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "6068"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17803,
+                    49.34977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Čelistné u lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čelistná",
+                "P6736": "6067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20298,
+                    49.35294
+                ]
+            }
+        }
+    ]
+}

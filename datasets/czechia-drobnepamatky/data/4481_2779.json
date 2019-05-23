@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Šumperku nad hřbitovem v poli",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Šumperk",
+                "P6736": "24425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95513,
+                    49.9538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž Dolní Temenice na sedle Červený kříž",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Šumperk",
+                "P6736": "24416"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93605,
+                    49.96543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní desky padlým v Šumperku v Dolní Temenici na zdi kaple na ulici Anglická",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Šumperk",
+                "P6736": "23267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9628,
+                    49.97124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Šumperku v Dolní Temenici na ulici Anglická",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Šumperk",
+                "P6736": "23266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9628,
+                    49.97114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Šumperku v Dolní Temenici na ulici Anglická",
+                "P31": "Kaple",
+                "P131^label:cs": "Šumperk",
+                "P6736": "23265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96279,
+                    49.97119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Šumperku v Horní Temenici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Šumperk",
+                "P6736": "23259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9447,
+                    49.97847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž u Bludova v části Bludoveček",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bludov",
+                "P6736": "21454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.94924,
+                    49.95623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Opracovaný kámen u Bludova pod hradištěm",
+                "P31": "Neznámý",
+                "P131^label:cs": "Bludov",
+                "P6736": "18902"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93717,
+                    49.95656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Lichtenštejnský památník v Hrabenově u hájenky",
+                "P31": "Památník",
+                "P131^label:cs": "Ruda nad Moravou",
+                "P6736": "18901"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92763,
+                    49.97901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec božích muk v Šumperku Dolní Temenici",
+                "P31": "Boží muka",
+                "P131^label:cs": "Šumperk",
+                "P6736": "17597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95207,
+                    49.96436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou svatého Rocha v Bludově",
+                "P31": "Sloup",
+                "P131^label:cs": "Bludov",
+                "P6736": "13277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93673,
+                    49.95208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Bludova v lese",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bludov",
+                "P6736": "13196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91982,
+                    49.96883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Bludova v lese",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bludov",
+                "P6736": "11673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92015,
+                    49.96894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Bludova v lese",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bludov",
+                "P6736": "11672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91983,
+                    49.96909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ježíšem s beránkem za Bludovem",
+                "P31": "Sloup",
+                "P131^label:cs": "Bludov",
+                "P6736": "11671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92188,
+                    49.96029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž za Bludovem u lesní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bludov",
+                "P6736": "11670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92232,
+                    49.95949
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ulomeného kříže u cesty na severním okraji Liběšic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Želenice",
+                "P6736": "20888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73973,
+                    50.52199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice na návsi v Liběšicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Želenice",
+                "P6736": "20887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74599,
+                    50.51982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí na jižním okraji Liběšic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Želenice",
+                "P6736": "20886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74737,
+                    50.51823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha anděla před kaplí v Kaňkově",
+                "P31": "Socha",
+                "P131^label:cs": "Braňany",
+                "P6736": "16656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73482,
+                    50.53879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Kaňkově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Braňany",
+                "P6736": "16655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73476,
+                    50.5388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny v Kaňkově",
+                "P31": "Kaple",
+                "P131^label:cs": "Braňany",
+                "P6736": "16654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7348,
+                    50.53876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 2.světové války u kostela v Želenicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Želenice",
+                "P6736": "16650"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72634,
+                    50.52744
+                ]
+            }
+        }
+    ]
+}

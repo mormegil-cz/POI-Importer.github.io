@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Českého Rudolce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "13031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30999,
+                    49.06812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Českém Rudolci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "13029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31749,
+                    49.0676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Českém Rudolci před kostelem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "13020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3248,
+                    49.06819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Českého Rudolce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31646,
+                    49.07903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup severně od Českého Rudolce",
+                "P31": "Sloup",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12960"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3217,
+                    49.07589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen mezi Českým Rudolcem a Markvarcem",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32182,
+                    49.07973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Českého Rudolce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31179,
+                    49.07436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Dolního Radíkova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29701,
+                    49.07566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně Markvarce II",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30852,
+                    49.08809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jižně od Markvarce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.321,
+                    49.08267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž uprostřed obce Markvarec",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.318,
+                    49.08922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Markvarci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31795,
+                    49.08924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Markvarci",
+                "P31": "Socha",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31909,
+                    49.08904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Markvarce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12740"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29935,
+                    49.08974
+                ]
+            }
+        }
+    ]
+}

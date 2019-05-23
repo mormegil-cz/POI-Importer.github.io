@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník pozemkových úprav severně od Budislavi",
+                "P31": "Památník",
+                "P131^label:cs": "Budislav",
+                "P6736": "11965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.83473,
+                    49.29952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Hlavňova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Budislav",
+                "P6736": "11963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84885,
+                    49.30441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Hlavňova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tučapy",
+                "P6736": "7647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8309,
+                    49.3031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Hlavňově",
+                "P31": "Boží muka",
+                "P131^label:cs": "Budislav",
+                "P6736": "7646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.83849,
+                    49.30603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hlavňově",
+                "P31": "Kaple",
+                "P131^label:cs": "Budislav",
+                "P6736": "7645"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84315,
+                    49.30713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Předboře u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Choustník",
+                "P6736": "7573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.85137,
+                    49.32077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Přeboře",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Choustník",
+                "P6736": "7572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84945,
+                    49.32255
+                ]
+            }
+        }
+    ]
+}

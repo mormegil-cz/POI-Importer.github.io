@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Floriána ve Svatém Jiří",
+                "P31": "Socha",
+                "P131^label:cs": "Svatý Jiří",
+                "P6736": "11962"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27024,
+                    49.97279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Sv. Jana Nepomuckého ve Svatém Jiří",
+                "P31": "Socha",
+                "P131^label:cs": "Svatý Jiří",
+                "P6736": "11961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27039,
+                    49.97284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Svatém Jiří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svatý Jiří",
+                "P6736": "11960"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27049,
+                    49.97279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sítinách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svatý Jiří",
+                "P6736": "11956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2743,
+                    49.96531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Svatého Jiří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svatý Jiří",
+                "P6736": "11939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27747,
+                    49.9778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Svatém Jiří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svatý Jiří",
+                "P6736": "11729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2751,
+                    49.97312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen ve Svatém Jiří",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Svatý Jiří",
+                "P6736": "11728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27323,
+                    49.97536
+                ]
+            }
+        }
+    ]
+}

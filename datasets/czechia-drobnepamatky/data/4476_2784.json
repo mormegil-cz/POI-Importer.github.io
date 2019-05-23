@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým Třebařov před školou",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třebařov",
+                "P6736": "25467"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70129,
+                    49.83334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Petrušově na okraji lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Staré Město",
+                "P6736": "21862"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74094,
+                    49.81877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Petra a Pavla v Petrušově",
+                "P31": "Kaple",
+                "P131^label:cs": "Staré Město",
+                "P6736": "21859"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.73744,
+                    49.81735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice v Třebařově u kostela",
+                "P31": "Sloup",
+                "P131^label:cs": "Třebařov",
+                "P6736": "16197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70315,
+                    49.82359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Ave Maria v Třebařově u kostela",
+                "P31": "Socha",
+                "P131^label:cs": "Třebařov",
+                "P6736": "15558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70336,
+                    49.82394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Třebařově u kostela severní strana",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebařov",
+                "P6736": "15557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7034,
+                    49.82395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Třebařově poblíž cesty na Petrušov",
+                "P31": "Socha",
+                "P131^label:cs": "Třebařov",
+                "P6736": "15508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70272,
+                    49.82838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Staré Město",
+                "P6736": "15207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.73342,
+                    49.81119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Petrušově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Staré Město",
+                "P6736": "15206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74205,
+                    49.81831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Petrušově severní okraj",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Staré Město",
+                "P6736": "15205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74128,
+                    49.82323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže mezi Třebařovem a Petrušovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebařov",
+                "P6736": "15204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.72101,
+                    49.83025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sousoším Nejsvětější Trojice v Třebařově",
+                "P31": "Sloup",
+                "P131^label:cs": "Třebařov",
+                "P6736": "15090"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70175,
+                    49.83209
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Valticích u hřbitova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Valtice",
+                "P6736": "17285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76618,
+                    48.75201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svaté Anny u Valtic vedle polní cesty",
+                "P31": "Kaplička",
+                "P131^label:cs": "Valtice",
+                "P6736": "17284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77587,
+                    48.75308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Valticích na ulici Petra Bezruče",
+                "P31": "Kaplička",
+                "P131^label:cs": "Valtice",
+                "P6736": "17283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76328,
+                    48.74963
+                ]
+            }
+        }
+    ]
+}

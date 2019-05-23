@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v ohradní zdi kostela ve Vrbně u Mělníka",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hořín",
+                "P6736": "22680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45036,
+                    50.32352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Barbory u kostela ve Vrbně u Mělníka",
+                "P31": "Kaple",
+                "P131^label:cs": "Hořín",
+                "P6736": "22679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45032,
+                    50.32379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Nejsvětějších Pěti ran Kristových v osadě Vrbno",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hořín",
+                "P6736": "22678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45095,
+                    50.32443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u Vrbna u Mělníka",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hořín",
+                "P6736": "11244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45411,
+                    50.32859
+                ]
+            }
+        }
+    ]
+}

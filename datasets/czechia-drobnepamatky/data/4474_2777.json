@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Bystřeci u lesní cesty",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Bystřec",
+                "P6736": "12652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61653,
+                    50.00875
+                ]
+            }
+        }
+    ]
+}

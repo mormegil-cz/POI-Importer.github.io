@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ježíše Krista na hřbitově v Libčicích nad Vltavou",
+                "P31": "Socha",
+                "P131^label:cs": "Libčice nad Vltavou",
+                "P6736": "24814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3604,
+                    50.19812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 2.světové války na náměstí Svobody v Libčicích nad Vltavou",
+                "P31": "Pomník",
+                "P131^label:cs": "Libčice nad Vltavou",
+                "P6736": "24813"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36419,
+                    50.19641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Jana Husa na evangelickém kostele v Libčicích nad Vltavou",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Libčice nad Vltavou",
+                "P6736": "24812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36437,
+                    50.19838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Libčicích nad Vltavou",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Libčice nad Vltavou",
+                "P6736": "24811"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36223,
+                    50.20052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u rozcestí K Těšině v Tursku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tursko",
+                "P6736": "23010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32807,
+                    50.19362
+                ]
+            }
+        }
+    ]
+}

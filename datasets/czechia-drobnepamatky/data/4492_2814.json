@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u zemědělského areálu východně od Uherského Ostrohu",
+                "P31": "Kaplička",
+                "P131^label:cs": "Uherský Ostroh",
+                "P6736": "16711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4161,
+                    48.97898
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u autobusové zastávky v osadě Škrle",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bílence",
+                "P6736": "23950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53247,
+                    50.41097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník císaře Josefa II. u zámku v osadě Škrle",
+                "P31": "Pomník",
+                "P131^label:cs": "Bílence",
+                "P6736": "23949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53193,
+                    50.415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Jana Nepomuckého v osadě Škrle",
+                "P31": "Sloup",
+                "P131^label:cs": "Bílence",
+                "P6736": "23948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53238,
+                    50.41548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v osadě Voděrady",
+                "P31": "Kaple",
+                "P131^label:cs": "Bílence",
+                "P6736": "23947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51539,
+                    50.42184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Voděrady",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílence",
+                "P6736": "23946"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51506,
+                    50.42266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Bílencích",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Bílence",
+                "P6736": "23945"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50552,
+                    50.42387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na návsi v Bílencích",
+                "P31": "Pomník",
+                "P131^label:cs": "Bílence",
+                "P6736": "23944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50559,
+                    50.42454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty západně od Bílenců",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílence",
+                "P6736": "23943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50221,
+                    50.42517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u domu 11 v Bílencích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílence",
+                "P6736": "23942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50371,
+                    50.42395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u mostu přes Chomutovku v Bílencích",
+                "P31": "Socha",
+                "P131^label:cs": "Bílence",
+                "P6736": "23941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50453,
+                    50.42252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětí pochodu smrti v dubnu 1945 v lese u Hořence",
+                "P31": "Pomník",
+                "P131^label:cs": "Nezabylice",
+                "P6736": "23940"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4936,
+                    50.41435
+                ]
+            }
+        }
+    ]
+}

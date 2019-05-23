@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Smržice u hřbitova",
+                "P31": "Kaple",
+                "P131^label:cs": "Smržice",
+                "P6736": "25790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10884,
+                    49.50874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka Studenec na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Čelechovice na Hané",
+                "P6736": "25146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1038,
+                    49.51456
+                ]
+            }
+        }
+    ]
+}

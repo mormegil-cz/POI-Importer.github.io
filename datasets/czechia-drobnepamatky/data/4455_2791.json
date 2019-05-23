@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u rozcestí silnic Vepřová - Malá Losenice a Vepřová - Havlíčkova Borová",
+                "P31": "Boží muka",
+                "P131^label:cs": "Vepřová",
+                "P6736": "15835"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81359,
+                    49.61803
+                ]
+            }
+        }
+    ]
+}

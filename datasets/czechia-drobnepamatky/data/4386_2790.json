@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Valchy",
+                "P31": "Kaple",
+                "P131^label:cs": "Stráž",
+                "P6736": "3787"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78088,
+                    49.64954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jižně od městyse Stráž",
+                "P31": "Kaplička",
+                "P131^label:cs": "Stráž",
+                "P6736": "2565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.77805,
+                    49.66035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Valchy za kapličkou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Stráž",
+                "P6736": "1225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78088,
+                    49.64977
+                ]
+            }
+        }
+    ]
+}

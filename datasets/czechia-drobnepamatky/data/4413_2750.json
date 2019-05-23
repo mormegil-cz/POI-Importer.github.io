@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hrobu padlých v bitvě 1813 v Petrovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "16203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97246,
+                    50.78887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v místě kostela strženého v 18.století v Petrovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "16202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97409,
+                    50.78945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v dolní části obce Krásný Les",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "15044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9358,
+                    50.76749
+                ]
+            }
+        }
+    ]
+}

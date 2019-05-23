@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha houslaře v Lubech",
+                "P31": "Socha",
+                "P131^label:cs": "Luby",
+                "P6736": "9569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.40567,
+                    50.25425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lubech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Luby",
+                "P6736": "9568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.40374,
+                    50.25152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lubech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Luby",
+                "P6736": "9567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.40388,
+                    50.25135
+                ]
+            }
+        }
+    ]
+}

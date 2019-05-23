@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Spojilu",
+                "P31": "Kaple",
+                "P131^label:cs": "Spojil",
+                "P6736": "13194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.82235,
+                    50.04208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Spojilu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Spojil",
+                "P6736": "13193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8222,
+                    50.04212
+                ]
+            }
+        }
+    ]
+}

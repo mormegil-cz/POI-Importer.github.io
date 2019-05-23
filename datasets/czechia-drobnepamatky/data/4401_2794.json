@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple východně od Dolců",
+                "P31": "Kaple",
+                "P131^label:cs": "Dolce",
+                "P6736": "4326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41843,
+                    49.55185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Kbelnici",
+                "P31": "Kaple",
+                "P131^label:cs": "Letiny",
+                "P6736": "4127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44028,
+                    49.54171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v lese nad Horšicemi",
+                "P31": "Pomník",
+                "P131^label:cs": "Horšice",
+                "P6736": "2703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41283,
+                    49.5312
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Partyzánům západně od Počátek",
+                "P31": "Pomník",
+                "P131^label:cs": "Seč",
+                "P6736": "25120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61269,
+                    49.85253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Horních Počátkách",
+                "P31": "Zvonička",
+                "P131^label:cs": "Seč",
+                "P6736": "15150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.62156,
+                    49.84932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž s deskou padlých občanů v Horních Počátkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Seč",
+                "P6736": "15149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.62146,
+                    49.84933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Horních Počátkách",
+                "P31": "Kaplička",
+                "P131^label:cs": "Seč",
+                "P6736": "15148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61773,
+                    49.85604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dolních Počátkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Seč",
+                "P6736": "15147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6169,
+                    49.85629
+                ]
+            }
+        }
+    ]
+}

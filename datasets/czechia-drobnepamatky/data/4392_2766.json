@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Nejsvětější Trojice ve Stráži nad Ohří",
+                "P31": "Socha",
+                "P131^label:cs": "Stráž nad Ohří",
+                "P6736": "13730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05138,
+                    50.3375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela ve Stráži nad Ohří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Stráž nad Ohří",
+                "P6736": "13728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05096,
+                    50.33727
+                ]
+            }
+        }
+    ]
+}

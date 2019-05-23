@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. a 2. sv. válce východně od Jiráskovy chaty v Dobrošově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Náchod",
+                "P6736": "25789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1932,
+                    50.40035
+                ]
+            }
+        }
+    ]
+}

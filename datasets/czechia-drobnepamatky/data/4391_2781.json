@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha veverky nebo kohouta nebo tak něčeho v Bezdružicích",
+                "P31": "Socha",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "6459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.96823,
+                    49.90885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Křivců",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "6458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97133,
+                    49.92093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple jižně od Křivců",
+                "P31": "Kaple",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "6457"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97094,
+                    49.91765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Potínem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Konstantinovy Lázně",
+                "P6736": "5626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99705,
+                    49.89865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple jihovýchodně od Bezdružic",
+                "P31": "Kaple",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "5625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97627,
+                    49.90392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Bezdružic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "5624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97538,
+                    49.90718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Bezdružic nad vlakovým nádražím",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "5622"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97007,
+                    49.90029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bezdružicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "5620"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.96832,
+                    49.90437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple jižně od Bezdružic",
+                "P31": "Kaple",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "5621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.96416,
+                    49.90215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Bezdružicích",
+                "P31": "Památník",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "5619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97001,
+                    49.90812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší svatého Floriána v Bezdružicích",
+                "P31": "Socha",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "5618"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.96965,
+                    49.90794
+                ]
+            }
+        }
+    ]
+}

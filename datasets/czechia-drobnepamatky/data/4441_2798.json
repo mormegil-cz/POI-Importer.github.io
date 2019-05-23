@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Starého Pelhřimova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20272"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1902,
+                    49.43846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž před hřbitovem ve Starém Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19669,
+                    49.43536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Starém Pelhřimově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19663,
+                    49.43608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Starém Pelhřimově",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19924,
+                    49.43438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička sv. Mikuláše u cesty do Vlásenice",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18997,
+                    49.42329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Dubovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dubovice",
+                "P6736": "20142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17884,
+                    49.42756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Dubovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dubovice",
+                "P6736": "20141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17365,
+                    49.43306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve východní části Dubovic u Váňova statku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dubovice",
+                "P6736": "19870"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17522,
+                    49.43399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Vlásenického Dvora",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "7371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16248,
+                    49.42504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Vlásenice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "7370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17357,
+                    49.4157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vlásenici",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "7369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16559,
+                    49.41965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Vlásenici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "7368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16564,
+                    49.41968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Vlásenice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "7367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16362,
+                    49.41924
+                ]
+            }
+        }
+    ]
+}

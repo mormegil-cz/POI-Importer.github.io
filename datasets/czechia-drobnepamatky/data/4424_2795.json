@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí jižně od Květuše",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chyšky",
+                "P6736": "1866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45226,
+                    49.51787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u rozcestí nad Květuší",
+                "P31": "Obrázek",
+                "P131^label:cs": "Chyšky",
+                "P6736": "1867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44057,
+                    49.51811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Květuše",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chyšky",
+                "P6736": "1868"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43759,
+                    49.51859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chyšek",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chyšky",
+                "P6736": "1647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43265,
+                    49.52007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Chyšek",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chyšky",
+                "P6736": "1648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41506,
+                    49.52253
+                ]
+            }
+        }
+    ]
+}

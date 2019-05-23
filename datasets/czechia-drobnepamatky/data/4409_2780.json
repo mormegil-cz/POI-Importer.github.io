@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen číslo 101 jihozápadně od Broum",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Ostrovec-Lhotka",
+                "P6736": "12788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79833,
+                    49.93226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen číslo 99 jihozápadně od Broum",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Ostrovec-Lhotka",
+                "P6736": "12787"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79768,
+                    49.933
+                ]
+            }
+        }
+    ]
+}

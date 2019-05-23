@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dobré Vodě u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda u Pacova",
+                "P6736": "16441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02904,
+                    49.40219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vintířově u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Obrataň",
+                "P6736": "8096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99096,
+                    49.39784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vintířova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Obrataň",
+                "P6736": "8095"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00097,
+                    49.39891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vintířově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Obrataň",
+                "P6736": "7496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99011,
+                    49.39843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dobré Vodě",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dobrá Voda u Pacova",
+                "P6736": "6438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02784,
+                    49.40392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dobré Vodě",
+                "P31": "Kaple",
+                "P131^label:cs": "Dobrá Voda u Pacova",
+                "P6736": "6437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02789,
+                    49.40402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Dobré Vodě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda u Pacova",
+                "P6736": "6436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02793,
+                    49.40413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vintířově",
+                "P31": "Kaple",
+                "P131^label:cs": "Obrataň",
+                "P6736": "6435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99111,
+                    49.39779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Vintířova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Obrataň",
+                "P6736": "3161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98617,
+                    49.40141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Vintířova nedaleko zemědělského areálu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Obrataň",
+                "P6736": "2755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98765,
+                    49.40022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Vintířova mezi stromy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Obrataň",
+                "P6736": "2756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99245,
+                    49.40378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v křoví nad Vintířovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Obrataň",
+                "P6736": "2754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.996,
+                    49.39507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Vintířova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Obrataň",
+                "P6736": "2757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99443,
+                    49.40498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Vintířovem u rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda u Pacova",
+                "P6736": "1390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01591,
+                    49.40548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Dobré Vody mezi stromy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda u Pacova",
+                "P6736": "1387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02514,
+                    49.40259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Dobrou Vodou u sadu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda u Pacova",
+                "P6736": "1386"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02544,
+                    49.40392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Dobré Vody u lesíku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda u Pacova",
+                "P6736": "1388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02475,
+                    49.40146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty k Dobré Vodě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda u Pacova",
+                "P6736": "1385"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02364,
+                    49.40836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Vintířovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda u Pacova",
+                "P6736": "1389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00662,
+                    49.4098
+                ]
+            }
+        }
+    ]
+}

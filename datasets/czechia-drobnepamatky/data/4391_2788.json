@@ -1,0 +1,389 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Madony nad západním portálem kostela Nanebevzetí Panny Marie v Kladrubech",
+                "P31": "Socha",
+                "P131^label:cs": "Kladruby",
+                "P6736": "25451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99496,
+                    49.71252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Soška svatého Jana Nepomuckého ve výklenku domu 31 na náměstí Republiky v Kladrubech",
+                "P31": "Socha",
+                "P131^label:cs": "Kladruby",
+                "P6736": "25444"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98161,
+                    49.7153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na vyhlídce Kalvárie u Pozorky u Kladrub",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "25443"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9958,
+                    49.71612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jakuba nad portálem kostela svatého Jakuba v Kladrubech u Stříbra",
+                "P31": "Socha",
+                "P131^label:cs": "Kladruby",
+                "P6736": "25442"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98189,
+                    49.71503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Republiky v Kladrubech u Stříbra",
+                "P31": "Kašna",
+                "P131^label:cs": "Kladruby",
+                "P6736": "25441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98141,
+                    49.71513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Benedikta na štítě nad bočním portálem kostela Nanebevzetí Panny Marie kláštera v Kladrubech u Stříbra",
+                "P31": "Socha",
+                "P131^label:cs": "Kladruby",
+                "P6736": "25440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99555,
+                    49.71273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Madony nad bočním portálem kostela Nanebevzetí Panny Marie kláštera v Kladrubech u Stříbra",
+                "P31": "Socha",
+                "P131^label:cs": "Kladruby",
+                "P6736": "25439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99554,
+                    49.71278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy u portálu konventu kláštera v Kladrubech u Stříbra",
+                "P31": "Socha",
+                "P131^label:cs": "Kladruby",
+                "P6736": "25438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99576,
+                    49.71184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy ve štítě konventu kláštera v Kladrubech u Stříbra",
+                "P31": "Socha",
+                "P131^label:cs": "Kladruby",
+                "P6736": "25437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99575,
+                    49.71186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Milník času Vladislava I. v Husově ulici v Kladrubech",
+                "P31": "Pomník",
+                "P131^label:cs": "Kladruby",
+                "P6736": "25436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98553,
+                    49.71566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zahradě domu Hřbitovní 329 v Kladrubech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "25435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98379,
+                    49.71877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Kladrubech II",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "4900"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98188,
+                    49.71497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen v Kladrubech III",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Kladruby",
+                "P6736": "4899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98186,
+                    49.71499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen v Kladrubech II",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Kladruby",
+                "P6736": "4898"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98184,
+                    49.715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen v Kladrubech I",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Kladruby",
+                "P6736": "4897"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98185,
+                    49.71501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Kladrubech I",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "4896"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98189,
+                    49.71502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kladrubech v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98913,
+                    49.71498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kladrubech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3933"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98691,
+                    49.71556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Kladrubech",
+                "P31": "Sloup",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98116,
+                    49.71515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Kladrubech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98245,
+                    49.71506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kladrub u okraje lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "2379"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00578,
+                    49.71229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kladrub u silnice do Benešovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "1725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9722,
+                    49.71558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kladrub u silnice na Stříbro",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "1724"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98082,
+                    49.71854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Stříbrem u silnice na Kladruby",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "1726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97567,
+                    49.72392
+                ]
+            }
+        }
+    ]
+}

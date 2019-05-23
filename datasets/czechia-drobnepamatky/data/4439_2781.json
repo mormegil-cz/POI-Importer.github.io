@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve středu Mančic u Rašovic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Rašovice",
+                "P6736": "17539"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09174,
+                    49.89735
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Ondřejova u silnice k chatkám",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ondřejov",
+                "P6736": "20841"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1753,
+                    49.39886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Ondřejova u rybníku Hejlov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ondřejov",
+                "P6736": "20840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17377,
+                    49.39452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u lomu na Zeleném vrchu u Ondřejova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ondřejov",
+                "P6736": "19928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19422,
+                    49.39362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ondřejově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ondřejov",
+                "P6736": "19754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17754,
+                    49.39273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Ondřejově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ondřejov",
+                "P6736": "19753"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17751,
+                    49.39188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Ondřejově",
+                "P31": "Kaple",
+                "P131^label:cs": "Ondřejov",
+                "P6736": "19747"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17746,
+                    49.39182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Myslotíně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19872,
+                    49.40292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Myslotíně",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19865,
+                    49.40292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky mezi Myslotínem a Vokovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20446,
+                    49.39773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji lesa Kopaniny západně od Myslotína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ondřejov",
+                "P6736": "19206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18683,
+                    49.40182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Ondřejova poblíž hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ondřejov",
+                "P6736": "19205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18456,
+                    49.39428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli u Hejlovského rybníka u Ondřejova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ondřejov",
+                "P6736": "18789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17188,
+                    49.40121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž poblíž Nohaviček u Maštálky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19564,
+                    49.41007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ústrašíně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ústrašín",
+                "P6736": "6044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16847,
+                    49.38254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Ústrašíně u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústrašín",
+                "P6736": "6043"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16604,
+                    49.38292
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Mileva",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.96579,
+                    49.68198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Zhoře u rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zhoř",
+                "P6736": "2912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97119,
+                    49.67048
+                ]
+            }
+        }
+    ]
+}

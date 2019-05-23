@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy šelem na bráně ke Kludského vile v Jirkově",
+                "P31": "Socha",
+                "P131^label:cs": "Jirkov",
+                "P6736": "19684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44018,
+                    50.50052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha světce na rohu ulic Žižkova a Vinařická v Jirkově",
+                "P31": "Socha",
+                "P131^label:cs": "Jirkov",
+                "P6736": "19683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44176,
+                    50.50007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Pomocné ve Vinařicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Jirkov",
+                "P6736": "19646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43153,
+                    50.50393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Antonína Sochora v Jirkově",
+                "P31": "Pomník",
+                "P131^label:cs": "Jirkov",
+                "P6736": "9059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44594,
+                    50.49297
+                ]
+            }
+        }
+    ]
+}

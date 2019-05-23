@@ -1,0 +1,469 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u potoka v Kamenici nad Lipou",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "25319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07839,
+                    49.29736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u ulice Ke Stadionu v Kamenici nad Lipou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "23246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07596,
+                    49.30617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Ostrý roháč v Kamenici nad Lipou",
+                "P31": "Památník",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "23245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0772,
+                    49.3052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u osady Johanka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "23244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08425,
+                    49.31537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kaplička na břehu Kamenice",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "22694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07828,
+                    49.29723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Vítězslava Nováka na náměstí v Kamenici nad Lipou",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "19726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0772,
+                    49.30209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Husově náměstí v Kamenici nad Lipou",
+                "P31": "Kašna",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "19725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07607,
+                    49.30287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník na škole v Kamenici nad Lipou",
+                "P31": "Památník",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "11120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07514,
+                    49.30362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Jubilejní aleje v Kamenici nad Lipou",
+                "P31": "Památník",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "10715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07652,
+                    49.29915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička se sochou svatého Jana Nepomuckého v Kamenici nad Lipou",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "8006"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0738,
+                    49.30391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Československé armády v Kamenici nad Lipou",
+                "P31": "Kašna",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "8005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07767,
+                    49.3021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kamenici nad Lipou ve výklenku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "8004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07703,
+                    49.30089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kamenici nad Lipou v Masarykově ulici",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "8003"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07632,
+                    49.29949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Kamenici nad Lipou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07577,
+                    49.30289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Antonky u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0903,
+                    49.30785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Lhoty-Vlásenice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lhota-Vlasenice",
+                "P6736": "6722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11521,
+                    49.30213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Antonky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lhota-Vlasenice",
+                "P6736": "6721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11193,
+                    49.30214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Antonce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6719"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10389,
+                    49.30568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Antonce",
+                "P31": "Památník",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10404,
+                    49.30573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Antonky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10098,
+                    49.30522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Antonky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6717"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10166,
+                    49.30937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava v Kamenici nad Lipou",
+                "P31": "Socha",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07775,
+                    49.30246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Kamenici nad Lipou u vstupu do zámku",
+                "P31": "Památník",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07833,
+                    49.30212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "památník v Kamenici nad Lipou na náměstí",
+                "P31": "Památník",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07796,
+                    49.30231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v Kamenici nad Lipou u zámku",
+                "P31": "Pomník",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07854,
+                    49.30252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kamenice nad Lipou nad rybníkem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08033,
+                    49.30353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kamenice nad Lipou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "6100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08667,
+                    49.30086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Lhoty-Vlásenice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lhota-Vlasenice",
+                "P6736": "6099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11014,
+                    49.29789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Kamenice nad Lipou",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "1700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07981,
+                    49.31115
+                ]
+            }
+        }
+    ]
+}

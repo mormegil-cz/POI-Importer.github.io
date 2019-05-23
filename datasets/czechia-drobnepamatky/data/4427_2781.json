@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kostelce u Křížků",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sulice",
+                "P6736": "14205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55461,
+                    49.91341
+                ]
+            }
+        }
+    ]
+}

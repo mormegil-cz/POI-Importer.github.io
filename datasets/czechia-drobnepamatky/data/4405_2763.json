@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Rozvalené části kříže na rozcestí v západním okraji Blažimi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blažim",
+                "P6736": "24633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62077,
+                    50.40622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Moravěvsi u silnice na Havraň",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Havraň",
+                "P6736": "20008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61025,
+                    50.42491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na návsi v Moravěvsi",
+                "P31": "Pomník",
+                "P131^label:cs": "Havraň",
+                "P6736": "20007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6123,
+                    50.42455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Moravěvsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Havraň",
+                "P6736": "20006"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61248,
+                    50.42416
+                ]
+            }
+        }
+    ]
+}

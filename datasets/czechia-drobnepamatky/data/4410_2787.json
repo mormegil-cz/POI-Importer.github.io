@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na Dobrotivské cestě v Brdech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zaječov",
+                "P6736": "14856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82891,
+                    49.73985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník vojína M. Kořínka v Brdech",
+                "P31": "Pomník",
+                "P131^label:cs": "Těně",
+                "P6736": "14855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80045,
+                    49.741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Těních u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těně",
+                "P6736": "7168"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80146,
+                    49.75187
+                ]
+            }
+        }
+    ]
+}

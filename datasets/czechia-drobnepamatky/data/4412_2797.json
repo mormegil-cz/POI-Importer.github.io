@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Pašitkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezdědovice",
+                "P6736": "8480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89811,
+                    49.44321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození jižně od Drahonického Málkova",
+                "P31": "Památník",
+                "P131^label:cs": "Blatná",
+                "P6736": "7703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90025,
+                    49.46763
+                ]
+            }
+        }
+    ]
+}

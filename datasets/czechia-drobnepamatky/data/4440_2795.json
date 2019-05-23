@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Červené Řečice u cesty do Rovné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "19865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16057,
+                    49.51244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v lese Bělá u cesty mezi Červenou Řečicí a Rovnou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "19863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15343,
+                    49.51172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Mašovicích",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hořepník",
+                "P6736": "19219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12687,
+                    49.49688
+                ]
+            }
+        }
+    ]
+}

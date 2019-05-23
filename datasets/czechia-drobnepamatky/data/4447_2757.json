@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého u hlavní silnice ve středu Kundratic",
+                "P31": "Socha",
+                "P131^label:cs": "Košťálov",
+                "P6736": "17398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43101,
+                    50.58408
+                ]
+            }
+        }
+    ]
+}

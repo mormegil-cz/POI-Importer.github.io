@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička a pomník padlým u křižovatky ve středu Blata",
+                "P31": "Kaplička",
+                "P131^label:cs": "Nová Bystřice",
+                "P6736": "23281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16878,
+                    49.04005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Klenové",
+                "P31": "Kaplička",
+                "P131^label:cs": "Nová Bystřice",
+                "P6736": "13026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17257,
+                    49.06249
+                ]
+            }
+        }
+    ]
+}

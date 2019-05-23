@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Benátkách u Litomyšle",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Benátky",
+                "P6736": "21587"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32664,
+                    49.85357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Litomyšli na Moravské ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Litomyšl",
+                "P6736": "12370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3261,
+                    49.86518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Litomyšli na Trstěnické ulici",
+                "P31": "Boží muka",
+                "P131^label:cs": "Litomyšl",
+                "P6736": "12256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32312,
+                    49.86194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Benátkách u Litomyšle",
+                "P31": "Kaple",
+                "P131^label:cs": "Benátky",
+                "P6736": "12255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32689,
+                    49.85292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Benátkách u Litomyšle",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Benátky",
+                "P6736": "12254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32694,
+                    49.85273
+                ]
+            }
+        }
+    ]
+}

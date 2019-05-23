@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na náměstí v Nýrsku",
+                "P31": "Pomník",
+                "P131^label:cs": "Nýrsko",
+                "P6736": "15636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14429,
+                    49.29406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Ptačí kámen u cesty z Nýrska na hrad Pajrek",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Nýrsko",
+                "P6736": "15635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14447,
+                    49.27893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník rodáků u Lesního divadla v Nýrsku",
+                "P31": "Památník",
+                "P131^label:cs": "Nýrsko",
+                "P6736": "15634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14535,
+                    49.28189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v parku u Úhlavy v Nýrsku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nýrsko",
+                "P6736": "15633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14081,
+                    49.2922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Dukelským hrdinům na náměstí v Nýrsku",
+                "P31": "Pomník",
+                "P131^label:cs": "Nýrsko",
+                "P6736": "15632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14314,
+                    49.29349
+                ]
+            }
+        }
+    ]
+}

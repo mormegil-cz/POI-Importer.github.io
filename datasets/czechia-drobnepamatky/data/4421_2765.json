@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice severně od Černoučku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Černouček",
+                "P6736": "21315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30723,
+                    50.36447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Josefa u kostela v Černoučku",
+                "P31": "Socha",
+                "P131^label:cs": "Černouček",
+                "P6736": "21314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30867,
+                    50.36098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hasičárny v Černoučku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Černouček",
+                "P6736": "21313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30492,
+                    50.35796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u školy v Mnetěši",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Mnetěš",
+                "P6736": "21312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28408,
+                    50.3675
+                ]
+            }
+        }
+    ]
+}

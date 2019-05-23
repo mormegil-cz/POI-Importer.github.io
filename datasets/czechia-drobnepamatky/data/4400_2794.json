@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dolcích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dolce",
+                "P6736": "5366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39393,
+                    49.5527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Horšicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horšice",
+                "P6736": "5365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39031,
+                    49.5336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Vitouně na skále",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Příchovice",
+                "P6736": "5364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36769,
+                    49.5354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Vitouně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horšice",
+                "P6736": "5363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3774,
+                    49.54124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Radkovicích e u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Radkovice",
+                "P6736": "5362"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36849,
+                    49.54816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Radkovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Radkovice",
+                "P6736": "5361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36854,
+                    49.5482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Horšicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Horšice",
+                "P6736": "4328"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38831,
+                    49.53308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Horšicích",
+                "P31": "Socha",
+                "P131^label:cs": "Horšice",
+                "P6736": "4327"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39144,
+                    49.53416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Horšic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horšice",
+                "P6736": "1570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3949,
+                    49.53543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Horšic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horšice",
+                "P6736": "1569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38762,
+                    49.52813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Vitouní",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horšice",
+                "P6736": "1571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37179,
+                    49.53636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Dolcí u silnice vedoucí do Újezdu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolce",
+                "P6736": "1400"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39652,
+                    49.54911
+                ]
+            }
+        }
+    ]
+}

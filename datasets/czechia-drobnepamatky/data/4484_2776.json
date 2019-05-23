@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u hřbitova ve Velkých Losinách",
+                "P31": "Boží muka",
+                "P131^label:cs": "Velké Losiny",
+                "P6736": "17187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05271,
+                    50.03996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Jana Nepomuckého ve Velkých Losinách na ulici Bukovická",
+                "P31": "Socha",
+                "P131^label:cs": "Velké Losiny",
+                "P6736": "12873"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05325,
+                    50.04075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Velkých Losinách na Maršíkovské ulici",
+                "P31": "Boží muka",
+                "P131^label:cs": "Velké Losiny",
+                "P6736": "12579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05625,
+                    50.03935
+                ]
+            }
+        }
+    ]
+}

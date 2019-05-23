@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek severozápadně od Ctidružic",
+                "P31": "Obrázek",
+                "P131^label:cs": "Ctidružice",
+                "P6736": "20338"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85842,
+                    48.98567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severozápadně od Ctidružic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Ctidružice",
+                "P6736": "20337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8569,
+                    48.98696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jihovýchodně od Blížkovic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Blížkovice",
+                "P6736": "20336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84902,
+                    48.99028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Blížkovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blížkovice",
+                "P6736": "20335"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84443,
+                    48.99261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Blížkovicích jihovýchodní okraj obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Blížkovice",
+                "P6736": "20334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84038,
+                    48.99594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Blížkovicích poblíž kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blížkovice",
+                "P6736": "20328"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84057,
+                    48.99905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Blížkovicích na náměstí",
+                "P31": "Socha",
+                "P131^label:cs": "Blížkovice",
+                "P6736": "20327"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83983,
+                    48.99954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Blížkovicích severní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blížkovice",
+                "P6736": "20326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84818,
+                    49.00287
+                ]
+            }
+        }
+    ]
+}

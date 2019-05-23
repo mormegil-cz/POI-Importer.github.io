@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Skleněná socha svatého Jana Nepomuckého na mostě v Čepicích",
+                "P31": "Socha",
+                "P131^label:cs": "Rabí",
+                "P6736": "10191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59471,
+                    49.26764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Žichovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rabí",
+                "P6736": "10187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59815,
+                    49.26638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Žichovicích u cesty na nádraží",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žichovice",
+                "P6736": "10186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61873,
+                    49.26657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Čímicích u hřiště",
+                "P31": "Kaplička",
+                "P131^label:cs": "Čímice",
+                "P6736": "4884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60778,
+                    49.25339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Čímic u Lomeckého mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čímice",
+                "P6736": "4883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.606,
+                    49.24828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Čímicích u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čímice",
+                "P6736": "4882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60641,
+                    49.25155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Čímicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Čímice",
+                "P6736": "4881"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60608,
+                    49.25375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Čímicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čímice",
+                "P6736": "4880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60627,
+                    49.25388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Čímicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čímice",
+                "P6736": "4879"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60809,
+                    49.25431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně od Čímic u Benešova mlýna",
+                "P31": "Kaplička",
+                "P131^label:cs": "Čímice",
+                "P6736": "4878"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61907,
+                    49.2549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Čímicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Čímice",
+                "P6736": "4291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60626,
+                    49.25392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Čímic u cesty k Benešovu mlýnu",
+                "P31": "Kaplička",
+                "P131^label:cs": "Čímice",
+                "P6736": "1360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61077,
+                    49.25451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u Benešova mlýna u Čímic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čímice",
+                "P6736": "1359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61823,
+                    49.25583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Čímic u Čímického jezírka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čímice",
+                "P6736": "1357"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60513,
+                    49.26024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí nad Čímicemi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čímice",
+                "P6736": "1358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.601,
+                    49.2519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple západně od Čímic",
+                "P31": "Kaple",
+                "P131^label:cs": "Čímice",
+                "P6736": "1356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59444,
+                    49.2517
+                ]
+            }
+        }
+    ]
+}

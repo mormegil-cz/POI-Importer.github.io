@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dolní Orlici východní část",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Červená Voda",
+                "P6736": "17008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76231,
+                    50.05987
+                ]
+            }
+        }
+    ]
+}

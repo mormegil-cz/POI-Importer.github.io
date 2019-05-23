@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Šumperku na ulici Sadová",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Šumperk",
+                "P6736": "23273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97043,
+                    49.96457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Šumperku v parku u zámku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Šumperk",
+                "P6736": "23272"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97166,
+                    49.96387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Antonína ve Vikýřovicích u muzea",
+                "P31": "Kaple",
+                "P131^label:cs": "Vikýřovice",
+                "P6736": "22293"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00039,
+                    49.96774
+                ]
+            }
+        }
+    ]
+}

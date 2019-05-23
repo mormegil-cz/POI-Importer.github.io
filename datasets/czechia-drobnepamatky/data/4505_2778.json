@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Služovicích jihovýchodní část obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Služovice",
+                "P6736": "23525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.99826,
+                    49.98901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Služovicích před kapličkou ve středu obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Služovice",
+                "P6736": "23524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9975,
+                    49.98882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Služovicích jižní okraj obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Služovice",
+                "P6736": "23523"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.99217,
+                    49.98589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Navštívení Panny Marie ve Vrbce u Opavy",
+                "P31": "Kaple",
+                "P131^label:cs": "Služovice",
+                "P6736": "23519"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0131,
+                    49.98522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vrbce u Opavy před kaplí Navštívení Panny Marie",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Služovice",
+                "P6736": "23518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01314,
+                    49.98523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hněvošicích poblíž křižovatky ulic Opavská a Průkopnická",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hněvošice",
+                "P6736": "23517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.00614,
+                    50.00191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hněvošicích poblíž křižovatky ulic Opavská a Družstevní",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hněvošice",
+                "P6736": "23516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.00805,
+                    50.00269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hněvošicích poblíž křižovatky ulic Opavská a Jižní",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hněvošice",
+                "P6736": "23515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.00966,
+                    50.00341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hněvošicích na křižovatce ulic Opavská a Hřbitovní",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hněvošice",
+                "P6736": "23514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01063,
+                    50.00402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hněvošicích na křižovatce ulic Opavská a Hřbitovní",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hněvošice",
+                "P6736": "23513"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01085,
+                    50.00411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hněvošicích u kostela svatého Petra a Pavla",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hněvošice",
+                "P6736": "23511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.00984,
+                    50.00563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Služovicích západní část obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Služovice",
+                "P6736": "23458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.99223,
+                    49.98824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hněvošicích u kostela svatého Petra a Pavla",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hněvošice",
+                "P6736": "23393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.01003,
+                    50.00554
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Líšnice vedle silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Líšnice",
+                "P6736": "14921"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87356,
+                    49.76014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka svatého Vladimíra u Líšnice",
+                "P31": "Boží muka",
+                "P131^label:cs": "Líšnice",
+                "P6736": "11863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86266,
+                    49.75928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Milník u Líšnice v lese",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Líšnice",
+                "P6736": "11666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84845,
+                    49.77045
+                ]
+            }
+        }
+    ]
+}

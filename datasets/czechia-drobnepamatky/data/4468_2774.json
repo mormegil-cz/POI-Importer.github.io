@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rybné nad Zdobnicí u vchodu na hřbitov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybná nad Zdobnicí",
+                "P6736": "16871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36617,
+                    50.10859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce v Rybné nad Zdobnicí",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Rybná nad Zdobnicí",
+                "P6736": "16864"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36591,
+                    50.10755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rybné nad Zdobnicí u obecního úřadu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybná nad Zdobnicí",
+                "P6736": "16862"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36581,
+                    50.10772
+                ]
+            }
+        }
+    ]
+}

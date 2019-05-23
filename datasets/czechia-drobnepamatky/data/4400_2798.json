@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Petrovičkami a Třebíšovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40081,
+                    49.43511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Petroviček",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39514,
+                    49.43718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Petrovičkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Předslav",
+                "P6736": "5483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39355,
+                    49.43658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Petrovičkách",
+                "P31": "Socha",
+                "P131^label:cs": "Předslav",
+                "P6736": "5482"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39303,
+                    49.43529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Petrovičkách u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39358,
+                    49.43415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Domažličkami a Petrovičkami",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38739,
+                    49.42656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Domažliček",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38269,
+                    49.42145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Domažličkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38175,
+                    49.42028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Domažliček",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.386,
+                    49.41896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Domažliček",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37754,
+                    49.42065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Domažliček",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5475"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38013,
+                    49.41872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Myslovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Myslovice",
+                "P6736": "5474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38252,
+                    49.41299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Pečetína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40102,
+                    49.41262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Pečetína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bolešiny",
+                "P6736": "5467"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39788,
+                    49.4164
+                ]
+            }
+        }
+    ]
+}

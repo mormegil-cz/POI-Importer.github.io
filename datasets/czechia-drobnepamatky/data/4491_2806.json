@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Kostelan",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Kostelany",
+                "P6736": "17420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38859,
+                    49.19271
+                ]
+            }
+        }
+    ]
+}

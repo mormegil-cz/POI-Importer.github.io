@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční hodiny v Luži na náměstí",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Luže",
+                "P6736": "21407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02831,
+                    49.89372
+                ]
+            }
+        }
+    ]
+}

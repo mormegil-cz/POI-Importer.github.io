@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na paměť obětí 1. sv. války u silnice č. 11 v Rýmařově/Janušově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Rýmařov",
+                "P6736": "24083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25079,
+                    49.94822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na památku padlým ve válce 1914-1018 s pomníkem Rudé armádě na paměť osvobození roku 1945",
+                "P31": "Kaple",
+                "P131^label:cs": "Rýmařov",
+                "P6736": "18476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26145,
+                    49.94035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvoboditelům v Rýmařově v ulici Julia Sedláka v Rýmařově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Rýmařov",
+                "P6736": "18402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26844,
+                    49.93385
+                ]
+            }
+        }
+    ]
+}

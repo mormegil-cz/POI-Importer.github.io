@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození v roce 1945 ve středu obce Kyselka",
+                "P31": "Památník",
+                "P131^label:cs": "Kyselka",
+                "P6736": "23216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99949,
+                    50.26251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Radošově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kyselka",
+                "P6736": "9509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99646,
+                    50.27646
+                ]
+            }
+        }
+    ]
+}

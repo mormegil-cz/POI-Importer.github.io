@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Slatině u Hradce Králové",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "23364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.89748,
+                    50.23446
+                ]
+            }
+        }
+    ]
+}

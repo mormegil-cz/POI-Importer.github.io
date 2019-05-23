@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Jezvin",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46672,
+                    49.45738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička u Jezvin",
+                "P31": "Zvonička",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46743,
+                    49.45605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Radihošti",
+                "P31": "Kaple",
+                "P131^label:cs": "Božetice",
+                "P6736": "6838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4682,
+                    49.46507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Božejovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "6837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4824,
+                    49.46048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Božejovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "6836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48594,
+                    49.46143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese u Hodušína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Opařany",
+                "P6736": "2192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47363,
+                    49.44249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Božejovic na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47667,
+                    49.45958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Božejovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48881,
+                    49.4637
+                ]
+            }
+        }
+    ]
+}

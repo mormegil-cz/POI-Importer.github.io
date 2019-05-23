@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Turbovický kříž",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velký Borek",
+                "P6736": "24818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50818,
+                    50.33057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Mladoboleslavské ulici v Skuhrově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Velký Borek",
+                "P6736": "20677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51115,
+                    50.33948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Borecké ulici v Skuhrově",
+                "P31": "Socha",
+                "P131^label:cs": "Velký Borek",
+                "P6736": "20676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5118,
+                    50.33959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí ve Velkém Borku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Velký Borek",
+                "P6736": "20675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51514,
+                    50.3453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce ve Velkém Borku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Velký Borek",
+                "P6736": "20674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51536,
+                    50.34501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kapličky svatého Václava ve Velkém Borku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velký Borek",
+                "P6736": "20673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51705,
+                    50.34462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Václava ve Velkém Borku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Velký Borek",
+                "P6736": "20672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51701,
+                    50.34462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Amose Komenského u školy ve Velkém Borku",
+                "P31": "Pomník",
+                "P131^label:cs": "Velký Borek",
+                "P6736": "20671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51767,
+                    50.34425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny v osadě Jelenice",
+                "P31": "Kaple",
+                "P131^label:cs": "Malý Újezd",
+                "P6736": "20667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54108,
+                    50.33706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Malém Újezdu",
+                "P31": "Kaple",
+                "P131^label:cs": "Malý Újezd",
+                "P6736": "20666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52983,
+                    50.33318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Malém Újezdu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Malý Újezd",
+                "P6736": "20665"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52954,
+                    50.33328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Malém Újezdu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malý Újezd",
+                "P6736": "20664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52935,
+                    50.3325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek v Dolních Vinicích u Mělníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kly",
+                "P6736": "14825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50665,
+                    50.32095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek v Hořeních Vinicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kly",
+                "P6736": "14743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50943,
+                    50.32607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka mezi vinicemi",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kly",
+                "P6736": "13328"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50817,
+                    50.33057
+                ]
+            }
+        }
+    ]
+}

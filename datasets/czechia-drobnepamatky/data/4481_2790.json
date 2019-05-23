@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Luké na okraji obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luká",
+                "P6736": "20796"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95218,
+                    49.6517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Veselíčka na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Luká",
+                "P6736": "18568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93499,
+                    49.66615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od obce Luká na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luká",
+                "P6736": "16994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93598,
+                    49.64798
+                ]
+            }
+        }
+    ]
+}

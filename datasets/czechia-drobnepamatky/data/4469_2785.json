@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Javorníku u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Javorník",
+                "P6736": "21287"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42636,
+                    49.78297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kukli u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kukle",
+                "P6736": "21286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42564,
+                    49.79274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mikulči východní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mikuleč",
+                "P6736": "21285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43058,
+                    49.80746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Mikulči za hřbitovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mikuleč",
+                "P6736": "21284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42163,
+                    49.8072
+                ]
+            }
+        }
+    ]
+}

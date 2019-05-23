@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika na křižovatce ulic Americká a Jilemnického v Tachově",
+                "P31": "Plastika",
+                "P131^label:cs": "Tachov",
+                "P6736": "18435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.62883,
+                    49.79329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve skále západně od Tachova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Tachov",
+                "P6736": "18434"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.61241,
+                    49.79586
+                ]
+            }
+        }
+    ]
+}

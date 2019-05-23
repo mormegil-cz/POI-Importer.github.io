@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u cesty ze Suletic k sedlu Fráž",
+                "P31": "Kaplička",
+                "P131^label:cs": "Homole u Panny",
+                "P6736": "20571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16947,
+                    50.64997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ulomeného kříže u potoka v Suleticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Homole u Panny",
+                "P6736": "20570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16801,
+                    50.64098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Suletic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Homole u Panny",
+                "P6736": "20569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16403,
+                    50.6398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v centru Suletic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Homole u Panny",
+                "P6736": "20568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16918,
+                    50.64181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Nová Ves u Pláně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Homole u Panny",
+                "P6736": "17803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18726,
+                    50.63546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Proboštově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Malečov",
+                "P6736": "17563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15097,
+                    50.62645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u hřbitova v Proboštově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malečov",
+                "P6736": "17562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15051,
+                    50.62799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ulomeného kříže u silnice z Lhoty pod Pannou do Byňova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Homole u Panny",
+                "P6736": "17342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16074,
+                    50.63261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v dolní části Lhoty pod Pannou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Homole u Panny",
+                "P6736": "17341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16773,
+                    50.62909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. světové válce na hřbitově v Homoli u Panny",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Homole u Panny",
+                "P6736": "17340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18149,
+                    50.62902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Josefa Emanuela Hibsche u kostela v Homoli u Panny",
+                "P31": "Pomník",
+                "P131^label:cs": "Homole u Panny",
+                "P6736": "17339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18563,
+                    50.62903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Homoli u Panny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Homole u Panny",
+                "P6736": "17338"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1872,
+                    50.62749
+                ]
+            }
+        }
+    ]
+}

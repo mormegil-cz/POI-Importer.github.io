@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Prostiboře",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Staré Sedlo",
+                "P6736": "9962"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88988,
+                    49.65009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Darmyšle",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Staré Sedlo",
+                "P6736": "9961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88539,
+                    49.6448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Prostiboři",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Prostiboř",
+                "P6736": "3791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90081,
+                    49.6549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Prostiboři",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Prostiboř",
+                "P6736": "3790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89815,
+                    49.65378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Prostiboři",
+                "P31": "Kaple",
+                "P131^label:cs": "Prostiboř",
+                "P6736": "3789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89742,
+                    49.65391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Prostiboři",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Prostiboř",
+                "P6736": "3788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89723,
+                    49.65393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Darmyšli",
+                "P31": "Kaple",
+                "P131^label:cs": "Staré Sedlo",
+                "P6736": "3775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87761,
+                    49.64173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Telic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Prostiboř",
+                "P6736": "3046"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91946,
+                    49.65091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kopci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Prostiboř",
+                "P6736": "3044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91218,
+                    49.65681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u zámku Prostiboř II",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Prostiboř",
+                "P6736": "3043"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91267,
+                    49.65768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u zámku Prostiboř I",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Prostiboř",
+                "P6736": "3042"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91257,
+                    49.65769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zámku Prostiboř",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Prostiboř",
+                "P6736": "3041"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91266,
+                    49.65765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Prostiboří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Prostiboř",
+                "P6736": "2401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8938,
+                    49.65623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky nad Darmyšlí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Staré Sedlo",
+                "P6736": "1368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87779,
+                    49.6433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí nad Darmyšlí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Staré Sedlo",
+                "P6736": "1369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87931,
+                    49.64372
+                ]
+            }
+        }
+    ]
+}

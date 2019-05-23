@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Bělé u odbočky k samotě Na Hájovně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělá",
+                "P6736": "19922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25378,
+                    49.31347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Bělé",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělá",
+                "P6736": "18627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26045,
+                    49.31258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Bělé",
+                "P31": "Kaple",
+                "P131^label:cs": "Bělá",
+                "P6736": "18626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26057,
+                    49.31254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Bělé směrem na Polesí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělá",
+                "P6736": "18625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26046,
+                    49.30895
+                ]
+            }
+        }
+    ]
+}

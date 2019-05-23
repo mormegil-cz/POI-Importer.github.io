@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Tatenicích u zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Tatenice",
+                "P6736": "22688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69756,
+                    49.86792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Tatenicích mezi kostelem a zámkem",
+                "P31": "Kašna",
+                "P131^label:cs": "Tatenice",
+                "P6736": "22687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69779,
+                    49.86815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Tatenicích u brány hřbitova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Tatenice",
+                "P6736": "22635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69765,
+                    49.86886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Tatenic v severní části obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tatenice",
+                "P6736": "22633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69398,
+                    49.88101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Tatenicemi v lese",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tatenice",
+                "P6736": "17047"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69545,
+                    49.88836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sousoším Nejsvětější Trojice v Tatenicích u školy",
+                "P31": "Sloup",
+                "P131^label:cs": "Tatenice",
+                "P6736": "15270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69758,
+                    49.86932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tatenicích naproti škole",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tatenice",
+                "P6736": "15269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69767,
+                    49.86916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Kalvárie v Tatenicích severní část",
+                "P31": "Socha",
+                "P131^label:cs": "Tatenice",
+                "P6736": "15202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69434,
+                    49.87817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Tatenicích v severozápadní části",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tatenice",
+                "P6736": "15201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69381,
+                    49.8733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lubníku u kostela na jižní straně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lubník",
+                "P6736": "15199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.66088,
+                    49.88745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v polích západně od Tatenic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tatenice",
+                "P6736": "15198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.68359,
+                    49.87108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Svaté Trojice v Lubníku u kostela",
+                "P31": "Sloup",
+                "P131^label:cs": "Lubník",
+                "P6736": "15095"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.66117,
+                    49.88775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Tatenic u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tatenice",
+                "P6736": "12834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.68326,
+                    49.87845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lubníku před hřbitovem",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Lubník",
+                "P6736": "12357"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.66053,
+                    49.8913
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození v Albeři",
+                "P31": "Pomník",
+                "P131^label:cs": "Nová Bystřice",
+                "P6736": "9456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12508,
+                    49.02542
+                ]
+            }
+        }
+    ]
+}

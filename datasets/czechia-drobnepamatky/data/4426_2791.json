@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Lovčicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Kosova Hora",
+                "P6736": "21316"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50677,
+                    49.62743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek u Křenoviček",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Heřmaničky",
+                "P6736": "19197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53173,
+                    49.62218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Dědkově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Heřmaničky",
+                "P6736": "19196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54402,
+                    49.61959
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Lázu",
+                "P31": "Obrázek",
+                "P131^label:cs": "Láz",
+                "P6736": "14826"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90674,
+                    49.65787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Lázu",
+                "P31": "Socha",
+                "P131^label:cs": "Láz",
+                "P6736": "7751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91738,
+                    49.65217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lázu u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Láz",
+                "P6736": "7750"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90804,
+                    49.65071
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Černotína u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24379,
+                    49.60999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Přestavlk",
+                "P31": "Boží muka",
+                "P131^label:cs": "Přestavlky",
+                "P6736": "3676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2438,
+                    49.60337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Přestavlk u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Přestavlky",
+                "P6736": "3675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22935,
+                    49.60197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Přestavlk",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Přestavlky",
+                "P6736": "3674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23789,
+                    49.59868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dnešicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26453,
+                    49.60448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Dnešicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26326,
+                    49.6044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Dnešicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26257,
+                    49.60267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Dnešic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Oplot",
+                "P6736": "3670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26575,
+                    49.59383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Oplotu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Oplot",
+                "P6736": "3669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27027,
+                    49.58821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Přestavlcích",
+                "P31": "Socha",
+                "P131^label:cs": "Přestavlky",
+                "P6736": "3664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24551,
+                    49.59714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Přestavlk",
+                "P31": "Boží muka",
+                "P131^label:cs": "Přestavlky",
+                "P6736": "3663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24567,
+                    49.59528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Soběkur",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Soběkury",
+                "P6736": "3662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24703,
+                    49.58499
+                ]
+            }
+        }
+    ]
+}

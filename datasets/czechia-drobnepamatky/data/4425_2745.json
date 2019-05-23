@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "siluetový kříž v Krásném Buku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krásná Lípa",
+                "P6736": "11948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49137,
+                    50.91987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kamenná nádrž v Krásném Buku",
+                "P31": "Kašna",
+                "P131^label:cs": "Krásná Lípa",
+                "P6736": "11869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49207,
+                    50.91988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž na Krásném Buku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krásná Lípa",
+                "P6736": "11858"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48924,
+                    50.92135
+                ]
+            }
+        }
+    ]
+}

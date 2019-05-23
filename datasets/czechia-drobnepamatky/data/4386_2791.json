@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka nad Babicemi na kopci U křížků",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hostouň",
+                "P6736": "4946"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.77392,
+                    49.61356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v obci Dehetná",
+                "P31": "Památník",
+                "P131^label:cs": "Stráž",
+                "P6736": "3786"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.77116,
+                    49.62457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Borku u Tachova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Stráž",
+                "P6736": "1256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78021,
+                    49.63526
+                ]
+            }
+        }
+    ]
+}

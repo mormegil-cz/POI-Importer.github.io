@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v Padařově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7861"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52453,
+                    49.45254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Padařově",
+                "P31": "Zvonička",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7860"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52625,
+                    49.45242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Drahnětic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51008,
+                    49.4652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Drahněticích",
+                "P31": "Kaple",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "6816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50851,
+                    49.4637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Drahněticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "6815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50892,
+                    49.46375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník severně od Padařova",
+                "P31": "Památník",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "2277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52451,
+                    49.45374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Makova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "2276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54192,
+                    49.45895
+                ]
+            }
+        }
+    ]
+}

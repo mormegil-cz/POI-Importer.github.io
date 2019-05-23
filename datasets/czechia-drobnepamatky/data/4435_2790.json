@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka při kapli ve středu obce Vracovice",
+                "P31": "Boží muka",
+                "P131^label:cs": "Vracovice",
+                "P6736": "17107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93213,
+                    49.66248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve středu Vracovic",
+                "P31": "Kaple",
+                "P131^label:cs": "Vracovice",
+                "P6736": "17104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.932,
+                    49.66242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Jana Nepomuckého v Částrovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Vracovice",
+                "P6736": "11080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92727,
+                    49.64977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Křížově na křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pravonín",
+                "P6736": "6789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89823,
+                    49.64359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u pole u Křížova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pravonín",
+                "P6736": "1826"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90279,
+                    49.64432
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty severně od Pravčic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pravčice",
+                "P6736": "13642"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.49834,
+                    49.33195
+                ]
+            }
+        }
+    ]
+}

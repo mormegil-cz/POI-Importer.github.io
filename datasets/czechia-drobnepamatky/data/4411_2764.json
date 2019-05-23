@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Rudé armády v Chožově",
+                "P31": "Pomník",
+                "P131^label:cs": "Chožov",
+                "P6736": "9254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85932,
+                    50.3989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník vojákům Rudé armády v Chožově",
+                "P31": "Pomník",
+                "P131^label:cs": "Chožov",
+                "P6736": "9253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85934,
+                    50.39892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička s pamětními deskami v Chožově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Chožov",
+                "P6736": "9252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85929,
+                    50.39894
+                ]
+            }
+        }
+    ]
+}

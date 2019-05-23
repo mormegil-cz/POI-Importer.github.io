@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve středu obce Třebutičky",
+                "P31": "Kaplička",
+                "P131^label:cs": "Polepy",
+                "P6736": "21982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25623,
+                    50.54057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Milník (?) u silnice Encovany - Třebutičky u odbočky polních cest",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Polepy",
+                "P6736": "21981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26122,
+                    50.53674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u silnice Encovany - Třebutičky",
+                "P31": "Boží muka",
+                "P131^label:cs": "Polepy",
+                "P6736": "21980"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26112,
+                    50.5369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Bývalý památník (zřejmě) východně od rozhledny Hořidla u Chotíněvsi",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Chotiněves",
+                "P6736": "21968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26838,
+                    50.54068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dolních Encovanech",
+                "P31": "Kaple",
+                "P131^label:cs": "Polepy",
+                "P6736": "17532"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24453,
+                    50.5213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u cesty východně od Dolních Encovan",
+                "P31": "Kaplička",
+                "P131^label:cs": "Polepy",
+                "P6736": "17531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24873,
+                    50.51933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u silnice z Polep do Encovan",
+                "P31": "Boží muka",
+                "P131^label:cs": "Polepy",
+                "P6736": "17529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25205,
+                    50.52134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice u kostela v Hrušovanech",
+                "P31": "Zvonička",
+                "P131^label:cs": "Polepy",
+                "P6736": "17447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28084,
+                    50.51845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na návsi v Hrušovanech",
+                "P31": "Socha",
+                "P131^label:cs": "Polepy",
+                "P6736": "17446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28004,
+                    50.51904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Trnové u Polep",
+                "P31": "Kaple",
+                "P131^label:cs": "Polepy",
+                "P6736": "17445"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27995,
+                    50.52826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Třebutičkách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Polepy",
+                "P6736": "11238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25678,
+                    50.53988
+                ]
+            }
+        }
+    ]
+}

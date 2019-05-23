@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zámecká kašna severozápadně od zámku ve Chříči",
+                "P31": "Kašna",
+                "P131^label:cs": "Chříč",
+                "P6736": "12910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64707,
+                    49.97255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha u příjezdové brány zámku naproti vchodu do kostela ve Chříči",
+                "P31": "Socha",
+                "P131^label:cs": "Chříč",
+                "P6736": "12868"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64768,
+                    49.9725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha východně od chříčského pivovaru",
+                "P31": "Socha",
+                "P131^label:cs": "Chříč",
+                "P6736": "11854"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6489,
+                    49.97238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u hřbitova u Chříče",
+                "P31": "Kaplička",
+                "P131^label:cs": "Chříč",
+                "P6736": "10679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65329,
+                    49.97436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Chříče",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chříč",
+                "P6736": "10378"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65315,
+                    49.97449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Holovous",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chříč",
+                "P6736": "5279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62964,
+                    49.97038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Studené u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Studená",
+                "P6736": "5278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64345,
+                    49.96029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ve Chříči u kostela",
+                "P31": "Neznámý",
+                "P131^label:cs": "Chříč",
+                "P6736": "5276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64748,
+                    49.9722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Studené",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Studená",
+                "P6736": "3911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6434,
+                    49.9602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Studené",
+                "P31": "Kaple",
+                "P131^label:cs": "Studená",
+                "P6736": "3910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64342,
+                    49.96024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Chříči",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chříč",
+                "P6736": "3909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64468,
+                    49.97094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Chříči",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chříč",
+                "P6736": "3908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64686,
+                    49.97257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi vsemi Chříč a Studená",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Studená",
+                "P6736": "2575"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64427,
+                    49.96477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Studené u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Studená",
+                "P6736": "2576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6382,
+                    49.96202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého východně od Chříče",
+                "P31": "Socha",
+                "P131^label:cs": "Chříč",
+                "P6736": "1636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65063,
+                    49.97282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u lesa nad Chříčí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chříč",
+                "P6736": "1637"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64899,
+                    49.97789
+                ]
+            }
+        }
+    ]
+}

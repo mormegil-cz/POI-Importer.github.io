@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Poděbradech na Pražské ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Poděbrady",
+                "P6736": "19069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11609,
+                    50.14108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Milník u Přední Lhoty na křižovatce",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Poděbrady",
+                "P6736": "15952"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08504,
+                    50.13143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Přední Lhotě na Průběžné ulici",
+                "P31": "Kaple",
+                "P131^label:cs": "Poděbrady",
+                "P6736": "15951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09201,
+                    50.13556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie Svatohorské v Poděbradech",
+                "P31": "Sloup",
+                "P131^label:cs": "Poděbrady",
+                "P6736": "15950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11421,
+                    50.14008
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Strážnici na křižovatce",
+                "P31": "Kaple",
+                "P131^label:cs": "Strážnice",
+                "P6736": "11027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.31956,
+                    48.89837
+                ]
+            }
+        }
+    ]
+}

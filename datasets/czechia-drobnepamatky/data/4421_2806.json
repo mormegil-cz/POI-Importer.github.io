@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Lhotě pod Horami",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Temelín",
+                "P6736": "6246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31673,
+                    49.18284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Lhotě pod Horami",
+                "P31": "Kaple",
+                "P131^label:cs": "Temelín",
+                "P6736": "6245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31517,
+                    49.18174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Lhotě pod Horami",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Temelín",
+                "P6736": "6244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31567,
+                    49.18205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod vrchem Chocholouš",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Protivín",
+                "P6736": "2648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28753,
+                    49.18238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Lhoty pod Horami",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Temelín",
+                "P6736": "1911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30705,
+                    49.18451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na stromě pod vrchem Chocholouš",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dříteň",
+                "P6736": "1638"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29515,
+                    49.18444
+                ]
+            }
+        }
+    ]
+}

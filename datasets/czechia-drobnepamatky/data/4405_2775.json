@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž na křižovatce severně od Václav",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Václavy",
+                "P6736": "13370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59031,
+                    50.07036
+                ]
+            }
+        }
+    ]
+}

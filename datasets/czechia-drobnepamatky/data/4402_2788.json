@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození ve Starém Plzenci",
+                "P31": "Památník",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "11099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47306,
+                    49.69775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Jiřího Hrubého u Letkova",
+                "P31": "Památník",
+                "P131^label:cs": "Letkov",
+                "P6736": "10818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4638,
+                    49.72316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Starého Plzence",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46261,
+                    49.70701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Starého Plzence",
+                "P31": "Kaple",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46212,
+                    49.70668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Starého Plzence",
+                "P31": "Boží muka",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5400"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46359,
+                    49.70712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Starém Plzenci u Třebízského náměstí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4691,
+                    49.70279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ve Starém Plzenci u Vrchlického ulice",
+                "P31": "Socha",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47597,
+                    49.69894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Starém Plzenci u Havlíčkovy ulice",
+                "P31": "Památník",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46853,
+                    49.70317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Blažeje u Starého Plzence",
+                "P31": "Socha",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45882,
+                    49.69908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Starého Plzence",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45892,
+                    49.69902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u kostela ve Starém Plzenci",
+                "P31": "Památník",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47292,
+                    49.69772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u Švehlovy lípy",
+                "P31": "Památník",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46769,
+                    49.6963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Anděla v kašně ve starém Plzenci",
+                "P31": "Socha",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47308,
+                    49.69806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Morový sloup ve Starém Plzenci",
+                "P31": "Sloup",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47314,
+                    49.69775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Starém Plzenci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "5019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47314,
+                    49.69738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Černou strání",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tymákov",
+                "P6736": "2689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48332,
+                    49.70963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička nad Starým Plzencem",
+                "P31": "Kaplička",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "2536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46879,
+                    49.70396
+                ]
+            }
+        }
+    ]
+}

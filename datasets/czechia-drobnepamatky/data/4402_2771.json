@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník příslušníkům čs. zahraniční armády na návsi v Očihově",
+                "P31": "Památník",
+                "P131^label:cs": "Očihov",
+                "P6736": "20170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46083,
+                    50.1984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlých v Očihově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Očihov",
+                "P6736": "20167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46177,
+                    50.19915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo pamětního kříže u hřbitova v Očihově vlevo",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Očihov",
+                "P6736": "20166"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45744,
+                    50.19492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u hřbitova v Očihově vlevo",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Očihov",
+                "P6736": "20165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45752,
+                    50.195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Morová kaple na návsi v Očihově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Očihov",
+                "P6736": "20164"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46113,
+                    50.19858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Strojetic u Podbořan",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kryry",
+                "P6736": "19936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47661,
+                    50.18055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž severně od Strojetic u Podbořan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kryry",
+                "P6736": "19935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4766,
+                    50.1806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severovýchodně od Kryr",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kryry",
+                "P6736": "15788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45018,
+                    50.18194
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Výrova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Výrov",
+                "P6736": "8913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46002,
+                    49.96519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník severovýchodně od Hadačky",
+                "P31": "Pomník",
+                "P131^label:cs": "Výrov",
+                "P6736": "8912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45741,
+                    49.96634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského",
+                "P31": "Socha",
+                "P131^label:cs": "Kralovice",
+                "P6736": "5319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48643,
+                    49.97874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple jižně od Kralovic",
+                "P31": "Kaple",
+                "P131^label:cs": "Kralovice",
+                "P6736": "5320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49058,
+                    49.97519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Kralovicích u kostela",
+                "P31": "Socha",
+                "P131^label:cs": "Kralovice",
+                "P6736": "5313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48346,
+                    49.97939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kralovicích u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "5314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48289,
+                    49.97943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kralovicích v ulici Petra Bezruče",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "5312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48724,
+                    49.97776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hadačce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Výrov",
+                "P6736": "5299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45329,
+                    49.96449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Výrova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Výrov",
+                "P6736": "5298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44988,
+                    49.95886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Výrově",
+                "P31": "Kaple",
+                "P131^label:cs": "Výrov",
+                "P6736": "4806"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46259,
+                    49.96136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Hadačce",
+                "P31": "Zvonička",
+                "P131^label:cs": "Výrov",
+                "P6736": "4082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45208,
+                    49.96401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Kralovic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kralovice",
+                "P6736": "4077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47968,
+                    49.97756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Výrově",
+                "P31": "Kaple",
+                "P131^label:cs": "Výrov",
+                "P6736": "4076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45837,
+                    49.96481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Výrově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Výrov",
+                "P6736": "4075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46295,
+                    49.96145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Výrova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Výrov",
+                "P6736": "4074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46417,
+                    49.96311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Výrova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Výrov",
+                "P6736": "4073"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46254,
+                    49.95753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Výrova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Výrov",
+                "P6736": "2806"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46687,
+                    49.96013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Kralovic u silnice I/27",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "1791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47328,
+                    49.97605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Hadačky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "1790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45217,
+                    49.97521
+                ]
+            }
+        }
+    ]
+}

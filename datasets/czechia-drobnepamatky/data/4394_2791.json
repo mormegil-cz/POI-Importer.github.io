@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska rodu Linhartů v Hradci u Stoda",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Hradec",
+                "P6736": "14851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12219,
+                    49.63551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec u kostela v Hradci",
+                "P31": "Neznámý",
+                "P131^label:cs": "Hradec",
+                "P6736": "3960"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12118,
+                    49.6359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Hradci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradec",
+                "P6736": "3959"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12136,
+                    49.63598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Lisově",
+                "P31": "Památník",
+                "P131^label:cs": "Lisov",
+                "P6736": "3958"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10157,
+                    49.63846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Lisově",
+                "P31": "Kaple",
+                "P131^label:cs": "Lisov",
+                "P6736": "3957"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10145,
+                    49.63848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lisově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lisov",
+                "P6736": "3956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10115,
+                    49.6383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Hradcem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradec",
+                "P6736": "3955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11532,
+                    49.63318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hradci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradec",
+                "P6736": "3954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12026,
+                    49.63433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Střelicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Střelice",
+                "P6736": "3952"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.13366,
+                    49.63089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hradci",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hradec",
+                "P6736": "3953"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12094,
+                    49.63448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Střelicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Střelice",
+                "P6736": "3951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1349,
+                    49.63057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Střelicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Střelice",
+                "P6736": "3950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1342,
+                    49.62909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Střelic u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Střelice",
+                "P6736": "2568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.13403,
+                    49.62773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u okraje pole u Střelic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Střelice",
+                "P6736": "2567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.13913,
+                    49.62885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Lisovem a Hradcem u Stodu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lisov",
+                "P6736": "1953"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11257,
+                    49.63742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Lisova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lisov",
+                "P6736": "1952"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10542,
+                    49.63572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Lisovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lisov",
+                "P6736": "1951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0991,
+                    49.63447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Hradcem u Stodu a Stodem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradec",
+                "P6736": "1583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.13202,
+                    49.63769
+                ]
+            }
+        }
+    ]
+}

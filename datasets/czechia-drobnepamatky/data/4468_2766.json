@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Masarykův pomník u Masarykovy chaty pod Šerlichem",
+                "P31": "Pomník",
+                "P131^label:cs": "Deštné v Orlických horách",
+                "P6736": "21791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38643,
+                    50.32589
+                ]
+            }
+        }
+    ]
+}

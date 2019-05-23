@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Horoměřicích, ul. Velvarská",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horoměřice",
+                "P6736": "21322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33643,
+                    50.13436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Otisk v Praze-Lysolajích",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "20551"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36491,
+                    50.12523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Stínohry v Praze-Lysolajích",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "20550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36518,
+                    50.12514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Dva poutníci v Praze-Lysolajích",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "20535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36536,
+                    50.12539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Vládce moří v Praze-Lysolajích",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "18086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36739,
+                    50.12635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Rodina v Praze-Lysolajích",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "18085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36785,
+                    50.12637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. a 2. svět. válce v Lysolajích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "18081"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36845,
+                    50.12634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Ohňostroj v Praze-Lysolajích",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "18080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36733,
+                    50.12687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž-rozcestník v Praze-Suchdole",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "18052"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36519,
+                    50.13852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička u silnice v Černém Volu",
+                "P31": "Zvonička",
+                "P131^label:cs": "Statenice",
+                "P6736": "18041"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33477,
+                    50.14715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u mlýna v Černém Volu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Statenice",
+                "P6736": "18040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33344,
+                    50.14731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Sedmibolestné v Praze-Lysolajích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Praha",
+                "P6736": "17336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36705,
+                    50.12589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem svět. válek v Horoměřicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horoměřice",
+                "P6736": "17276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33828,
+                    50.13181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Benediktu Roezlovi v Horoměřicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Horoměřice",
+                "P6736": "17270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33845,
+                    50.13173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Menhir v Horoměřicích",
+                "P31": "Menhir",
+                "P131^label:cs": "Horoměřice",
+                "P6736": "17125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34617,
+                    50.1329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný pamětní kříž v Horoměřicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horoměřice",
+                "P6736": "17124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34609,
+                    50.13287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný pamětní kříž v Úněticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Únětice",
+                "P6736": "16198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35721,
+                    50.14729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž L.P. 1867 v Horoměřicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horoměřice",
+                "P6736": "15510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33788,
+                    50.13125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Statenicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Statenice",
+                "P6736": "11084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33527,
+                    50.14713
+                ]
+            }
+        }
+    ]
+}

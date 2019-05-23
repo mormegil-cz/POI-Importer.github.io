@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Lhotky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nekmíř",
+                "P6736": "10781"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24786,
+                    49.869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník jihozápadně od Hubenova",
+                "P31": "Pomník",
+                "P131^label:cs": "Nekmíř",
+                "P6736": "8284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23185,
+                    49.88324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Husův kámen ve Lhotce",
+                "P31": "Památník",
+                "P131^label:cs": "Nekmíř",
+                "P6736": "4419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24686,
+                    49.87274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Lhotce na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nekmíř",
+                "P6736": "4418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24661,
+                    49.87259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na hasičské zbrojnici ve Lhotce",
+                "P31": "Zvonička",
+                "P131^label:cs": "Nekmíř",
+                "P6736": "4417"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24647,
+                    49.87281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vrtbě",
+                "P31": "Kaple",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "4414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24906,
+                    49.88474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Podlenů jižně od Horní Bělé u plotu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "4413"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26252,
+                    49.88675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Horní Bělé",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "4412"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26353,
+                    49.88878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého v Horní Bělé",
+                "P31": "Kaple",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "4411"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26404,
+                    49.88919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Panny Marie západně od Horní Bělé v lese",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "4410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.258,
+                    49.89313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horní Bělé v plotě u čp. 15",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "4190"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26225,
+                    49.88821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horní Bělé u návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "4189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26661,
+                    49.88951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obecní kříž v Horní Bělé",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "4174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26831,
+                    49.89045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Hubenově",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "3349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2393,
+                    49.88679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hubenově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "3348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23759,
+                    49.88763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž severně od Lhotky",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Nekmíř",
+                "P6736": "1912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24587,
+                    49.87458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka svatého Vojtěcha severovýchodně od Vrtba",
+                "P31": "Boží muka",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "1550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25231,
+                    49.88667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Martina západně od Horní Bělé",
+                "P31": "Kaple",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "1547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25671,
+                    49.8862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Zvěstování Panny Marie nad Dolní Bělou",
+                "P31": "Kaple",
+                "P131^label:cs": "Dolní Bělá",
+                "P6736": "1403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27098,
+                    49.89268
+                ]
+            }
+        }
+    ]
+}

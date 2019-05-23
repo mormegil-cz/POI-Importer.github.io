@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v lese u hájovny Kolna východně od Kublova",
+                "P31": "Památník",
+                "P131^label:cs": "Broumy",
+                "P6736": "23698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90385,
+                    49.9394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese východně od Velízu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svatá",
+                "P6736": "16541"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92087,
+                    49.9413
+                ]
+            }
+        }
+    ]
+}

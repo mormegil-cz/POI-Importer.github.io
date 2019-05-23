@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vestci u Prahy",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Vestec",
+                "P6736": "14337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.507,
+                    49.98082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Vestci u Prahy",
+                "P31": "Zvonička",
+                "P131^label:cs": "Vestec",
+                "P6736": "14336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50708,
+                    49.98082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Zdiměřic",
+                "P31": "Kaple",
+                "P131^label:cs": "Jesenice",
+                "P6736": "2871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53782,
+                    49.98674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce u Průhonic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Průhonice",
+                "P6736": "1537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5437,
+                    49.99401
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička pod hradem Jestřebí",
+                "P31": "Kaplička",
+                "P131^label:cs": "Jestřebí",
+                "P6736": "18995"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58213,
+                    50.61104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha světce u silnice na jižním okraji Jestřebí",
+                "P31": "Socha",
+                "P131^label:cs": "Jestřebí",
+                "P6736": "18994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57688,
+                    50.60752
+                ]
+            }
+        }
+    ]
+}

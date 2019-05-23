@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Nového Dvora",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "10286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15338,
+                    49.93857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Plachtíně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3357"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15938,
+                    49.94803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Plachtíně za plotem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16171,
+                    49.94677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Plachtína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3355"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15996,
+                    49.9472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Plachtíně",
+                "P31": "Kaple",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3344"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1627,
+                    49.94664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Plachtína",
+                "P31": "Boží muka",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "1282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16065,
+                    49.93599
+                ]
+            }
+        }
+    ]
+}

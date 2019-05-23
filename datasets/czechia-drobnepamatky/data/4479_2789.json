@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek ve Svojanově u lesní cesty",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "21939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86057,
+                    49.69498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Svojanově před kaplí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "21938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86129,
+                    49.69226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Gotharda ve Svojanově",
+                "P31": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "21937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86126,
+                    49.69218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Svojanova u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "21936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86131,
+                    49.6935
+                ]
+            }
+        }
+    ]
+}

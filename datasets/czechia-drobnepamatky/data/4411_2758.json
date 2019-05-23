@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník návštěvy císaře Josefa II. na vrchu Skalička u Kostomlat",
+                "P31": "Pomník",
+                "P131^label:cs": "Kostomlaty pod Milešovkou",
+                "P6736": "23402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86923,
+                    50.55272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v osadě Hlince",
+                "P31": "Kaple",
+                "P131^label:cs": "Kostomlaty pod Milešovkou",
+                "P6736": "19895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88562,
+                    50.56814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříže v Husově ulici v Kostomlatech pod Milešovkou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostomlaty pod Milešovkou",
+                "P6736": "15676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86672,
+                    50.5577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem okupace 1939-1945 v Kostomlatech pod Milešovkouu",
+                "P31": "Pomník",
+                "P131^label:cs": "Kostomlaty pod Milešovkou",
+                "P6736": "15675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87241,
+                    50.56048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Kostomlatech pod Milešovkou",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kostomlaty pod Milešovkou",
+                "P6736": "15674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87741,
+                    50.55872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Pomocné v Kostomlatech pod Milešovkou",
+                "P31": "Kaple",
+                "P131^label:cs": "Kostomlaty pod Milešovkou",
+                "P6736": "15673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87759,
+                    50.55864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na rozcestí ke hřbitovu v Kostomlatech pod Milešovkou",
+                "P31": "Socha",
+                "P131^label:cs": "Kostomlaty pod Milešovkou",
+                "P6736": "15672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87541,
+                    50.56012
+                ]
+            }
+        }
+    ]
+}

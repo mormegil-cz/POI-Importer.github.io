@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kokořova u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "9941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25978,
+                    49.83787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Nevřeně u Nové Hospody",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nevřeň",
+                "P6736": "5516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25655,
+                    49.81905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník západně od Nevřeně",
+                "P31": "Pomník",
+                "P131^label:cs": "Všeruby",
+                "P6736": "5498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26274,
+                    49.83332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Kokořova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "4837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26749,
+                    49.83796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kokořova u Telecího mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "4815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25891,
+                    49.83372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Všeruby u silnice - třetí od Plzně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "2804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23293,
+                    49.83672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Všeruby u silnice - druhý od Plzně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "2803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23557,
+                    49.83405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Všeruby u silnice - první od Plzně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "2802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23893,
+                    49.83061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Nevřeně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nevřeň",
+                "P6736": "2178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2463,
+                    49.82501
+                ]
+            }
+        }
+    ]
+}

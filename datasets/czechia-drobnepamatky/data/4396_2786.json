@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka západně od Bdeněvsi",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bdeněves",
+                "P6736": "6207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2185,
+                    49.76862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jihozápadně od Bdeněvsi",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bdeněves",
+                "P6736": "6206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22656,
+                    49.7642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Bdeněvsí v poli",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bdeněves",
+                "P6736": "4945"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21907,
+                    49.76014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na skále jižně od Újezdu nade Mží",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd nade Mží",
+                "P6736": "4927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20585,
+                    49.77684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Bdeněvsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bdeněves",
+                "P6736": "4027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22406,
+                    49.75744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u řeky Mže pod Újezdem nade Mží",
+                "P31": "Boží muka",
+                "P131^label:cs": "Újezd nade Mží",
+                "P6736": "2702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19703,
+                    49.77914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lokalitě U Chaloupků nedaleko Plešnic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plešnice",
+                "P6736": "2309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19667,
+                    49.77417
+                ]
+            }
+        }
+    ]
+}

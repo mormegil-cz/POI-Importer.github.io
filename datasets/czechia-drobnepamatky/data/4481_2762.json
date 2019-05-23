@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bílé Vodě u Javorníka před kostelem navštívení Panny Marie",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Voda",
+                "P6736": "20467"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91924,
+                    50.44183
+                ]
+            }
+        }
+    ]
+}

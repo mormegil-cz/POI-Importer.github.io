@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Korekce TNP Svornost v Jáchymově",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "11558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90991,
+                    50.37278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mauthausenské schody v Jáchymově",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "11557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90968,
+                    50.37225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Model hrádku u Jáchymova",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89354,
+                    50.37096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta ke svobodě v Jáchymově",
+                "P31": "Pomník",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91319,
+                    50.3723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Nová doba v Jáchymově",
+                "P31": "Pomník",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91312,
+                    50.37177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice v Jáchymově",
+                "P31": "Sloup",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9133,
+                    50.37203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Jáchymově",
+                "P31": "Socha",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91348,
+                    50.37186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana v Jáchymově",
+                "P31": "Kaple",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91909,
+                    50.36995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Pomocné v Jáchymově - Novém Městě",
+                "P31": "Kaplička",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9078,
+                    50.36826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Altöttingské Matky Boží v Jáchymově - Novém Městě",
+                "P31": "Kaple",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90882,
+                    50.36878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny v Jáchymově",
+                "P31": "Kaple",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9182,
+                    50.36739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka (Popravčí kříž) v Jáchymově",
+                "P31": "Boží muka",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9183"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91312,
+                    50.37151
+                ]
+            }
+        }
+    ]
+}

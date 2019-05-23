@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chomýži východní okraj III",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krnov",
+                "P6736": "17886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66266,
+                    50.10806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chomýži východní okraj II",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krnov",
+                "P6736": "17885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66492,
+                    50.1059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chomýži východní okraj I",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krnov",
+                "P6736": "17884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.66571,
+                    50.10533
+                ]
+            }
+        }
+    ]
+}

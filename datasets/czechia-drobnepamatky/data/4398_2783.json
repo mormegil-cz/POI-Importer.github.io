@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek jižně od Tlucné u Doubravy",
+                "P31": "Obrázek",
+                "P131^label:cs": "Tatiná",
+                "P6736": "8286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28607,
+                    49.86599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek ve východní části Žilova",
+                "P31": "Obrázek",
+                "P131^label:cs": "Žilov",
+                "P6736": "8285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31487,
+                    49.83986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník na rok 1918 v Tatiné",
+                "P31": "Památník",
+                "P131^label:cs": "Tatiná",
+                "P6736": "5668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29837,
+                    49.84849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Žilově u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žilov",
+                "P6736": "4931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31328,
+                    49.84088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Žilově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žilov",
+                "P6736": "4930"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31224,
+                    49.83907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Tatiné",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Tatiná",
+                "P6736": "4912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2982,
+                    49.84858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Stýskalech",
+                "P31": "Kaple",
+                "P131^label:cs": "Žilov",
+                "P6736": "4838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29641,
+                    49.83923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Tatiné na návsi",
+                "P31": "Socha",
+                "P131^label:cs": "Tatiná",
+                "P6736": "4523"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29957,
+                    49.8489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Tatiné",
+                "P31": "Kaple",
+                "P131^label:cs": "Tatiná",
+                "P6736": "4173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30038,
+                    49.84903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Žilově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Žilov",
+                "P6736": "4172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31268,
+                    49.83916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zkamenělý kmen stromu v Žilově",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Žilov",
+                "P6736": "4048"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31151,
+                    49.83933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Tatiné na svahu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tatiná",
+                "P6736": "3347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3011,
+                    49.85133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Tatiné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tatiná",
+                "P6736": "2625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30851,
+                    49.85259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Tatiné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tatiná",
+                "P6736": "2624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30143,
+                    49.8541
+                ]
+            }
+        }
+    ]
+}

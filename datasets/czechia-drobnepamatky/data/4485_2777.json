@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Vernířovicích na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Vernířovice",
+                "P6736": "22852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13653,
+                    50.03268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník ve Vernířovicích naproti obecnímu úřadu",
+                "P31": "Pomník",
+                "P131^label:cs": "Vernířovice",
+                "P6736": "22851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12996,
+                    50.03144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vernířovicích u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vernířovice",
+                "P6736": "22850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12998,
+                    50.03184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vernířovicích u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vernířovice",
+                "P6736": "22849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12335,
+                    50.02795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Jana Nepomuckého ve Vernířovicích u kostela",
+                "P31": "Sloup",
+                "P131^label:cs": "Vernířovice",
+                "P6736": "22848"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12993,
+                    50.03193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vernířovicích u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vernířovice",
+                "P6736": "22847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1204,
+                    50.02568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vernířovicích u hlavní silnice",
+                "P31": "Kaple",
+                "P131^label:cs": "Vernířovice",
+                "P6736": "22846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12028,
+                    50.02566
+                ]
+            }
+        }
+    ]
+}

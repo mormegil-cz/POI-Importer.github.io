@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na okraji Bouzova u silnice",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "23917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89918,
+                    49.70671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Bouzově na hradě",
+                "P31": "Socha",
+                "P131^label:cs": "Bouzov",
+                "P6736": "23915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88939,
+                    49.70466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Bouzově na rozcestí",
+                "P31": "Socha",
+                "P131^label:cs": "Bouzov",
+                "P6736": "23914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89541,
+                    49.70423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bouzově vedle hlavní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "23912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89365,
+                    49.70142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Podolí v lese na rozcestí U Huberta",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "23904"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91417,
+                    49.71818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Dolech vedle statku",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "21927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88136,
+                    49.71065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Bouzova na okraji lesa",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88847,
+                    49.69653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Bouzova na okraji lesa",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88911,
+                    49.69945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Dolech u Bouzova u Javořičky",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8815,
+                    49.70988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Dolů u Bouzova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88312,
+                    49.71021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jeřmani u autobusové zastávky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89551,
+                    49.71787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Bouzově u družstva",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89846,
+                    49.69969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Radnice u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pavlov",
+                "P6736": "17828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8757,
+                    49.72274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bouzově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89262,
+                    49.70461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bouzově pod hradem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89258,
+                    49.70436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Dolech",
+                "P31": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88178,
+                    49.70756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Bouzově před hradem",
+                "P31": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89048,
+                    49.7027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jiří v Jeřmani",
+                "P31": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89466,
+                    49.7164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Panny Marie u Jeřmaně na loukách",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89673,
+                    49.72309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Panny Marie v Dolech pod lesem",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88587,
+                    49.70815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Panny Marie u Bouzova na kraji lesa",
+                "P31": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89004,
+                    49.71144
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Přešíně",
+                "P31": "Kaple",
+                "P131^label:cs": "Čížkov",
+                "P6736": "4991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64542,
+                    49.55624
+                ]
+            }
+        }
+    ]
+}

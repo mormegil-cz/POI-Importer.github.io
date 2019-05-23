@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na návsi v Klínovicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Chrášťovice",
+                "P6736": "23746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8824,
+                    49.31313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Klínovicích",
+                "P31": "Boží muka",
+                "P131^label:cs": "Chrášťovice",
+                "P6736": "23745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88345,
+                    49.31386
+                ]
+            }
+        }
+    ]
+}

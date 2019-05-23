@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Bukové u Příbramě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rosovice",
+                "P6736": "11361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09474,
+                    49.7518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Bukové u Příbramě",
+                "P31": "Boží muka",
+                "P131^label:cs": "Buková u Příbramě",
+                "P6736": "11360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07551,
+                    49.74982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Rosovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rosovice",
+                "P6736": "11358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10155,
+                    49.7528
+                ]
+            }
+        }
+    ]
+}

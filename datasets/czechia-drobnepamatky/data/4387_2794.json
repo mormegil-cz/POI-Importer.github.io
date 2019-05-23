@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Sedlce na vršku III",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Poběžovice",
+                "P6736": "9944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82326,
+                    49.53412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Sedlci",
+                "P31": "Zvonička",
+                "P131^label:cs": "Poběžovice",
+                "P6736": "4147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82572,
+                    49.5354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sedlci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Poběžovice",
+                "P6736": "4146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82606,
+                    49.53502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Slatinou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hostouň",
+                "P6736": "4104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7953,
+                    49.54146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Slatině",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hostouň",
+                "P6736": "4102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.80078,
+                    49.54536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Sedlce na vršku II",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Poběžovice",
+                "P6736": "4101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82337,
+                    49.53415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Sedlce na vršku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Poběžovice",
+                "P6736": "4100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82346,
+                    49.53416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Sedlce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Poběžovice",
+                "P6736": "3981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82579,
+                    49.53827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Sedlce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Srby",
+                "P6736": "2760"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82985,
+                    49.54267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Sedlce u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Poběžovice",
+                "P6736": "2471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82345,
+                    49.53424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Sedlce v křoví u cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Poběžovice",
+                "P6736": "2470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82372,
+                    49.53759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli nad Sedlcem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Poběžovice",
+                "P6736": "2469"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82012,
+                    49.53716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Sedlce u cesty do Medné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Srby",
+                "P6736": "2032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82853,
+                    49.53547
+                ]
+            }
+        }
+    ]
+}

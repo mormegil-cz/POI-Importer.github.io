@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Chrastavic u bývalého Spáleného mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chrastavice",
+                "P6736": "9831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97805,
+                    49.44878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Vodolence u Chrastavic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Chrastavice",
+                "P6736": "9830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97265,
+                    49.44081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Milavčí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Milavče",
+                "P6736": "3425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97721,
+                    49.46695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Milavčích u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Milavče",
+                "P6736": "3424"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97973,
+                    49.466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Milavčích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Milavče",
+                "P6736": "3423"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98133,
+                    49.46661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Milavčích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Milavče",
+                "P6736": "3422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98183,
+                    49.46668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Milavčí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Milavče",
+                "P6736": "3421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9802,
+                    49.46452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chrastavic u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chrastavice",
+                "P6736": "3420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.96553,
+                    49.45818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Milavčí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Milavče",
+                "P6736": "2050"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9769,
+                    49.46283
+                ]
+            }
+        }
+    ]
+}

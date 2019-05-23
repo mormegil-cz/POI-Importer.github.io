@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka pod rotundou na Hůrce jižně od Malenic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Malenice",
+                "P6736": "17962"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88707,
+                    49.12216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Rotunda svatého Václava na Hůrce jižně od Malenic",
+                "P31": "Kaple",
+                "P131^label:cs": "Malenice",
+                "P6736": "17959"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88723,
+                    49.12249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný stůl jižně od Straňovic při staré cestě",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Malenice",
+                "P6736": "17893"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90441,
+                    49.11947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Straňovic při staré cestě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malenice",
+                "P6736": "17892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90437,
+                    49.11945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u návesní kaple ve Straňovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malenice",
+                "P6736": "17883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90197,
+                    49.12239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Straňovicích na návsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Malenice",
+                "P6736": "17881"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90191,
+                    49.1224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Benedy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zálezly",
+                "P6736": "17646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91828,
+                    49.10465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u návesní kaple v Setěchovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zálezly",
+                "P6736": "16599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90417,
+                    49.09577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Návesní kaple v Setěchovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Zálezly",
+                "P6736": "16598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90412,
+                    49.09574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí západně od Bušanovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bušanovice",
+                "P6736": "16597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92736,
+                    49.11375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí východně od Zálezel",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zálezly",
+                "P6736": "16596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91244,
+                    49.10543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u koupaliště východně od Zálezel",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zálezly",
+                "P6736": "16595"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.902,
+                    49.1077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u bývalé školy v Zálezlech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zálezly",
+                "P6736": "16581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89881,
+                    49.10797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Kovanína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zálezly",
+                "P6736": "16577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8916,
+                    49.10169
+                ]
+            }
+        }
+    ]
+}

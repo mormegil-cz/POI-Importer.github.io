@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Borku pod Troskami",
+                "P31": "Socha",
+                "P131^label:cs": "Hrubá Skála",
+                "P6736": "25878"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23166,
+                    50.53648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce na návsi v Ktové",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ktová",
+                "P6736": "22831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24838,
+                    50.51987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie na návsi ve Ktové",
+                "P31": "Socha",
+                "P131^label:cs": "Ktová",
+                "P6736": "22830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24817,
+                    50.51963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí do Kabátů v Ktové",
+                "P31": "Kaplička",
+                "P131^label:cs": "Ktová",
+                "P6736": "22829"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2484,
+                    50.51707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u cesty z Trosek do osady Kabáty",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Ktová",
+                "P6736": "22828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23731,
+                    50.51848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika čerta na hradě Trosky",
+                "P31": "Plastika",
+                "P131^label:cs": "Troskovice",
+                "P6736": "22827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23109,
+                    50.5166
+                ]
+            }
+        }
+    ]
+}

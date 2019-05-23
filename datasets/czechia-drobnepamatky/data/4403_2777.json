@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hradecku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kralovice",
+                "P6736": "10380"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50564,
+                    50.01061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička u Strachovic",
+                "P31": "Zvonička",
+                "P131^label:cs": "Čistá",
+                "P6736": "10379"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50951,
+                    50.024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v lese nad Hradeckem",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Kožlany",
+                "P6736": "5255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52489,
+                    50.01044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hradecku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "5254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50401,
+                    50.00907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Hradecka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "5253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49968,
+                    50.00848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hradecku",
+                "P31": "Kaple",
+                "P131^label:cs": "Kralovice",
+                "P6736": "4866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50516,
+                    50.00998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hradecku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kralovice",
+                "P6736": "4865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50461,
+                    50.00922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Kůzové",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čistá",
+                "P6736": "2191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52283,
+                    50.03425
+                ]
+            }
+        }
+    ]
+}

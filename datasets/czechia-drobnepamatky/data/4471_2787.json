@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Čtyřiceti Lánech u kaple Neposkvrněného početí Panny Marie",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svitavy",
+                "P6736": "21299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.48062,
+                    49.73561
+                ]
+            }
+        }
+    ]
+}

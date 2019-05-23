@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Horních Kněžeklad",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Kněžeklady",
+                "P6736": "6268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48442,
+                    49.19353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Horních Kněžeklad",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Kněžeklady",
+                "P6736": "6267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49354,
+                    49.19895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dolních Kněžekladech",
+                "P31": "Kaple",
+                "P131^label:cs": "Horní Kněžeklady",
+                "P6736": "6266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48971,
+                    49.19675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Horních Kněžekladech",
+                "P31": "Kaple",
+                "P131^label:cs": "Horní Kněžeklady",
+                "P6736": "6265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48205,
+                    49.19426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha mistra Jana Husa v Horních Kněžekladech",
+                "P31": "Socha",
+                "P131^label:cs": "Horní Kněžeklady",
+                "P6736": "6264"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48118,
+                    49.19406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horních Kněžekladech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Kněžeklady",
+                "P6736": "6263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48233,
+                    49.19365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u východně od Dolních Kněžeklad",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Kněžeklady",
+                "P6736": "2552"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48885,
+                    49.2003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Dolních Kněžeklad",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Kněžeklady",
+                "P6736": "2553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.49479,
+                    49.1972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Horních Kněžeklad",
+                "P31": "Kaplička",
+                "P131^label:cs": "Horní Kněžeklady",
+                "P6736": "2554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48366,
+                    49.19589
+                ]
+            }
+        }
+    ]
+}

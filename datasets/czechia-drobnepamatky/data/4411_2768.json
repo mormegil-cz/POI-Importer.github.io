@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník zastřelenému mysliveckému mládenci.",
+                "P31": "Pomník",
+                "P131^label:cs": "Žerotín",
+                "P6736": "21215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88132,
+                    50.28109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Hvížďalce v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hříškov",
+                "P6736": "7509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85588,
+                    50.27578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Hvížďalky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nová Ves",
+                "P6736": "7173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84605,
+                    50.2776
+                ]
+            }
+        }
+    ]
+}

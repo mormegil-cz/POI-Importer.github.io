@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Tisové - Hlinném",
+                "P31": "Kaplička",
+                "P131^label:cs": "Tisová",
+                "P6736": "23133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74328,
+                    49.76065
+                ]
+            }
+        }
+    ]
+}

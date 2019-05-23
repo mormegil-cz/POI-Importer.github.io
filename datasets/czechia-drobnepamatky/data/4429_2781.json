@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Lojovicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Velké Popovice",
+                "P6736": "6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64858,
+                    49.89827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lojovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Velké Popovice",
+                "P6736": "6770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6487,
+                    49.89825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Brtnici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velké Popovice",
+                "P6736": "6769"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63587,
+                    49.91595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Brtnici",
+                "P31": "Zvonička",
+                "P131^label:cs": "Velké Popovice",
+                "P6736": "6768"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63535,
+                    49.91275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nedaleko Křivé Vsi na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velké Popovice",
+                "P6736": "1970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66344,
+                    49.89632
+                ]
+            }
+        }
+    ]
+}

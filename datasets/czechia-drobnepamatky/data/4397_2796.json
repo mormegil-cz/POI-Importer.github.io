@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Ježovech",
+                "P31": "Památník",
+                "P131^label:cs": "Ježovy",
+                "P6736": "3766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22892,
+                    49.49136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Ježov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ježovy",
+                "P6736": "3328"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22811,
+                    49.49283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Ježovech",
+                "P31": "Kaple",
+                "P131^label:cs": "Ježovy",
+                "P6736": "3327"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2286,
+                    49.49137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ježovech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ježovy",
+                "P6736": "3326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23134,
+                    49.49219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Ježov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ježovy",
+                "P6736": "3325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23457,
+                    49.49387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u Mezihoří",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Mezihoří",
+                "P6736": "3323"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2517,
+                    49.48785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Mezihoří",
+                "P31": "Kaple",
+                "P131^label:cs": "Mezihoří",
+                "P6736": "3324"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25366,
+                    49.48842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mezihoří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mezihoří",
+                "P6736": "3322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25521,
+                    49.48839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Mezihoří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mezihoří",
+                "P6736": "3321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26005,
+                    49.48626
+                ]
+            }
+        }
+    ]
+}

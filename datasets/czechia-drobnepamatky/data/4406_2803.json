@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na mostě přes Nezdický potok v Žichovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žichovice",
+                "P6736": "10185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62656,
+                    49.26785
+                ]
+            }
+        }
+    ]
+}

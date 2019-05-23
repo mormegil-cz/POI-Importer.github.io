@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Březnici",
+                "P31": "Kaplička",
+                "P131^label:cs": "Březnice",
+                "P6736": "6389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51393,
+                    49.25193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Březnici",
+                "P31": "Kaple",
+                "P131^label:cs": "Březnice",
+                "P6736": "6388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51438,
+                    49.25163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v severní části Březnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březnice",
+                "P6736": "6387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51263,
+                    49.25303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí západně od Hodětína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hodětín",
+                "P6736": "1530"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54462,
+                    49.25276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka západně od Březnice na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Březnice",
+                "P6736": "1288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50918,
+                    49.2518
+                ]
+            }
+        }
+    ]
+}

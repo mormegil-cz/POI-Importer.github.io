@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Slavětínského buku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Načeradec",
+                "P6736": "2508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92366,
+                    49.57458
+                ]
+            }
+        }
+    ]
+}

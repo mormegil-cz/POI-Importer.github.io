@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek severně od Kbelan",
+                "P31": "Obrázek",
+                "P131^label:cs": "Hněvnice",
+                "P6736": "8813"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12569,
+                    49.74864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen severně od Kbelan",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Kbelany",
+                "P6736": "8811"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12214,
+                    49.74828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Kbelan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kbelany",
+                "P6736": "8808"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12652,
+                    49.7334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severovýchodně od Hněvnic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hněvnice",
+                "P6736": "8806"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10496,
+                    49.73089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční hodiny ve Kbelanech",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Kbelany",
+                "P6736": "7498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12604,
+                    49.73226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hněvnicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hněvnice",
+                "P6736": "4626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1021,
+                    49.72869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hněvnicích v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hněvnice",
+                "P6736": "4625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10264,
+                    49.72735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Hněvnice",
+                "P31": "Kaple",
+                "P131^label:cs": "Hněvnice",
+                "P6736": "4624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10289,
+                    49.7268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kbelan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kbelany",
+                "P6736": "4623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12661,
+                    49.73368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kbelanech",
+                "P31": "Kaple",
+                "P131^label:cs": "Kbelany",
+                "P6736": "4622"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12601,
+                    49.73243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka nad Rochlovem",
+                "P31": "Boží muka",
+                "P131^label:cs": "Rochlov",
+                "P6736": "2453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.13628,
+                    49.72851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Hněvnic na křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hněvnice",
+                "P6736": "1528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10043,
+                    49.73051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u Hněvnic",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Hněvnice",
+                "P6736": "1525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1009,
+                    49.73043
+                ]
+            }
+        }
+    ]
+}

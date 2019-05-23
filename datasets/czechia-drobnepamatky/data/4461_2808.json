@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jižně od Stropešína",
+                "P31": "Kaplička",
+                "P131^label:cs": "Stropešín",
+                "P6736": "20051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07747,
+                    49.14285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Dalešic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dalešice",
+                "P6736": "20050"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07995,
+                    49.13782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Dalešicích jižní část obce",
+                "P31": "Socha",
+                "P131^label:cs": "Dalešice",
+                "P6736": "20049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07878,
+                    49.12667
+                ]
+            }
+        }
+    ]
+}

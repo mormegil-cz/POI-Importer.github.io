@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Starého Města pod Landštejnem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Staré Město pod Landštejnem",
+                "P6736": "12794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27153,
+                    49.00332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na severním okraji Starého Města pod Landštejnem",
+                "P31": "Boží muka",
+                "P131^label:cs": "Staré Město pod Landštejnem",
+                "P6736": "12752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25617,
+                    49.0062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve východním okraji Starého Města pod Landštejnem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Staré Město pod Landštejnem",
+                "P6736": "12751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25962,
+                    49.00314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Starém Městě pod Landštejnem",
+                "P31": "Kaplička",
+                "P131^label:cs": "Staré Město pod Landštejnem",
+                "P6736": "12748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25596,
+                    49.00348
+                ]
+            }
+        }
+    ]
+}

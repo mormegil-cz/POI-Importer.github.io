@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obce Vranovice",
+                "P31": "Památník",
+                "P131^label:cs": "Břasy",
+                "P6736": "25213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5477,
+                    49.85501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Centrální kříž na hřbitově v Újezdu u Svatého Kříže",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd u Svatého Kříže",
+                "P6736": "18106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57411,
+                    49.86102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v první světové válce ve Vranovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Břasy",
+                "P6736": "8066"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55742,
+                    49.84479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vranovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Břasy",
+                "P6736": "4463"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55516,
+                    49.84552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Tyršův památník ve Vranovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Břasy",
+                "P6736": "4462"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55403,
+                    49.84566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vranovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Břasy",
+                "P6736": "4461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55394,
+                    49.84532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Vranovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Břasy",
+                "P6736": "4460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55783,
+                    49.84284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Újezdu Svatého Kříže",
+                "P31": "Kaplička",
+                "P131^label:cs": "Újezd u Svatého Kříže",
+                "P6736": "4449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57284,
+                    49.85791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Újezdu Svatého Kříže",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Újezd u Svatého Kříže",
+                "P6736": "4448"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56985,
+                    49.85958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Újezdu Svatého Kříže",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd u Svatého Kříže",
+                "P6736": "4442"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57052,
+                    49.86144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Rudé armádě na Újezdském vrchu",
+                "P31": "Památník",
+                "P131^label:cs": "Břasy",
+                "P6736": "2784"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55902,
+                    49.84891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž u Újezdu u Svatého Kříže",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd u Svatého Kříže",
+                "P6736": "2708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57717,
+                    49.84903
+                ]
+            }
+        }
+    ]
+}

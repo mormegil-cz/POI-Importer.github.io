@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v I, světové válce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Uherský Ostroh",
+                "P6736": "16713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39321,
+                    48.98692
+                ]
+            }
+        }
+    ]
+}

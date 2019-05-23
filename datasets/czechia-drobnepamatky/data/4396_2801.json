@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Kašpara Bosáka v ulici Podsedky v Janovicích nad Úhlavou",
+                "P31": "Pomník",
+                "P131^label:cs": "Janovice nad Úhlavou",
+                "P6736": "15592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21439,
+                    49.34549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný kříž u kostela v Janovicích nad Úhlavou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Janovice nad Úhlavou",
+                "P6736": "15591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21575,
+                    49.3453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Janovicích nad Úhlavou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Janovice nad Úhlavou",
+                "P6736": "15590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21564,
+                    49.34518
+                ]
+            }
+        }
+    ]
+}

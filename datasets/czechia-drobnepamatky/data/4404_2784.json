@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník R. A. Kroce ve Stupně",
+                "P31": "Památník",
+                "P131^label:cs": "Břasy",
+                "P6736": "16540"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57715,
+                    49.82542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození Stupna Americkou armádou",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Břasy",
+                "P6736": "16539"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57706,
+                    49.82551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na hřbitově u Stupna",
+                "P31": "Kaple",
+                "P131^label:cs": "Břasy",
+                "P6736": "8021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57283,
+                    49.82345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple západně od Stupna",
+                "P31": "Kaple",
+                "P131^label:cs": "Břasy",
+                "P6736": "8020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5724,
+                    49.82299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela ve Stupnu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Břasy",
+                "P6736": "8019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57483,
+                    49.82424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kříších",
+                "P31": "Kaple",
+                "P131^label:cs": "Břasy",
+                "P6736": "8018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5533,
+                    49.82981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kříších",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Břasy",
+                "P6736": "4459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55388,
+                    49.82878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Všenicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všenice",
+                "P6736": "4458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56194,
+                    49.81867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Všenicích",
+                "P31": "Památník",
+                "P131^label:cs": "Všenice",
+                "P6736": "4457"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56168,
+                    49.81848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Všenicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Všenice",
+                "P6736": "4456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5611,
+                    49.81759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Všenicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Všenice",
+                "P6736": "4455"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55931,
+                    49.81889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Střapoli",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bušovice",
+                "P6736": "4454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5454,
+                    49.80987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník na osvobození v Kříších",
+                "P31": "Památník",
+                "P131^label:cs": "Břasy",
+                "P6736": "3885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56362,
+                    49.83271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Stupnu",
+                "P31": "Památník",
+                "P131^label:cs": "Břasy",
+                "P6736": "3827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57718,
+                    49.81873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Stupnu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Břasy",
+                "P6736": "3826"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57431,
+                    49.82441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Stupnem a Kříší",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Břasy",
+                "P6736": "2578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56586,
+                    49.82684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Kříší západně od Břas",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Břasy",
+                "P6736": "1820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56627,
+                    49.83352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese nad Kříší",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Břasy",
+                "P6736": "1819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54066,
+                    49.83233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Kříší",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Břasy",
+                "P6736": "1818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55776,
+                    49.82821
+                ]
+            }
+        }
+    ]
+}

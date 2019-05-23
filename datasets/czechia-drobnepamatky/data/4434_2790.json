@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Křížově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Pravonín",
+                "P6736": "6788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.895,
+                    49.64227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kondraci u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "6787"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88412,
+                    49.66684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Kondraci",
+                "P31": "Socha",
+                "P131^label:cs": "Kondrac",
+                "P6736": "6786"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88408,
+                    49.66679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kondrace",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kondrac",
+                "P6736": "6785"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89419,
+                    49.6642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty u Křížova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pravonín",
+                "P6736": "1825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89083,
+                    49.63953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v křoví nad Křížovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pravonín",
+                "P6736": "1823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89155,
+                    49.64647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na můstku u Křížova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pravonín",
+                "P6736": "1824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8935,
+                    49.64135
+                ]
+            }
+        }
+    ]
+}

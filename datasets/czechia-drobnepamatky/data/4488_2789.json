@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u jižně od Štarnova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štarnov",
+                "P6736": "18965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26816,
+                    49.67172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Štarnova u kapličky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štarnov",
+                "P6736": "18934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26681,
+                    49.6836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Panny Marie Bolestné na okraji Štarnova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Štarnov",
+                "P6736": "18926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26677,
+                    49.68357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Štarnova u rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Štarnov",
+                "P6736": "18925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26045,
+                    49.68093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Moravské Huzové v části Benátky",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Štěpánov",
+                "P6736": "15718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24017,
+                    49.67469
+                ]
+            }
+        }
+    ]
+}

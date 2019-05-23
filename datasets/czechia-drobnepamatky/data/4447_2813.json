@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Starého Hobzí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Staré Hobzí",
+                "P6736": "20132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45243,
+                    49.00655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Veselíčku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Staré Hobzí",
+                "P6736": "19662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44907,
+                    49.00222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Novém Hobzí",
+                "P31": "Zvonička",
+                "P131^label:cs": "Staré Hobzí",
+                "P6736": "19661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44902,
+                    48.98451
+                ]
+            }
+        }
+    ]
+}

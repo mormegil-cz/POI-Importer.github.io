@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek na návsi v Křepenicích",
+                "P31": "Boží muka",
+                "P131^label:cs": "Křepenice",
+                "P6736": "19406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34648,
+                    49.7029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Křepenicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Křepenice",
+                "P6736": "19405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34798,
+                    49.70285
+                ]
+            }
+        }
+    ]
+}

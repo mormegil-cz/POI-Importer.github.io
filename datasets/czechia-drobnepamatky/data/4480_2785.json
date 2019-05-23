@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Křemačově před kaplí na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "22175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88644,
+                    49.79042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Křemačově na návsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "22174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88649,
+                    49.79046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Mohelnici v parku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "22075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.912,
+                    49.78361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník děkana Lauttnera v Mohelnici v parku",
+                "P31": "Pomník",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "22074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91292,
+                    49.78247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Podolí u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "17687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88677,
+                    49.78411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Křemačově v části Podolíčko",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "17686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88452,
+                    49.78723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Květíně na návsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "17682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89473,
+                    49.80802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Šebestiána u Mohelnice za rybníkem",
+                "P31": "Kaplička",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "14648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90221,
+                    49.78287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Květíně u výjezdu na Mohelnici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "12874"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89692,
+                    49.80687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Libivé",
+                "P31": "Boží muka",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "11526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91742,
+                    49.80439
+                ]
+            }
+        }
+    ]
+}

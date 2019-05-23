@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Masaryka a padlých ve světových válkách na břehu Javorky v Ostroměři",
+                "P31": "Pomník",
+                "P131^label:cs": "Ostroměř",
+                "P6736": "16448"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54456,
+                    50.37337
+                ]
+            }
+        }
+    ]
+}

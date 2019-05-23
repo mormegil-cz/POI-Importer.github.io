@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup v Jablonném v Podještědí",
+                "P31": "Sloup",
+                "P131^label:cs": "Jablonné v Podještědí",
+                "P6736": "9358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76008,
+                    50.76516
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Krasavců",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "10920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36978,
+                    49.60477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Snopoušov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "10919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38352,
+                    49.60932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vodokrtech",
+                "P31": "Kaple",
+                "P131^label:cs": "Řenče",
+                "P6736": "5373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38991,
+                    49.5901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Knihách",
+                "P31": "Kaple",
+                "P131^label:cs": "Řenče",
+                "P6736": "5372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40296,
+                    49.5901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Knihách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Řenče",
+                "P6736": "5371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40234,
+                    49.59008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vodokrt",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Řenče",
+                "P6736": "5370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39596,
+                    49.58861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od hájí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Řenče",
+                "P6736": "4313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40085,
+                    49.6035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Hájů",
+                "P31": "Socha",
+                "P131^label:cs": "Řenče",
+                "P6736": "4290"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40216,
+                    49.60402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Krasavcích",
+                "P31": "Kaple",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "4122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36849,
+                    49.59855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Krasavcích",
+                "P31": "Socha",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "4121"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36859,
+                    49.59854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Krasavců",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "4120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36845,
+                    49.59974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Vodokrt",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Řenče",
+                "P6736": "2781"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38068,
+                    49.59128
+                ]
+            }
+        }
+    ]
+}

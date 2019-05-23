@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 1. a 2. svět. války v Kněževsi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kněževes",
+                "P6736": "16642"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2621,
+                    50.1195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého na bráně v Kněževsi",
+                "P31": "Socha",
+                "P131^label:cs": "Kněževes",
+                "P6736": "16538"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26306,
+                    50.11972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Kněževsi u Prahy",
+                "P31": "Zvonička",
+                "P131^label:cs": "Kněževes",
+                "P6736": "16537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26279,
+                    50.11967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Václava v Kněževsi u Prahy",
+                "P31": "Kaple",
+                "P131^label:cs": "Kněževes",
+                "P6736": "16371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26245,
+                    50.11966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého v Kněževsi",
+                "P31": "Socha",
+                "P131^label:cs": "Kněževes",
+                "P6736": "15548"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26232,
+                    50.1178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie s Ježíškem v Kněževsi",
+                "P31": "Socha",
+                "P131^label:cs": "Kněževes",
+                "P6736": "15547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26114,
+                    50.11996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Kněževsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kněževes",
+                "P6736": "15546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26399,
+                    50.11692
+                ]
+            }
+        }
+    ]
+}

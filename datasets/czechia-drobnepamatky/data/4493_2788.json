@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým Smilov u bývalého hřbitova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Libavá",
+                "P6736": "25729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.48569,
+                    49.6993
+                ]
+            }
+        }
+    ]
+}

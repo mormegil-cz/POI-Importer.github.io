@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy v Klášteře Teplá",
+                "P31": "Socha",
+                "P131^label:cs": "Teplá",
+                "P6736": "9681"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87786,
+                    49.9665
+                ]
+            }
+        }
+    ]
+}

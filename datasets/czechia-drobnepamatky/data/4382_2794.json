@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka před areálem bývalého kostela v Pleši",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "16079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6062,
+                    49.54447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie na základech bývalého kostela v Pleši",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "16078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60634,
+                    49.54457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na hřbitově u základů kostela sv. Jana Křtitele v Pleši",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "16077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60276,
+                    49.54549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Pleše",
+                "P31": "Socha",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "2307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6053,
+                    49.5453
+                ]
+            }
+        }
+    ]
+}

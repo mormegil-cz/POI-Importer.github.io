@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Ivani u kostela",
+                "P31": "Socha",
+                "P131^label:cs": "Ivaň",
+                "P6736": "19071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5747,
+                    48.92858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ivani naproti kostelu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ivaň",
+                "P6736": "19064"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57413,
+                    48.92909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Ivani před kostelem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ivaň",
+                "P6736": "16997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57447,
+                    48.92876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve středu Ivaně",
+                "P31": "Boží muka",
+                "P131^label:cs": "Ivaň",
+                "P6736": "16640"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57624,
+                    48.92984
+                ]
+            }
+        }
+    ]
+}

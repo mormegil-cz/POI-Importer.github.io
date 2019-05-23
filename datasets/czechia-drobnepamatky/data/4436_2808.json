@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Jindřichova Hradce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jindřichův Hradec",
+                "P6736": "1307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98341,
+                    49.14095
+                ]
+            }
+        }
+    ]
+}

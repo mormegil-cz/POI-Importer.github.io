@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek svatého Josefa a Ježíška západně od Hromnice",
+                "P31": "Obrázek",
+                "P131^label:cs": "Hromnice",
+                "P6736": "20634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40967,
+                    49.85016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek nad Hromnicemi",
+                "P31": "Obrázek",
+                "P131^label:cs": "Hromnice",
+                "P6736": "4856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43237,
+                    49.84612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Hromnici",
+                "P31": "Kaple",
+                "P131^label:cs": "Hromnice",
+                "P6736": "4855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43965,
+                    49.84678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Hromnici",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hromnice",
+                "P6736": "4588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43945,
+                    49.84734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kámen u Býkova",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Hromnice",
+                "P6736": "4049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42349,
+                    49.85908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž u dvora Býkov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hromnice",
+                "P6736": "1597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42263,
+                    49.85891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší u Hromnic",
+                "P31": "Socha",
+                "P131^label:cs": "Hromnice",
+                "P6736": "1599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44596,
+                    49.8484
+                ]
+            }
+        }
+    ]
+}

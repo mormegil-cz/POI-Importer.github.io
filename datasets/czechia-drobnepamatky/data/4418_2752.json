@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Malšovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Malšovice",
+                "P6736": "18115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16972,
+                    50.7353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Choratice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malšovice",
+                "P6736": "17119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18405,
+                    50.72738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Borku u Děčína",
+                "P31": "Kaple",
+                "P131^label:cs": "Malšovice",
+                "P6736": "17118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.17392,
+                    50.71934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Navštívení Panny Marie u kostela v Nebočadech",
+                "P31": "Socha",
+                "P131^label:cs": "Děčín",
+                "P6736": "14712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19129,
+                    50.73163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice v Nebočadech",
+                "P31": "Kaple",
+                "P131^label:cs": "Děčín",
+                "P6736": "14711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19042,
+                    50.73093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek u rozcestí v Hliněné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malšovice",
+                "P6736": "14621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15353,
+                    50.72539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na začátku obce ve směru od Dobkovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malšovice",
+                "P6736": "14620"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1513,
+                    50.72259
+                ]
+            }
+        }
+    ]
+}

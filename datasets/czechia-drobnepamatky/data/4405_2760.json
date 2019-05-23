@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Zrození v parku v Sadové ulici v Čepirohách",
+                "P31": "Plastika",
+                "P131^label:cs": "Most",
+                "P6736": "20577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62101,
+                    50.48604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Mosteckých stávek v ulici Pod Koňským vrchem v Mostě",
+                "P31": "Památník",
+                "P131^label:cs": "Most",
+                "P6736": "15940"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62237,
+                    50.49873
+                ]
+            }
+        }
+    ]
+}

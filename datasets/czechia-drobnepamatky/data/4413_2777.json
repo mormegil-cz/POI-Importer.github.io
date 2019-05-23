@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Sýkořicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Sýkořice",
+                "P6736": "11032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93145,
+                    50.03458
+                ]
+            }
+        }
+    ]
+}

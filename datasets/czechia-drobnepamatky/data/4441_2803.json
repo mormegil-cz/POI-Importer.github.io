@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska na bývalé škole v Metánově",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Častrov",
+                "P6736": "18558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16985,
+                    49.29385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Metánova na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Častrov",
+                "P6736": "6094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1694,
+                    49.29161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Metánově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Častrov",
+                "P6736": "6093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17013,
+                    49.29399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Metánově",
+                "P31": "Kaple",
+                "P131^label:cs": "Častrov",
+                "P6736": "6092"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17024,
+                    49.294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Metánově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Častrov",
+                "P6736": "6091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17008,
+                    49.29404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v severní části Metánov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Častrov",
+                "P6736": "6090"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17013,
+                    49.29615
+                ]
+            }
+        }
+    ]
+}

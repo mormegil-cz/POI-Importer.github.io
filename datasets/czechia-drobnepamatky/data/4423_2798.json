@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Sepekově u křižovatky",
+                "P31": "Kaplička",
+                "P131^label:cs": "Sepekov",
+                "P6736": "7866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41144,
+                    49.42962
+                ]
+            }
+        }
+    ]
+}

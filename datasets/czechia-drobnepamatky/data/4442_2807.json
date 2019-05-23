@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen u Strmilova",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Strmilov",
+                "P6736": "12394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23703,
+                    49.16673
+                ]
+            }
+        }
+    ]
+}

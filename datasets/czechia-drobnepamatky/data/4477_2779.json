@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska ve Štítech ve vstupní chodbě na hřbitov",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Štíty",
+                "P6736": "24524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76514,
+                    49.96449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Nejsvětější Trojice ve Štítech Na Travech",
+                "P31": "Socha",
+                "P131^label:cs": "Štíty",
+                "P6736": "24426"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77091,
+                    49.96096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž ve Štítech na ulici Široká",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štíty",
+                "P6736": "23399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76597,
+                    49.96131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Štítech na náměstí Míru",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Štíty",
+                "P6736": "23398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76458,
+                    49.96152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek ve Štítech na ulici Široká",
+                "P31": "Obrázek",
+                "P131^label:cs": "Štíty",
+                "P6736": "23374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76708,
+                    49.96064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční hodiny na Náměstí míru ve Štítech",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Štíty",
+                "P6736": "23188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76343,
+                    49.96172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Míru ve Štítech",
+                "P31": "Kašna",
+                "P131^label:cs": "Štíty",
+                "P6736": "23183"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76252,
+                    49.96211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž se sousoším Kalvárie ve Štítech u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štíty",
+                "P6736": "23112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76122,
+                    49.96262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Nejsvětější Trojice v Březné",
+                "P31": "Socha",
+                "P131^label:cs": "Štíty",
+                "P6736": "21766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77625,
+                    49.97495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup s křížkem ve Štítech na rozcestí",
+                "P31": "Sloup",
+                "P131^label:cs": "Štíty",
+                "P6736": "18529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76089,
+                    49.96304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Anny ve Štítech u hřbitova",
+                "P31": "Socha",
+                "P131^label:cs": "Štíty",
+                "P6736": "17511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76535,
+                    49.96462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého ve Štítech na náměstí",
+                "P31": "Socha",
+                "P131^label:cs": "Štíty",
+                "P6736": "17510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76362,
+                    49.9617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Štítů vedle polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štíty",
+                "P6736": "17507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7526,
+                    49.95573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Štítů u vedlejší silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štíty",
+                "P6736": "17474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75169,
+                    49.97602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž ve Štítech v ulici U vodojemu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štíty",
+                "P6736": "17472"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75841,
+                    49.96318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Štítech před kostelem.",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štíty",
+                "P6736": "17471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76187,
+                    49.96229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie ve Štítech",
+                "P31": "Sloup",
+                "P131^label:cs": "Štíty",
+                "P6736": "13282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7627,
+                    49.96202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Panny Marie ve Štítech u kostela",
+                "P31": "Obrázek",
+                "P131^label:cs": "Štíty",
+                "P6736": "12543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76199,
+                    49.96224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Svaté Trojice ve Štítech v ulici Na pile",
+                "P31": "Socha",
+                "P131^label:cs": "Štíty",
+                "P6736": "12362"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76885,
+                    49.95349
+                ]
+            }
+        }
+    ]
+}

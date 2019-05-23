@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Jana Nepomuckého v Českých Heřmanicích",
+                "P31": "Socha",
+                "P131^label:cs": "České Heřmanice",
+                "P6736": "12141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26296,
+                    49.93085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Borové",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "České Heřmanice",
+                "P6736": "12138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27594,
+                    49.92917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ve Sloupnici",
+                "P31": "Socha",
+                "P131^label:cs": "Sloupnice",
+                "P6736": "12131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2831,
+                    49.9295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Sloupnici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sloupnice",
+                "P6736": "12129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2888,
+                    49.92774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chotěšinách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "České Heřmanice",
+                "P6736": "12128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26021,
+                    49.94515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník ve Voděradech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Voděrady",
+                "P6736": "12119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28692,
+                    49.94893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Voděradech",
+                "P31": "Kaplička",
+                "P131^label:cs": "Voděrady",
+                "P6736": "12116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28386,
+                    49.95071
+                ]
+            }
+        }
+    ]
+}

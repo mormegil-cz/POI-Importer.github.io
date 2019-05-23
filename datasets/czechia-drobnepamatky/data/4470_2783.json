@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen jihovýchodně od Semanína",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Semanín",
+                "P6736": "15854"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.47425,
+                    49.86214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Semaníně vedle úvozu",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Semanín",
+                "P6736": "13179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44215,
+                    49.86615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kapličkou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Opatov",
+                "P6736": "12283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46884,
+                    49.8483
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž západně od Arnolce u silnice na Stáj",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Arnolec",
+                "P6736": "17231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81253,
+                    49.44443
+                ]
+            }
+        }
+    ]
+}

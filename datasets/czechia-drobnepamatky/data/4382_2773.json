@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Šabině poblíž Ohře",
+                "P31": "Kaplička",
+                "P131^label:cs": "Šabina",
+                "P6736": "17114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58089,
+                    50.13528
+                ]
+            }
+        }
+    ]
+}

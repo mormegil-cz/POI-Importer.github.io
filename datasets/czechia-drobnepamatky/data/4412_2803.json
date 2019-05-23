@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Droužeticích u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Droužetice",
+                "P6736": "5852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89846,
+                    49.28705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Džroužeticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Droužetice",
+                "P6736": "5850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89797,
+                    49.28934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Droužeticích",
+                "P31": "Kaple",
+                "P131^label:cs": "Droužetice",
+                "P6736": "5849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89794,
+                    49.28938
+                ]
+            }
+        }
+    ]
+}

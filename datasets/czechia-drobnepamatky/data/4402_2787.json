@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Letkova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Letkov",
+                "P6736": "5403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4641,
+                    49.72494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha mistra Jana Husa v Kyšicích",
+                "P31": "Socha",
+                "P131^label:cs": "Kyšice",
+                "P6736": "5052"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48721,
+                    49.75218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Letkově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Letkov",
+                "P6736": "4592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46264,
+                    49.73009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Letkově",
+                "P31": "Kaple",
+                "P131^label:cs": "Letkov",
+                "P6736": "4365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46181,
+                    49.72989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Letkova u silnice do Plzně",
+                "P31": "Kaplička",
+                "P131^label:cs": "Letkov",
+                "P6736": "1885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4576,
+                    49.72857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jižně od Letkova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Letkov",
+                "P6736": "1886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4613,
+                    49.72701
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Litinový kříž na pískovcovém podstavci s kovaným zábradlím",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hraběšín",
+                "P6736": "21106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33616,
+                    49.85644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník k výročí vlády císaře a krále Františka Josefa I.",
+                "P31": "Pomník",
+                "P131^label:cs": "Hraběšín",
+                "P6736": "21045"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3317,
+                    49.85252
+                ]
+            }
+        }
+    ]
+}

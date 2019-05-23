@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Gajeru",
+                "P31": "Kaple",
+                "P131^label:cs": "Janov",
+                "P6736": "12363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40977,
+                    49.82177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Gajeru",
+                "P31": "Socha",
+                "P131^label:cs": "Janov",
+                "P6736": "11894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40484,
+                    49.824
+                ]
+            }
+        }
+    ]
+}

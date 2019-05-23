@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Čerňovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Čerňovice",
+                "P6736": "4742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10505,
+                    49.81277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Čerňovicích v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čerňovice",
+                "P6736": "4741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10271,
+                    49.81284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Rasovny",
+                "P31": "Kaple",
+                "P131^label:cs": "Čerňovice",
+                "P6736": "4185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.13177,
+                    49.81086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Pernarce u cesty do Chrástova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Pernarec",
+                "P6736": "2284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10873,
+                    49.83605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Čerňovic u rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čerňovice",
+                "P6736": "1331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10616,
+                    49.81656
+                ]
+            }
+        }
+    ]
+}

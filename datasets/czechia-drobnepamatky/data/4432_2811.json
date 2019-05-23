@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na hrázi rybníka Rožmberk",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třeboň",
+                "P6736": "2529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76959,
+                    49.0491
+                ]
+            }
+        }
+    ]
+}

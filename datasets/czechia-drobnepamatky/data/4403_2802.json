@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Ústaleče",
+                "P31": "Boží muka",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49951,
+                    49.31869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ústaleči",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49854,
+                    49.31639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Ústaleči",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49879,
+                    49.31609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Ústaleči",
+                "P31": "Kaple",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49869,
+                    49.3161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u bývalé školy v Ústaleči",
+                "P31": "Památník",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49677,
+                    49.31366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v Ústaleči",
+                "P31": "Pomník",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49761,
+                    49.31337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Krutěnicích u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49479,
+                    49.31028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Ústaleče",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51077,
+                    49.31647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Letov u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10217"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53177,
+                    49.32134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Letovech u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53266,
+                    49.32228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Letovech",
+                "P31": "Kaple",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53265,
+                    49.32224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Letovech u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53214,
+                    49.32387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Sedlečka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52859,
+                    49.30824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Sedlečku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52675,
+                    49.30656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Sedlečku",
+                "P31": "Kaple",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52666,
+                    49.30653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Čejkov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hrádek",
+                "P6736": "10210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52187,
+                    49.29919
+                ]
+            }
+        }
+    ]
+}

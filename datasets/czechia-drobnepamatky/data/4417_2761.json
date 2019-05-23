@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Rochově",
+                "P31": "Kaple",
+                "P131^label:cs": "Rochov",
+                "P6736": "16804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.11708,
+                    50.45925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí na východním okraji Rochova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rochov",
+                "P6736": "16803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.12449,
+                    50.46014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Brňanech",
+                "P31": "Kaple",
+                "P131^label:cs": "Brňany",
+                "P6736": "16802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1438,
+                    50.48079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. a 2.světové válce v Brňanech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Brňany",
+                "P6736": "16801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14277,
+                    50.48086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Výklenková kaplička na rohu domu v Brňanech",
+                "P31": "Kaplička",
+                "P131^label:cs": "Brňany",
+                "P6736": "16800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14194,
+                    50.48107
+                ]
+            }
+        }
+    ]
+}

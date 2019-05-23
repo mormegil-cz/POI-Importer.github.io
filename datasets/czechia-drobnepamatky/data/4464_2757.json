@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce v Lachově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Teplice nad Metují",
+                "P6736": "22245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19119,
+                    50.58013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Bohdašíně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Teplice nad Metují",
+                "P6736": "22244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19739,
+                    50.59341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bohdašíně ve středu obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Teplice nad Metují",
+                "P6736": "22243"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19474,
+                    50.59169
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Jarošově střed obce",
+                "P31": "Zvonička",
+                "P131^label:cs": "Jarošov",
+                "P6736": "22937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1654,
+                    49.82497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jarošově střed obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jarošov",
+                "P6736": "22936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16744,
+                    49.82504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nové Vsi u Jarošova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nová Ves u Jarošova",
+                "P6736": "12275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16021,
+                    49.83795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Nové Vsi u Jarošova",
+                "P31": "Kaple",
+                "P131^label:cs": "Nová Ves u Jarošova",
+                "P6736": "12274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16027,
+                    49.83797
+                ]
+            }
+        }
+    ]
+}

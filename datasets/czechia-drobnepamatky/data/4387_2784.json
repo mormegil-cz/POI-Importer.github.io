@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Svazích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.81931,
+                    49.82601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Svahů",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8155,
+                    49.82557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Zlivu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6604"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8066,
+                    49.82874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zlivu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8041,
+                    49.82988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Zlivu",
+                "P31": "Kaple",
+                "P131^label:cs": "Planá",
+                "P6736": "6602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.80395,
+                    49.82964
+                ]
+            }
+        }
+    ]
+}

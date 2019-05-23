@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Frymburku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Frymburk",
+                "P6736": "10164"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.717,
+                    49.25213
+                ]
+            }
+        }
+    ]
+}

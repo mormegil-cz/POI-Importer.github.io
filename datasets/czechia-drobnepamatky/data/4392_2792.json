@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Všekarech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04316,
+                    49.60136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Všekarech u rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3243"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04143,
+                    49.60297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Všekarech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Všekary",
+                "P6736": "3242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04189,
+                    49.60369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Všekarech",
+                "P31": "Kaple",
+                "P131^label:cs": "Všekary",
+                "P6736": "3241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04234,
+                    49.60373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Všekar",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03896,
+                    49.60988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Všekar na svahu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03943,
+                    49.60453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Všekar v lese",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02614,
+                    49.6079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Všekar u lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02499,
+                    49.60198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Všekar",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03393,
+                    49.59955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí jižně od Všekar",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3235"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03604,
+                    49.59529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Štichova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Štichov",
+                "P6736": "3234"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03806,
+                    49.5924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Štichova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štichov",
+                "P6736": "3233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04611,
+                    49.58657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Štichova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štichov",
+                "P6736": "3232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03973,
+                    49.58503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Čečovic",
+                "P31": "Kaple",
+                "P131^label:cs": "Čečovice",
+                "P6736": "3231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02404,
+                    49.58504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Čečovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čečovice",
+                "P6736": "3230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02273,
+                    49.58511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Čečovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Čečovice",
+                "P6736": "3229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02107,
+                    49.58536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Čečovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Čečovice",
+                "P6736": "3228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02297,
+                    49.58403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Čečovic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čečovice",
+                "P6736": "3227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02407,
+                    49.58287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v obci Štichov",
+                "P31": "Památník",
+                "P131^label:cs": "Štichov",
+                "P6736": "3223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04936,
+                    49.58484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Štichově",
+                "P31": "Kaple",
+                "P131^label:cs": "Štichov",
+                "P6736": "3224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04914,
+                    49.58472
+                ]
+            }
+        }
+    ]
+}

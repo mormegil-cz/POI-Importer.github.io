@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Kojetic na rozcestí do Malečova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "17068"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0965,
+                    50.64236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Nové Vsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07058,
+                    50.64292
+                ]
+            }
+        }
+    ]
+}

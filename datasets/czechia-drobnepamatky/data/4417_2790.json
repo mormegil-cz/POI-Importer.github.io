@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek u Jablonné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jablonná",
+                "P6736": "19256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14498,
+                    49.65809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Jablonné",
+                "P31": "Boží muka",
+                "P131^label:cs": "Jablonná",
+                "P6736": "19255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.12916,
+                    49.66455
+                ]
+            }
+        }
+    ]
+}

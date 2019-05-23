@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Sedící žena v areálu ZŠ v Pardubicích na sídlišti Dubina",
+                "P31": "Plastika",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81105,
+                    50.04328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Rodina v Pardubicích na sídlišti Dubina",
+                "P31": "Plastika",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80871,
+                    50.04313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v areálu MŠ v Pardubicích na sídlišti Dubina",
+                "P31": "Plastika",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80475,
+                    50.04183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Květ v Pardubicích na sídlišti Dubina",
+                "P31": "Plastika",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80411,
+                    50.04215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Pardubicích na sídlišti Dubina",
+                "P31": "Plastika",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80628,
+                    50.0401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Pardubicích na Studánce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80512,
+                    50.03658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Augustina v Pardubicích u Kostelíčka",
+                "P31": "Socha",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.78722,
+                    50.03721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Pardubicích u Kostelíčka",
+                "P31": "Socha",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.78734,
+                    50.03724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Pardubicích v Bubeníkových sadech",
+                "P31": "Plastika",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.78406,
+                    50.03664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Václava Bubeníka v Pardubicích v Bubeníkových sadech",
+                "P31": "Pomník",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.78397,
+                    50.03755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Nový život v Pardubicích v ulici Na Třísle",
+                "P31": "Plastika",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.78117,
+                    50.0389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Františka de Paule v Pardubicích na mostu u zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77814,
+                    50.04091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Pardubicích na mostu u zámku",
+                "P31": "Socha",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77806,
+                    50.04084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Pardubicích na Příhrádku",
+                "P31": "Kašna",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7789,
+                    50.04042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Pardubicích na Bělobranském náměstí",
+                "P31": "Socha",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.78037,
+                    50.04048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Busta Bedřicha Smetany v Pardubicích na Smetanově náměstí",
+                "P31": "Pomník",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77881,
+                    50.03703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Pardubicích na náměstí Republiky",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77758,
+                    50.03851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Pardubicích na mostě před kostelem svatého Bartoloměje",
+                "P31": "Socha",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77724,
+                    50.03901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník rudoarmějce v Pardubicích v Tyršových sadech",
+                "P31": "Pomník",
+                "P131^label:cs": "Pardubice",
+                "P6736": "14097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77654,
+                    50.03921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Pardubicích v zahrádkářské kolonii u Haldy",
+                "P31": "Kaple",
+                "P131^label:cs": "Pardubice",
+                "P6736": "13192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80531,
+                    50.05439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pardubicích v zahrádkářské kolonii u Haldy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pardubice",
+                "P6736": "13191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8056,
+                    50.05422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Morový sloup na Perštýnském náměstí v Pardubicích",
+                "P31": "Sloup",
+                "P131^label:cs": "Pardubice",
+                "P6736": "8946"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77898,
+                    50.03852
+                ]
+            }
+        }
+    ]
+}

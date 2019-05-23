@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kostomlatech pod Řípem",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kostomlaty pod Řípem",
+                "P6736": "24462"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33132,
+                    50.3802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 2.světové války v Libkovicích pod Řípem",
+                "P31": "Pomník",
+                "P131^label:cs": "Libkovice pod Řípem",
+                "P6736": "22358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34388,
+                    50.393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Libkovicích pod Řípem",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Libkovice pod Řípem",
+                "P6736": "22357"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34168,
+                    50.39275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky silnice 246 v Kostomlatech pod Řípem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostomlaty pod Řípem",
+                "P6736": "22356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33615,
+                    50.38749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Kostomlatech pod Řípem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostomlaty pod Řípem",
+                "P6736": "22355"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33162,
+                    50.38215
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Předslavic pod hlavní silnicí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94451,
+                    49.12647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Předslavic v pastvině",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94472,
+                    49.12667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Předslavicích západně od kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93261,
+                    49.13037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v severní části Předslavic při hlavní silnici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17645"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93417,
+                    49.13489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Předslavic za můstkem při cestě do Bušanovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17644"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93516,
+                    49.12727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Rotunda svatého Václava na Kostelci severně od Předslavic",
+                "P31": "Kaple",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.937,
+                    49.13705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na hřbitově v Předslavicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17642"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93493,
+                    49.13139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u kostela v Předslavicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17641"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93521,
+                    49.13167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Předslavicích u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17640"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9351,
+                    49.13165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zelený kříž jihovýchodně od Předslavic při cestě na Tvrzice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17637"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9482,
+                    49.12539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Předslavic při staré cestě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93996,
+                    49.12869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Předslavic na křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93984,
+                    49.13085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Předslavic za zemědělským areálem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17622"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93989,
+                    49.1349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Litochovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Litochovice",
+                "P6736": "17618"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93511,
+                    49.15177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Marčovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9402,
+                    49.14613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jihozápadně od Marčovic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17611"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94318,
+                    49.13659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod návesním rybníkem v Marčovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94653,
+                    49.13799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Marčovicích jihozápadně od návsi",
+                "P31": "Kaplička",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94553,
+                    49.13784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Františka Teplého v Marčovicích čp.5",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94548,
+                    49.1389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka nad křižovatkou starých úvozových cest západně od Marčovic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93865,
+                    49.13914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u návesní kaple v Marčovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94563,
+                    49.13863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Návesní kaple svatého Jana Nepomuckého v Marčovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17595"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94559,
+                    49.13866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Všechlapech za kravínem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17594"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96008,
+                    49.13434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u návesní kaple ve Všechlapech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17593"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95875,
+                    49.13262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Návesní kaple ve Všechlapech",
+                "P31": "Kaple",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95874,
+                    49.13266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Všechlap na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Předslavice",
+                "P6736": "17591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95922,
+                    49.13157
+                ]
+            }
+        }
+    ]
+}

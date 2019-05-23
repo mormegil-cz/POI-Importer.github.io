@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Lhoty v osadě U Silnice",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Horní Kozolupy",
+                "P6736": "9866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91712,
+                    49.83602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Černošíně",
+                "P31": "Socha",
+                "P131^label:cs": "Černošín",
+                "P6736": "9865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89049,
+                    49.81615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Černošíně",
+                "P31": "Kašna",
+                "P131^label:cs": "Černošín",
+                "P6736": "9864"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88554,
+                    49.81628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obnovené kašny v Černošíně",
+                "P31": "Památník",
+                "P131^label:cs": "Černošín",
+                "P6736": "9863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88537,
+                    49.81623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Černošíně",
+                "P31": "Socha",
+                "P131^label:cs": "Černošín",
+                "P6736": "9862"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88532,
+                    49.81627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození v Černošíně",
+                "P31": "Památník",
+                "P131^label:cs": "Černošín",
+                "P6736": "9861"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88437,
+                    49.81629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Černošíně",
+                "P31": "Socha",
+                "P131^label:cs": "Černošín",
+                "P6736": "9842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88141,
+                    49.8163
+                ]
+            }
+        }
+    ]
+}

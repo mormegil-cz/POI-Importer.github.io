@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Mikuláše na shodech před kostelem Povýšení sv. Kříže v Židlochovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Židlochovice",
+                "P6736": "22354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62119,
+                    49.03572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Urbana na shodech před kostelem Povýšení sv. Kříže v Židlochovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Židlochovice",
+                "P6736": "22353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62109,
+                    49.03569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého na shodech před kostelem Povýšení sv. Kříže v Židlochovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Židlochovice",
+                "P6736": "22352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62115,
+                    49.03576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Floriána na shodech před kostelem Povýšení sv. Kříže v Židlochovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Židlochovice",
+                "P6736": "22351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62111,
+                    49.03574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Leonarda na shodech před kostelem Povýšení sv. Kříže v Židlochovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Židlochovice",
+                "P6736": "22350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62114,
+                    49.03571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší v Židlochovicích na Coufalíkově náměstí",
+                "P31": "Socha",
+                "P131^label:cs": "Židlochovice",
+                "P6736": "22349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62139,
+                    49.03549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Nejsvětější Trojice v Židlochovicích na Komenského ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Židlochovice",
+                "P6736": "22348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62074,
+                    49.03609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční hodiny na budově radnice v Židlochovicích",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Židlochovice",
+                "P6736": "22343"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61955,
+                    49.03734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kameny z mostních pilířů kamenného mostu z roku 1897",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Židlochovice",
+                "P6736": "22330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61596,
+                    49.0368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Židlochovicích na ulici Komenského",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Židlochovice",
+                "P6736": "22327"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61987,
+                    49.03681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Židlochovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Židlochovice",
+                "P6736": "22317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63309,
+                    49.03668
+                ]
+            }
+        }
+    ]
+}

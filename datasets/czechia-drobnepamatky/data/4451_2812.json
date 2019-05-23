@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Lhotická kaplička",
+                "P31": "Kaplička",
+                "P131^label:cs": "Lhotice",
+                "P6736": "23093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60708,
+                    49.02353
+                ]
+            }
+        }
+    ]
+}

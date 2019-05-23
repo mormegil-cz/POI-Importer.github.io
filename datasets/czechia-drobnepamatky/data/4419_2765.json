@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Račiněvsi do Břízy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Račiněves",
+                "P6736": "24252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21783,
+                    50.36644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty jihozápadně od Račiněvsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Račiněves",
+                "P6736": "24246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20827,
+                    50.36797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Rozvalený podstavec ulomeného kříže západně od Břízy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bříza",
+                "P6736": "24245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21055,
+                    50.35973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička se zvonicí v obci Bříza",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bříza",
+                "P6736": "24244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2171,
+                    50.35991
+                ]
+            }
+        }
+    ]
+}

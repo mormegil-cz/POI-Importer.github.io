@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Spáleném Poříčí v Republikánské ulici",
+                "P31": "Kaplička",
+                "P131^label:cs": "Spálené Poříčí",
+                "P6736": "5176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60669,
+                    49.61031
+                ]
+            }
+        }
+    ]
+}

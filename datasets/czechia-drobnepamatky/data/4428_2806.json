@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Svin",
+                "P31": "Kaplička",
+                "P131^label:cs": "Sviny",
+                "P6736": "6282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63342,
+                    49.18464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Svin",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sviny",
+                "P6736": "2611"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61858,
+                    49.18567
+                ]
+            }
+        }
+    ]
+}

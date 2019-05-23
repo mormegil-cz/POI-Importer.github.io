@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u křižovatky Železnobrodské a Vrchlabské ulice v Praze-Kbelích",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "24085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54828,
+                    50.13335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha muže a ženy v parku ve středu Kbel",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "16895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54942,
+                    50.13349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Mistra Jana Husa před ZŠ ve Vinoři",
+                "P31": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "16629"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5814,
+                    50.14637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého před ZŠ ve Vinoři",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "16628"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58043,
+                    50.14258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 2. světové válce ve středu Vinoře",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "16627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57965,
+                    50.14449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. světové válce ve středu Vinoře",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "16626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57974,
+                    50.14469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození Rudou armádou a pomník padlých rudoarmějců ve středu Vinoře",
+                "P31": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "16625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57997,
+                    50.14483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple č. 25 poutní cesty Via Sancta Stará Boleslav - Praha ve středu Vinoře",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "16624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58029,
+                    50.14481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Vojtěcha ve Vrchlabské ulici v Praze-Kbelích",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "15885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54824,
+                    50.13293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník pětistého výročí upálení Mistra Jana Husa v Sojovické ulici v Praze - Kbelích",
+                "P31": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "15882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55338,
+                    50.12922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v MČ Kbely, Praha, u železničního přejezdu silnice Kbely - Vinoř",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "15698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5542,
+                    50.13139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Rozlučkový kříž na okraji Ctěnického háje u zastávky autobusu",
+                "P31": "Boží muka",
+                "P131^label:cs": "Praha",
+                "P6736": "15543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57836,
+                    50.14833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek u vchodu do areálu ctěnického zámku",
+                "P31": "Boží muka",
+                "P131^label:cs": "Praha",
+                "P6736": "14746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.563,
+                    50.14844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny v Praze-Satalicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "14122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57535,
+                    50.12681
+                ]
+            }
+        }
+    ]
+}

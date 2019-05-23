@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Vrzalova rybníku jižně od Brtnice",
+                "P31": "Kaplička",
+                "P131^label:cs": "Brtnice",
+                "P6736": "9376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67471,
+                    49.28949
+                ]
+            }
+        }
+    ]
+}

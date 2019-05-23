@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Hadačky",
+                "P31": "Socha",
+                "P131^label:cs": "Výrov",
+                "P6736": "4083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4347,
+                    49.96127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Žebnice mezi stromy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plasy",
+                "P6736": "3119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40894,
+                    49.958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Žebnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plasy",
+                "P6736": "3118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41088,
+                    49.96296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese východně od Žebnice vzadu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plasy",
+                "P6736": "3117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41285,
+                    49.96325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese východně od Žebnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plasy",
+                "P6736": "3116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4128,
+                    49.96328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Sechutické hájovny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "3115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.428,
+                    49.967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Judy Tadeáše u Roudy",
+                "P31": "Socha",
+                "P131^label:cs": "Plasy",
+                "P6736": "3114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42265,
+                    49.9543
+                ]
+            }
+        }
+    ]
+}

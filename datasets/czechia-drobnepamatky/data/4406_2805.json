@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v první světové válce v Bukovníku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bukovník",
+                "P6736": "17384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66029,
+                    49.22219
+                ]
+            }
+        }
+    ]
+}

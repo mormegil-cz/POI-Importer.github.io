@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Sobětic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "1727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31001,
+                    49.38007
+                ]
+            }
+        }
+    ]
+}

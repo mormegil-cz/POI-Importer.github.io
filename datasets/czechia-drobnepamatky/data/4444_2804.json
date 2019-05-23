@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Evangelická zvonice ve východní části Jihlávky",
+                "P31": "Zvonička",
+                "P131^label:cs": "Jihlávka",
+                "P6736": "23294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29324,
+                    49.2613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Janštejně",
+                "P31": "Kaple",
+                "P131^label:cs": "Horní Dubenky",
+                "P6736": "19503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3207,
+                    49.25089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlých v Kališti u Horních Dubenek",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kaliště",
+                "P6736": "9504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30018,
+                    49.24252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Žižkův kámen u Janštejna",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Horní Dubenky",
+                "P6736": "9369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31635,
+                    49.25343
+                ]
+            }
+        }
+    ]
+}

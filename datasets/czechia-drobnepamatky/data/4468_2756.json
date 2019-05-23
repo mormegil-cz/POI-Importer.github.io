@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Rožmitálu při polní cestě do Broumova II",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "22726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.365,
+                    50.60252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Rožmitálu při polní cestě do Broumova I",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "22725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36658,
+                    50.60354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Rožmitále severní část obce",
+                "P31": "Socha",
+                "P131^label:cs": "Broumov",
+                "P6736": "22723"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37363,
+                    50.60754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Rožmitále severní část obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Broumov",
+                "P6736": "22722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36894,
+                    50.60574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rožmitále severní část obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "22721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37469,
+                    50.61002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Benešově u Broumova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "22286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35193,
+                    50.61853
+                ]
+            }
+        }
+    ]
+}

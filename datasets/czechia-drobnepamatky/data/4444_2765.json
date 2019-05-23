@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u silnice v Bartoušově",
+                "P31": "Boží muka",
+                "P131^label:cs": "Jičíněves",
+                "P6736": "16253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30989,
+                    50.35666
+                ]
+            }
+        }
+    ]
+}

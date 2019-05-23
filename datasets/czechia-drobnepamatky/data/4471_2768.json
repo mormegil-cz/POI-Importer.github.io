@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Kunštátě",
+                "P31": "Socha",
+                "P131^label:cs": "Orlické Záhoří",
+                "P6736": "12687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.48003,
+                    50.27125
+                ]
+            }
+        }
+    ]
+}

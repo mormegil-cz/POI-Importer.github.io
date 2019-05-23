@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Českých Libchavách u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "České Libchavy",
+                "P6736": "16070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37281,
+                    50.033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Českých Libchavách",
+                "P31": "Socha",
+                "P131^label:cs": "České Libchavy",
+                "P6736": "15099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37285,
+                    50.02817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie Immaculaty",
+                "P31": "Sloup",
+                "P131^label:cs": "Libchavy",
+                "P6736": "15098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38152,
+                    50.01492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Prostředních Libchavách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Libchavy",
+                "P6736": "15097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38307,
+                    50.01327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v jižní části Českých Libchav",
+                "P31": "Boží muka",
+                "P131^label:cs": "České Libchavy",
+                "P6736": "12566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37062,
+                    50.02812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník letců východně od Rviště",
+                "P31": "Pomník",
+                "P131^label:cs": "Orlické Podhůří",
+                "P6736": "12070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34965,
+                    50.00899
+                ]
+            }
+        }
+    ]
+}

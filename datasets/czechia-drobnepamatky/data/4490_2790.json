@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bělkovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bělkovice-Lašťany",
+                "P6736": "19054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.31574,
+                    49.66748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Bělkovic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělkovice-Lašťany",
+                "P6736": "18964"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.31667,
+                    49.66243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na okraji Bělkovic u silnice",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bělkovice-Lašťany",
+                "P6736": "18933"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3155,
+                    49.66601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Dolany v lese na Kartouzce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolany",
+                "P6736": "17274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.33603,
+                    49.6528
+                ]
+            }
+        }
+    ]
+}

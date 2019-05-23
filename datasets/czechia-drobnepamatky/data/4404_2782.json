@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Olešné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Němčovice",
+                "P6736": "11652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55351,
+                    49.87674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Lhotky u Radnic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lhotka u Radnic",
+                "P6736": "8154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57771,
+                    49.8888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Němčovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Němčovice",
+                "P6736": "4447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57524,
+                    49.87715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Ecce Homo v Olešné",
+                "P31": "Sloup",
+                "P131^label:cs": "Němčovice",
+                "P6736": "4446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54867,
+                    49.87652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Olešné",
+                "P31": "Kaple",
+                "P131^label:cs": "Němčovice",
+                "P6736": "4445"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54898,
+                    49.87654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Olešné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Němčovice",
+                "P6736": "4444"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54908,
+                    49.87656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Olešné",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Němčovice",
+                "P6736": "4443"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54925,
+                    49.87812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Němčovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Němčovice",
+                "P6736": "4037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5746,
+                    49.87723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Bohemie",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd u Svatého Kříže",
+                "P6736": "2707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56679,
+                    49.8693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Olešné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Němčovice",
+                "P6736": "2245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54607,
+                    49.88013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Němčovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Němčovice",
+                "P6736": "2157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56635,
+                    49.87791
+                ]
+            }
+        }
+    ]
+}

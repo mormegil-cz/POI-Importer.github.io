@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Kyselovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Kyselovice",
+                "P6736": "9367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.40232,
+                    49.37764
+                ]
+            }
+        }
+    ]
+}

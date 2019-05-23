@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší na návsi v Malešově",
+                "P31": "Socha",
+                "P131^label:cs": "Malešov",
+                "P6736": "13765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22271,
+                    49.91153
+                ]
+            }
+        }
+    ]
+}

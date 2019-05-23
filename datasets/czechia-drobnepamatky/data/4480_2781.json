@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na hřbitově v Postřelmově",
+                "P31": "Boží muka",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "23209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91043,
+                    49.90585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rovensku na hlavní křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rovensko",
+                "P6736": "20489"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87959,
+                    49.9065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Postřelmově u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "19803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.911,
+                    49.90646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Tomáše Garrigue Masaryka v Postřelmůvku",
+                "P31": "Pomník",
+                "P131^label:cs": "Postřelmůvek",
+                "P6736": "18797"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87865,
+                    49.922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Šikulova Mlýna v Postřelmově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "18016"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89561,
+                    49.91697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hrobka Bukůvků z Bukůvky před kostelem sv. Matouše v Postřelmově",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "17220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91088,
+                    49.90652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Narození Panny Marie v Rovensku",
+                "P31": "Kaple",
+                "P131^label:cs": "Rovensko",
+                "P6736": "17029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87609,
+                    49.90766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rovensku naproti kapli",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rovensko",
+                "P6736": "17018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87585,
+                    49.9077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Postřelmůvku před kaplí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postřelmůvek",
+                "P6736": "16982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87895,
+                    49.92235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Postřelmůvku u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postřelmůvek",
+                "P6736": "16971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88048,
+                    49.92182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Michala v Postřelmůvku",
+                "P31": "Kaple",
+                "P131^label:cs": "Postřelmůvek",
+                "P6736": "16795"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87907,
+                    49.92233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rovensku na křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rovensko",
+                "P6736": "16020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87822,
+                    49.90784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou svaté Filomény u Rovenska",
+                "P31": "Sloup",
+                "P131^label:cs": "Rovensko",
+                "P6736": "14635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88048,
+                    49.90026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Postřelmov na ulici Prvního máje",
+                "P31": "Kaplička",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "14246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91504,
+                    49.90548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Chromče vedle silnice",
+                "P31": "Obrázek",
+                "P131^label:cs": "Chromeč",
+                "P6736": "14222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90428,
+                    49.92079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Postřelmově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "13231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91185,
+                    49.90743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Postřelmově ve středu obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "13199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91339,
+                    49.90931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Rovenska u Rakovce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rovensko",
+                "P6736": "13035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88853,
+                    49.90461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Františka z Asissi u Postřelmova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "13034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89399,
+                    49.89931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Rovensku u hlavní silnice",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Rovensko",
+                "P6736": "12928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87707,
+                    49.90726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Postřelmově na Mírové ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "12581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90453,
+                    49.90755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svaté Růženy z Limy v Postřelmově u kostela",
+                "P31": "Sloup",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "12484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91095,
+                    49.90634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Postřelmově za kostelem",
+                "P31": "Socha",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "12483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91049,
+                    49.90643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Prokopa na okraji Postřelmova",
+                "P31": "Kaple",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "12159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91049,
+                    49.91271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Rovenska",
+                "P31": "Boží muka",
+                "P131^label:cs": "Rovensko",
+                "P6736": "11528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87966,
+                    49.9155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Nanebevzetí Panny Marie v Postřelmově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "11449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90879,
+                    49.9077
+                ]
+            }
+        }
+    ]
+}

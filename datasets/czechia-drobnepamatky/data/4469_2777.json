@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hnátnici západně od obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hnátnice",
+                "P6736": "25554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43288,
+                    50.01564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hnátnici severní část II",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hnátnice",
+                "P6736": "12831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43553,
+                    50.02246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hnátnici severní část I",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hnátnice",
+                "P6736": "12830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43466,
+                    50.02319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v obci Hlavná",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žampach",
+                "P6736": "12485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40922,
+                    50.03317
+                ]
+            }
+        }
+    ]
+}

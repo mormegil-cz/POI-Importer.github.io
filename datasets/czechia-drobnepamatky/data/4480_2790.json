@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Antonína Švehly v Březině",
+                "P31": "Pomník",
+                "P131^label:cs": "Luká",
+                "P6736": "18768"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91859,
+                    49.66507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Březině před kaplí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luká",
+                "P6736": "18767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91885,
+                    49.66498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Cyrila a Metoděje v Březině",
+                "P31": "Kaple",
+                "P131^label:cs": "Luká",
+                "P6736": "18766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91883,
+                    49.66493
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Vodňanech v ulici Rechle",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vodňany",
+                "P6736": "6761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.17117,
+                    49.15197
+                ]
+            }
+        }
+    ]
+}

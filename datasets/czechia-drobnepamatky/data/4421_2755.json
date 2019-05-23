@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice západně od Mukařova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lovečkovice",
+                "P6736": "24320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30408,
+                    50.6464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo zvonice na hřbitově v Mukařově",
+                "P31": "Zvonička",
+                "P131^label:cs": "Lovečkovice",
+                "P6736": "22972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30146,
+                    50.6468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Františka v zahradě bývalé fary v Mukařově",
+                "P31": "Socha",
+                "P131^label:cs": "Lovečkovice",
+                "P6736": "22971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30153,
+                    50.64645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup milník na východním okraji Mukařova",
+                "P31": "Sloup",
+                "P131^label:cs": "Lovečkovice",
+                "P6736": "22970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30206,
+                    50.64661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec s ulomeným křížem v centru Mukařova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lovečkovice",
+                "P6736": "22969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29957,
+                    50.64693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec kříže nebo sochy v západní části Mukařova",
+                "P31": "Neznámý",
+                "P131^label:cs": "Lovečkovice",
+                "P6736": "22968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29221,
+                    50.64758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup milník u rozcestí západně od Mukařova",
+                "P31": "Sloup",
+                "P131^label:cs": "Lovečkovice",
+                "P6736": "22967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29098,
+                    50.64767
+                ]
+            }
+        }
+    ]
+}

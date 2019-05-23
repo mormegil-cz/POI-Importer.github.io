@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice u Žichlínku vedle silnice",
+                "P31": "Sloup",
+                "P131^label:cs": "Žichlínek",
+                "P6736": "24188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65039,
+                    49.86688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Nejsvětější Trojice v Žichlínku u kostela",
+                "P31": "Socha",
+                "P131^label:cs": "Žichlínek",
+                "P6736": "12731"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63757,
+                    49.88143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Evangelisty v Žichlínku u kostela",
+                "P31": "Socha",
+                "P131^label:cs": "Žichlínek",
+                "P6736": "12724"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63743,
+                    49.88152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Žichlínku u kostela",
+                "P31": "Socha",
+                "P131^label:cs": "Žichlínek",
+                "P6736": "12723"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63729,
+                    49.88153
+                ]
+            }
+        }
+    ]
+}

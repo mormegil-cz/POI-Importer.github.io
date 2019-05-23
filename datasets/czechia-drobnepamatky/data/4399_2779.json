@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž jižně od Křečova",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "8328"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32628,
+                    49.9668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Křečova u svahu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "8171"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32522,
+                    49.97367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka východně od Křečova u Střely",
+                "P31": "Boží muka",
+                "P131^label:cs": "Mladotice",
+                "P6736": "8170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33983,
+                    49.97862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší svaté Anny a Panny Marie",
+                "P31": "Socha",
+                "P131^label:cs": "Mladotice",
+                "P6736": "8121"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34965,
+                    49.96679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska neštěstí na železnici jihovýchodně od Ondřejova",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Plasy",
+                "P6736": "8120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35125,
+                    49.96088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Ondřejově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pláně",
+                "P6736": "8119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33855,
+                    49.9667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Křečově u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "4401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32171,
+                    49.97234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Ondřejova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pláně",
+                "P6736": "4400"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33726,
+                    49.96782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Lidických žen u Ondřejova",
+                "P31": "Památník",
+                "P131^label:cs": "Pláně",
+                "P6736": "4399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33665,
+                    49.96746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Ondřejově",
+                "P31": "Kaple",
+                "P131^label:cs": "Pláně",
+                "P6736": "4398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33846,
+                    49.96673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ondřejově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pláně",
+                "P6736": "4397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33875,
+                    49.96654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Křečova ve svahu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "2939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33766,
+                    49.97601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Vrážného",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pláně",
+                "P6736": "2792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33245,
+                    49.95332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Křečova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "1808"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32704,
+                    49.97354
+                ]
+            }
+        }
+    ]
+}

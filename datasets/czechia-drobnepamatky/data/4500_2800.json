@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Tři hraniční kameny jihozápadně od Tesáku",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Držková",
+                "P6736": "14195"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.75732,
+                    49.35704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pilíř s Pannou Marií Svatohostýnskou u Machovy studánky jihozápadně od Tesáku",
+                "P31": "Sloup",
+                "P131^label:cs": "Chvalčov",
+                "P6736": "14142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.76832,
+                    49.36317
+                ]
+            }
+        }
+    ]
+}

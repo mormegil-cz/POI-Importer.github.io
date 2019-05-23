@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Písečném jižní část obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Písečné",
+                "P6736": "20129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46064,
+                    48.96284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Písečném západní okraj obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Písečné",
+                "P6736": "19768"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45832,
+                    48.96621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Písečném východní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Písečné",
+                "P6736": "19676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46607,
+                    48.9616
+                ]
+            }
+        }
+    ]
+}

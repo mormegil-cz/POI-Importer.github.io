@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u samoty Zahůrka za čp.17",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "21581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30939,
+                    49.45871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Rybníček u čp.1",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "21580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30216,
+                    49.46299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Strměch u čp.44",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30031,
+                    49.44566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u samoty čp.14 mezi Útěchovičkami a Rybníčkem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29318,
+                    49.46457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Žirova u silnice do Strměch",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žirov",
+                "P6736": "20420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32402,
+                    49.46083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Rybníček u čp.2",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20362"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29783,
+                    49.46387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v osadě Rybníček",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29867,
+                    49.46334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen na hrázi mezi Horními a dolními Kladinami",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Zachotín",
+                "P6736": "20273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33299,
+                    49.45518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Strměch směrem k Pálence",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29904,
+                    49.44981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u samoty Zahůrka poblíž Jelcových Lhotek",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30793,
+                    49.45781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na hrázi Dolních Kladin u Machkova Mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žirov",
+                "P6736": "19084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33523,
+                    49.45857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u samoty Žabárna poblíž Žirova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žirov",
+                "P6736": "19083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33413,
+                    49.46717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Jelcových Lhotkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31767,
+                    49.45139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Jelcových Lhotkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18653"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31764,
+                    49.45145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž poblíž Brychcova Mlýna u Kladinského potoka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Střítež pod Křemešníkem",
+                "P6736": "18650"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32756,
+                    49.44077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž z litiny uprostřed polí mezí Žirovem a Machkovým Mlýnem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žirov",
+                "P6736": "18646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32978,
+                    49.46044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž z kamene uprostřed polí mezí Žirovem a Machkovým Mlýnem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žirov",
+                "P6736": "18645"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3298,
+                    49.46048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rybníčku v Kocourových Lhotkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31937,
+                    49.45513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice ze Žirova do Kocourových Lhotek",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31712,
+                    49.45974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na severním okraji Žirova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žirov",
+                "P6736": "18374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32215,
+                    49.466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple sv.Václava v Žirově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žirov",
+                "P6736": "18373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32391,
+                    49.46422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv.Václava v Žirově",
+                "P31": "Kaple",
+                "P131^label:cs": "Žirov",
+                "P6736": "18372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32388,
+                    49.46426
+                ]
+            }
+        }
+    ]
+}

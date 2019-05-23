@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Těškova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těškov",
+                "P6736": "6928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71068,
+                    49.80708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Těškova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těškov",
+                "P6736": "6927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70173,
+                    49.79876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Těškově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Těškov",
+                "P6736": "3824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69643,
+                    49.80146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Těškově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těškov",
+                "P6736": "3823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69615,
+                    49.80162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Těškově",
+                "P31": "Kaple",
+                "P131^label:cs": "Těškov",
+                "P6736": "3822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69615,
+                    49.80167
+                ]
+            }
+        }
+    ]
+}

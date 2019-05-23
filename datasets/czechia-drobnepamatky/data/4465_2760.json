@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Bezděkově nad Metují",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezděkov nad Metují",
+                "P6736": "22517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23104,
+                    50.51061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bezděkově nad Metují jihovýchodní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezděkov nad Metují",
+                "P6736": "22308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23146,
+                    50.507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Bezděkově nad Metují v zahradě domu č 146",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Bezděkov nad Metují",
+                "P6736": "22100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22986,
+                    50.51011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bezděkově nad Metují severni okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezděkov nad Metují",
+                "P6736": "22099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2312,
+                    50.51185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v první světové válce v Bezděkové nad Metují",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bezděkov nad Metují",
+                "P6736": "22098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22799,
+                    50.50913
+                ]
+            }
+        }
+    ]
+}

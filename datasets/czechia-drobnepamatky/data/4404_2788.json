@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod vrchem Poddubí u Rakové",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Raková",
+                "P6736": "24816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56795,
+                    49.70791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese u Lhůty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rokycany",
+                "P6736": "3136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53738,
+                    49.70697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Mokrouší",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mokrouše",
+                "P6736": "3128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53787,
+                    49.71991
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Stádla u zastávky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štěpánov",
+                "P6736": "16998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2456,
+                    49.71004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Floriána v Hnojicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Hnojice",
+                "P6736": "16089"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22763,
+                    49.71288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Hnojic na rozcestí",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Hnojice",
+                "P6736": "16083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24805,
+                    49.71449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Moravské Huzové na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Štěpánov",
+                "P6736": "16067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24044,
+                    49.69781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Hnojic na polním rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hnojice",
+                "P6736": "16065"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.23535,
+                    49.70395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na okraji Stádla",
+                "P31": "Boží muka",
+                "P131^label:cs": "Štěpánov",
+                "P6736": "16064"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24595,
+                    49.70957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Hnojic na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hnojice",
+                "P6736": "16063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24804,
+                    49.7145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Lužicích na okraji obce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Lužice",
+                "P6736": "16062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26626,
+                    49.71818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Hnojic vedle polní cesty",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hnojice",
+                "P6736": "16061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.23161,
+                    49.72171
+                ]
+            }
+        }
+    ]
+}

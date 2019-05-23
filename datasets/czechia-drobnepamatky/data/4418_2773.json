@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Partyzánská Cararra v Lidicích",
+                "P31": "Plastika",
+                "P131^label:cs": "Lidice",
+                "P6736": "19811"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18969,
+                    50.1433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Bronzová plastika Mír v Lidicích",
+                "P31": "Plastika",
+                "P131^label:cs": "Lidice",
+                "P6736": "19810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19091,
+                    50.14333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. svět. válce v Hřebči",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hřebeč",
+                "P6736": "16634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15684,
+                    50.13739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Hřebči",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hřebeč",
+                "P6736": "15519"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16923,
+                    50.1353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hřebči",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hřebeč",
+                "P6736": "15518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16368,
+                    50.13775
+                ]
+            }
+        }
+    ]
+}

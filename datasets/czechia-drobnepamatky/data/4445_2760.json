@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Korunování Panny Marie v Chlumu pod Táborem",
+                "P31": "Socha",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "22792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.37567,
+                    50.5126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Madony na návsi v Cidlině",
+                "P31": "Socha",
+                "P131^label:cs": "Železnice",
+                "P6736": "16320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3478,
+                    50.49354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný kříž na rozcestí v obci Cidlina",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Železnice",
+                "P6736": "16318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34661,
+                    50.4941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u silnice z Košova do Peklovsi",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "16315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34627,
+                    50.50605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kapličky Křížové cesty na horu Tábor poblíž Chlumu pod Táborem",
+                "P31": "Kaplička",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "16311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36871,
+                    50.51033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u pramene Křížovka u cesty na horu Tábor poblíž Chlumu pod Táborem",
+                "P31": "Kaplička",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "16310"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.37016,
+                    50.51159
+                ]
+            }
+        }
+    ]
+}

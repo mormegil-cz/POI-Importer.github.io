@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník T. G. Masaryka na náměstí v Pečkách",
+                "P31": "Památník",
+                "P131^label:cs": "Pečky",
+                "P6736": "24673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03151,
+                    50.09065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Dobřichovské ulici v Pečkách",
+                "P31": "Boží muka",
+                "P131^label:cs": "Pečky",
+                "P6736": "24672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03092,
+                    50.08514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u mostu přes Výrovku v Dobřichově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "24670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03221,
+                    50.07909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na jižní straně Horní návsi v Dobřichově",
+                "P31": "Boží muka",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "24668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0321,
+                    50.07627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Františka Klecanského před kostelem Nejsvětější Trojice v Dobřichově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "24665"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03351,
+                    50.07529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka před kostelem Nejsvětější Trojice v Dobřichově",
+                "P31": "Boží muka",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "24659"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03326,
+                    50.07528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka západně od hřbitova v Dobřichově",
+                "P31": "Boží muka",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "24656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03396,
+                    50.07385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Ratenicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ratenice",
+                "P6736": "13929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06022,
+                    50.09135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Masarykově náměstí v Pečkách",
+                "P31": "Kašna",
+                "P131^label:cs": "Pečky",
+                "P6736": "13927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03164,
+                    50.09082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník na vrchu Píčhora nad Dobřichovem",
+                "P31": "Pomník",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "13923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02985,
+                    50.07495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty k Píčhoře nad Dobřichovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "13922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03038,
+                    50.07373
+                ]
+            }
+        }
+    ]
+}

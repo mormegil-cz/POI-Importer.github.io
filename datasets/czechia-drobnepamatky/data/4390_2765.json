@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětí nacismu a pochodu smrti v Jáchymově",
+                "P31": "Památník",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "10418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92194,
+                    50.36394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník umučeným politickým vězňům v Jáchymově",
+                "P31": "Památník",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "10417"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92364,
+                    50.36349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem 2. sv. války v Jáchymově",
+                "P31": "Památník",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "10403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92295,
+                    50.3637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník objevu radia v Jáchymově",
+                "P31": "Památník",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "10402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93509,
+                    50.35965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Georga Agricoly v Jáchymově",
+                "P31": "Pomník",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9339,
+                    50.36195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Štěpána Šlika v Jáchymově",
+                "P31": "Pomník",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92257,
+                    50.36467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u popraviště v Jáchymově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93802,
+                    50.35709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Barbory v Jáchymově",
+                "P31": "Kaple",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9346,
+                    50.36188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Výklenková kaple kalvárie v Jáchymově",
+                "P31": "Kaple",
+                "P131^label:cs": "Jáchymov",
+                "P6736": "9194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92282,
+                    50.36369
+                ]
+            }
+        }
+    ]
+}

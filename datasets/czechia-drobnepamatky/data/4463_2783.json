@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Prostý dřevěný kříž na křižovatce jižně od Chotovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotovice",
+                "P6736": "25046"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16428,
+                    49.84643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mokré Lhotě střed obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nové Hrady",
+                "P6736": "25044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13138,
+                    49.85699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chotovicích na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotovice",
+                "P6736": "21708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17124,
+                    49.85081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník padlým v 1 světové válce v Chotovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chotovice",
+                "P6736": "21681"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16865,
+                    49.8495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Betlémská jeskyně jižně od Nových Hradů",
+                "P31": "Kaple",
+                "P131^label:cs": "Zderaz",
+                "P6736": "16160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12795,
+                    49.84234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Příluce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Příluka",
+                "P6736": "12277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.15972,
+                    49.86429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Nové Vsi u Jarošova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Nová Ves u Jarošova",
+                "P6736": "12276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16037,
+                    49.83801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Podhořan u Nových Hradů",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Leština",
+                "P6736": "11938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13512,
+                    49.86584
+                ]
+            }
+        }
+    ]
+}

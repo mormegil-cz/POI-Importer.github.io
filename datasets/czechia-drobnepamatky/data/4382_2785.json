@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Světcích",
+                "P31": "Boží muka",
+                "P131^label:cs": "Tachov",
+                "P6736": "23131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60812,
+                    49.80355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na Vysoké",
+                "P31": "Kaplička",
+                "P131^label:cs": "Tachov",
+                "P6736": "23130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6123,
+                    49.7961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník bitvy uTachova na úbočí Vysoké západně od Tachova",
+                "P31": "Památník",
+                "P131^label:cs": "Tachov",
+                "P6736": "22619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.61165,
+                    49.7978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž na návsi v Mýtě u Tachova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tachov",
+                "P6736": "18433"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5821,
+                    49.79424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Mýtě u Tachova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Tachov",
+                "P6736": "18432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58221,
+                    49.79423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika u silnice jižně od Mýta u Tachova",
+                "P31": "Plastika",
+                "P131^label:cs": "Tachov",
+                "P6736": "18431"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57044,
+                    49.7835
+                ]
+            }
+        }
+    ]
+}

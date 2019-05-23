@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Sloupnici u cesty ke Džbánovu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sloupnice",
+                "P6736": "21477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31203,
+                    49.92377
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník 2. světové války",
+                "P31": "Památník",
+                "P131^label:cs": "Ždánice",
+                "P6736": "13157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94617,
+                    49.96889
+                ]
+            }
+        }
+    ]
+}

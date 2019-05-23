@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Nálesí",
+                "P31": "Kaple",
+                "P131^label:cs": "Chyšky",
+                "P6736": "7778"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39366,
+                    49.53644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zahradě v Ohradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "7777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37659,
+                    49.54738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Obděnicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "7776"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37597,
+                    49.5508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž západně od Ratiboře",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Chyšky",
+                "P6736": "2449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38368,
+                    49.52545
+                ]
+            }
+        }
+    ]
+}

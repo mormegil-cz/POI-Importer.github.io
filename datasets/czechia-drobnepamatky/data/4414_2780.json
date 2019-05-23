@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kámen tisíciletí východně od Černína",
+                "P31": "Menhir",
+                "P131^label:cs": "Zdice",
+                "P6736": "23129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98335,
+                    49.93308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Černíně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Zdice",
+                "P6736": "23128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97534,
+                    49.92889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Černíně",
+                "P31": "Kaplička",
+                "P131^label:cs": "Zdice",
+                "P6736": "23127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97467,
+                    49.92845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Černína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zdice",
+                "P6736": "23125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9772,
+                    49.92492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Trubíně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Trubín",
+                "P6736": "10360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0012,
+                    49.94369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Trubíně",
+                "P31": "Kaplička",
+                "P131^label:cs": "Trubín",
+                "P6736": "10359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0012,
+                    49.94369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Trubíně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Trubín",
+                "P6736": "10358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00138,
+                    49.94369
+                ]
+            }
+        }
+    ]
+}

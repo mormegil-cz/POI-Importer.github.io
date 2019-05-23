@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zdi v zadním traktu kláštera v Milevsku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Milevsko",
+                "P6736": "25563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36831,
+                    49.457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u kláštera v Milevsku",
+                "P31": "Kašna",
+                "P131^label:cs": "Milevsko",
+                "P6736": "13992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36745,
+                    49.45669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zbelítově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zbelítov",
+                "P6736": "7871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33205,
+                    49.457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u kostela v Milevsku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Milevsko",
+                "P6736": "7870"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35941,
+                    49.44921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha u kašny na náměstí Edvarda Beneše v Milevsku",
+                "P31": "Socha",
+                "P131^label:cs": "Milevsko",
+                "P6736": "7869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3596,
+                    49.45073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Milevsku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Milevsko",
+                "P6736": "7868"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35915,
+                    49.44985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Milevsku na Tyršově náměstí",
+                "P31": "Památník",
+                "P131^label:cs": "Milevsko",
+                "P6736": "7867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36321,
+                    49.44712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup v lese severně od Milevska u silnice do Dmýštic",
+                "P31": "Sloup",
+                "P131^label:cs": "Milevsko",
+                "P6736": "2054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35557,
+                    49.46627
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Přeborovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Čejetice",
+                "P6736": "7280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00765,
+                    49.25548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Přeborovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Čejetice",
+                "P6736": "7279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00799,
+                    49.25562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Přeborovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čejetice",
+                "P6736": "7278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00799,
+                    49.25556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Přeborovicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Čejetice",
+                "P6736": "7277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00995,
+                    49.25433
+                ]
+            }
+        }
+    ]
+}

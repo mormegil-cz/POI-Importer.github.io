@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem komunismu ve Vsetíně",
+                "P31": "Pomník",
+                "P131^label:cs": "Vsetín",
+                "P6736": "11276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.99587,
+                    49.33791
+                ]
+            }
+        }
+    ]
+}

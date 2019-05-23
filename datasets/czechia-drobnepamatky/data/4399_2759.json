@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž poblíž domu 57 v Zákoutí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blatno",
+                "P6736": "23072"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34976,
+                    50.54031
+                ]
+            }
+        }
+    ]
+}

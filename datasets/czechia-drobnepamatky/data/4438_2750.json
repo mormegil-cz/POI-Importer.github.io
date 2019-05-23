@@ -1,0 +1,1013 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika v parčíku mezi budovami A a V nemocnice v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06386,
+                    50.77033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika mezi budovami C a G nemocnice v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06501,
+                    50.77057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika před budovou C nemocnice v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24930"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06524,
+                    50.77053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika na dětském hřišti za budovou E nemocnice v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06542,
+                    50.77055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika u dětského hřiště za budovou E nemocnice v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06557,
+                    50.77037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika za budovou F2 nemocnice v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06608,
+                    50.7695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika mezi budovami F2 a N nemocnice v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06592,
+                    50.76941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika u příjezdu k budově E nemocnice v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0662,
+                    50.77011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika před budovou B nemocnice v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24924"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06616,
+                    50.76991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika před budovou B v nemocnici Liberec",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06606,
+                    50.76984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika po straně budovy B v nemocnici Liberec",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06578,
+                    50.76964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kapličky Křížové cesty za kostelem Nalezení svatého Kříže v Liberci",
+                "P31": "Kaplička",
+                "P131^label:cs": "Liberec",
+                "P6736": "24918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05315,
+                    50.77123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup za kostelem Nalezení svatého Kříže v Liberci",
+                "P31": "Sloup",
+                "P131^label:cs": "Liberec",
+                "P6736": "24917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05295,
+                    50.77135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela Nalezení svatého Kříže v Liberci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Liberec",
+                "P6736": "24916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05322,
+                    50.77103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Lampa Edison v atriu nákupního centra Plaza Liberec",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05887,
+                    50.76922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Rodina na rohu ulic Dvorská a Vojtěšská",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07025,
+                    50.76584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska prvního automobilu v Českých zemích v Liberci",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Liberec",
+                "P6736": "24907"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06783,
+                    50.76767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Po válce v parku mezi Jabloneckou a Humpoleckou ulicí",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "24906"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06735,
+                    50.76762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Františka Clam-Gallase v parku Clam-Gallasů v Liberci",
+                "P31": "Pomník",
+                "P131^label:cs": "Liberec",
+                "P6736": "24905"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06201,
+                    50.76788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v zámeckém parku v Liberci",
+                "P31": "Socha",
+                "P131^label:cs": "Liberec",
+                "P6736": "24904"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06164,
+                    50.7674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice v zámeckém parku v Liberci",
+                "P31": "Sloup",
+                "P131^label:cs": "Liberec",
+                "P6736": "24903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06118,
+                    50.7674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup-obelisk u zámku v Liberci",
+                "P31": "Sloup",
+                "P131^label:cs": "Liberec",
+                "P6736": "24902"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06075,
+                    50.76784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Věčná něha v Jánské ulici v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05451,
+                    50.76669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětí okupace 1968 u radnice v Liberci",
+                "P31": "Pomník",
+                "P131^label:cs": "Liberec",
+                "P6736": "20605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05836,
+                    50.76962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Betonová plastika Rodina v Ruprechtické ulici v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20604"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0557,
+                    50.77342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Revoluce v ulici Generála Svobody v Nových Pavlovicích",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04965,
+                    50.78085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Keramická plastika Opuštěná v ulici Květnové Revoluce v Nových Pavlovicích",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05663,
+                    50.78008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Kamenné ořechy v parku v Kmochově ulici v Ruprechticích",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06385,
+                    50.78762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Ruprechticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Liberec",
+                "P6736": "20600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06525,
+                    50.78832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Ocelová plastika Spartakiáda v ulici Na Pískovně v Ruprechticích",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05713,
+                    50.78625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Žulová plastika Květ ve Vrchlického ulici v Ruprechticích",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0609,
+                    50.78427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Dvojice v parku v Třešňové ulici v Ruprechticích",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06164,
+                    50.78367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Sluneční hodiny v parku v Rychtářské ulici v Ruprechticích",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06207,
+                    50.78172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Fontány v parku v Rychtářské ulici v Ruprechticích",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20595"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06185,
+                    50.7815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Křídla u minigolfu v Masarykově ulici v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20594"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0686,
+                    50.77394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Brána snů u minigolfu v Masarykově ulici v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20593"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06863,
+                    50.7738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Masarykův pomník v Masarykově ulici v Liberci",
+                "P31": "Pomník",
+                "P131^label:cs": "Liberec",
+                "P6736": "20592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06913,
+                    50.77462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Amfitrité u portálu do Oblastní galerie v Liberci",
+                "P31": "Socha",
+                "P131^label:cs": "Liberec",
+                "P6736": "20476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06772,
+                    50.77393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Poseidona na portálu do Oblastní galerie v Liberci",
+                "P31": "Socha",
+                "P131^label:cs": "Liberec",
+                "P6736": "20475"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06789,
+                    50.77399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Tři koule v parku v ulici Na Bídě v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06069,
+                    50.76505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika 12 měsíců v parku Gutenbergova v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20473"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06188,
+                    50.76831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Jánské ulici v Liberci",
+                "P31": "Kašna",
+                "P131^label:cs": "Liberec",
+                "P6736": "20472"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05367,
+                    50.76577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Václava Šamánka u školy v Šamánkově ulici v Liberci",
+                "P31": "Pomník",
+                "P131^label:cs": "Liberec",
+                "P6736": "20471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06366,
+                    50.77255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník lidické hrušně na Štefánikově náměstí v Liberci",
+                "P31": "Pomník",
+                "P131^label:cs": "Liberec",
+                "P6736": "20470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06653,
+                    50.77601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník bojovníkům a obětem za svobodu vlasti na Štefánikově náměstí v Liberci",
+                "P31": "Památník",
+                "P131^label:cs": "Liberec",
+                "P6736": "20457"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06601,
+                    50.77577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Zahradě vzpomínek v Liberci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Liberec",
+                "P6736": "20455"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06138,
+                    50.77552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlého důstojníka v Zahradě vzpomínek v Liberci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Liberec",
+                "P6736": "20454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06124,
+                    50.7757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z války 1866 v Zahradě vzpomínek v Liberci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Liberec",
+                "P6736": "20453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06127,
+                    50.77574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Soška medvěda v Zahradě vzpomínek v Liberci",
+                "P31": "Socha",
+                "P131^label:cs": "Liberec",
+                "P6736": "20451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06103,
+                    50.7757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy svatého Petra a svatého Pavla na bráně do Zahrady vzpomínek v Liberci",
+                "P31": "Socha",
+                "P131^label:cs": "Liberec",
+                "P6736": "20450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06089,
+                    50.77567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Kapka na Tržním náměstí v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0623,
+                    50.77393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Tržním náměstí v Liberci",
+                "P31": "Kašna",
+                "P131^label:cs": "Liberec",
+                "P6736": "20448"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06142,
+                    50.77393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Měděná plastika v Rumjancevově ulici v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06,
+                    50.77207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Bronzová plastika Hostina obrů v Sokolské ulici v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05946,
+                    50.77104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Meteorologický sloup za radnicí v Liberci",
+                "P31": "Sloup",
+                "P131^label:cs": "Liberec",
+                "P6736": "20445"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05851,
+                    50.7701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Edvarda Beneše v Liberci",
+                "P31": "Kašna",
+                "P131^label:cs": "Liberec",
+                "P6736": "20444"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05795,
+                    50.76921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Kočky v ulici 5.května v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20443"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0594,
+                    50.7697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Květ na Šaldově náměstí v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20442"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06095,
+                    50.77023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obelisk v parku na Zámeckém náměstí v Liberci",
+                "P31": "Sloup",
+                "P131^label:cs": "Liberec",
+                "P6736": "20441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05971,
+                    50.76825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Koule v Gutenbergově ulici v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06055,
+                    50.76851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Žena s ratolestí v parku Clam-Gallasů v Liberci",
+                "P31": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06205,
+                    50.76772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Boženy Němcové na náměstí Českých bratří v Liberci",
+                "P31": "Pomník",
+                "P131^label:cs": "Liberec",
+                "P6736": "20438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06223,
+                    50.76611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem komunismu v Liberci",
+                "P31": "Památník",
+                "P131^label:cs": "Liberec",
+                "P6736": "8939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06694,
+                    50.76778
+                ]
+            }
+        }
+    ]
+}

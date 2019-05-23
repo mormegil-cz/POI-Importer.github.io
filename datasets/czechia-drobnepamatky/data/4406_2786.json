@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie ve Volduchách",
+                "P31": "Socha",
+                "P131^label:cs": "Volduchy",
+                "P6736": "6890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62413,
+                    49.77419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Volduch",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Volduchy",
+                "P6736": "6889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63003,
+                    49.77483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození ve Volduchách",
+                "P31": "Památník",
+                "P131^label:cs": "Volduchy",
+                "P6736": "6887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62481,
+                    49.77439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční hodiny ve Volduchách",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Volduchy",
+                "P6736": "4611"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62346,
+                    49.77596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Volduchách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Volduchy",
+                "P6736": "4610"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62466,
+                    49.77443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Svojkovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Svojkovice",
+                "P6736": "4609"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6479,
+                    49.75899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Svojkovicích",
+                "P31": "Památník",
+                "P131^label:cs": "Svojkovice",
+                "P6736": "4608"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64803,
+                    49.75908
+                ]
+            }
+        }
+    ]
+}

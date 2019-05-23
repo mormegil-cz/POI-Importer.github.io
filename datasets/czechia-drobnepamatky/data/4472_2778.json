@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Verměřovicích jižní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Verměřovice",
+                "P6736": "25391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5619,
+                    50.00113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Petrovicích u Lanškrouna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "15309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53948,
+                    49.98853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce v Petrovicích u Lanškrouna",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Petrovice",
+                "P6736": "15291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54897,
+                    49.99002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž ve Verměřovicích u školy",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Verměřovice",
+                "P6736": "11571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56205,
+                    50.00405
+                ]
+            }
+        }
+    ]
+}

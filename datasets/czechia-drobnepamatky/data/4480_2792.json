@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ochozu na návsi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ochoz",
+                "P6736": "25335"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91524,
+                    49.60003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka Budětsko na okraji obce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Budětsko",
+                "P6736": "25144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9189,
+                    49.58759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice v Ladíně na návsi",
+                "P31": "Zvonička",
+                "P131^label:cs": "Konice",
+                "P6736": "15663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87696,
+                    49.60928
+                ]
+            }
+        }
+    ]
+}

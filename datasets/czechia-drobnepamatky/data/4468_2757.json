@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup u obce Rožmitál",
+                "P31": "Sloup",
+                "P131^label:cs": "Otovice",
+                "P6736": "25291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36496,
+                    50.58168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Broumovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "25290"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35995,
+                    50.58094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rožmitále jižní část obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "22727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37394,
+                    50.58966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Rožmitále",
+                "P31": "Kaplička",
+                "P131^label:cs": "Broumov",
+                "P6736": "22587"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37575,
+                    50.59064
+                ]
+            }
+        }
+    ]
+}

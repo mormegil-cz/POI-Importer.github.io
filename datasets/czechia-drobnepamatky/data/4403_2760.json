@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříže ve Vrskmani",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Vrskmaň",
+                "P6736": "19688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49574,
+                    50.48922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ježíše na kříži ve Vrskmani",
+                "P31": "Socha",
+                "P131^label:cs": "Vrskmaň",
+                "P6736": "19687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4956,
+                    50.48904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na návsi ve Vrskmani",
+                "P31": "Sloup",
+                "P131^label:cs": "Vrskmaň",
+                "P6736": "19686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49559,
+                    50.48698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na návsi ve Vrskmani",
+                "P31": "Socha",
+                "P131^label:cs": "Vrskmaň",
+                "P6736": "19685"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49546,
+                    50.48749
+                ]
+            }
+        }
+    ]
+}

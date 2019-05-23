@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v lese u silnice z Kostomlat do Milešova",
+                "P31": "Pomník",
+                "P131^label:cs": "Kostomlaty pod Milešovkou",
+                "P6736": "18837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89001,
+                    50.56002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u rozcestí u silnice z Milešova do Kostomlat",
+                "P31": "Boží muka",
+                "P131^label:cs": "Velemín",
+                "P6736": "15671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90403,
+                    50.55334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Anny u silnice z Milešova do Černčic",
+                "P31": "Socha",
+                "P131^label:cs": "Velemín",
+                "P6736": "15667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92558,
+                    50.54607
+                ]
+            }
+        }
+    ]
+}

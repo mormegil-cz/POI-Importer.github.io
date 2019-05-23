@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Barokní socha světice před úřadovnou Městské policie v Dolních Počernicích",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "16680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57799,
+                    50.08881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého ve středu Dolních Počernic u mostu",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "16679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57708,
+                    50.08846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika ženy v parku Pilská v Hostavicích",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "16678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56127,
+                    50.0912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v ulici Pilská v Hostavicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Praha",
+                "P6736": "16677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56142,
+                    50.09169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Praze Dolních Počernicích v ulici Národních Hrdinů u mostu přes Rokytku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "13752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5767,
+                    50.08828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Praze Dolních Počernicích v ulici Národních Hrdinů",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "13751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58242,
+                    50.08866
+                ]
+            }
+        }
+    ]
+}

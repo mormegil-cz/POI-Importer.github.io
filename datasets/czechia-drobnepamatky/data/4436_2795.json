@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Jetřichovci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pacov",
+                "P6736": "16507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97498,
+                    49.50213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Salačovy Lhoty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Salačova Lhota",
+                "P6736": "16496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98383,
+                    49.5228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Salačově Lhotě",
+                "P31": "Kaple",
+                "P131^label:cs": "Salačova Lhota",
+                "P6736": "16495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97967,
+                    49.52437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Salačově Lhotě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Salačova Lhota",
+                "P6736": "16493"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98097,
+                    49.52378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Salačovy Lhoty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Salačova Lhota",
+                "P6736": "16489"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97569,
+                    49.52115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Velké Černé",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Salačova Lhota",
+                "P6736": "16488"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96286,
+                    49.51759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Velké Černé",
+                "P31": "Kaple",
+                "P131^label:cs": "Salačova Lhota",
+                "P6736": "16486"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96279,
+                    49.51761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Velké Černé",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Salačova Lhota",
+                "P6736": "16483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.95856,
+                    49.52234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Velké Černé u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Salačova Lhota",
+                "P6736": "16478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96225,
+                    49.51819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Velké Černé",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Salačova Lhota",
+                "P6736": "16476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96228,
+                    49.51623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Jetřichovci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pacov",
+                "P6736": "7812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97561,
+                    49.5023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Jetřichovci",
+                "P31": "Kaple",
+                "P131^label:cs": "Pacov",
+                "P6736": "7811"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97551,
+                    49.50232
+                ]
+            }
+        }
+    ]
+}

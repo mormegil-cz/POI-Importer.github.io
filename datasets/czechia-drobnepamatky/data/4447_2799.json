@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem sv. Bartoloměje v Dušejově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dušejov",
+                "P6736": "19507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43367,
+                    49.41024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hlavní křižovatky na okraji Dušejova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dušejov",
+                "P6736": "19506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43795,
+                    49.41054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Josefa Richlého u Mirošova",
+                "P31": "Památník",
+                "P131^label:cs": "Mirošov",
+                "P6736": "16257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45752,
+                    49.38357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice nad Bahny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Boršov",
+                "P6736": "16233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43665,
+                    49.39056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Mirošova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirošov",
+                "P6736": "16177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46128,
+                    49.38738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen v Boršově",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Boršov",
+                "P6736": "16143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43476,
+                    49.40405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před Jedlovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mirošov",
+                "P6736": "16142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45436,
+                    49.39886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen v Mirošově",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Mirošov",
+                "P6736": "12333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4629,
+                    49.38904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Dušejova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dušejov",
+                "P6736": "12100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43976,
+                    49.40977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašparův kříž",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ježená",
+                "P6736": "11657"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44657,
+                    49.40855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen na Bahnech",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Boršov",
+                "P6736": "11518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43665,
+                    49.39342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen ve vsi Starý Hubenov",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Hubenov",
+                "P6736": "11451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45857,
+                    49.40105
+                ]
+            }
+        }
+    ]
+}

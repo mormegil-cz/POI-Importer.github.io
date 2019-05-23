@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u nádrže ve Velké",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Milevsko",
+                "P6736": "7879"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28365,
+                    49.4523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého ve Velké",
+                "P31": "Socha",
+                "P131^label:cs": "Milevsko",
+                "P6736": "7878"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28423,
+                    49.45234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Velké",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Milevsko",
+                "P6736": "7877"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2844,
+                    49.45235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Velké",
+                "P31": "Kaple",
+                "P131^label:cs": "Milevsko",
+                "P6736": "7876"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28441,
+                    49.45239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Velké u zemědělského areálu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Milevsko",
+                "P6736": "7875"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28789,
+                    49.45281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Zbelítova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Zbelítov",
+                "P6736": "7874"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32178,
+                    49.45597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Zbelítově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Zbelítov",
+                "P6736": "7873"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32518,
+                    49.4558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Zbelítově",
+                "P31": "Kaple",
+                "P131^label:cs": "Zbelítov",
+                "P6736": "7872"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32566,
+                    49.45576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Rudé armády východně od Hrejkovic",
+                "P31": "Památník",
+                "P131^label:cs": "Hrejkovice",
+                "P6736": "7058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.312,
+                    49.46633
+                ]
+            }
+        }
+    ]
+}

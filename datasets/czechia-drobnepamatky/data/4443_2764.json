@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Václava u silnice na východním okraji Bystřice",
+                "P31": "Socha",
+                "P131^label:cs": "Bystřice",
+                "P6736": "17406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24913,
+                    50.39547
+                ]
+            }
+        }
+    ]
+}

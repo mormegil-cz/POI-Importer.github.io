@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Neratově",
+                "P31": "Zvonička",
+                "P131^label:cs": "Neratov",
+                "P6736": "15388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.64546,
+                    50.07954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Neratově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Neratov",
+                "P6736": "15386"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6455,
+                    50.07954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dědku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Živanice",
+                "P6736": "15384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6568,
+                    50.07022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou svatého Jana Nepomuckého na Masarykově náměstí v Lázních Bohdaneč",
+                "P31": "Sloup",
+                "P131^label:cs": "Lázně Bohdaneč",
+                "P6736": "15373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67995,
+                    50.07672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u mlýnů v Lázních Bohdaneč",
+                "P31": "Socha",
+                "P131^label:cs": "Lázně Bohdaneč",
+                "P6736": "15371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.66789,
+                    50.08562
+                ]
+            }
+        }
+    ]
+}

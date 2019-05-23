@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup ve Zdechovicích",
+                "P31": "Sloup",
+                "P131^label:cs": "Zdechovice",
+                "P6736": "15072"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.468,
+                    50.0136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zdechovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zdechovice",
+                "P6736": "15070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46492,
+                    50.01877
+                ]
+            }
+        }
+    ]
+}

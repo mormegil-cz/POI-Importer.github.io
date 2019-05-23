@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u lesa severně od Svatého Huberta",
+                "P31": "Kaplička",
+                "P131^label:cs": "Drahouš",
+                "P6736": "25606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50654,
+                    50.0813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple východně od Drahouše",
+                "P31": "Kaple",
+                "P131^label:cs": "Drahouš",
+                "P6736": "25605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49603,
+                    50.08163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u silnice mezi Kosobody a Sosní jižně od Kosobod",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jesenice",
+                "P6736": "25603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52075,
+                    50.09222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník u silnice mezi Kosobody a Sosní jižně od Kosobod",
+                "P31": "Pomník",
+                "P131^label:cs": "Jesenice",
+                "P6736": "25602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51989,
+                    50.09182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží kámen u Sosně",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Jesenice",
+                "P6736": "7548"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52993,
+                    50.08233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Sosni",
+                "P31": "Kaple",
+                "P131^label:cs": "Jesenice",
+                "P6736": "7237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53001,
+                    50.08987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Sosni",
+                "P31": "Socha",
+                "P131^label:cs": "Jesenice",
+                "P6736": "7236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52994,
+                    50.08988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Svatého Huberta",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drahouš",
+                "P6736": "7233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51097,
+                    50.07151
+                ]
+            }
+        }
+    ]
+}

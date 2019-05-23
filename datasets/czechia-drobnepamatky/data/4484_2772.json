@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Nové Losiny v osadě Josefová",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jindřichov",
+                "P6736": "23255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06316,
+                    50.14906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Nové Losiny v osadě Josefová",
+                "P31": "Kaplička",
+                "P131^label:cs": "Jindřichov",
+                "P6736": "23254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.06104,
+                    50.15039
+                ]
+            }
+        }
+    ]
+}

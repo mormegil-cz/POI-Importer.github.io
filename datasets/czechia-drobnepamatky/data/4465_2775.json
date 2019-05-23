@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička se sochou Panny Marie Cellské ve Vrbici",
+                "P31": "Zvonička",
+                "P131^label:cs": "Vrbice",
+                "P6736": "12140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25113,
+                    50.08907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Vrbici",
+                "P31": "Boží muka",
+                "P131^label:cs": "Vrbice",
+                "P6736": "12091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25839,
+                    50.09173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek jižně od Vrbice",
+                "P31": "Obrázek",
+                "P131^label:cs": "Vrbice",
+                "P6736": "12059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24788,
+                    50.08624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Jana Nepomuckého v Chlínkách",
+                "P31": "Socha",
+                "P131^label:cs": "Vrbice",
+                "P6736": "12040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24449,
+                    50.08295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž ve Vrbici",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Vrbice",
+                "P6736": "12039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25112,
+                    50.08964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Misionární kříž v Chlenech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chleny",
+                "P6736": "12032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24334,
+                    50.07796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Krchlebech",
+                "P31": "Socha",
+                "P131^label:cs": "Krchleby",
+                "P6736": "11765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23371,
+                    50.07921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Přestavlkách",
+                "P31": "Obrázek",
+                "P131^label:cs": "Borovnice",
+                "P6736": "11763"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22967,
+                    50.06485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Svídnici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svídnice",
+                "P6736": "11750"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22279,
+                    50.08632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Apoteózy Svatého Jana Nepomuckého v Přestavlkách",
+                "P31": "Socha",
+                "P131^label:cs": "Borovnice",
+                "P6736": "11703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23301,
+                    50.06945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Chlen",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chleny",
+                "P6736": "11683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24778,
+                    50.07035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek jižně od Chlen",
+                "P31": "Obrázek",
+                "P131^label:cs": "Chleny",
+                "P6736": "11648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24409,
+                    50.07322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chlenech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chleny",
+                "P6736": "11647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24818,
+                    50.07733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Krchleb",
+                "P31": "Obrázek",
+                "P131^label:cs": "Krchleby",
+                "P6736": "11626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21654,
+                    50.07406
+                ]
+            }
+        }
+    ]
+}

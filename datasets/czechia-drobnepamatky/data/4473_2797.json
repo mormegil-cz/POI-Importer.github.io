@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší husitských bojovníků u Bořitova",
+                "P31": "Socha",
+                "P131^label:cs": "Bořitov",
+                "P6736": "9265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.58778,
+                    49.44278
+                ]
+            }
+        }
+    ]
+}

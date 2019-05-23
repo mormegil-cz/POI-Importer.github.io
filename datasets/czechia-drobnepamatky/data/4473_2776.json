@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Studeném jižní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Studené",
+                "P6736": "17000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.58799,
+                    50.06187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Studeném, místní část Bořitov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Studené",
+                "P6736": "15223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.58609,
+                    50.05901
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kámen lípy k 100.výročí republiky u kostela v osadě Vepřek",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Nová Ves",
+                "P6736": "24441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3204,
+                    50.3053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na návsi v Nové Vsi",
+                "P31": "Zvonička",
+                "P131^label:cs": "Nová Ves",
+                "P6736": "24439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3084,
+                    50.31246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u obecního úřadu v Nové Vsi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Nová Ves",
+                "P6736": "24438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31236,
+                    50.31022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým rudoarmějcům na hřbitově v osadě Vepřek",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Nová Ves",
+                "P6736": "24437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31987,
+                    50.3053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce na zdi kostela v osadě Vepřek",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Nová Ves",
+                "P6736": "24436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32033,
+                    50.30527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice u bývalé školy v osadě Vepřek",
+                "P31": "Zvonička",
+                "P131^label:cs": "Nová Ves",
+                "P6736": "24435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32109,
+                    50.30551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v osadě Vepřek",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nová Ves",
+                "P6736": "24434"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32306,
+                    50.31092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u kulturního domu v Sazené",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Sazená",
+                "P6736": "18145"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28958,
+                    50.3063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka a socha sv. Jana Nepomuckého na mostě v Sazené",
+                "P31": "Boží muka",
+                "P131^label:cs": "Sazená",
+                "P6736": "18144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28786,
+                    50.30602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička a sloup se sochou Panny Marie ve středu Sazené",
+                "P31": "Zvonička",
+                "P131^label:cs": "Sazená",
+                "P6736": "18143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28696,
+                    50.30523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička a studánka U svatého Antoníčka u cesty ze Sazené do Nových Ouholic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Sazená",
+                "P6736": "18142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29494,
+                    50.30267
+                ]
+            }
+        }
+    ]
+}

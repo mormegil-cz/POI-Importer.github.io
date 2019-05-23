@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Vrbice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vrbice",
+                "P6736": "14231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87992,
+                    48.91284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka se studánkou pod Stráží",
+                "P31": "Boží muka",
+                "P131^label:cs": "Vrbice",
+                "P6736": "14230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89996,
+                    48.91804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Mohyla míru",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Vrbice",
+                "P6736": "14224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89924,
+                    48.91768
+                ]
+            }
+        }
+    ]
+}

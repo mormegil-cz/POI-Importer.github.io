@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Partyzánský památník Stržená hráz u Nového Mnichu",
+                "P31": "Památník",
+                "P131^label:cs": "Mnich",
+                "P6736": "22631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98782,
+                    49.28614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Nového Mnichu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mnich",
+                "P6736": "22630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98765,
+                    49.28743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník stromu svobody ve starém Bozděchově",
+                "P31": "Památník",
+                "P131^label:cs": "Horní Radouň",
+                "P6736": "13448"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01115,
+                    49.27431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Starém Bozděchově u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Radouň",
+                "P6736": "13447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00915,
+                    49.27344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Novém Bozděchově v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Radouň",
+                "P6736": "13446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00404,
+                    49.27453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník jižně od Bukovky",
+                "P31": "Pomník",
+                "P131^label:cs": "Horní Radouň",
+                "P6736": "8279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01704,
+                    49.2829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Starého Bozděchova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Horní Radouň",
+                "P6736": "7029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01608,
+                    49.27155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Starém Bozděchově",
+                "P31": "Zvonička",
+                "P131^label:cs": "Horní Radouň",
+                "P6736": "7028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01452,
+                    49.27219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Starém Bozděchově u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Radouň",
+                "P6736": "7027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01478,
+                    49.2721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Starého Bozděchova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Radouň",
+                "P6736": "7026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0152,
+                    49.27323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Bukovce",
+                "P31": "Kaple",
+                "P131^label:cs": "Horní Radouň",
+                "P6736": "7025"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01506,
+                    49.28522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli u Starého Bozděchova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Radouň",
+                "P6736": "2534"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01544,
+                    49.26946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na rozcestí nad Novým Mnichem",
+                "P31": "Obrázek",
+                "P131^label:cs": "Mnich",
+                "P6736": "2070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9902,
+                    49.29031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jižně od Bohdalína",
+                "P31": "Kaplička",
+                "P131^label:cs": "Mnich",
+                "P6736": "2067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00615,
+                    49.29517
+                ]
+            }
+        }
+    ]
+}

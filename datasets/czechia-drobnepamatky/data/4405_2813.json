@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník převaděčů na svobodu u Františkova",
+                "P31": "Památník",
+                "P131^label:cs": "Kvilda",
+                "P6736": "19608"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62298,
+                    49.0003
+                ]
+            }
+        }
+    ]
+}

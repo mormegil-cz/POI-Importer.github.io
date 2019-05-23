@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Komorovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Komorovice",
+                "P6736": "19893"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34544,
+                    49.50816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Komorovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Komorovice",
+                "P6736": "18798"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34553,
+                    49.50814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž u zemědělského družstva Komorovice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladé Bříště",
+                "P6736": "18794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34187,
+                    49.50238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jižní části Vystrkova u čp.23",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vystrkov",
+                "P6736": "18793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3485,
+                    49.5192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Vystrkově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vystrkov",
+                "P6736": "18792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3486,
+                    49.51969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vystrkově",
+                "P31": "Kaple",
+                "P131^label:cs": "Vystrkov",
+                "P6736": "18791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34856,
+                    49.51972
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Buddhy v areálu stavebnin na západním okraji Maršovic",
+                "P31": "Socha",
+                "P131^label:cs": "Nové Město na Moravě",
+                "P6736": "17259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07302,
+                    49.57728
+                ]
+            }
+        }
+    ]
+}

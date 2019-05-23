@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice severně od Bynovce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bynovec",
+                "P6736": "25034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26201,
+                    50.8254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Bynovci",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bynovec",
+                "P6736": "25033"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26143,
+                    50.82109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Milníky u Knížecí cesty z Labské Stráně do Bynovce",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Labská Stráň",
+                "P6736": "22570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23899,
+                    50.83881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u domu 66 v Arnolticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Arnoltice",
+                "P6736": "22569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26394,
+                    50.83928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie na návsi v Arnolticích",
+                "P31": "Socha",
+                "P131^label:cs": "Arnoltice",
+                "P6736": "22033"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26393,
+                    50.837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník první zmínky o obci na návsi v Arnolticích",
+                "P31": "Pomník",
+                "P131^label:cs": "Arnoltice",
+                "P6736": "22032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2635,
+                    50.83659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve válkách 1859-1866 na návsi v Arnolticích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Arnoltice",
+                "P6736": "22031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26342,
+                    50.83688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na bráně k faře v Arnolticích",
+                "P31": "Socha",
+                "P131^label:cs": "Arnoltice",
+                "P6736": "22030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.263,
+                    50.83676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na návsi v Arnolticích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Arnoltice",
+                "P6736": "22029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26312,
+                    50.8367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v nice průčelí kostela v Arnolticích",
+                "P31": "Socha",
+                "P131^label:cs": "Arnoltice",
+                "P6736": "22028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26259,
+                    50.83641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava v nice na průčelí kostela v Arnolticích",
+                "P31": "Socha",
+                "P131^label:cs": "Arnoltice",
+                "P6736": "22027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26253,
+                    50.83649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kapličky Křížové cesty na ohradní zdi hřbitova v Arnolticích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Arnoltice",
+                "P6736": "22026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2628,
+                    50.8363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním okraji Arnoltic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Arnoltice",
+                "P6736": "22025"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26214,
+                    50.83305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenné milníky podél Knížecí cesty",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Arnoltice",
+                "P6736": "22024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24085,
+                    50.83758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Bynovci",
+                "P31": "Kaple",
+                "P131^label:cs": "Bynovec",
+                "P6736": "21999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26384,
+                    50.8207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Piety na návsi v Bynovci",
+                "P31": "Socha",
+                "P131^label:cs": "Bynovec",
+                "P6736": "21998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26366,
+                    50.82097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Bynovci",
+                "P31": "Socha",
+                "P131^label:cs": "Bynovec",
+                "P6736": "21997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26411,
+                    50.82159
+                ]
+            }
+        }
+    ]
+}

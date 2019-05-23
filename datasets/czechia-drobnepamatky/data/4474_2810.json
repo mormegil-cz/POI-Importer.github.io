@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy v klášteře v Rajhradě",
+                "P31": "Socha",
+                "P131^label:cs": "Rajhrad",
+                "P6736": "9666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61511,
+                    49.08997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou u kláštěra Rajhrad",
+                "P31": "Sloup",
+                "P131^label:cs": "Rajhrad",
+                "P6736": "9664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61558,
+                    49.0896
+                ]
+            }
+        }
+    ]
+}

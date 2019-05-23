@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Střižovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Střížovice",
+                "P6736": "12619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15738,
+                    49.14014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Střížovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Střížovice",
+                "P6736": "12618"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15684,
+                    49.14013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na jižním okraji Střížovic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Střížovice",
+                "P6736": "12601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1585,
+                    49.13822
+                ]
+            }
+        }
+    ]
+}

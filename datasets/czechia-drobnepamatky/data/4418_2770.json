@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice v Želenicích u Kladna",
+                "P31": "Zvonička",
+                "P131^label:cs": "Želenice",
+                "P6736": "17357"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16397,
+                    50.21019
+                ]
+            }
+        }
+    ]
+}

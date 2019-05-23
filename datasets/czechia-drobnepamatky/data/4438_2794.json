@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Babicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Buřenice",
+                "P6736": "19820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05382,
+                    49.54004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty jižně od Nových Vyklantic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Buřenice",
+                "P6736": "19819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04688,
+                    49.54441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Babic u silnice do Buřenic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Buřenice",
+                "P6736": "19818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0578,
+                    49.54318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve východní části Babic u rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Buřenice",
+                "P6736": "19817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05683,
+                    49.53978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Lesné u lesa Bukovec",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lesná",
+                "P6736": "19352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05476,
+                    49.52694
+                ]
+            }
+        }
+    ]
+}

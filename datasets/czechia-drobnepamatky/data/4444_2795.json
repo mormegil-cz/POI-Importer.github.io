@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na křižovatce místních cest SV od Záhoří",
+                "P31": "Boží muka",
+                "P131^label:cs": "Mladé Bříště",
+                "P6736": "23137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33175,
+                    49.50588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Kletečné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29704,
+                    49.50606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kletečné",
+                "P31": "Kaple",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18690"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29711,
+                    49.50613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kletečné",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29749,
+                    49.50622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen o zavraždění Jíry ze Smrdova v Kletečné",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29677,
+                    49.50589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska na bývalé škole v Kletečné",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29702,
+                    49.50632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž 'Za všechny na cestách' jihozápadně od Záhoří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladé Bříště",
+                "P6736": "11096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32063,
+                    49.49799
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severovýchodně od Knínic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Knínice",
+                "P6736": "9370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6093,
+                    49.0965
+                ]
+            }
+        }
+    ]
+}

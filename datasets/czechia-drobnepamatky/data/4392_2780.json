@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Olešovicích na zdi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "8921"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01108,
+                    49.937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Krsů",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krsy",
+                "P6736": "8920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04114,
+                    49.92997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Olešovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "6452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01125,
+                    49.93747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Olešovic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "5688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01484,
+                    49.92797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Olešovic u rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "5687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01515,
+                    49.93609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Olešovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Úterý",
+                "P6736": "4698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01118,
+                    49.93746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Úterým",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "2715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00965,
+                    49.93837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Olešovic na svahu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "2247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01759,
+                    49.94031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Olešovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "2246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0212,
+                    49.94123
+                ]
+            }
+        }
+    ]
+}

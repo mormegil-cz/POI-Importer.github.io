@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Roškopově",
+                "P31": "Kaple",
+                "P131^label:cs": "Stará Paka",
+                "P6736": "21525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4745,
+                    50.51645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Roškopově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Stará Paka",
+                "P6736": "21524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.47842,
+                    50.51796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v Roškopově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Stará Paka",
+                "P6736": "21523"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4788,
+                    50.51778
+                ]
+            }
+        }
+    ]
+}

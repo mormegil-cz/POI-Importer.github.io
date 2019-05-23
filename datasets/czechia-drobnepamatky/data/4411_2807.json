@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na severozápadním okraji Volyně",
+                "P31": "Kaplička",
+                "P131^label:cs": "Volyně",
+                "P6736": "19636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87053,
+                    49.16978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí severozápadně od Volyně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Volyně",
+                "P6736": "19635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8632,
+                    49.17473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka svaté Ludmily severozápadně od Volyně",
+                "P31": "Boží muka",
+                "P131^label:cs": "Volyně",
+                "P6736": "19634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86841,
+                    49.1785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Starově u domu",
+                "P31": "Zvonička",
+                "P131^label:cs": "Volyně",
+                "P6736": "18291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84783,
+                    49.15379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Starově u domu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Volyně",
+                "P6736": "18290"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84786,
+                    49.1538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Starově u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Volyně",
+                "P6736": "18289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84821,
+                    49.15402
+                ]
+            }
+        }
+    ]
+}

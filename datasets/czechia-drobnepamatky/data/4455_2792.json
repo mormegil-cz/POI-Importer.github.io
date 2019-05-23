@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u kaple ve středu Malé Losenice",
+                "P31": "Boží muka",
+                "P131^label:cs": "Malá Losenice",
+                "P6736": "15834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.79535,
+                    49.60025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nanebevzetí Panny Marie v centru Malé Losenice",
+                "P31": "Kaple",
+                "P131^label:cs": "Malá Losenice",
+                "P6736": "15833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.79532,
+                    49.60017
+                ]
+            }
+        }
+    ]
+}

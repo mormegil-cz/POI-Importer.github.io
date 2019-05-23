@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela Božského Srdce Páně v Malém Beranově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malý Beranov",
+                "P6736": "18976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.63805,
+                    49.39652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hruškových Dvorech",
+                "P31": "Kaple",
+                "P131^label:cs": "Jihlava",
+                "P6736": "13018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60614,
+                    49.40553
+                ]
+            }
+        }
+    ]
+}

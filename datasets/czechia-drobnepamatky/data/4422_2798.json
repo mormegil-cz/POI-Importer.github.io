@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Líšnice v polích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sepekov",
+                "P6736": "14493"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.351,
+                    49.43698
+                ]
+            }
+        }
+    ]
+}

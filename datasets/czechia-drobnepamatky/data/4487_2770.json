@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Vincence Priessnitze v parku u Jeseníku",
+                "P31": "Památník",
+                "P131^label:cs": "Jeseník",
+                "P6736": "9277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21306,
+                    50.22933
+                ]
+            }
+        }
+    ]
+}

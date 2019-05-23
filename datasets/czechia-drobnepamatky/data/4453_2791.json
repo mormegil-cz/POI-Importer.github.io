@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Čtrnácti sv. Pomocníků na Šibeničním kopci východně od České Bělé",
+                "P31": "Kaple",
+                "P131^label:cs": "Česká Bělá",
+                "P6736": "15842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.69342,
+                    49.63527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na Ševcově kopci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Česká Bělá",
+                "P6736": "8896"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.69329,
+                    49.6354
+                ]
+            }
+        }
+    ]
+}

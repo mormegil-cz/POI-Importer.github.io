@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika ryby na molu maríny v Lipně nad Vltavou",
+                "P31": "Plastika",
+                "P131^label:cs": "Lipno nad Vltavou",
+                "P6736": "15933"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22089,
+                    48.6402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž s kapličkou svatého Pavla u penzionu Modrý jelen v Lipně nad Vltavou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lipno nad Vltavou",
+                "P6736": "15912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2379,
+                    48.63992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná brána u silnice na Kramolín v Lipně nad Vltavou",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Lipno nad Vltavou",
+                "P6736": "15910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22069,
+                    48.64923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kapličky u silnice na Kramolín v Lipně nad Vltavou",
+                "P31": "Kaplička",
+                "P131^label:cs": "Lipno nad Vltavou",
+                "P6736": "15909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2204,
+                    48.64854
+                ]
+            }
+        }
+    ]
+}

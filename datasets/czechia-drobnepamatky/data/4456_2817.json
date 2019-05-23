@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Heleny v Zadních Hamrech",
+                "P31": "Kaple",
+                "P131^label:cs": "Vranov nad Dyjí",
+                "P6736": "13384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.82794,
+                    48.89244
+                ]
+            }
+        }
+    ]
+}

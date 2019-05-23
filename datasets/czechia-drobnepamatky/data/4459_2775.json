@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Holicích v části zvané Podhráz",
+                "P31": "Socha",
+                "P131^label:cs": "Holice",
+                "P6736": "21271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.97274,
+                    50.07354
+                ]
+            }
+        }
+    ]
+}

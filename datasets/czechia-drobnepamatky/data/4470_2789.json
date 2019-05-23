@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Radiměři poblíž kaple svatého Josefa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Radiměř",
+                "P6736": "22904"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46301,
+                    49.68935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Radiměři",
+                "P31": "Boží muka",
+                "P131^label:cs": "Radiměř",
+                "P6736": "21301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.45467,
+                    49.69496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Radiměři u kaple svatého Josefa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Radiměř",
+                "P6736": "21300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46232,
+                    49.68922
+                ]
+            }
+        }
+    ]
+}

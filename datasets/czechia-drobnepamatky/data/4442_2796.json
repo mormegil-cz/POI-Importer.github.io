@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Svépravic u odbočky do Kojčic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svépravice",
+                "P6736": "20496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23455,
+                    49.48942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Svépravic u silnice do Popelištné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svépravice",
+                "P6736": "20495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22328,
+                    49.49644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Rožkovského Mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "19891"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2169,
+                    49.46993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Rožkovského Mlýna u Hejlovky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "19890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22224,
+                    49.46868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice mezi Kojčicemi a Svépravicemi v části U Šlejferků",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kojčice",
+                "P6736": "19012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24697,
+                    49.48386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž proti bývalé škole ve Svépravicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svépravice",
+                "P6736": "18983"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23366,
+                    49.49667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Svépravicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Svépravice",
+                "P6736": "18951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23275,
+                    49.49604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Svépravicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Svépravice",
+                "P6736": "18950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23282,
+                    49.49604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hájovny jižně od Svépravic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "18827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21956,
+                    49.48941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zvoničky v Pobistrýcích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23399,
+                    49.47701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Pobistrýcích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23398,
+                    49.47705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve svahu nad Hejlovkou jižně od Pobistrýce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18644"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23324,
+                    49.47198
+                ]
+            }
+        }
+    ]
+}

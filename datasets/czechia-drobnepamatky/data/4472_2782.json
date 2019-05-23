@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Damníkově při výjezdu na Trpík",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Damníkov",
+                "P6736": "15497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56278,
+                    49.87014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup v Damníkově se sochou svatého Prokopa",
+                "P31": "Sloup",
+                "P131^label:cs": "Damníkov",
+                "P6736": "15495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56001,
+                    49.87117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Damníkově západní část",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Damníkov",
+                "P6736": "12880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53892,
+                    49.87098
+                ]
+            }
+        }
+    ]
+}

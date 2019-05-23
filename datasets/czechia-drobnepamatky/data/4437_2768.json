@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha světce u zámku v Loučeni",
+                "P31": "Socha",
+                "P131^label:cs": "Loučeň",
+                "P6736": "17407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02225,
+                    50.28767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého ve středu Loučeně na křižovatce silnic",
+                "P31": "Socha",
+                "P131^label:cs": "Loučeň",
+                "P6736": "17395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0203,
+                    50.28605
+                ]
+            }
+        }
+    ]
+}

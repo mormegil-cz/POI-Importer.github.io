@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u Litoradlic",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Temelín",
+                "P6736": "6262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42474,
+                    49.17393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Litoradlic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Temelín",
+                "P6736": "6261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41808,
+                    49.17377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Litoradlicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Temelín",
+                "P6736": "6260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42028,
+                    49.17362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Litoradlicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Temelín",
+                "P6736": "6259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42091,
+                    49.17412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Litoradlic I",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Temelín",
+                "P6736": "6258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4241,
+                    49.17401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Litoradlic II",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Temelín",
+                "P6736": "6257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42406,
+                    49.17405
+                ]
+            }
+        }
+    ]
+}

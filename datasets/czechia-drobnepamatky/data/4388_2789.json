@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Borovanech",
+                "P31": "Kaple",
+                "P131^label:cs": "Bor",
+                "P6736": "9818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8514,
+                    49.69237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Borovan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84865,
+                    49.69292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jiří v Borovanech",
+                "P31": "Socha",
+                "P131^label:cs": "Bor",
+                "P6736": "9815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85465,
+                    49.69352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Borovanech na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85246,
+                    49.69353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Borovan východně od Borovan",
+                "P31": "Památník",
+                "P131^label:cs": "Bor",
+                "P6736": "9813"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85489,
+                    49.69328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Borovan u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9811"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85482,
+                    49.69326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Borovan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85846,
+                    49.69149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Borovan v lese",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9809"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8715,
+                    49.68515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Bonětičkami a Starým Sedlem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Staré Sedlo",
+                "P6736": "2530"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84481,
+                    49.66793
+                ]
+            }
+        }
+    ]
+}

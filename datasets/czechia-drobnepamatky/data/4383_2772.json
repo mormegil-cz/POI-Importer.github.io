@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Holubice v ulici Spartakiádní v Sokolově",
+                "P31": "Plastika",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64689,
+                    50.17421
+                ]
+            }
+        }
+    ]
+}

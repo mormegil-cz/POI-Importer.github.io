@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha šumavského skřítka v parku na náměstí ve Frymburku",
+                "P31": "Socha",
+                "P131^label:cs": "Frymburk",
+                "P6736": "19620"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16597,
+                    48.66046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Meteorologický sloup se soškou skřítka u kostela ve Frymburku",
+                "P31": "Sloup",
+                "P131^label:cs": "Frymburk",
+                "P6736": "19619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1654,
+                    48.65961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u silnice v severní části Přední Výtoně",
+                "P31": "Kaplička",
+                "P131^label:cs": "Přední Výtoň",
+                "P6736": "15947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16155,
+                    48.63495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem válek u kostela ve Frymburku",
+                "P31": "Pomník",
+                "P131^label:cs": "Frymburk",
+                "P6736": "15920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16586,
+                    48.65963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Fontána Žába na náměstí ve Frymburku",
+                "P31": "Kašna",
+                "P131^label:cs": "Frymburk",
+                "P6736": "15919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16598,
+                    48.66164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup s pranýřem na náměstí ve Frymburku",
+                "P31": "Sloup",
+                "P131^label:cs": "Frymburk",
+                "P6736": "15918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1659,
+                    48.66142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na náměstí ve Frymburku",
+                "P31": "Pomník",
+                "P131^label:cs": "Frymburk",
+                "P6736": "15917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16598,
+                    48.66066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Adalberta Stiftera na náměstí ve Frymburku",
+                "P31": "Pomník",
+                "P131^label:cs": "Frymburk",
+                "P6736": "15916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16595,
+                    48.66052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na náměstí ve Frymburku",
+                "P31": "Sloup",
+                "P131^label:cs": "Frymburk",
+                "P6736": "15915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1659,
+                    48.66111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí ve Frymburku",
+                "P31": "Kašna",
+                "P131^label:cs": "Frymburk",
+                "P6736": "15914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16589,
+                    48.66126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Lipenská víla u cyklostezky z Lipna do Frymburka",
+                "P31": "Socha",
+                "P131^label:cs": "Lipno nad Vltavou",
+                "P6736": "15911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.17618,
+                    48.63965
+                ]
+            }
+        }
+    ]
+}

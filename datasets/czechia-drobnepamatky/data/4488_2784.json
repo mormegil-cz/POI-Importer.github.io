@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Augustina Buchmayera na okraji Sovince",
+                "P31": "Pomník",
+                "P131^label:cs": "Jiříkov",
+                "P6736": "24036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25031,
+                    49.83733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na okraji Sovince vedle silnice",
+                "P31": "Kaplička",
+                "P131^label:cs": "Jiříkov",
+                "P6736": "24035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24904,
+                    49.83734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sovinci před kostelem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jiříkov",
+                "P6736": "24034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24722,
+                    49.8369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Sovinci před kostelem",
+                "P31": "Socha",
+                "P131^label:cs": "Jiříkov",
+                "P6736": "24033"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24733,
+                    49.83689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž u Sovince vedle lesní stezky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jiříkov",
+                "P6736": "24032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2416,
+                    49.83121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž před kaplí v Karlově u Paseky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Paseka",
+                "P6736": "24031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24411,
+                    49.81599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Antonína Paduánského v Karlově u Paseky",
+                "P31": "Kaple",
+                "P131^label:cs": "Paseka",
+                "P6736": "24030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24422,
+                    49.81598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi před hradem Sovinec",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Jiříkov",
+                "P6736": "17219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24708,
+                    49.8366
+                ]
+            }
+        }
+    ]
+}

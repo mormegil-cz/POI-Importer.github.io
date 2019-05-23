@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u restaurace a penzionu U Lyžaře jižně od Zborné pod vrchem Rudný",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hybrálec",
+                "P6736": "19470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57295,
+                    49.43125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hybrálci před hřbitovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hybrálec",
+                "P6736": "12240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56356,
+                    49.42285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Hybrálce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hybrálec",
+                "P6736": "12238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56488,
+                    49.42856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hybrálci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hybrálec",
+                "P6736": "11403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56345,
+                    49.42303
+                ]
+            }
+        }
+    ]
+}

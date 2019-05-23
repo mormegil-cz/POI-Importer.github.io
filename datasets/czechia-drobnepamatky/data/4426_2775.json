@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika v parku v Rektorské ulici",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50513,
+                    50.08643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Šťastný princ v parku v Rektorské ulici",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50515,
+                    50.08677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Rytíř u domu pro seniory v Malešicích",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50577,
+                    50.08757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Rektorské ulici",
+                "P31": "Kaplička",
+                "P131^label:cs": "Praha",
+                "P6736": "24224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50746,
+                    50.08739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v parku v ulici Strnadova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "24223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51408,
+                    50.08788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Rodina mezi domy v Heldově ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51418,
+                    50.08481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Václava na Malešickém náměstí",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "24221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51153,
+                    50.08495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Hudba v Počernické ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5063,
+                    50.08303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Novostrašnické ulici",
+                "P31": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "24217"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51025,
+                    50.07492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Rychlost u školy V Rybníčkách",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5065,
+                    50.0709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mukařovské ulici",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "24215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50685,
+                    50.06458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u stanice metra Skalka",
+                "P31": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "24214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50826,
+                    50.06792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha matky s dítětem v Goyově ulici na Skalce",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50991,
+                    50.06797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika u knihovny v Rubensově ulici na Skalce",
+                "P31": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50935,
+                    50.0682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památný kámen v Jiráskově sadu v Kyjích",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Praha",
+                "P6736": "16676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5424,
+                    50.09076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší v Nedvězské ulici v Praze",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "11423"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50535,
+                    50.06933
+                ]
+            }
+        }
+    ]
+}

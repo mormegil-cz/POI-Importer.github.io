@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha u kostela svatého Otmara v Hoštce",
+                "P31": "Socha",
+                "P131^label:cs": "Hoštka",
+                "P6736": "16043"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33656,
+                    50.48838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník císaře Františka Josefa I. v Hřbitovní ulici v Hoštce",
+                "P31": "Pomník",
+                "P131^label:cs": "Hoštka",
+                "P6736": "16042"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33857,
+                    50.48827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici Petra Bezruče v Hoštce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hoštka",
+                "P6736": "16041"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33823,
+                    50.4883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna se sochou svatého Jana Nepomuckého na náměstí Svobody v Hoštce",
+                "P31": "Kašna",
+                "P131^label:cs": "Hoštka",
+                "P6736": "16040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33529,
+                    50.48922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice na náměstí Svobody v Hoštce",
+                "P31": "Sloup",
+                "P131^label:cs": "Hoštka",
+                "P6736": "16039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33553,
+                    50.48901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Astroláb před školou v Hoštce",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Hoštka",
+                "P6736": "15415"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33091,
+                    50.48914
+                ]
+            }
+        }
+    ]
+}

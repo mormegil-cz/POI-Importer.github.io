@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou P. Marie před Loretou v Rokoli",
+                "P31": "Sloup",
+                "P131^label:cs": "Bohdašín",
+                "P6736": "25791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2387,
+                    50.34634
+                ]
+            }
+        }
+    ]
+}

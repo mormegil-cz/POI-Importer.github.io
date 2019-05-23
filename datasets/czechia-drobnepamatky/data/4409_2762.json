@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Bělušic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělušice",
+                "P6736": "17933"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76128,
+                    50.45033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na návsi v Bělušicích",
+                "P31": "Socha",
+                "P131^label:cs": "Bělušice",
+                "P6736": "17932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76211,
+                    50.44932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u silnice z obce Kozly do Bělušic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bělušice",
+                "P6736": "17931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77344,
+                    50.45338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na návsi v Kozlech",
+                "P31": "Socha",
+                "P131^label:cs": "Kozly",
+                "P6736": "17929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78432,
+                    50.45703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Víta v Sinutci",
+                "P31": "Kaple",
+                "P131^label:cs": "Libčeves",
+                "P6736": "17928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79154,
+                    50.44523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Víta v Sinutci",
+                "P31": "Kaple",
+                "P131^label:cs": "Libčeves",
+                "P6736": "9723"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79149,
+                    50.44526
+                ]
+            }
+        }
+    ]
+}

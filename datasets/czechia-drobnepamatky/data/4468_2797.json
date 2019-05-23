@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Skorotice",
+                "P31": "Kaplička",
+                "P131^label:cs": "Skorotice",
+                "P6736": "14412"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35909,
+                    49.45721
+                ]
+            }
+        }
+    ]
+}

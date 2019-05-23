@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Úhřetické Lhotě ve středu obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úhřetická Lhota",
+                "P6736": "21640"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.87339,
+                    49.98924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce v Kostěnicích poblíž kostela",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kostěnice",
+                "P6736": "21639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.90273,
+                    50.0071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kostěnicích jižní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostěnice",
+                "P6736": "21242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.90241,
+                    50.00303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě U Háje",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úhřetická Lhota",
+                "P6736": "21241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.88898,
+                    49.99566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dvakačovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dvakačovice",
+                "P6736": "21001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.89485,
+                    49.97988
+                ]
+            }
+        }
+    ]
+}

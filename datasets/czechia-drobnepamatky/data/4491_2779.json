@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně od Václavova u Bruntálu",
+                "P31": "Kaplička",
+                "P131^label:cs": "Václavov u Bruntálu",
+                "P6736": "17603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38989,
+                    49.97816
+                ]
+            }
+        }
+    ]
+}

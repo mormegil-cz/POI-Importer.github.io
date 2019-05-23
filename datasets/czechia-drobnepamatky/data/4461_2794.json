@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Řečice nad Bobrůvkou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Řečice",
+                "P6736": "17874"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05861,
+                    49.5288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Petrovicích u Nového Města na Moravě jihozápadní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nové Město na Moravě",
+                "P6736": "17845"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06258,
+                    49.54655
+                ]
+            }
+        }
+    ]
+}

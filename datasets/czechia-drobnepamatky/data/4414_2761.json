@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec s ulomeným křížem u silnice 15 v Třebenicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebenice",
+                "P6736": "18299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99388,
+                    50.48075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Jenčicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Jenčice",
+                "P6736": "18297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00307,
+                    50.48359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Jenčicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Jenčice",
+                "P6736": "18296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00315,
+                    50.48376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ulomeného kříže u silnice 15 východně od Jenčic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jenčice",
+                "P6736": "18295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00875,
+                    50.4831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Bezručově ulici v Třebenicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Třebenice",
+                "P6736": "17951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99026,
+                    50.47744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí severně u Chodovlic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebenice",
+                "P6736": "17950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99583,
+                    50.46546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Chodovlicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Chodovlice",
+                "P6736": "17949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99344,
+                    50.46342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u hřbitova v Chodovlicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chodovlice",
+                "P6736": "17948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99598,
+                    50.45985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli jihozápadně od Třebenic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebenice",
+                "P6736": "17910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98308,
+                    50.47009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí ulic Jiráskova a Nádražní v Třebenicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99751,
+                    50.47397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí ulic Kaplířova a Tyršova v Třebenicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9972,
+                    50.48004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na hřbitově v Třebenicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99473,
+                    50.47606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěná zvonice na hřbitově v Třebenicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99448,
+                    50.47606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Václava Paříka na Paříkově náměstí v Třebenicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99154,
+                    50.47622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Paříkově náměstí v Třebenicích",
+                "P31": "Kašna",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15400"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99134,
+                    50.47615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na Paříkově náměstí v Třebenicích",
+                "P31": "Sloup",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99093,
+                    50.47619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského u rybníka v Dlažkovické ulici v Třebenicích",
+                "P31": "Socha",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.987,
+                    50.47663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec s ulomeným křížem nad tratí u zastávky Třebenice město",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9852,
+                    50.48203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na Havlíčkově náměstí v Třebenicích",
+                "P31": "Socha",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98742,
+                    50.47756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Kololeči",
+                "P31": "Kaple",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97532,
+                    50.47835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na návsi v Kololeči",
+                "P31": "Socha",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97571,
+                    50.47867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí před Třebenicemi",
+                "P31": "Kaplička",
+                "P131^label:cs": "Třebenice",
+                "P6736": "15393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9796,
+                    50.48096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Třebenicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třebenice",
+                "P6736": "9229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98688,
+                    50.47769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník holokaustu v Třebenicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třebenice",
+                "P6736": "9228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9869,
+                    50.47773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým legionářům",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třebenice",
+                "P6736": "9227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99055,
+                    50.47613
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec východně od Žichlic",
+                "P31": "Neznámý",
+                "P131^label:cs": "Hromnice",
+                "P6736": "4893"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46409,
+                    49.83728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Žichlicemi u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hromnice",
+                "P6736": "4262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4678,
+                    49.83294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Dolan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolany",
+                "P6736": "1397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47777,
+                    49.81137
+                ]
+            }
+        }
+    ]
+}

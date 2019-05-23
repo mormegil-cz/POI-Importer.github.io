@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v místní části Letny u Dobré Vody",
+                "P31": "Kaplička",
+                "P131^label:cs": "Dobrá Voda",
+                "P6736": "22769"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28113,
+                    49.36667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Poškozený kříž u odbočky k Dlouhé Vsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda",
+                "P6736": "22768"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27924,
+                    49.37038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na severním okraji Dobré Vody",
+                "P31": "Boží muka",
+                "P131^label:cs": "Dobrá Voda",
+                "P6736": "21012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26762,
+                    49.35965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Zajíčkově",
+                "P31": "Zvonička",
+                "P131^label:cs": "Zajíčkov",
+                "P6736": "19254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25814,
+                    49.37798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u železniční traťi v místní části Dlouhá Ves",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dobrá Voda",
+                "P6736": "18729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27182,
+                    49.37074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hájovny Číhalka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda",
+                "P6736": "18728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27802,
+                    49.36471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Dobré Vodě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda",
+                "P6736": "18727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26968,
+                    49.3578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dobré Vodě",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dobrá Voda",
+                "P6736": "18726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26947,
+                    49.35756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dobré Vodě",
+                "P31": "Kaple",
+                "P131^label:cs": "Dobrá Voda",
+                "P6736": "18725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26958,
+                    49.35778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na samotě U Samků u Houserovky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18724"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25021,
+                    49.35541
+                ]
+            }
+        }
+    ]
+}

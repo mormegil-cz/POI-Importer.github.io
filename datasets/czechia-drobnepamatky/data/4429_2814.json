@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vlkovicích u transformátoru",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lišov",
+                "P6736": "6758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64376,
+                    48.97918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Vlkovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lišov",
+                "P6736": "6757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64149,
+                    48.97826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vlkovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Lišov",
+                "P6736": "6756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64148,
+                    48.97821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vlkovic na kopci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lišov",
+                "P6736": "2772"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64828,
+                    48.97724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Vlkovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lišov",
+                "P6736": "2773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64182,
+                    48.9798
+                ]
+            }
+        }
+    ]
+}

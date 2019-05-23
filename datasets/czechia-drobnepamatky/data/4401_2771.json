@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Zvěstování Panně Marii ve Valově",
+                "P31": "Kaple",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41886,
+                    50.20171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž a socha v Kryrech u Jezerní ulice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kryry",
+                "P6736": "15789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42865,
+                    50.17884
+                ]
+            }
+        }
+    ]
+}

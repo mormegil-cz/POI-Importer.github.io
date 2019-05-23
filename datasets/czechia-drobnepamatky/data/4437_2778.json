@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Lechův kámen u Kouřimi",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Kouřim",
+                "P6736": "15222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98621,
+                    50.0023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Víta na hradišti Stará Kouřim u Kouřimi",
+                "P31": "Kaple",
+                "P131^label:cs": "Kouřim",
+                "P6736": "13913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99005,
+                    50.00011
+                ]
+            }
+        }
+    ]
+}

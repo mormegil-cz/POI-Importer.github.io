@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Lomanech",
+                "P31": "Plastika",
+                "P131^label:cs": "Plasy",
+                "P6736": "23262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33371,
+                    49.929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek jihozápadně od Korýtek",
+                "P31": "Obrázek",
+                "P131^label:cs": "Pláně",
+                "P6736": "8343"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31589,
+                    49.93571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jihozápadně od Korýtek",
+                "P31": "Boží muka",
+                "P131^label:cs": "Pláně",
+                "P6736": "8342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31966,
+                    49.93979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník jihozápadně od Vrážného",
+                "P31": "Pomník",
+                "P131^label:cs": "Pláně",
+                "P6736": "8172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32627,
+                    49.94779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Vrážného u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pláně",
+                "P6736": "8169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32413,
+                    49.94863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník východně od Loman",
+                "P31": "Pomník",
+                "P131^label:cs": "Plasy",
+                "P6736": "5667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3492,
+                    49.93148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník západně od Mozolínského Mlýna",
+                "P31": "Pomník",
+                "P131^label:cs": "Plasy",
+                "P6736": "5666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35311,
+                    49.9327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v lese východně od Vrážné",
+                "P31": "Boží muka",
+                "P131^label:cs": "Pláně",
+                "P6736": "4844"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35283,
+                    49.93725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Korýtkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Pláně",
+                "P6736": "4396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32191,
+                    49.94307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lomanech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plasy",
+                "P6736": "4395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33371,
+                    49.92882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vrážném",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pláně",
+                "P6736": "4033"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33206,
+                    49.94976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vrážném",
+                "P31": "Kaple",
+                "P131^label:cs": "Pláně",
+                "P6736": "4032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33178,
+                    49.94988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vrážném",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pláně",
+                "P6736": "4031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33329,
+                    49.94997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž za plotem ve Vrážném",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pláně",
+                "P6736": "4030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33341,
+                    49.94939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty jižně od Vrážného",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pláně",
+                "P6736": "2793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33367,
+                    49.94733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Korýtek",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pláně",
+                "P6736": "1766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3364,
+                    49.93835
+                ]
+            }
+        }
+    ]
+}

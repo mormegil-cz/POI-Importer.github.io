@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dráchově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "7849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06674,
+                    49.32875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Těmic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "7848"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06322,
+                    49.34135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dráchově",
+                "P31": "Kaple",
+                "P131^label:cs": "Těmice",
+                "P6736": "7807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06664,
+                    49.32835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Těmicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Těmice",
+                "P6736": "6675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06089,
+                    49.35171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Těmicích",
+                "P31": "Památník",
+                "P131^label:cs": "Těmice",
+                "P6736": "6674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06081,
+                    49.3518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Těmicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "6673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06007,
+                    49.35192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Těmicemi u silnice na Drahoňov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "2635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06197,
+                    49.3532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Těmicemi u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "2636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06562,
+                    49.35345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Těmic při cestě na Staré Hutě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "2631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05754,
+                    49.34846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Těmicemi u vrchu Včelnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "2632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04598,
+                    49.3438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Těmic u lokality Soupusť",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "2633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04938,
+                    49.3519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jižně od Těmic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Těmice",
+                "P6736": "2629"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06345,
+                    49.34697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž jižně od Těmic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "2630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05988,
+                    49.34524
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Horažďovic u božích muk",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "7469"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69948,
+                    49.32933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Horažďovic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "7468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69919,
+                    49.32914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Horažďovické Lhoty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "7322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67834,
+                    49.35331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Třebomyslic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "7321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67253,
+                    49.35114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Třebomyslicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "7320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67036,
+                    49.35099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Třebomyslicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "7319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6703,
+                    49.34972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Horažďovicích v Palackého ulici",
+                "P31": "Plastika",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "5870"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70796,
+                    49.32562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Horažďovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "5871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70774,
+                    49.32867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Horažďovic",
+                "P31": "Kaple",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "5861"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.708,
+                    49.32895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Třebomyslicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "3709"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66944,
+                    49.34879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Třebomyslicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "3708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67024,
+                    49.3497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v lese jižně od Třebomyslic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "2844"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68483,
+                    49.33601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník pozemkové reformy jižně od Třebomyslic",
+                "P31": "Památník",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "2676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68091,
+                    49.33867
+                ]
+            }
+        }
+    ]
+}

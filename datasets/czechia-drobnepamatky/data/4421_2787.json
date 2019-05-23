@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Čeliny u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Borotice",
+                "P6736": "1322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.314,
+                    49.73583
+                ]
+            }
+        }
+    ]
+}

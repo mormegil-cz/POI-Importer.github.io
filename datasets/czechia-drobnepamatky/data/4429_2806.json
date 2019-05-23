@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zahradě v Borkovicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Borkovice",
+                "P6736": "6345"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64094,
+                    49.20717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zahradě v Borkovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Borkovice",
+                "P6736": "6344"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6405,
+                    49.20909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Borkovicích",
+                "P31": "Památník",
+                "P131^label:cs": "Borkovice",
+                "P6736": "6343"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64345,
+                    49.2083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Borkovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Borkovice",
+                "P6736": "6342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64384,
+                    49.20859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Borkovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Borkovice",
+                "P6736": "6341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64393,
+                    49.20857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Borkovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Borkovice",
+                "P6736": "6340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64448,
+                    49.20881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Svinech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Sviny",
+                "P6736": "6286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63626,
+                    49.18674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Svinech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sviny",
+                "P6736": "6285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63633,
+                    49.18699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Svinech",
+                "P31": "Kaple",
+                "P131^label:cs": "Sviny",
+                "P6736": "6284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63647,
+                    49.18702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Svin",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sviny",
+                "P6736": "2610"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64866,
+                    49.18823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na morovém hřbitůvku u Svin",
+                "P31": "Kaplička",
+                "P131^label:cs": "Sviny",
+                "P6736": "1841"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64452,
+                    49.18363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na morovém hřbitůvku u Svin",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sviny",
+                "P6736": "1840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6444,
+                    49.18375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Borkovic u rybníčku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Borkovice",
+                "P6736": "1262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63781,
+                    49.20746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Borkovic",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Borkovice",
+                "P6736": "1260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65037,
+                    49.20975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Borkovic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Borkovice",
+                "P6736": "1261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64705,
+                    49.20864
+                ]
+            }
+        }
+    ]
+}

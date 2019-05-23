@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Keramická plastika Páv v zahradě školy v Školní ulici na Bukově",
+                "P31": "Plastika",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "18865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0036,
+                    50.68562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloupová plastika v ulici Dukelských hrdinů na Bukově",
+                "P31": "Plastika",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "18864"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00018,
+                    50.68622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Prokopa v zahradě domu v ulici Pod Vodojemem ve Všebořicích",
+                "P31": "Socha",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "16710"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99677,
+                    50.68286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha dětí před školou v ulici Pod Vodojemem ve Všebořicích",
+                "P31": "Socha",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "16709"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99535,
+                    50.68294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Danae v parčíku v Masarykově ulici na Bukově",
+                "P31": "Socha",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "16708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00209,
+                    50.6835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ptáka na dětském hřišti v Lipové ulici ve Všebořicích",
+                "P31": "Socha",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "14734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99181,
+                    50.68379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Rodina v Plynárenské ulici ve Všebořicích",
+                "P31": "Socha",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "14733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99346,
+                    50.68644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na návsi v Habrovicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "14723"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00276,
+                    50.70268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Habrovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "14722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00266,
+                    50.70284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Habrovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "14721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00232,
+                    50.70349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem v letech 1939 - 1945 v Habrovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "14720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00126,
+                    50.70502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Polní ulici ve Skoroticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "14680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00659,
+                    50.69017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí Kostelní a Polní ulice ve Skoroticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "14679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00747,
+                    50.69006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v areálu zrušeného hřbitova u kostela ve Skoroticích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "14678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00721,
+                    50.69003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Skoroticích v ulici Osvoboditelů",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "14677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0126,
+                    50.68773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na bývalé návsi zaniklé obce Podhoří poblíž Všebořic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13829"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98,
+                    50.69298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na rohu ulic Masarykova a Kosmova",
+                "P31": "Pomník",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00162,
+                    50.68309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník kapitána Jaroše v parčíku na rohu ulic Masarykova a Kapitána Jaroše na Bukově",
+                "P31": "Pomník",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13362"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00358,
+                    50.68231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela svatého Michala ve Všebořicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99302,
+                    50.68365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u hasičské stanice v Plynárenské ulici ve Všebořicích",
+                "P31": "Boží muka",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99586,
+                    50.68732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v obci Strážky",
+                "P31": "Kaple",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13335"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01577,
+                    50.7065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v obci Strážky u rozcestí na Habrovice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01407,
+                    50.70768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovaný křížek u kostela v Šebořicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99297,
+                    50.68365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný křížek ve Všebořicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99557,
+                    50.68706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Skoroticích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "9580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00813,
+                    50.68954
+                ]
+            }
+        }
+    ]
+}

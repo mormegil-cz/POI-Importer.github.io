@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ecce Homo u kostela v Siřejovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Siřejovice",
+                "P6736": "18174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07047,
+                    50.47775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Anny u kostela v Siřejovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Siřejovice",
+                "P6736": "18173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06997,
+                    50.478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Siřejovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Siřejovice",
+                "P6736": "18172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07041,
+                    50.4772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Gloriet (altán) u zámku ve Vrbičanech",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Vrbičany",
+                "P6736": "18171"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09198,
+                    50.46447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u silnice ve Vrbičanech",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vrbičany",
+                "P6736": "18170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08408,
+                    50.46407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vrbičanech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Vrbičany",
+                "P6736": "18169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08447,
+                    50.46364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na návsi ve Vrbičanech",
+                "P31": "Zvonička",
+                "P131^label:cs": "Vrbičany",
+                "P6736": "18168"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08428,
+                    50.4632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi ve Vrbičanech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vrbičany",
+                "P6736": "18167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08427,
+                    50.46324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Václava v Keblicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Keblice",
+                "P6736": "16824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10252,
+                    50.48059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Keblicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Keblice",
+                "P6736": "16823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10238,
+                    50.48056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na návsi v Keblicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Keblice",
+                "P6736": "16822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10236,
+                    50.48077
+                ]
+            }
+        }
+    ]
+}

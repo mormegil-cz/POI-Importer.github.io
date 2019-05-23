@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kranzův kříž v Brdech severně od Nepomuku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nepomuk",
+                "P6736": "14822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85231,
+                    49.65825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Linkův kříž v Brdech západně od Lázu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vranovice",
+                "P6736": "14812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88403,
+                    49.66263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek severně od Zalán u vojenského prostoru Brdy",
+                "P31": "Obrázek",
+                "P131^label:cs": "Brdy",
+                "P6736": "2812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85649,
+                    49.64212
+                ]
+            }
+        }
+    ]
+}

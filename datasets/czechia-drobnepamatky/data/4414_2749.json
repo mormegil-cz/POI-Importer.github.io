@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Madony u hlavní silnice v Petrovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Petrovice",
+                "P6736": "16199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97749,
+                    50.79396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rájci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tisá",
+                "P6736": "14865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.017,
+                    50.80591
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obce Černá v Černé",
+                "P31": "Pomník",
+                "P131^label:cs": "Kraslice",
+                "P6736": "9566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.44243,
+                    50.28074
+                ]
+            }
+        }
+    ]
+}

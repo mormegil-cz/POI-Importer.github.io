@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vstiše",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vstiš",
+                "P6736": "2805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2581,
+                    49.64299
+                ]
+            }
+        }
+    ]
+}

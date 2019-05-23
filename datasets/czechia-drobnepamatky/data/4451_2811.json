@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička",
+                "P31": "Kaplička",
+                "P131^label:cs": "Budkov",
+                "P6736": "24123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.63254,
+                    49.0564
+                ]
+            }
+        }
+    ]
+}

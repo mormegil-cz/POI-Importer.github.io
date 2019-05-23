@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup jihozápadně od Dobrušky",
+                "P31": "Sloup",
+                "P131^label:cs": "Dobruška",
+                "P6736": "12302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14097,
+                    50.27701
+                ]
+            }
+        }
+    ]
+}

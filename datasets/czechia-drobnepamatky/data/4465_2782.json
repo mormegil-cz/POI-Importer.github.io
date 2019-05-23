@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Tržku na loukách",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Tržek",
+                "P6736": "11306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23622,
+                    49.89014
+                ]
+            }
+        }
+    ]
+}

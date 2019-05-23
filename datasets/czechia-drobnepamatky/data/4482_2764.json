@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Javorníku ulice Puškinova",
+                "P31": "Památník",
+                "P131^label:cs": "Javorník",
+                "P6736": "15517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00413,
+                    50.39014
+                ]
+            }
+        }
+    ]
+}

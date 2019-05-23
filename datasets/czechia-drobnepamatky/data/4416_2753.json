@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple předělaná na hasičárnu na návsi v Radešíně",
+                "P31": "Kaple",
+                "P131^label:cs": "Chuderov",
+                "P6736": "17069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06897,
+                    50.70226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Rozvalený kříž u turistické cesty z Blanska do Lipové",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Povrly",
+                "P6736": "16133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09765,
+                    50.70445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v osadě Sovolusky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chuderov",
+                "P6736": "15216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07682,
+                    50.69541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Žežicích u rozcestí na Chuderov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chuderov",
+                "P6736": "14384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06967,
+                    50.68742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Žežicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chuderov",
+                "P6736": "14304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07057,
+                    50.68562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Žežicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chuderov",
+                "P6736": "14303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07082,
+                    50.68566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u léčebny v Ryjicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ryjice",
+                "P6736": "14193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09137,
+                    50.68639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v Ryjicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ryjice",
+                "P6736": "14192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09201,
+                    50.69021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v Libově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chuderov",
+                "P6736": "14191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0731,
+                    50.70401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Radešíně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chuderov",
+                "P6736": "14189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06835,
+                    50.70226
+                ]
+            }
+        }
+    ]
+}

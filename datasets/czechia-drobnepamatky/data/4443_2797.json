@@ -1,0 +1,597 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jižní části Chvojnova u domu čp.40",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27733,
+                    49.45809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Chvojnově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27683,
+                    49.46051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chvojnova u cesty do Utěchoviček",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28133,
+                    49.46201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Služátek u křižovatky polních cest",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2544,
+                    49.45427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Služátek u silnice do Chvojnova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20431"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2628,
+                    49.4585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Útěchoviček v oblasti Ke Kříži",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29054,
+                    49.45978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v kopci nad Olešnou u hlavní silnice na Pelhřimov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "20317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25045,
+                    49.44129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve východní části Olešné u čp.26",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "20316"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26464,
+                    49.44567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v západní části Olešné u čp.7",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "20315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25809,
+                    49.44534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Olešné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "20314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26198,
+                    49.44567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Olešné",
+                "P31": "Kaple",
+                "P131^label:cs": "Olešná",
+                "P6736": "20274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26193,
+                    49.44567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na vrcholu stoupání mezi Olešnou a Strměchy u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "19990"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29249,
+                    49.44771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Olešné směrem k vrchu V Mokři",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "19341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26596,
+                    49.44146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Olešné u zemědělského družstva",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "19340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26956,
+                    49.44376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Plevnice u farmy SPV",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "19339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29008,
+                    49.44171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u říčky Olešná vedle cesty mezi Služátkami a Olešnou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "19225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25772,
+                    49.45109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v severní části Olešné u čp.121",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "19224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2569,
+                    49.44688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v západní části Olešné u čp.71",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "19223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25744,
+                    49.44595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Služátek u čp.10",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19171"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25132,
+                    49.45577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple Nanebevzetí Panny Marie ve Služátkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25315,
+                    49.45641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v severní části Služátek u čp.17",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25227,
+                    49.45725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice mezi Kojčicemi a Chvojnovem pod vrchem Hůrka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kojčice",
+                "P6736": "19091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26742,
+                    49.46403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u vrchu Hůrka mezi Chvojnovem a Kojčicemi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kojčice",
+                "P6736": "19089"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26875,
+                    49.46627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Utěchoviček na Pavlíčkově kopci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28527,
+                    49.46564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty mezi Služátkami a Služáteckým Mlýnem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24943,
+                    49.45443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Služátkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25318,
+                    49.45639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chvojnova u silnice do Služátek",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18854"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26947,
+                    49.46005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zemědělských staveb ve Chvojnově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18853"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27403,
+                    49.46048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž mezi Utěchovičkami a Chvojnovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27794,
+                    49.46487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Utěchoviček u cesty do Chvojnova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28181,
+                    49.46623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička sv. Václava ve Chvojnově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27556,
+                    49.46164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním okraji Olešné před stoupáním do Pelhřimova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "18700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25866,
+                    49.443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce u SPV Plevnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "18641"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28444,
+                    49.44722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice mezi Olešnou a Chvojnovem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Olešná",
+                "P6736": "18381"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27241,
+                    49.45322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Chvojnova směrem na Olešnou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18380"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27599,
+                    49.45728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty z Chvojnova do Pálenky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18379"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27954,
+                    49.45758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na samotě Pálenka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18378"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29156,
+                    49.45617
+                ]
+            }
+        }
+    ]
+}

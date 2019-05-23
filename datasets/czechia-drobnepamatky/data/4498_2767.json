@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce ve Slezských Pavlovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Slezské Pavlovice",
+                "P6736": "18058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7012,
+                    50.30974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého ve Slezských Pavlovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Slezské Pavlovice",
+                "P6736": "17800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7025,
+                    50.30985
+                ]
+            }
+        }
+    ]
+}

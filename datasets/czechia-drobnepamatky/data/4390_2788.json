@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Lázu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "9483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9552,
+                    49.72376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Lázu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "9478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9415,
+                    49.71915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u okraje lesa nad Brodem u Stříbra",
+                "P31": "Obrázek",
+                "P131^label:cs": "Kladruby",
+                "P6736": "1722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93678,
+                    49.70058
+                ]
+            }
+        }
+    ]
+}

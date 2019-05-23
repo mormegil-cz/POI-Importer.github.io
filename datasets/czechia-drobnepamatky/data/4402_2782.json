@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jarově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jarov",
+                "P6736": "5105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47314,
+                    49.87248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek západně od Dobříče",
+                "P31": "Obrázek",
+                "P131^label:cs": "Obora",
+                "P6736": "5085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45567,
+                    49.88995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple východně od Jarova",
+                "P31": "Kaple",
+                "P131^label:cs": "Jarov",
+                "P6736": "4850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48215,
+                    49.86839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Jarově",
+                "P31": "Památník",
+                "P131^label:cs": "Jarov",
+                "P6736": "4849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47402,
+                    49.87196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Jarově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Jarov",
+                "P6736": "4848"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47432,
+                    49.87299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dobříči",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dobříč",
+                "P6736": "4804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47087,
+                    49.88468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Dobříči",
+                "P31": "Památník",
+                "P131^label:cs": "Dobříč",
+                "P6736": "4803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46873,
+                    49.88426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dobříči",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobříč",
+                "P6736": "4068"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47326,
+                    49.88585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Dobříče",
+                "P31": "Kaplička",
+                "P131^label:cs": "Dobříč",
+                "P6736": "1392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47641,
+                    49.88455
+                ]
+            }
+        }
+    ]
+}

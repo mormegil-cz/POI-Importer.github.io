@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve světových válkách, Veltrusy",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Veltrusy",
+                "P6736": "22978"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3251,
+                    50.27172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Antonína Dvořáka v Nelahozevsi",
+                "P31": "Pomník",
+                "P131^label:cs": "Nelahozeves",
+                "P6736": "9677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30089,
+                    50.26226
+                ]
+            }
+        }
+    ]
+}

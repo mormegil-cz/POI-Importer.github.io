@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Loučkách na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "6473"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90395,
+                    49.92675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Loučkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "6472"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90341,
+                    49.92862
+                ]
+            }
+        }
+    ]
+}

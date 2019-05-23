@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple a boží muka při silnici ve středu Slověnic",
+                "P31": "Kaple",
+                "P131^label:cs": "Slověnice",
+                "P6736": "23276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88642,
+                    49.75739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Bílkovicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bílkovice",
+                "P6736": "11253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86113,
+                    49.75933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bílkovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bílkovice",
+                "P6736": "11252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86098,
+                    49.75975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Bílkovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílkovice",
+                "P6736": "1228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.85774,
+                    49.75954
+                ]
+            }
+        }
+    ]
+}

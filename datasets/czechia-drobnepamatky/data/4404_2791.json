@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese Sváreč",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žákava",
+                "P6736": "5172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55867,
+                    49.62761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Vlkova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Spálené Poříčí",
+                "P6736": "2776"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57844,
+                    49.61951
+                ]
+            }
+        }
+    ]
+}

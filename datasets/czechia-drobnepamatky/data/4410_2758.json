@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Povalený podstavec ulomeného kříže u silnice ze Štrbic do Světce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Světec",
+                "P6736": "23405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83319,
+                    50.56672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Štrbicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Světec",
+                "P6736": "23404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84182,
+                    50.56335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na rozcestí v Štrbicích",
+                "P31": "Socha",
+                "P131^label:cs": "Světec",
+                "P6736": "23403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84189,
+                    50.56367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Štrbicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Světec",
+                "P6736": "9114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84127,
+                    50.56285
+                ]
+            }
+        }
+    ]
+}

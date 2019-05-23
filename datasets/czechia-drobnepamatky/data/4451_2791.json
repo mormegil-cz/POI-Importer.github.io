@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Böhmova dvora",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pohled",
+                "P6736": "12346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6309,
+                    49.61372
+                ]
+            }
+        }
+    ]
+}

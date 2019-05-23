@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého na hrázi Novomlýnského rybníka u hotelu Peršlák",
+                "P31": "Socha",
+                "P131^label:cs": "Nová Bystřice",
+                "P6736": "22135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0227,
+                    49.02198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kámen republiky před Lesním hotelem Peršlák",
+                "P31": "Památný kámen",
+                "P131^label:cs": "Nová Bystřice",
+                "P6736": "22134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02575,
+                    49.02031
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého mezi kostelem a hasičskou zbrojnicí v Norberčanech",
+                "P31": "Socha",
+                "P131^label:cs": "Norberčany",
+                "P6736": "23181"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.50515,
+                    49.75533
+                ]
+            }
+        }
+    ]
+}

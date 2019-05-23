@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Janu Nepomuku Steinskému před muzeem bitvy u Sadové v Chlumu",
+                "P31": "Památník",
+                "P131^label:cs": "Všestary",
+                "P6736": "25794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74079,
+                    50.27836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomníky padlým rakouským a pruským vojákům ve válce roku 1866 u silnice východně od Rozběřic",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Všestary",
+                "P6736": "23310"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.75778,
+                    50.26864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní 'Šrámův' kříž u silnice na východním okraji Rozběřic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Všestary",
+                "P6736": "23309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.75789,
+                    50.26856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomníky padlým vojákům v bitvě 1866 na rozcestí Hejcmanka u Rozběřic",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Všestary",
+                "P6736": "16524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74342,
+                    50.26792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Nepomuka Steinského u památníku bitvy 1866 v Chlumu",
+                "P31": "Pomník",
+                "P131^label:cs": "Všestary",
+                "P6736": "16523"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74079,
+                    50.27829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z 7.rakouské jízdní dělostřelecké baterie v bitvě 1866 u Chlumu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Všestary",
+                "P6736": "16522"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7426,
+                    50.27893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomníky Oscara Beckerse a Oscara Stelznera padlých v bitvě 1866 v zatáčce silnice v Chlumu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Všestary",
+                "P6736": "16521"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74941,
+                    50.27888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník rakouského prvního armádního sboru jižně od Chlumu",
+                "P31": "Pomník",
+                "P131^label:cs": "Všestary",
+                "P6736": "13381"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74676,
+                    50.27395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník čtvrtého rakouského pěšího pluku v Rozběřicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Všestary",
+                "P6736": "13378"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.75186,
+                    50.26716
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,501 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha hokejisty ve Staniční ulici v Plzni",
+                "P31": "Socha",
+                "P131^label:cs": "Plzeň",
+                "P6736": "10869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41145,
+                    49.75248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Centru Doubravka v Plzni u Masarykovy ulice",
+                "P31": "Kašna",
+                "P131^label:cs": "Plzeň",
+                "P6736": "10803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41547,
+                    49.75218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 1. a 2. světové války na Ústředním hřbitově v Plzni",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43556,
+                    49.74833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětí náletů na Ústředním hřbitově v Plzni",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43794,
+                    49.74703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Symbol na Ústředním hřbitově v Plzni",
+                "P31": "Sloup",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9763"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43331,
+                    49.74733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ženy na rozlučkové síni na Ústředním hřbitově v Plzni",
+                "P31": "Socha",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9762"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43273,
+                    49.74744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem pochodu smrti na Ústředním hřbitově v Plzni",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43209,
+                    49.74747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník dětem na Ústředním hřbitově v Plzni",
+                "P31": "Pomník",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9760"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4323,
+                    49.74741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha muže na rozlučkové síni na Ústředním hřbitově v Plzni",
+                "P31": "Socha",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43254,
+                    49.74744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým sovětským vojákům na Ústředním hřbitově v Plzni",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43227,
+                    49.74719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika u Jitřenky v Plzni na Doubravce",
+                "P31": "Plastika",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41766,
+                    49.74931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Úslavy v Plzni",
+                "P31": "Kaplička",
+                "P131^label:cs": "Plzeň",
+                "P6736": "8596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40625,
+                    49.73804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Plzni v Rokycanské ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5737"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43028,
+                    49.74705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Plzni u Koterovské ulice",
+                "P31": "Kašna",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5409"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40368,
+                    49.73343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Plzni ve Vyšehradské ulici",
+                "P31": "Boží muka",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40807,
+                    49.73678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší v Plzni v ulici Na Dlouhých",
+                "P31": "Socha",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41866,
+                    49.75001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Plzni v Masarykově ulici",
+                "P31": "Památník",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41399,
+                    49.75146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší v Plzni u Staniční ulice",
+                "P31": "Socha",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41107,
+                    49.75286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Plzni u Partyzánské ulice",
+                "P31": "Plastika",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40945,
+                    49.74942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem bombardování v Plzni na Doubravce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40937,
+                    49.7491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Plzni v Lobzích",
+                "P31": "Památník",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5064"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40923,
+                    49.74058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Božkově",
+                "P31": "Kaple",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4239,
+                    49.73286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v parku u Božkova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4227,
+                    49.73188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Božkově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4426"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4274,
+                    49.73471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník zastřelených v Plzni - Lobzy v areálu střelnice",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41826,
+                    49.73808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Plzni - Lobzech v areálu střelnice",
+                "P31": "Socha",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4424"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42008,
+                    49.73743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Plzni - Lobzích u rohu budovy střelnice",
+                "P31": "Socha",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4423"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41973,
+                    49.7373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Plzni - Lobzech před budovou střelnice",
+                "P31": "Socha",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41955,
+                    49.73713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u řeky pod Bukovou",
+                "P31": "Památník",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43306,
+                    49.7272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým dvou světových válek u Božkova",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42784,
+                    49.73544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Plzni nad Božkovem",
+                "P31": "Kaple",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41123,
+                    49.73332
+                ]
+            }
+        }
+    ]
+}

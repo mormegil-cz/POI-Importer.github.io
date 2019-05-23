@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Zavržicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Příbram",
+                "P6736": "7802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98426,
+                    49.6319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Kamenné",
+                "P31": "Zvonička",
+                "P131^label:cs": "Milín",
+                "P6736": "7758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99111,
+                    49.62391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kamenné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Milín",
+                "P6736": "7757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.991,
+                    49.6239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Lazska",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lazsko",
+                "P6736": "1874"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01196,
+                    49.62793
+                ]
+            }
+        }
+    ]
+}

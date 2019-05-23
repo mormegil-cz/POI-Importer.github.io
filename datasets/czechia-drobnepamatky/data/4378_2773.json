@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Třebeni",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třebeň",
+                "P6736": "9399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.40231,
+                    50.12748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z 1. světové války v Třebeni",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Třebeň",
+                "P6736": "9109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.40229,
+                    50.12746
+                ]
+            }
+        }
+    ]
+}

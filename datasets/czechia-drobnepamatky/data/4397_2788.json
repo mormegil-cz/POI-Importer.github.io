@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Tlučné",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Tlučná",
+                "P6736": "8796"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24248,
+                    49.72389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Líní",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Líně",
+                "P6736": "8793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2665,
+                    49.70444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Tlučné",
+                "P31": "Památník",
+                "P131^label:cs": "Tlučná",
+                "P6736": "4244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24089,
+                    49.72334
+                ]
+            }
+        }
+    ]
+}

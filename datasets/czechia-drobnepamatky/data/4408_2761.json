@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Josefa v zámecké zahradě v Korozlukách",
+                "P31": "Kaple",
+                "P131^label:cs": "Korozluky",
+                "P6736": "17938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72609,
+                    50.4785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Korozlukách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Korozluky",
+                "P6736": "17937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72241,
+                    50.4785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Ferdinanda v Zaječicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Bečov",
+                "P6736": "17936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71566,
+                    50.46431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Nejsvětější Trojice na návsi ve Skršíně",
+                "P31": "Socha",
+                "P131^label:cs": "Skršín",
+                "P6736": "17935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75437,
+                    50.46513
+                ]
+            }
+        }
+    ]
+}

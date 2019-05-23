@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple pod chatou Rebel ve Špičáku",
+                "P31": "Kaple",
+                "P131^label:cs": "Železná Ruda",
+                "P6736": "15569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21825,
+                    49.1559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Petru Kintzlovi u skiareálu ve Špičáku",
+                "P31": "Pomník",
+                "P131^label:cs": "Železná Ruda",
+                "P6736": "15568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22025,
+                    49.16481
+                ]
+            }
+        }
+    ]
+}

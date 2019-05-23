@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u plotu usedlosti v Bohdalově",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Bohdalov",
+                "P6736": "17248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8714,
+                    49.48129
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve středu Dolního Cetna u silnice na Bezno",
+                "P31": "Kaple",
+                "P131^label:cs": "Niměřice",
+                "P6736": "23220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80144,
+                    50.40467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v první světové válce na křižovatce silnic v Dolním Cetně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Niměřice",
+                "P6736": "23219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80316,
+                    50.40507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka naproti kostelu sv. Františka v Kováni",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kováň",
+                "P6736": "21649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.77836,
+                    50.42434
+                ]
+            }
+        }
+    ]
+}

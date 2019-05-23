@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli severně od Buršic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kolinec",
+                "P6736": "10232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47044,
+                    49.32651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Suché",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zavlekov",
+                "P6736": "10230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47568,
+                    49.33077
+                ]
+            }
+        }
+    ]
+}

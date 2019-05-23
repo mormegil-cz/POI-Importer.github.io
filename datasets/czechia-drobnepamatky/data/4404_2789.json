@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Hádku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Milínov",
+                "P6736": "7149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57393,
+                    49.67208
+                ]
+            }
+        }
+    ]
+}

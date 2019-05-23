@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha výra v chatové osadě u Rokytna",
+                "P31": "Socha",
+                "P131^label:cs": "Nové Město na Moravě",
+                "P6736": "17261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04993,
+                    49.60782
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Tomíkovicích",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Žulová",
+                "P6736": "12003"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11232,
+                    50.3379
+                ]
+            }
+        }
+    ]
+}

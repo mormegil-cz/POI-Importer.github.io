@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hustopečích ulice Na Hradbách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hustopeče",
+                "P6736": "24456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7394,
+                    48.93895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Rocha v Hustopečích v Sadech Kpt Jaroše",
+                "P31": "Kaple",
+                "P131^label:cs": "Hustopeče",
+                "P6736": "21365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.735,
+                    48.9339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice v Hustopečích na Dukelském náměstí",
+                "P31": "Sloup",
+                "P131^label:cs": "Hustopeče",
+                "P6736": "21364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.73759,
+                    48.94053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Dukelském náměstí v Hustopečích",
+                "P31": "Kašna",
+                "P131^label:cs": "Hustopeče",
+                "P6736": "9337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.73661,
+                    48.94027
+                ]
+            }
+        }
+    ]
+}

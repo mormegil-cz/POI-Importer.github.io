@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Tatenicích za školou",
+                "P31": "Socha",
+                "P131^label:cs": "Tatenice",
+                "P6736": "22634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69939,
+                    49.86949
+                ]
+            }
+        }
+    ]
+}

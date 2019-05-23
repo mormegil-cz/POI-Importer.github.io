@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Chlumu Svaté Máří",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chlum Svaté Maří",
+                "P6736": "9554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.53516,
+                    50.14997
+                ]
+            }
+        }
+    ]
+}

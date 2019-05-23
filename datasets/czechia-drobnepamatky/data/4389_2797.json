@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník bitvy u silnice jižně od Horního Baldova",
+                "P31": "Památník",
+                "P131^label:cs": "Luženičky",
+                "P6736": "16074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91603,
+                    49.4617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Baldova",
+                "P31": "Kaple",
+                "P131^label:cs": "Luženičky",
+                "P6736": "4237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9163,
+                    49.4618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Luženicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Luženičky",
+                "P6736": "4132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89193,
+                    49.46615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Luženic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luženičky",
+                "P6736": "3711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89391,
+                    49.46239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Luženicích u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luženičky",
+                "P6736": "3710"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89198,
+                    49.46606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Domažlic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Domažlice",
+                "P6736": "3404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89886,
+                    49.44728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Petrovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd",
+                "P6736": "2295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89263,
+                    49.44555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Petrovic u lesíka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd",
+                "P6736": "2292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88994,
+                    49.44321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Petrovic v křoví",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd",
+                "P6736": "2291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88832,
+                    49.44424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Petrovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd",
+                "P6736": "2290"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89449,
+                    49.44363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Luženic u cesty na severozápad",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luženičky",
+                "P6736": "1991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89026,
+                    49.46748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Luženic u zemědělského areálu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luženičky",
+                "P6736": "1989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88871,
+                    49.46518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Luženičkami před rozcestím",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luženičky",
+                "P6736": "1993"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90401,
+                    49.45734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Luženic u hřiště",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luženičky",
+                "P6736": "1990"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89432,
+                    49.46577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Luženičkami",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Luženičky",
+                "P6736": "1994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90786,
+                    49.4559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Domažlic u rybníka U tří vrb",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Domažlice",
+                "P6736": "1421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91933,
+                    49.45096
+                ]
+            }
+        }
+    ]
+}

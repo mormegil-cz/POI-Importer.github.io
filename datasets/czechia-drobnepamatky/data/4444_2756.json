@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika u okresního archivu v Semilech",
+                "P31": "Plastika",
+                "P131^label:cs": "Semily",
+                "P6736": "21498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32973,
+                    50.60693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika před školou v Jizerské ulici v Semilech",
+                "P31": "Plastika",
+                "P131^label:cs": "Semily",
+                "P6736": "21497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32718,
+                    50.61084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice v Bítouchově u Semil",
+                "P31": "Zvonička",
+                "P131^label:cs": "Semily",
+                "P6736": "21496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32542,
+                    50.61565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bítouchově u Semil",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Semily",
+                "P6736": "21495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32378,
+                    50.61521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad silnicí z Semil do Bítouchova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Semily",
+                "P6736": "21494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32846,
+                    50.61248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Ivana Olbrachta a Antala Staška v Bítouchovské ulici v Semilech",
+                "P31": "Socha",
+                "P131^label:cs": "Semily",
+                "P6736": "21493"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33471,
+                    50.60394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Anny u kostela svatých Petra a Pavla v Semilech",
+                "P31": "Socha",
+                "P131^label:cs": "Semily",
+                "P6736": "21488"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33675,
+                    50.60273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Františka Ladislava Riegra na Riegrově náměstí v Semilech",
+                "P31": "Pomník",
+                "P131^label:cs": "Semily",
+                "P6736": "21486"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33496,
+                    50.60247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Riegrově náměstí v Semilech",
+                "P31": "Kašna",
+                "P131^label:cs": "Semily",
+                "P6736": "21485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3345,
+                    50.60274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná mísa v parku Ostrov v Semilech",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Semily",
+                "P6736": "21484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33218,
+                    50.60276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Matka a dítě v parku Ostrov v Semilech",
+                "P31": "Socha",
+                "P131^label:cs": "Semily",
+                "P6736": "21483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33204,
+                    50.60334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. a 2.světové válce v Chuchelně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chuchelna",
+                "P6736": "16361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3012,
+                    50.60353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Kalvárie na rozcestí v Chuchelně",
+                "P31": "Socha",
+                "P131^label:cs": "Chuchelna",
+                "P6736": "16360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29941,
+                    50.60215
+                ]
+            }
+        }
+    ]
+}

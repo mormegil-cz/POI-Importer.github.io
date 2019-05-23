@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Ročově",
+                "P31": "Socha",
+                "P131^label:cs": "Ročov",
+                "P6736": "7541"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.773,
+                    50.25262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ročově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ročov",
+                "P6736": "7540"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77314,
+                    50.2527
+                ]
+            }
+        }
+    ]
+}

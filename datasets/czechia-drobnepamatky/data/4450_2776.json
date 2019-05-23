@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Břehách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Břehy",
+                "P6736": "14376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57626,
+                    50.05087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Břehách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Břehy",
+                "P6736": "14375"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58512,
+                    50.05572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lohenicích u Přelouče",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Přelouč",
+                "P6736": "14374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.59516,
+                    50.0449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lohenicích u Přelouče",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Přelouč",
+                "P6736": "14373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.59524,
+                    50.04507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník jižně od Břehů u mostu přes Labe",
+                "P31": "Pomník",
+                "P131^label:cs": "Břehy",
+                "P6736": "13615"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57499,
+                    50.04418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Přelouči",
+                "P31": "Boží muka",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13614"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56872,
+                    50.03715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava v Přelouči",
+                "P31": "Socha",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13612"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56631,
+                    50.03874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Tomáše Garrigue Masaryka v Přeloučí",
+                "P31": "Pomník",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13610"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56089,
+                    50.03946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Antonína Švehly v Přelouči",
+                "P31": "Pomník",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55856,
+                    50.03759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník vzniku Československého státu v Přelouči",
+                "P31": "Památník",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56052,
+                    50.03677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Přelouči",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13587"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56053,
+                    50.03695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Týden v Přelouči",
+                "P31": "Plastika",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13586"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56127,
+                    50.03866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Morový sloup se sochou svatého Jana Nepomuckého v Přelouči",
+                "P31": "Sloup",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56021,
+                    50.03936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Přelouči před kostelem svatého Jakuba",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56018,
+                    50.03983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Přelouči",
+                "P31": "Socha",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5601,
+                    50.04001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Dítěte v Přelouči",
+                "P31": "Pomník",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56212,
+                    50.03936
+                ]
+            }
+        }
+    ]
+}

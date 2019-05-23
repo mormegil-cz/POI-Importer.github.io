@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník letců v Líních",
+                "P31": "Památník",
+                "P131^label:cs": "Líně",
+                "P6736": "8795"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26132,
+                    49.692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jižní části Líní",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Líně",
+                "P6736": "8794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2598,
+                    49.69072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Červeném Újezdě",
+                "P31": "Kaple",
+                "P131^label:cs": "Zbůch",
+                "P6736": "3769"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24514,
+                    49.68325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Líních",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Líně",
+                "P6736": "3621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25681,
+                    49.69367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Líních",
+                "P31": "Kaple",
+                "P131^label:cs": "Líně",
+                "P6736": "3620"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2574,
+                    49.69347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Líních",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Líně",
+                "P6736": "3619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26034,
+                    49.69541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Červeného Újezdu",
+                "P31": "Boží muka",
+                "P131^label:cs": "Zbůch",
+                "P6736": "1342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24807,
+                    49.68373
+                ]
+            }
+        }
+    ]
+}

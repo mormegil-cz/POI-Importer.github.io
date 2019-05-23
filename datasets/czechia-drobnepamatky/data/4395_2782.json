@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Úněšova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "10124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15365,
+                    49.87865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Úněšova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "10123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15491,
+                    49.88364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Aloise Žáka u rybníka Hroznatán",
+                "P31": "Pomník",
+                "P131^label:cs": "Úněšov",
+                "P6736": "10122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17004,
+                    49.87767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Hůrek",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zahrádka",
+                "P6736": "8293"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17779,
+                    49.88829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Stříbrného Mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "5514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16439,
+                    49.88561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hůrkách u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zahrádka",
+                "P6736": "5513"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18044,
+                    49.88301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Podmoklech v zahradě nad cestou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "5512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17399,
+                    49.86986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Podmoklech v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "5511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17447,
+                    49.86929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Podmoklech v zahradě u rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "5510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17548,
+                    49.86872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hůrkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Zahrádka",
+                "P6736": "4816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18258,
+                    49.88409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Úněšově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Úněšov",
+                "P6736": "4716"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1493,
+                    49.88219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Podmokel",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "3963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1714,
+                    49.87091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Úněšově",
+                "P31": "Socha",
+                "P131^label:cs": "Úněšov",
+                "P6736": "3470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14897,
+                    49.88194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Úněšova",
+                "P31": "Kaple",
+                "P131^label:cs": "Úněšov",
+                "P6736": "2713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1469,
+                    49.88393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Úněšova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "2714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14341,
+                    49.88727
+                ]
+            }
+        }
+    ]
+}

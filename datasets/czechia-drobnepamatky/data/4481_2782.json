@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Leštiny u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Leština",
+                "P6736": "20488"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93019,
+                    49.87461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Leštině na Závlačí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Leština",
+                "P6736": "16953"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93698,
+                    49.87249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Leštině v parku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Leština",
+                "P6736": "16951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93301,
+                    49.8698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Leštině vedle kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Leština",
+                "P6736": "16950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93202,
+                    49.86963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Václava v Leštině",
+                "P31": "Kaple",
+                "P131^label:cs": "Leština",
+                "P6736": "16925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93199,
+                    49.86952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Lesnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lesnice",
+                "P6736": "16269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.94747,
+                    49.88467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lesnici u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lesnice",
+                "P6736": "16268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.94306,
+                    49.88417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lesnici u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lesnice",
+                "P6736": "16267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.94068,
+                    49.87928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Leštině na ulici U Moravy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Leština",
+                "P6736": "16036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.923,
+                    49.86857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Lesnice severovýchodně od obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lesnice",
+                "P6736": "14396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96068,
+                    49.89036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lesnici",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Lesnice",
+                "P6736": "13307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.94116,
+                    49.88385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Filomény na kraji Leštiny",
+                "P31": "Socha",
+                "P131^label:cs": "Leština",
+                "P6736": "12087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93411,
+                    49.86794
+                ]
+            }
+        }
+    ]
+}

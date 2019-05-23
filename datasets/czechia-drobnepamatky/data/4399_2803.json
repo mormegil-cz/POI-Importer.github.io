@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v lese jižně od Javoří u Podolí",
+                "P31": "Pomník",
+                "P131^label:cs": "Kolinec",
+                "P6736": "14548"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35517,
+                    49.28696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž na návsi v Javoří u Podolí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kolinec",
+                "P6736": "14332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35168,
+                    49.2908
+                ]
+            }
+        }
+    ]
+}

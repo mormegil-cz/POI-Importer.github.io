@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského u polní cesty západně od Sazovic",
+                "P31": "Socha",
+                "P131^label:cs": "Sazovice",
+                "P6736": "13571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.56286,
+                    49.23964
+                ]
+            }
+        }
+    ]
+}

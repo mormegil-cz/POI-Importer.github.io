@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vraňanech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Vraňany",
+                "P6736": "24430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36218,
+                    50.3171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Všestudech u Veltrus",
+                "P31": "Zvonička",
+                "P131^label:cs": "Všestudy",
+                "P6736": "23037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34056,
+                    50.29065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Všestudech u Veltrus",
+                "P31": "Boží muka",
+                "P131^label:cs": "Všestudy",
+                "P6736": "23036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3401,
+                    50.29043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve světových válkách ve Všestudech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Všestudy",
+                "P6736": "23035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34037,
+                    50.29025
+                ]
+            }
+        }
+    ]
+}

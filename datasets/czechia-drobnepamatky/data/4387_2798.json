@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník J.Š. Baara Výhledy u Chodova",
+                "P31": "Pomník",
+                "P131^label:cs": "Chodov",
+                "P6736": "9671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.80433,
+                    49.41218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Klenčí",
+                "P31": "Socha",
+                "P131^label:cs": "Klenčí pod Čerchovem",
+                "P6736": "9670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.81494,
+                    49.43531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha mistra Jana Husa v Klenčí pod Čerchovem",
+                "P31": "Socha",
+                "P131^label:cs": "Klenčí pod Čerchovem",
+                "P6736": "5070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.81174,
+                    49.43341
+                ]
+            }
+        }
+    ]
+}

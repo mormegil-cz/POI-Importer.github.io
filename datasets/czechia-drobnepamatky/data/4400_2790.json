@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek nedaleko Červeného kříže jižně od Robčic",
+                "P31": "Obrázek",
+                "P131^label:cs": "Dobřany",
+                "P6736": "10897"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36021,
+                    49.64909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Červený kříž jižně od Robčic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Útušice",
+                "P6736": "10896"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36092,
+                    49.64968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Robčicích",
+                "P31": "Socha",
+                "P131^label:cs": "Útušice",
+                "P6736": "10890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37106,
+                    49.66754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník kameníků v Čižicích",
+                "P31": "Památník",
+                "P131^label:cs": "Čižice",
+                "P6736": "7481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39959,
+                    49.65007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Mistra Jana Husa v Čižicích",
+                "P31": "Památník",
+                "P131^label:cs": "Čižice",
+                "P6736": "4478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39837,
+                    49.64826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Čižicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Čižice",
+                "P6736": "4477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39819,
+                    49.64845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Čižicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čižice",
+                "P6736": "4476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39827,
+                    49.64844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Štěnovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štěnovice",
+                "P6736": "4475"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39686,
+                    49.66553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým nad obcí Čižice",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Čižice",
+                "P6736": "1362"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39973,
+                    49.6462
+                ]
+            }
+        }
+    ]
+}

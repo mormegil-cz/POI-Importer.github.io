@@ -1,0 +1,517 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Světců",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Světce",
+                "P6736": "13443"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93544,
+                    49.27105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Deštné",
+                "P31": "Kaple",
+                "P131^label:cs": "Deštná",
+                "P6736": "12000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9219,
+                    49.26828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Březiny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "11992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9145,
+                    49.28415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Deštné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Deštná",
+                "P6736": "11991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92223,
+                    49.27396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Nového Dvora",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Deštná",
+                "P6736": "8249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90284,
+                    49.27903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Březiny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "8248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90642,
+                    49.28814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Březiny v poli",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "8247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92909,
+                    49.28769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Březiny u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "8246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92198,
+                    49.28655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Březiny u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "8244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90874,
+                    49.28969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž dřevěný severně od Březiny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "8243"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90647,
+                    49.29595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Březiny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "8242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90654,
+                    49.29605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple východně od Deštné",
+                "P31": "Kaple",
+                "P131^label:cs": "Deštná",
+                "P6736": "7804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93184,
+                    49.2701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Světců nad křižovatkou",
+                "P31": "Kaplička",
+                "P131^label:cs": "Světce",
+                "P6736": "7016"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93939,
+                    49.27301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Deštné u Svatojánské ulice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Deštná",
+                "P6736": "7015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93154,
+                    49.27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u Deštné",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Deštná",
+                "P6736": "7014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92795,
+                    49.26861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Deštné u zemědělského areálu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Deštná",
+                "P6736": "7009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91775,
+                    49.26871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Březiny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "7004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9137,
+                    49.2864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Březině u zemědělského areálu",
+                "P31": "Kaplička",
+                "P131^label:cs": "Březina",
+                "P6736": "7003"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91388,
+                    49.28942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Březiny u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "7002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90844,
+                    49.28989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Březině",
+                "P31": "Kaple",
+                "P131^label:cs": "Březina",
+                "P6736": "7001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90969,
+                    49.29073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Březině",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "7000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90961,
+                    49.29065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Březině",
+                "P31": "Kaplička",
+                "P131^label:cs": "Březina",
+                "P6736": "6998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91185,
+                    49.29138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Březině",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "6999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90982,
+                    49.29201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Březině",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Březina",
+                "P6736": "6997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91237,
+                    49.2909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Drunčí",
+                "P31": "Kaplička",
+                "P131^label:cs": "Drunče",
+                "P6736": "6996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93289,
+                    49.29533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Drunčích u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drunče",
+                "P6736": "6992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93685,
+                    49.29637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Nového Dvora",
+                "P31": "Socha",
+                "P131^label:cs": "Deštná",
+                "P6736": "1947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89947,
+                    49.27752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na vrchu Na Vrších u Drunčí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drunče",
+                "P6736": "1478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94,
+                    49.29363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty v poli u Drunčí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drunče",
+                "P6736": "1477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93274,
+                    49.29335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli u Drunčí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drunče",
+                "P6736": "1476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93103,
+                    49.29288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Deštné",
+                "P31": "Kaplička",
+                "P131^label:cs": "Deštná",
+                "P6736": "1376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92791,
+                    49.26858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Březiny",
+                "P31": "Kaplička",
+                "P131^label:cs": "Březina",
+                "P6736": "1283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91763,
+                    49.29077
+                ]
+            }
+        }
+    ]
+}

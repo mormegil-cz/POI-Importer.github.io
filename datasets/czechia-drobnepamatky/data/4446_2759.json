@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli poblíž cesty na Císařovu hůru nad Novou Vsí nad Popelkou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.39893,
+                    50.53418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Malý smírčí kříž v příkopu u silnice v Nové Vsi nad Popelkou",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.39684,
+                    50.52565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Nové Vsi nad Popelkou",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41127,
+                    50.52085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Madony u obecního úřadu v Nové Vsi nad Popelkou",
+                "P31": "Socha",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41121,
+                    50.52063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u kostela v Nové Vsi nad Popelkou",
+                "P31": "Kaple",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41283,
+                    50.52017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v centru Nové Vsi nad Popelkou",
+                "P31": "Socha",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41329,
+                    50.51959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie u silnice v Nové Vsi nad Popelkou",
+                "P31": "Socha",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41866,
+                    50.51666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika vodníka na lávce přes potok Popelka v Nové Vsi nad Popelkou",
+                "P31": "Plastika",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3961,
+                    50.52571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Ve spáru moci u mostku přes potok Popelka v Nové Vsi",
+                "P31": "Plastika",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.39806,
+                    50.52591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u autobusové zastávky U Kynčlů v Nové Vsi nad Popelkou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.39269,
+                    50.52462
+                ]
+            }
+        }
+    ]
+}

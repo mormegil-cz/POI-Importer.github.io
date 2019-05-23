@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Plánici",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Plánice",
+                "P6736": "11292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47468,
+                    49.38929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Plánici na křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plánice",
+                "P6736": "3702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4671,
+                    49.3912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Plánice u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plánice",
+                "P6736": "2304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46319,
+                    49.39404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Plánice u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plánice",
+                "P6736": "2303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45828,
+                    49.39685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně od Plánice",
+                "P31": "Kaplička",
+                "P131^label:cs": "Plánice",
+                "P6736": "2305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48777,
+                    49.38625
+                ]
+            }
+        }
+    ]
+}

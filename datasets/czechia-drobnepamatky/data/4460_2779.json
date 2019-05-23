@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník padlým v 1 světové válce v Ostrově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Ostrov",
+                "P6736": "21331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03217,
+                    49.97264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Ostrově střed obce",
+                "P31": "Zvonička",
+                "P131^label:cs": "Ostrov",
+                "P6736": "21330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03005,
+                    49.9724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Ostrově západní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ostrov",
+                "P6736": "21329"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02627,
+                    49.9722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce v Městci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chroustovice",
+                "P6736": "20816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0075,
+                    49.97379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Městci střed obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Chroustovice",
+                "P6736": "20815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.00734,
+                    49.9734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Městci u hlavní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chroustovice",
+                "P6736": "20814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.00731,
+                    49.97109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Ostrově na návsi v parku",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Ostrov",
+                "P6736": "12623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03168,
+                    49.97266
+                ]
+            }
+        }
+    ]
+}

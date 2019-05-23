@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha na stolové hoře Úhošť zapadně od Meziříčí",
+                "P31": "Socha",
+                "P131^label:cs": "Kadaň",
+                "P6736": "23840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23697,
+                    50.366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha na domě v Brodcích",
+                "P31": "Socha",
+                "P131^label:cs": "Kadaň",
+                "P6736": "23839"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23071,
+                    50.35048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Brodcích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kadaň",
+                "P6736": "23838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23039,
+                    50.35088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na návsi v osadě Kadaňská Jeseň",
+                "P31": "Sloup",
+                "P131^label:cs": "Kadaň",
+                "P6736": "23187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26683,
+                    50.36579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na návsi v osadě Kadaňská Jeseň",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kadaň",
+                "P6736": "23186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26724,
+                    50.36614
+                ]
+            }
+        }
+    ]
+}

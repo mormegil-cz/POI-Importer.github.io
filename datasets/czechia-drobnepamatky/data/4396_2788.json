@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Nýřanech u železnice",
+                "P31": "Boží muka",
+                "P131^label:cs": "Nýřany",
+                "P6736": "8799"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2146,
+                    49.71632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník stromu republiky v Nýřanech",
+                "P31": "Památník",
+                "P131^label:cs": "Nýřany",
+                "P6736": "6665"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20749,
+                    49.71265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Nýřanech na náměstí",
+                "P31": "Kašna",
+                "P131^label:cs": "Nýřany",
+                "P6736": "6664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20735,
+                    49.71289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Nýřan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nýřany",
+                "P6736": "6193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2133,
+                    49.70774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem pochodu smrti u Nýřan",
+                "P31": "Památník",
+                "P131^label:cs": "Nýřany",
+                "P6736": "6192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19385,
+                    49.70721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Nýřan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úherce",
+                "P6736": "6191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19596,
+                    49.70272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Úhercích ve východní části návsi",
+                "P31": "Kaplička",
+                "P131^label:cs": "Úherce",
+                "P6736": "6189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21555,
+                    49.70015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Úherců",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úherce",
+                "P6736": "6190"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20544,
+                    49.70144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Úhercích v západní části návsi",
+                "P31": "Kaplička",
+                "P131^label:cs": "Úherce",
+                "P6736": "6188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21299,
+                    49.70059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Úhercích na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úherce",
+                "P6736": "4661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21618,
+                    49.69941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Úhercích na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úherce",
+                "P6736": "4660"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21522,
+                    49.70002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Úhercích v jižní části návsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Úherce",
+                "P6736": "4659"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21435,
+                    49.69968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v západní části Úherců",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úherce",
+                "P6736": "4658"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21133,
+                    49.7011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Úhercích v severní části návsi",
+                "P31": "Kaplička",
+                "P131^label:cs": "Úherce",
+                "P6736": "4657"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21411,
+                    49.70179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Úhercích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Úherce",
+                "P6736": "4656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21354,
+                    49.70098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Nýřanech ve Hřbitovní ulici",
+                "P31": "Kaplička",
+                "P131^label:cs": "Nýřany",
+                "P6736": "4655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2178,
+                    49.71093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Nýřanech v Havlíčkově ulici",
+                "P31": "Kaplička",
+                "P131^label:cs": "Nýřany",
+                "P6736": "4654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21397,
+                    49.71133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Nýřanech",
+                "P31": "Kaple",
+                "P131^label:cs": "Nýřany",
+                "P6736": "4653"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21388,
+                    49.71347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Nýřanech",
+                "P31": "Socha",
+                "P131^label:cs": "Nýřany",
+                "P6736": "4652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21391,
+                    49.71342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník hornické stávky v Nýřanech",
+                "P31": "Památník",
+                "P131^label:cs": "Nýřany",
+                "P6736": "4154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20893,
+                    49.71356
+                ]
+            }
+        }
+    ]
+}

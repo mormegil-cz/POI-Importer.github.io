@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u silnice do Moraveckých Janovic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Strážek",
+                "P6736": "17249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23982,
+                    49.40786
+                ]
+            }
+        }
+    ]
+}

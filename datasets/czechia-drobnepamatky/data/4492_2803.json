@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Pieta na návsi obce Trávník u Kroměříže",
+                "P31": "Socha",
+                "P131^label:cs": "Kroměříž",
+                "P6736": "12927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.43443,
+                    49.26997
+                ]
+            }
+        }
+    ]
+}

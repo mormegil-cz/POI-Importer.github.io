@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Litošicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Litošice",
+                "P6736": "14932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.51375,
+                    49.98413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Litošicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Litošice",
+                "P6736": "14931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.51379,
+                    49.98412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pelechově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lipoltice",
+                "P6736": "14774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54827,
+                    49.9925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Pelechově",
+                "P31": "Zvonička",
+                "P131^label:cs": "Lipoltice",
+                "P6736": "14773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54829,
+                    49.99247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jankovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jankovice",
+                "P6736": "14552"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52858,
+                    50.0073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Seníku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jankovice",
+                "P6736": "14551"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52889,
+                    49.99737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Seníku",
+                "P31": "Zvonička",
+                "P131^label:cs": "Jankovice",
+                "P6736": "14550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52889,
+                    49.99736
+                ]
+            }
+        }
+    ]
+}

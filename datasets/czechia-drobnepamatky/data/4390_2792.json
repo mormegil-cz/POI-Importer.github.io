@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Semněvicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Semněvice",
+                "P6736": "4152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92913,
+                    49.59753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Semněvicích",
+                "P31": "Socha",
+                "P131^label:cs": "Semněvice",
+                "P6736": "4151"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92896,
+                    49.59672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pocinovicích v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Semněvice",
+                "P6736": "3023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95892,
+                    49.58812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Pocinovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Semněvice",
+                "P6736": "3022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95658,
+                    49.58811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Pocinovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Semněvice",
+                "P6736": "3021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95082,
+                    49.58765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Pocinovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Semněvice",
+                "P6736": "3020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95421,
+                    49.59251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple jižně od Ostromeče",
+                "P31": "Kaple",
+                "P131^label:cs": "Velký Malahov",
+                "P6736": "3019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95415,
+                    49.60283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Ostromeče u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velký Malahov",
+                "P6736": "3018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95545,
+                    49.6095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž západně od Ostromeče mezi stromy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velký Malahov",
+                "P6736": "3017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95596,
+                    49.61057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Semněvic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Semněvice",
+                "P6736": "2956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92951,
+                    49.59504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jižní části Semněvic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Semněvice",
+                "P6736": "2955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92988,
+                    49.59631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple východně od Semněvic",
+                "P31": "Kaple",
+                "P131^label:cs": "Semněvice",
+                "P6736": "2954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93428,
+                    49.59692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Semněvic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Semněvice",
+                "P6736": "2953"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93387,
+                    49.59707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Vestavěná kaplička v Semněvicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Semněvice",
+                "P6736": "2952"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92651,
+                    49.5975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple západně od Semněvic",
+                "P31": "Kaple",
+                "P131^label:cs": "Semněvice",
+                "P6736": "2951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92435,
+                    49.59715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple západně od Semněvic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Semněvice",
+                "P6736": "2950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92393,
+                    49.59701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve východní části Bukovce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Semněvice",
+                "P6736": "2949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93052,
+                    49.59812
+                ]
+            }
+        }
+    ]
+}

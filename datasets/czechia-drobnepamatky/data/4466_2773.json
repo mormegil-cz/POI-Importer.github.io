@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie Imaculaty v Dlouhé Vsi u Rychnova nad Kněžnou",
+                "P31": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "24560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30066,
+                    50.14699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tutlekách, místní část Dubí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tutleky",
+                "P6736": "12850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26011,
+                    50.13514
+                ]
+            }
+        }
+    ]
+}

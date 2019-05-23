@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple východně od Oselců",
+                "P31": "Kaple",
+                "P131^label:cs": "Oselce",
+                "P6736": "8421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65786,
+                    49.43644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Oselců",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66293,
+                    49.437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Oselcích",
+                "P31": "Socha",
+                "P131^label:cs": "Oselce",
+                "P6736": "8419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66551,
+                    49.43629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Černic u Korytného rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "7452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66285,
+                    49.4198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Korytného rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kvášňovice",
+                "P6736": "7450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65729,
+                    49.4234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Nástupovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nekvasovy",
+                "P6736": "7449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64952,
+                    49.42683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí ve Chlumech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chlumy",
+                "P6736": "7448"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63835,
+                    49.43715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Chlumech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chlumy",
+                "P6736": "7447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63781,
+                    49.43776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Chlumech",
+                "P31": "Kaple",
+                "P131^label:cs": "Chlumy",
+                "P6736": "7446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63782,
+                    49.4379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Chlumech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chlumy",
+                "P6736": "7445"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63628,
+                    49.43751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Nekvasov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nekvasovy",
+                "P6736": "7349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62507,
+                    49.43121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Nekvasov",
+                "P31": "Kaple",
+                "P131^label:cs": "Nekvasovy",
+                "P6736": "7348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62629,
+                    49.4297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kvášňovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kvášňovice",
+                "P6736": "7347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63901,
+                    49.4139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník husitů v Nekvasovech",
+                "P31": "Památník",
+                "P131^label:cs": "Nekvasovy",
+                "P6736": "5971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62437,
+                    49.43526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kvášňovicích na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kvášňovice",
+                "P6736": "5940"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.642,
+                    49.41316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kvášňovicích před kostelem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kvášňovice",
+                "P6736": "5939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64401,
+                    49.41281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kvášňovic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kvášňovice",
+                "P6736": "5938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64602,
+                    49.41195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kvášňovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kvášňovice",
+                "P6736": "5937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6495,
+                    49.41261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kvášňovic u památného stromu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kvášňovice",
+                "P6736": "5936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65712,
+                    49.41276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Defurových Lažan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chanovice",
+                "P6736": "5935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6643,
+                    49.4119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kvášňovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kvášňovice",
+                "P6736": "4017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6441,
+                    49.41296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Kvášňovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Kvášňovice",
+                "P6736": "4016"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64407,
+                    49.41328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nekvasovech u zastávky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nekvasovy",
+                "P6736": "4010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62315,
+                    49.43591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kvášňovic na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kvášňovice",
+                "P6736": "1864"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64555,
+                    49.41387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kvášňovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kvášňovice",
+                "P6736": "1863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64856,
+                    49.41733
+                ]
+            }
+        }
+    ]
+}

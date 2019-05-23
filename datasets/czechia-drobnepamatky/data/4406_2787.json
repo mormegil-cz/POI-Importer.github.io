@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec u Nové Huti",
+                "P31": "Neznámý",
+                "P131^label:cs": "Hrádek",
+                "P6736": "24685"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63297,
+                    49.72564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kamenného Újezdu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenný Újezd",
+                "P6736": "7172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62786,
+                    49.72723
+                ]
+            }
+        }
+    ]
+}

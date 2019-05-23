@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Pročevil",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Volenice",
+                "P6736": "7911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88913,
+                    49.55516
+                ]
+            }
+        }
+    ]
+}

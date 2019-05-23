@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka Vysoké Žibřidovice u cesty na Větrovec",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hanušovice",
+                "P6736": "25341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92075,
+                    50.11943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Vysoké Žibřidovice u cesty na Větrovec",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hanušovice",
+                "P6736": "25340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92305,
+                    50.11834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Habartic vedle silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jindřichov",
+                "P6736": "23890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95423,
+                    50.10549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž severně od Hanušovic u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hanušovice",
+                "P6736": "22915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.94846,
+                    50.09646
+                ]
+            }
+        }
+    ]
+}

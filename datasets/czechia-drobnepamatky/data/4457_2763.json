@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Bohyně Réva na vinici v Kuksu",
+                "P31": "Socha",
+                "P131^label:cs": "Kuks",
+                "P6736": "18228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.89059,
+                    50.40171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jindřicha Michaela Rentze na severovýchodním okraji Kuksu",
+                "P31": "Pomník",
+                "P131^label:cs": "Kuks",
+                "P6736": "18227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.89131,
+                    50.40237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na severovýchodním okraji Kuksu",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kuks",
+                "P6736": "18226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.89129,
+                    50.40241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na severním okraji Kuksu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Stanovice",
+                "P6736": "18225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.88756,
+                    50.40339
+                ]
+            }
+        }
+    ]
+}

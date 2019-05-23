@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v obci Řepčice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebušín",
+                "P6736": "17675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19162,
+                    50.60805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v obci Řepčice",
+                "P31": "Kaple",
+                "P131^label:cs": "Třebušín",
+                "P6736": "17674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19131,
+                    50.60883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí jižně od obce Řepčice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třebušín",
+                "P6736": "17673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18343,
+                    50.5998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Rýdeči",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Malečov",
+                "P6736": "17570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16223,
+                    50.60644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Řetouni",
+                "P31": "Kaple",
+                "P131^label:cs": "Malečov",
+                "P6736": "17569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.175,
+                    50.61753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Trosky zřícené kapličky na pastvině nad Řetouní",
+                "P31": "Kaplička",
+                "P131^label:cs": "Malečov",
+                "P6736": "17568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16744,
+                    50.61609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup milník na rozcestí ve východní části Proboštova",
+                "P31": "Sloup",
+                "P131^label:cs": "Malečov",
+                "P6736": "17567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1563,
+                    50.62472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí ve východní části Proboštova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malečov",
+                "P6736": "17566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15621,
+                    50.62477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u mostu přes potok v Proboštově",
+                "P31": "Socha",
+                "P131^label:cs": "Malečov",
+                "P6736": "17565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1513,
+                    50.62476
+                ]
+            }
+        }
+    ]
+}

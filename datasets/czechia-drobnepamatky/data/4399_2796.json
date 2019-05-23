@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Třebýcince",
+                "P31": "Kaple",
+                "P131^label:cs": "Švihov",
+                "P6736": "4789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31661,
+                    49.48451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Třebýcince",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Švihov",
+                "P6736": "4788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31719,
+                    49.48521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Třebýcinky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Švihov",
+                "P6736": "4787"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32054,
+                    49.48534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kališti",
+                "P31": "Kaple",
+                "P131^label:cs": "Švihov",
+                "P6736": "4786"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33237,
+                    49.49538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kališti",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Švihov",
+                "P6736": "4785"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33457,
+                    49.49584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kbela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kbel",
+                "P6736": "4782"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35412,
+                    49.49421
+                ]
+            }
+        }
+    ]
+}

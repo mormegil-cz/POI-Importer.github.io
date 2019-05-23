@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u autobusové zastávky ve Všehrdech",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Všehrdy",
+                "P6736": "23727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46052,
+                    50.41894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce v Nezabylicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nezabylice",
+                "P6736": "20899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4769,
+                    50.42259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí na východním okraji Hořence",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nezabylice",
+                "P6736": "20898"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48577,
+                    50.42134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u potoka v Hořenci",
+                "P31": "Socha",
+                "P131^label:cs": "Nezabylice",
+                "P6736": "20897"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48503,
+                    50.42185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Hořenci",
+                "P31": "Kaple",
+                "P131^label:cs": "Nezabylice",
+                "P6736": "20896"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48338,
+                    50.42221
+                ]
+            }
+        }
+    ]
+}

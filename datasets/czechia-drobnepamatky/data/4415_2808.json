@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí pod Helfenburgem z r. 1928",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krajníčko",
+                "P6736": "20921"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01955,
+                    49.13688
+                ]
+            }
+        }
+    ]
+}

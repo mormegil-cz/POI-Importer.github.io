@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Karlu Krylovi v ulici Kpt. Jaroše v Kroměříži",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Kroměříž",
+                "P6736": "19574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39011,
+                    49.29573
+                ]
+            }
+        }
+    ]
+}

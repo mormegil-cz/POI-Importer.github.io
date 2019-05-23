@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Jana Nepomuckého na východním okraji obce Ruda",
+                "P31": "Kaple",
+                "P131^label:cs": "Ruda",
+                "P6736": "23439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13007,
+                    49.32256
+                ]
+            }
+        }
+    ]
+}

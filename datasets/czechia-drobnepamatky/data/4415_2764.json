@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník pozemkových reforem 1925 na rozcestí západně od Poplze",
+                "P31": "Pomník",
+                "P131^label:cs": "Libochovice",
+                "P6736": "25021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0366,
+                    50.39628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v osadě Poplze",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Libochovice",
+                "P6736": "25020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04321,
+                    50.39764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v osadě Poplze",
+                "P31": "Kaple",
+                "P131^label:cs": "Libochovice",
+                "P6736": "25019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04292,
+                    50.39731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Ruina kaple u polní cesty severně od Evaně",
+                "P31": "Kaple",
+                "P131^label:cs": "Evaň",
+                "P6736": "25018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03406,
+                    50.38895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Evani",
+                "P31": "Kaple",
+                "P131^label:cs": "Evaň",
+                "P6736": "25017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0289,
+                    50.38434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na návsi v Evani",
+                "P31": "Pomník",
+                "P131^label:cs": "Evaň",
+                "P6736": "25016"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0288,
+                    50.38428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ecce Homo v Evani",
+                "P31": "Socha",
+                "P131^label:cs": "Evaň",
+                "P6736": "25015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0258,
+                    50.38345
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Koutech nad Desnou na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Loučná nad Desnou",
+                "P6736": "17761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10771,
+                    50.09989
+                ]
+            }
+        }
+    ]
+}

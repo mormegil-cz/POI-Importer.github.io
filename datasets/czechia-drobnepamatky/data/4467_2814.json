@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Urbana západně od Miroslavských Knínic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "13242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33369,
+                    48.97747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Floriana v Miroslavských Knínicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "11143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31804,
+                    48.97632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na hřbitově u Miroslavských Knínic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "11142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31816,
+                    48.97649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem druhé světové války v Miroslavských Knínicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10857"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32194,
+                    48.97742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Floriana v Miroslavských Knínicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31804,
+                    48.97633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem první světové války v Miroslavských Knínicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10854"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32193,
+                    48.97741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na Výhonu v Miroslavských Knínicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10853"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32435,
+                    48.97865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela svatého Mikuláše v Miroslavských Knínicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32019,
+                    48.97749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Marka se lvem u Miroslavských Knínic",
+                "P31": "Socha",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33279,
+                    48.97787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Miroslavských Knínic u cesty k Miroslavi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31909,
+                    48.97303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Švábůj kříž jihovýchodně od Miroslavských Knínic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32654,
+                    48.97217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen v Miroslavských Knínicích",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32117,
+                    48.97669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Dolním rybníkem jihovýchodně od Miroslavských Knínic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3366,
+                    48.97148
+                ]
+            }
+        }
+    ]
+}

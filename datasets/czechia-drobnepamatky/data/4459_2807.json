@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Kubiše před jeho rodným domem v Dolních Vilémovicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Dolní Vilémovice",
+                "P6736": "23438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.97625,
+                    49.15442
+                ]
+            }
+        }
+    ]
+}

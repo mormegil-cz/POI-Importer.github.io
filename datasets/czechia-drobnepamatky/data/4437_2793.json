@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Lukavce u rybníka Pavlovec",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lukavec",
+                "P6736": "20374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00063,
+                    49.56306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v severní části Lukavce u zemědělského družstva",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lukavec",
+                "P6736": "20373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99236,
+                    49.56789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna za kostelem sv. Václava v Lukavci",
+                "P31": "Kašna",
+                "P131^label:cs": "Lukavec",
+                "P6736": "20372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99058,
+                    49.56647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem sv. Václava v Lukavci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lukavec",
+                "P6736": "20371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99068,
+                    49.56597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na náměstí v Lukavci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Lukavec",
+                "P6736": "20370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99119,
+                    49.5654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Sv. Václava v Lukavci",
+                "P31": "Kašna",
+                "P131^label:cs": "Lukavec",
+                "P6736": "20369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99114,
+                    49.56551
+                ]
+            }
+        }
+    ]
+}

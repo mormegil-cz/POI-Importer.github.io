@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice jižně od Dobříně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobříň",
+                "P6736": "24784"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29659,
+                    50.43186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horově ulici v Dobříni",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dobříň",
+                "P6736": "24783"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29242,
+                    50.43777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Josefa Hory na rodném domě v Dobříni",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Dobříň",
+                "P6736": "24782"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29253,
+                    50.43752
+                ]
+            }
+        }
+    ]
+}

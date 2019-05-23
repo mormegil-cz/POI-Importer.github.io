@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika 'Hovory z Lán' u autobusové stanice ve středu Lán",
+                "P31": "Plastika",
+                "P131^label:cs": "Lány",
+                "P6736": "23751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95103,
+                    50.12464
+                ]
+            }
+        }
+    ]
+}

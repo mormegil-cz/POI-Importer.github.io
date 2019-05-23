@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Českolipské ulici v Mělníku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Mělník",
+                "P6736": "22501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46716,
+                    50.3751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rohu ulice Na Staré cestě v Mělníku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mělník",
+                "P6736": "22500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46419,
+                    50.37447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlých ve Vehlovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Mělník",
+                "P6736": "9131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46312,
+                    50.3923
+                ]
+            }
+        }
+    ]
+}

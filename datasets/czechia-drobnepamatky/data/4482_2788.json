@@ -1,0 +1,517 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hrabí na návsi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "25175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96305,
+                    49.71183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomníky padlým v Řimicích na návsi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "25080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98293,
+                    49.72153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Měrotíně na Skalce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Měrotín",
+                "P6736": "25079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00465,
+                    49.69798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého Řimice na návsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "24855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98341,
+                    49.72129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž Řimice u kostela svaté Ludmily",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "24854"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98034,
+                    49.72114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bílé Lhotě na hřbitově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "24843"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97552,
+                    49.71098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Bílá Lhota na okraji obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "24820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97274,
+                    49.71182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Řimice jižně od vesnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "24819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97623,
+                    49.71329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Marka v Hrabí na návsi",
+                "P31": "Kaple",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "24630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96323,
+                    49.71188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Mladče vedle lomu Skalka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladeč",
+                "P6736": "21015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00653,
+                    49.70244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hrabí u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "20797"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96388,
+                    49.71269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Červené Lhoty u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "18613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96627,
+                    49.71654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomníky padlým v Červené Lhotě u kaple",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "18580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96983,
+                    49.71593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Červené Lhotě před kaplí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "18579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96991,
+                    49.71592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Floriána v Červené Lhotě",
+                "P31": "Kaple",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "18565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96998,
+                    49.71598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Bílé Lhotě v Arboretu",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "18039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97547,
+                    49.70987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Pateříně",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "16911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97446,
+                    49.7011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Řimic u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "16438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98162,
+                    49.71405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Bílé Lhoty v poli",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "16422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98172,
+                    49.71092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Měníka vedle polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "16419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98943,
+                    49.71065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ježíše Krista na okraji Měníka",
+                "P31": "Socha",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "16416"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98638,
+                    49.70927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Měníku u kaple na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "16414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98683,
+                    49.71051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Růžencové v Měníku",
+                "P31": "Kaple",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "16412"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98678,
+                    49.71048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Měníku na návsi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "16410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98649,
+                    49.71056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pateříně před kaplí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "16021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97412,
+                    49.70023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže u Pateřína vedle polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "16019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96894,
+                    49.6976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Bolestné v Pateříně",
+                "P31": "Kaple",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "15954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97414,
+                    49.70015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Pateřína vedle polní cesty",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "15869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97473,
+                    49.69624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Chrám přátelství severozápadně od Mladče",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Mladeč",
+                "P6736": "14846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00111,
+                    49.72111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie u Měníka na rozcestí",
+                "P31": "Socha",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "14431"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98244,
+                    49.70553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Cyrila a Metoděje Řimice",
+                "P31": "Kaple",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "12160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98737,
+                    49.71398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na kraji Řimic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Bílá Lhota",
+                "P6736": "11589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9825,
+                    49.7234
+                ]
+            }
+        }
+    ]
+}

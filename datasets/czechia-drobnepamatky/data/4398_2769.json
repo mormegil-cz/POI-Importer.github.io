@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Němčanech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Krásný Dvůr",
+                "P6736": "20087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3124,
+                    50.25416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi ve Chmelištné",
+                "P31": "Kaple",
+                "P131^label:cs": "Nepomyšl",
+                "P6736": "19981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27488,
+                    50.23559
+                ]
+            }
+        }
+    ]
+}

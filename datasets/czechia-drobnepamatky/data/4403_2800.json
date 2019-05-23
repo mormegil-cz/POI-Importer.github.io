@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Zborovech",
+                "P31": "Boží muka",
+                "P131^label:cs": "Zborovy",
+                "P6736": "3704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51505,
+                    49.38119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Zborova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zborovy",
+                "P6736": "2855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52717,
+                    49.3807
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dětřichově u severního okraje obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dětřichov",
+                "P6736": "15336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53164,
+                    49.80177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup v Dětřichově",
+                "P31": "Sloup",
+                "P131^label:cs": "Dětřichov",
+                "P6736": "15332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54083,
+                    49.80193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dětřichově ve východní části obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dětřichov",
+                "P6736": "15331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55203,
+                    49.80383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Dětřichova v dančí oboře",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dětřichov",
+                "P6736": "14991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54125,
+                    49.79552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dětřichově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dětřichov",
+                "P6736": "13045"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.52351,
+                    49.80428
+                ]
+            }
+        }
+    ]
+}

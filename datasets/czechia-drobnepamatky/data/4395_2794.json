@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bukové na křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Buková",
+                "P6736": "4739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15706,
+                    49.53733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bukové",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Buková",
+                "P6736": "4738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15946,
+                    49.53758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bukové na rozcestí pod kostelem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Buková",
+                "P6736": "4737"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16072,
+                    49.5363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Bukové",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Buková",
+                "P6736": "4735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16112,
+                    49.53557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Pteníně",
+                "P31": "Boží muka",
+                "P131^label:cs": "Ptenín",
+                "P6736": "4734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18218,
+                    49.52952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kloušově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Merklín",
+                "P6736": "3648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18028,
+                    49.54773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kloušova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Merklín",
+                "P6736": "3647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17433,
+                    49.54609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Kloušova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Merklín",
+                "P6736": "3646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17999,
+                    49.54776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Lhoty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Merklín",
+                "P6736": "3644"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16229,
+                    49.55102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Lhoty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Merklín",
+                "P6736": "3643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15892,
+                    49.55326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Lhoty",
+                "P31": "Kaplička",
+                "P131^label:cs": "Merklín",
+                "P6736": "3642"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15332,
+                    49.5531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hrázi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ptenín",
+                "P6736": "3256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17037,
+                    49.52627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Ptenína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ptenín",
+                "P6736": "3255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17973,
+                    49.5263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty z Ptenína",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ptenín",
+                "P6736": "2405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17866,
+                    49.52847
+                ]
+            }
+        }
+    ]
+}

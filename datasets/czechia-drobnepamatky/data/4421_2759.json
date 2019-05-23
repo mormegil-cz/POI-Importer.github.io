@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ulomeného kříže u polní cesty jižně od Drahobuzi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drahobuz",
+                "P6736": "23506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31918,
+                    50.52042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Drahobuzi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Drahobuz",
+                "P6736": "23505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32036,
+                    50.52526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na návsi v Drahobuzi",
+                "P31": "Pomník",
+                "P131^label:cs": "Drahobuz",
+                "P6736": "23504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32068,
+                    50.52531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Libínkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Polepy",
+                "P6736": "17443"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2854,
+                    50.52922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava u silnice severně od osady Libínky",
+                "P31": "Socha",
+                "P131^label:cs": "Chotiněves",
+                "P6736": "17442"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28631,
+                    50.53349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Jištěrpách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotiněves",
+                "P6736": "17441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.288,
+                    50.53817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození v Jištěrpách",
+                "P31": "Pomník",
+                "P131^label:cs": "Chotiněves",
+                "P6736": "17440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28862,
+                    50.5386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u silnice v Jištěrpách",
+                "P31": "Kaple",
+                "P131^label:cs": "Chotiněves",
+                "P6736": "17439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28845,
+                    50.53829
+                ]
+            }
+        }
+    ]
+}

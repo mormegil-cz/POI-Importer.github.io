@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na Miroslavské ulici v Horním Jelení",
+                "P31": "Zvonička",
+                "P131^label:cs": "Horní Jelení",
+                "P6736": "14631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08168,
+                    50.04889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Svaté Anny učitelky na Miroslavské ulici v Horním Jelení",
+                "P31": "Socha",
+                "P131^label:cs": "Horní Jelení",
+                "P6736": "14630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07908,
+                    50.04809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Horního Jelení u silnice do Borohrádku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Jelení",
+                "P6736": "14626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08277,
+                    50.05579
+                ]
+            }
+        }
+    ]
+}

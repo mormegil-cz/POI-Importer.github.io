@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v osadě Žlábek",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tatobity",
+                "P6736": "18191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29684,
+                    50.56911
+                ]
+            }
+        }
+    ]
+}

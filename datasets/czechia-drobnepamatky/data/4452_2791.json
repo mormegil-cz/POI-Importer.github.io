@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple nad pramenem v poutním místě sv. Anna severovýchodně od Pohledu",
+                "P31": "Kaple",
+                "P131^label:cs": "Pohled",
+                "P6736": "17521"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.66585,
+                    49.61492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple poutního místa Sv. Anna severovýchodně od Pohledu",
+                "P31": "Kaple",
+                "P131^label:cs": "Pohled",
+                "P6736": "17520"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.66547,
+                    49.61451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Pohledu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pohled",
+                "P6736": "12603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.65513,
+                    49.61483
+                ]
+            }
+        }
+    ]
+}

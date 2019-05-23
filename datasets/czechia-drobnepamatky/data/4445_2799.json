@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v místní části Močáry",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "25593"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35946,
+                    49.40301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v místní části Chaloupky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "25592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36992,
+                    49.40596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého v Novém Rychnově",
+                "P31": "Socha",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18747"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36495,
+                    49.38346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Novém Rychnově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36692,
+                    49.38343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u vchodu do kostela Nanebezvetí Panny Marie v Novém Rychnově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36557,
+                    49.38338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u presbytáře kostela Nanebezvetí Panny Marie v Novém Rychnově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36603,
+                    49.3834
+                ]
+            }
+        }
+    ]
+}

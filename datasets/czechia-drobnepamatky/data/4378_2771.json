@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Křižovatce",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Křižovatka",
+                "P6736": "9433"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.39277,
+                    50.1942
+                ]
+            }
+        }
+    ]
+}

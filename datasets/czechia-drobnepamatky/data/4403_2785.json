@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník východně od Chrástu",
+                "P31": "Památník",
+                "P131^label:cs": "Chrást",
+                "P6736": "5741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4964,
+                    49.79376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památná voznice ve Chrástu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chrást",
+                "P6736": "5740"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49384,
+                    49.79428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Chrástu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chrást",
+                "P6736": "5656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50378,
+                    49.78667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Mistra Jana Husa v Nové Huti",
+                "P31": "Památník",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51157,
+                    49.78211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Nové Huti",
+                "P31": "Socha",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51349,
+                    49.78154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Nové Huti",
+                "P31": "Památník",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51219,
+                    49.78158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha mistra Jana Husa v Chrástu",
+                "P31": "Socha",
+                "P131^label:cs": "Chrást",
+                "P6736": "5051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4943,
+                    49.79535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Chrástu u křižovatky",
+                "P31": "Památník",
+                "P131^label:cs": "Chrást",
+                "P6736": "5050"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49256,
+                    49.79287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Chrástu u školy",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chrást",
+                "P6736": "5049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49274,
+                    49.79266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Sedlecku",
+                "P31": "Kaple",
+                "P131^label:cs": "Smědčice",
+                "P6736": "4453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52648,
+                    49.80894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Smědčicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Smědčice",
+                "P6736": "4452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51698,
+                    49.79676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Smědčicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Smědčice",
+                "P6736": "4441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51277,
+                    49.79906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Chrástu",
+                "P31": "Kaple",
+                "P131^label:cs": "Chrást",
+                "P6736": "4440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49311,
+                    49.79317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Chrástu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chrást",
+                "P6736": "4439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4923,
+                    49.79263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sedlecku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Smědčice",
+                "P6736": "3859"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52735,
+                    49.8088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Bušovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Bušovice",
+                "P6736": "3858"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53244,
+                    49.79724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bušovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bušovice",
+                "P6736": "3857"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5319,
+                    49.7965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bušovicích na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bušovice",
+                "P6736": "3856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53125,
+                    49.794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Nové Huti u Dýšiny",
+                "P31": "Zvonička",
+                "P131^label:cs": "Dýšina",
+                "P6736": "3855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50989,
+                    49.78313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník sluneční hodiny jižně od Bušovic",
+                "P31": "Památník",
+                "P131^label:cs": "Smědčice",
+                "P6736": "2509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52623,
+                    49.79177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Sedleckem u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Smědčice",
+                "P6736": "2510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52064,
+                    49.80593
+                ]
+            }
+        }
+    ]
+}

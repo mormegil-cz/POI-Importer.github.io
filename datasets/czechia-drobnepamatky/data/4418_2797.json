@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Varvažovské Paseky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Varvažov",
+                "P6736": "7667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15159,
+                    49.44227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Varvažovské Paseky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Varvažov",
+                "P6736": "2852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15464,
+                    49.44256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kopanin",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Varvažov",
+                "P6736": "2851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.17971,
+                    49.4427
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Brodu u Stříbra",
+                "P31": "Kaple",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92144,
+                    49.69498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Mileva u lesa",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Zhoř",
+                "P6736": "3058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95543,
+                    49.66902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Tuněchodského mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92779,
+                    49.67441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Brodu u Stříbra",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3038"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93533,
+                    49.68908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Milevu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95689,
+                    49.68215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Mileva mezi stromy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95967,
+                    49.68742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Mileva",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95698,
+                    49.68393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Milevu",
+                "P31": "Kaple",
+                "P131^label:cs": "Kladruby",
+                "P6736": "3033"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95666,
+                    49.68303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Stránského mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kladruby",
+                "P6736": "1293"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.94866,
+                    49.69454
+                ]
+            }
+        }
+    ]
+}

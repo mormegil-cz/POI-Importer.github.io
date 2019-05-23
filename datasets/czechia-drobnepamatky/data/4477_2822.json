@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup ve Valticích na náměstí Svobody",
+                "P31": "Sloup",
+                "P131^label:cs": "Valtice",
+                "P6736": "22743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75538,
+                    48.74085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého ve Valticích na Sobotní ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Valtice",
+                "P6736": "22742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75126,
+                    48.74015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná váza ve Valticích v zámeckém parku",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Valtice",
+                "P6736": "22741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7554,
+                    48.73828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Herakla ve Valticích v zámeckém parku",
+                "P31": "Socha",
+                "P131^label:cs": "Valtice",
+                "P6736": "19288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75656,
+                    48.73816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha hocha ve Valticích v zámeckém parku",
+                "P31": "Socha",
+                "P131^label:cs": "Valtice",
+                "P6736": "19287"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75632,
+                    48.73795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sfingy ve Valticích v zámeckém parku",
+                "P31": "Socha",
+                "P131^label:cs": "Valtice",
+                "P6736": "19286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75606,
+                    48.73779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sfingy ve Valticích v zámeckém parku",
+                "P31": "Socha",
+                "P131^label:cs": "Valtice",
+                "P6736": "19285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75591,
+                    48.73772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha hocha ve Valticích v zámeckém parku",
+                "P31": "Socha",
+                "P131^label:cs": "Valtice",
+                "P6736": "19284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75561,
+                    48.73756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha hocha ve Valticích zámeckém parku",
+                "P31": "Socha",
+                "P131^label:cs": "Valtice",
+                "P6736": "19283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75524,
+                    48.73743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná váza ve Valticích v zámeckém parku",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Valtice",
+                "P6736": "17310"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75525,
+                    48.73819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička va Valticích u bývalého kláštera",
+                "P31": "Kaplička",
+                "P131^label:cs": "Valtice",
+                "P6736": "17309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75583,
+                    48.74483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž na okraji Valtic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Valtice",
+                "P6736": "17308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74626,
+                    48.73865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na okraji Valticích na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Valtice",
+                "P6736": "17307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7579,
+                    48.73368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Josefa ve Valticích na ulici U Rotundy",
+                "P31": "Kaple",
+                "P131^label:cs": "Valtice",
+                "P6736": "17297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76711,
+                    48.74311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Ukřižování ve Valticích na ulici Petra Bezruče",
+                "P31": "Socha",
+                "P131^label:cs": "Valtice",
+                "P6736": "17296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75831,
+                    48.74321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Svobody ve Valticích",
+                "P31": "Kašna",
+                "P131^label:cs": "Valtice",
+                "P6736": "13977"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75575,
+                    48.74115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na náměstí Svobody ve Valticích",
+                "P31": "Sloup",
+                "P131^label:cs": "Valtice",
+                "P6736": "13976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75638,
+                    48.74147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Neptunova kašna ve Valticích",
+                "P31": "Kašna",
+                "P131^label:cs": "Valtice",
+                "P6736": "9334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75815,
+                    48.73991
+                ]
+            }
+        }
+    ]
+}

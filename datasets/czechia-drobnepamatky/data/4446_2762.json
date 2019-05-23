@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Jana Nepomuckého ve Valdicích",
+                "P31": "Sloup",
+                "P131^label:cs": "Valdice",
+                "P6736": "22801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38434,
+                    50.45448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Valdicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Valdice",
+                "P6736": "22800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38484,
+                    50.45443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Masarykův pomník ve Valdicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Valdice",
+                "P6736": "22799"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38488,
+                    50.45439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník politických vězňů u věznice ve Valdicích",
+                "P31": "Památník",
+                "P131^label:cs": "Valdice",
+                "P6736": "22798"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38754,
+                    50.45557
+                ]
+            }
+        }
+    ]
+}

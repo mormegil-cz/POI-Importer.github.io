@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Libel střed obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Libel",
+                "P6736": "24597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.20235,
+                    50.15448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hřibinách severně od obce",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hřibiny-Ledská",
+                "P6736": "24549"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17619,
+                    50.15182
+                ]
+            }
+        }
+    ]
+}

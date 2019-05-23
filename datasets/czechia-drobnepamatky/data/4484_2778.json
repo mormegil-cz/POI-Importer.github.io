@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Hraběšic na Traťovce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hraběšice",
+                "P6736": "16194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.09245,
+                    49.98136
+                ]
+            }
+        }
+    ]
+}

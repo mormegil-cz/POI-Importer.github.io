@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Předbořicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Kamberk",
+                "P6736": "10810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82968,
+                    49.60625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Předbořicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamberk",
+                "P6736": "10805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82971,
+                    49.60631
+                ]
+            }
+        }
+    ]
+}

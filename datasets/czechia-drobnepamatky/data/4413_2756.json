@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí v polích u Brozánek",
+                "P31": "Kaplička",
+                "P131^label:cs": "Rtyně nad Bílinou",
+                "P6736": "18269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93384,
+                    50.60965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na návsi ve Stadicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96787,
+                    50.61791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie na návsi ve Stadicích",
+                "P31": "Socha",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96796,
+                    50.61783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí silnice do Suché",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96385,
+                    50.60844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Habří",
+                "P31": "Kaple",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9451,
+                    50.62115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela v Řehlovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95322,
+                    50.60728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí ke hřbitovu v Řehlovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95637,
+                    50.6067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Opravený podstavec rozbitého kříže v Řehlovicích u silnice na Hbrovany",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95899,
+                    50.60613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hřbitovní kaple v Řehlovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14448"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95811,
+                    50.60696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u Pelikánova mlýna ve Stadicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96797,
+                    50.60403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie u kostela v Brozánkách",
+                "P31": "Socha",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93682,
+                    50.60793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Brozánkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93792,
+                    50.60796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna s Královským pramenem ve Stadicích",
+                "P31": "Kašna",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "9525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.972,
+                    50.61995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Přemysla Oráče u Stadic",
+                "P31": "Pomník",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "9524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96324,
+                    50.6146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník severovýchodně od Řehlovic",
+                "P31": "Pomník",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "9097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96204,
+                    50.61209
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka a kapličky u kostela v Dobré Vodě jihovýchodně od Milejovic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Milejovice",
+                "P6736": "21762"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95601,
+                    49.18512
+                ]
+            }
+        }
+    ]
+}

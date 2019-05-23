@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Průběžné ulici v Broumech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Broumy",
+                "P6736": "25843"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85241,
+                    49.95426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska v Průběžné ulici v Broumech",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Broumy",
+                "P6736": "15458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85371,
+                    49.95275
+                ]
+            }
+        }
+    ]
+}

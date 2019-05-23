@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u vrchu Radost",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ostrovec-Lhotka",
+                "P6736": "8093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75881,
+                    49.92006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Líšné u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Líšná",
+                "P6736": "4918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77864,
+                    49.90928
+                ]
+            }
+        }
+    ]
+}

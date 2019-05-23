@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník bitvy 1866 na rozcestí silnice 35 u Čistěvsi",
+                "P31": "Pomník",
+                "P131^label:cs": "Čistěves",
+                "P6736": "16452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.71983,
+                    50.28691
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v osadě Brlenka",
+                "P31": "Kaple",
+                "P131^label:cs": "Čistá",
+                "P6736": "24500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38481,
+                    49.81433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Brlenka vedle kapličky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čistá",
+                "P6736": "24440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38495,
+                    49.81429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Čisté u Litomyšle východní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čistá",
+                "P6736": "21588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3484,
+                    49.81704
+                ]
+            }
+        }
+    ]
+}

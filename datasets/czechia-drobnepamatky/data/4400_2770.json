@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple při kostele v Buškovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20250"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37348,
+                    50.22723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou svatého Jana Nepomuckého u čp. 95 ve Hlubanech",
+                "P31": "Sloup",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39806,
+                    50.22993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u čp. 113 ve Hlubanech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3933,
+                    50.22921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. světové válce ve Hlubanech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39591,
+                    50.22884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou svatého Jana Nepomuckého u návesní kaple ve Hlubanech",
+                "P31": "Sloup",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39623,
+                    50.22888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Hlubanech",
+                "P31": "Kaple",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39614,
+                    50.22885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela v Buškovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37351,
+                    50.22697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec u čp. 57 v Buškovicích",
+                "P31": "Neznámý",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37258,
+                    50.22633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána naproti čp. 3 v Buškovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37107,
+                    50.22425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice na horní návsi v Buškovicích",
+                "P31": "Sloup",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3729,
+                    50.2235
+                ]
+            }
+        }
+    ]
+}

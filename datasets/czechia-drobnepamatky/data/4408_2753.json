@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Košťanech na kopci Pramenáč",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Košťany",
+                "P6736": "22765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73168,
+                    50.69908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice na dolním konci Mikulova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mikulov",
+                "P6736": "16755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72204,
+                    50.68517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na hřbitově v Mikulově",
+                "P31": "Kaple",
+                "P131^label:cs": "Mikulov",
+                "P6736": "16754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72144,
+                    50.68653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Josefa v parku na náměstí v Mikulově",
+                "P31": "Socha",
+                "P131^label:cs": "Mikulov",
+                "P6736": "16753"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72174,
+                    50.68804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce na zdi kostela v Mikulově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Mikulov",
+                "P6736": "16752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72247,
+                    50.68786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Mikulově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mikulov",
+                "P6736": "16751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72244,
+                    50.6879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u chaty Mikulka v Mikulově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mikulov",
+                "P6736": "16750"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72152,
+                    50.68873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici K Nádraží v Mikulově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mikulov",
+                "P6736": "16749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72287,
+                    50.69029
+                ]
+            }
+        }
+    ]
+}

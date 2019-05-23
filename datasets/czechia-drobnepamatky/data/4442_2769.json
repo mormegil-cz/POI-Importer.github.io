@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u Dymokur",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Dymokury",
+                "P6736": "11034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21814,
+                    50.25484
+                ]
+            }
+        }
+    ]
+}

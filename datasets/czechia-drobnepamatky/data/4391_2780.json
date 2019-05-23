@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Úterý",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "8928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99026,
+                    49.94463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Úterý pod kostelem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "8927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00141,
+                    49.94114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Úterý u školy",
+                "P31": "Kašna",
+                "P131^label:cs": "Úterý",
+                "P6736": "8926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00118,
+                    49.93913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník u kostela v Úterý",
+                "P31": "Pomník",
+                "P131^label:cs": "Úterý",
+                "P6736": "8925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00261,
+                    49.93924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Úterý",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "8924"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00278,
+                    49.93924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen v Úterý II",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Úterý",
+                "P6736": "8923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00378,
+                    49.93998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen v Úterý I",
+                "P31": "Hraniční kámen",
+                "P131^label:cs": "Úterý",
+                "P6736": "8922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00386,
+                    49.93996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Křivců",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "6456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97882,
+                    49.92642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Křivců",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "6455"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.96621,
+                    49.92909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Křivcích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "6454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97351,
+                    49.92468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha před kostelem v Křivcích",
+                "P31": "Socha",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "6453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97335,
+                    49.92476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Úterý na náměstí",
+                "P31": "Kašna",
+                "P131^label:cs": "Úterý",
+                "P6736": "5686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00428,
+                    49.9403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Úterý",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "5617"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99667,
+                    49.9365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Úterý u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "5616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99325,
+                    49.94027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Úterý",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "5615"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99815,
+                    49.94063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Úterý u křižovatky",
+                "P31": "Sloup",
+                "P131^label:cs": "Úterý",
+                "P6736": "4702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00139,
+                    49.93921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Úterý",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Úterý",
+                "P6736": "4701"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00149,
+                    49.93904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Úterý u kostela",
+                "P31": "Kaplička",
+                "P131^label:cs": "Úterý",
+                "P6736": "4700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00315,
+                    49.93957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Úterý",
+                "P31": "Sloup",
+                "P131^label:cs": "Úterý",
+                "P6736": "4699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00422,
+                    49.94035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Úterý",
+                "P31": "Kaple",
+                "P131^label:cs": "Úterý",
+                "P6736": "2716"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00261,
+                    49.9412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka nad Úterým",
+                "P31": "Boží muka",
+                "P131^label:cs": "Úterý",
+                "P6736": "2717"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99382,
+                    49.9429
+                ]
+            }
+        }
+    ]
+}

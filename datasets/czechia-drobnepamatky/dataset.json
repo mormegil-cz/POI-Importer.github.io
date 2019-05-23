@@ -1,0 +1,15 @@
+{
+	"zoom": 13,
+	"queryType":"Wikidata",
+	"query":"?item wdt:P31 wd:Q8205328.",
+	"icon": "monument",
+	"dist":30,
+	"id": "P6736",
+	"tagmatch":
+	[
+		{"key":"label:cs", "algorithm":"equality"},
+		{"key":"P31", "algorithm":"equality"},
+		{"key":"P131^label:cs", "algorithm":"equalList"},
+		{"key":"P6736", "algorithm":"equality"}
+	]
+}

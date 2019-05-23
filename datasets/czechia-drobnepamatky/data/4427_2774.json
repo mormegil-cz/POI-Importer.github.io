@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Muž s kvádrem v Cíglerově ulici na Černém Mostě",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55841,
+                    50.10601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Montér v Kardašovské ulici v Hloubětíně",
+                "P31": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54697,
+                    50.10599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Praze Kyjích na Krčínově náměstí",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "13754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54743,
+                    50.09819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Praze Kyjích u kostela svatého Bartoloměje",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "13753"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54787,
+                    50.09796
+                ]
+            }
+        }
+    ]
+}

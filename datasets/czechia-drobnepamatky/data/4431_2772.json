@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u kostela Nanebevzetí Panny Marie v Čelákovicích",
+                "P31": "Boží muka",
+                "P131^label:cs": "Čelákovice",
+                "P6736": "18153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.75286,
+                    50.16611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Káraném",
+                "P31": "Kaple",
+                "P131^label:cs": "Káraný",
+                "P6736": "13220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74,
+                    50.17481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého v Čelákovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Čelákovice",
+                "P6736": "13208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.75288,
+                    50.16261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Čelákovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Čelákovice",
+                "P6736": "13207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.75047,
+                    50.16311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Čelákovicích na náměstí 5. května",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čelákovice",
+                "P6736": "13206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.75023,
+                    50.16314
+                ]
+            }
+        }
+    ]
+}

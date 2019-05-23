@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u bývalé obce Stodůlky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Prášily",
+                "P6736": "7183"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43415,
+                    49.11975
+                ]
+            }
+        }
+    ]
+}

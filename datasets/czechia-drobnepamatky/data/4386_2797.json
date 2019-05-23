@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník západně od Dílů",
+                "P31": "Památník",
+                "P131^label:cs": "Postřekov",
+                "P6736": "5076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76297,
+                    49.45219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dílech u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Díly",
+                "P6736": "5069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78682,
+                    49.44631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dílech",
+                "P31": "Kaple",
+                "P131^label:cs": "Díly",
+                "P6736": "5068"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78641,
+                    49.44659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Menhir severně od Staré Huti",
+                "P31": "Menhir",
+                "P131^label:cs": "Nemanice",
+                "P6736": "2155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74569,
+                    49.4413
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána ve středu Charvát",
+                "P31": "Socha",
+                "P131^label:cs": "Charváty",
+                "P6736": "16781"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25489,
+                    49.51845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Marka u Charvát nad hlavní silnicí",
+                "P31": "Socha",
+                "P131^label:cs": "Charváty",
+                "P6736": "16775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25274,
+                    49.50831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Charvátech na křižovatce",
+                "P31": "Socha",
+                "P131^label:cs": "Charváty",
+                "P6736": "16130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25279,
+                    49.51823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Drahlově na návsi",
+                "P31": "Socha",
+                "P131^label:cs": "Charváty",
+                "P6736": "16129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2524,
+                    49.51123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého v Charvátech",
+                "P31": "Kaple",
+                "P131^label:cs": "Charváty",
+                "P6736": "15359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26017,
+                    49.50947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Charvátech",
+                "P31": "Kaple",
+                "P131^label:cs": "Charváty",
+                "P6736": "15358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25369,
+                    49.51158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Charvátech u polní cesty",
+                "P31": "Obrázek",
+                "P131^label:cs": "Charváty",
+                "P6736": "15356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25897,
+                    49.50621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Charvátech u cyklostezky",
+                "P31": "Obrázek",
+                "P131^label:cs": "Charváty",
+                "P6736": "15355"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25742,
+                    49.51104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na okraji Charvát u hlavní silnice",
+                "P31": "Obrázek",
+                "P131^label:cs": "Charváty",
+                "P6736": "15354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25249,
+                    49.51562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Dubu nad Moravou v místní části Bolelouc",
+                "P31": "Boží muka",
+                "P131^label:cs": "Dub nad Moravou",
+                "P6736": "15340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26377,
+                    49.49975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Charvátech v místní části Čertoryje",
+                "P31": "Boží muka",
+                "P131^label:cs": "Charváty",
+                "P6736": "15339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25751,
+                    49.50974
+                ]
+            }
+        }
+    ]
+}

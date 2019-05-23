@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým Dolní Hedeč na rozcestí",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Králíky",
+                "P6736": "25177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78823,
+                    50.07541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha 'Pozorovatel' na Mariánském kopci SV od kláštera v Horní Hedeči",
+                "P31": "Socha",
+                "P131^label:cs": "Králíky",
+                "P6736": "23308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78734,
+                    50.07851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloupová kaplička u místní komunikace jižně od rozhledny Val",
+                "P31": "Boží muka",
+                "P131^label:cs": "Králíky",
+                "P6736": "23307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79243,
+                    50.06957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u silnice ve Zlatém Potoce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Malá Morava",
+                "P6736": "23306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.815,
+                    50.07896
+                ]
+            }
+        }
+    ]
+}

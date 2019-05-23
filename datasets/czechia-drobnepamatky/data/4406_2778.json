@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v lese u říčky Javornice západně od Lhoty u Chříče",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Chříč",
+                "P6736": "22979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66408,
+                    49.99499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v lese u říčky Javornice severně od Slatiny",
+                "P31": "Pomník",
+                "P131^label:cs": "Slatina",
+                "P6736": "22632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63434,
+                    49.99543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u silnice severně od Slatiny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Slatina",
+                "P6736": "14547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63151,
+                    49.98599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž jižně od Slatiny",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Slatina",
+                "P6736": "12980"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6367,
+                    49.98212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník jihovýchodně od Lhoty",
+                "P31": "Památník",
+                "P131^label:cs": "Chříč",
+                "P6736": "10386"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6595,
+                    49.98525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Lhotě",
+                "P31": "Kaple",
+                "P131^label:cs": "Chříč",
+                "P6736": "5277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64893,
+                    49.98936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Lhotě u kaple",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Chříč",
+                "P6736": "5275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6488,
+                    49.98938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Lhoty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chříč",
+                "P6736": "5274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64322,
+                    49.98824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Slatině",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Slatina",
+                "P6736": "5273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63415,
+                    49.98422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Slatině",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Slatina",
+                "P6736": "5272"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63385,
+                    49.98442
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Hlavním náměstí ve Šternberku",
+                "P31": "Kašna",
+                "P131^label:cs": "Šternberk",
+                "P6736": "14034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.29887,
+                    49.73003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na Horním náměstí ve Šternberku",
+                "P31": "Sloup",
+                "P131^label:cs": "Šternberk",
+                "P6736": "14033"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.30033,
+                    49.7317
+                ]
+            }
+        }
+    ]
+}

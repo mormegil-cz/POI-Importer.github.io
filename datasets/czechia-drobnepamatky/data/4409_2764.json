@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou svatého Václava u kostela v Lenešicích",
+                "P31": "Sloup",
+                "P131^label:cs": "Lenešice",
+                "P6736": "20109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76108,
+                    50.37679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na náměstí Knížete Václava v Lenešicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Lenešice",
+                "P6736": "20108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76044,
+                    50.37726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého v Lenešicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Lenešice",
+                "P6736": "20107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75968,
+                    50.37922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Husova zvonice v Lenešicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Lenešice",
+                "P6736": "20106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76572,
+                    50.37729
+                ]
+            }
+        }
+    ]
+}

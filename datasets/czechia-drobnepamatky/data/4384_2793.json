@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u zaniklého Růžova",
+                "P31": "Památník",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "4895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.69185,
+                    49.57612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Smolově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "4161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66784,
+                    49.58172
+                ]
+            }
+        }
+    ]
+}

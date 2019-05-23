@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého v Lipnici nad Sázavou",
+                "P31": "Socha",
+                "P131^label:cs": "Lipnice nad Sázavou",
+                "P6736": "19485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41254,
+                    49.61318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Jaroslava Haška pod hradem Lipnice",
+                "P31": "Památník",
+                "P131^label:cs": "Lipnice nad Sázavou",
+                "P6736": "19484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41409,
+                    49.61324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hřbitova v Lipnici nad Sázavou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lipnice nad Sázavou",
+                "P6736": "19483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4047,
+                    49.61139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Jaroslava Haška jižně od náměstí v Lipnici nad Sázavou",
+                "P31": "Socha",
+                "P131^label:cs": "Lipnice nad Sázavou",
+                "P6736": "17113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41326,
+                    49.61226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník mistra Jana Husa ve středu Lipnice nad Sázavou",
+                "P31": "Pomník",
+                "P131^label:cs": "Lipnice nad Sázavou",
+                "P6736": "17112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41369,
+                    49.61292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jaroslava Haška 'Hlava XXII' u křižovatky silnic '347' a odbočky na Lipnici",
+                "P31": "Pomník",
+                "P131^label:cs": "Dolní Město",
+                "P6736": "16722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38856,
+                    49.62286
+                ]
+            }
+        }
+    ]
+}

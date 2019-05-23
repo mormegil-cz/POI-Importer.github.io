@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice na západním okraji Koněprus",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koněprusy",
+                "P6736": "15001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06026,
+                    49.9216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Tmaně u kostela svatého Jiří",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tmaň",
+                "P6736": "9159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04188,
+                    49.9081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek severovýchodně od Tmaně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tmaň",
+                "P6736": "9158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04064,
+                    49.9118
+                ]
+            }
+        }
+    ]
+}

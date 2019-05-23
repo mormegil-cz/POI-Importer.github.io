@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Velkém Rybníku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Velký Rybník",
+                "P6736": "20204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30828,
+                    49.49021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Velkém Rybníku",
+                "P31": "Kaple",
+                "P131^label:cs": "Velký Rybník",
+                "P6736": "20202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30723,
+                    49.49069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty západně od Velkého Rybníka směrem na Onšovice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velký Rybník",
+                "P6736": "18847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30408,
+                    49.49038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zemědělských staveb ve Velkém Rybníku poblíž hlavní silnice na Humpolec",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velký Rybník",
+                "P6736": "18846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30497,
+                    49.49374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na severním okraji Velkého Rybníka u hlavní silnice na Humpolec",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velký Rybník",
+                "P6736": "18845"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30861,
+                    49.49435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž západně od Mladých Břišť u Jankovského potoka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladé Bříště",
+                "P6736": "18801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32982,
+                    49.49105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem sv. Jana Křtitele v Mladých Břištích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladé Bříště",
+                "P6736": "18800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33403,
+                    49.4907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha před farou v Mladých Břištích",
+                "P31": "Socha",
+                "P131^label:cs": "Mladé Bříště",
+                "P6736": "18799"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33359,
+                    49.4907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž v letním táboře Zálesí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladé Bříště",
+                "P6736": "11110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33639,
+                    49.48699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomníček ukradeným a zničeným smírčím křížům u Mladého Bříště",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Mladé Bříště",
+                "P6736": "10348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33091,
+                    49.49094
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u silničního mostu přes říčku Trnavu v Hořepníku",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hořepník",
+                "P6736": "19082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10825,
+                    49.51091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem světových válek v Hořepníku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hořepník",
+                "P6736": "19023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1061,
+                    49.51239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Nejsvětější Trojice na náměstí v Hořepníku",
+                "P31": "Socha",
+                "P131^label:cs": "Hořepník",
+                "P6736": "19022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10626,
+                    49.51255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela Nejsvětější Trojice v Hořepníku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hořepník",
+                "P6736": "19021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10644,
+                    49.5127
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,597 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Ervína Špindlera na domě Rváčov 163 v Roudnici",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "25323"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25797,
+                    50.42588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Jindřicha Varhana v Roudnici",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "25240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25966,
+                    50.42455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Eduarda Šimona v Roudnici",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "25239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2549,
+                    50.42436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy svatých Petra a Pavla na bočním portálu kostela Narození Panny Marie v Roudnici",
+                "P31": "Socha",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "25238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2569,
+                    50.42668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie ve výklenku zadní zdi kostela Narození Panny Marie v Roudnici nad Labem",
+                "P31": "Socha",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "24626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25734,
+                    50.42652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v zahradě Městského úřadu v Roudnici nad Labem",
+                "P31": "Socha",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "24461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26028,
+                    50.42348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Josefa Mašína v Roudnici nad Labem",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "24460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25824,
+                    50.42432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Madony na domě Nerudova 38 v Roudnici nad Labem",
+                "P31": "Obrázek",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "24459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25824,
+                    50.42378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice v Roudnici nad Labem",
+                "P31": "Zvonička",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "21410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25696,
+                    50.42567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Šiška v Očkově ulici v Roudnici nad Labem",
+                "P31": "Plastika",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "21303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26233,
+                    50.42488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička nad Roudným pramenem v Roudnici nad Labem",
+                "P31": "Kaplička",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "19842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25742,
+                    50.42669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie na kostele Narození Panny Marie v Roudnici nad Labem",
+                "P31": "Socha",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "19841"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25663,
+                    50.42662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v ulici Ke Klenči v Roudnici nad Labem",
+                "P31": "Kaplička",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "19837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24751,
+                    50.4127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Tyršův pomník v Tyršových sadech v Roudnici nad Labem",
+                "P31": "Pomník",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "18938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26956,
+                    50.42079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v místě pohřbu pruských vojáků v parku Josefa Hory v Roudnici nad Labem",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "17055"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25423,
+                    50.42552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Maxe Dvořáka v Očkově ulici v Roudnici nad Labem",
+                "P31": "Pomník",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "17053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26213,
+                    50.42459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela Narození Panny Marie v Roudnici nad Labem",
+                "P31": "Socha",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16904"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25685,
+                    50.42678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na rohu ulic Na Hradčanech a Palackého v Roudnici nad Labem",
+                "P31": "Boží muka",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27277,
+                    50.42627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Kratochvílově ulici v Roudnici nad Labem",
+                "P31": "Boží muka",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26641,
+                    50.41933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Jana Nepomuckého na rohu ulic Řipská a Michálkova v Roudnici nad Labem",
+                "P31": "Sloup",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26283,
+                    50.42361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Karlově náměstí v Roudnici nad Labem",
+                "P31": "Kašna",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26021,
+                    50.42434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vojtěcha na Karlově náměstí v Roudnici nad Labem",
+                "P31": "Socha",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26041,
+                    50.4248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Husa na Husově náměstí v Roudnici nad Labem",
+                "P31": "Pomník",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25851,
+                    50.42413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Josefa Hory v Roudnici nad Labem",
+                "P31": "Pomník",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16701"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25483,
+                    50.42535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Martina Švagrovského v parku v Bezručově ulici v Roudnici nad Labem",
+                "P31": "Pomník",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25396,
+                    50.42496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Josefa v Riegrově ulici v Roudnici nad Labem",
+                "P31": "Kaple",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25767,
+                    50.42317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Evangelisty Purkyně na Purkyňově náměstí v Roudnici nad Labem",
+                "P31": "Pomník",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25423,
+                    50.42278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Viléma na Purkyňově náměstí v Roudnici nad Labem",
+                "P31": "Kaple",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2544,
+                    50.42253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na Špindlerově třídě v Roudnici nad Labem",
+                "P31": "Kaple",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25118,
+                    50.41965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na rohu ulic Stadická a Špindlerova v Roudnici nad Labem",
+                "P31": "Kaple",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24974,
+                    50.41812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před hřbitovem v Roudnici nad Labem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24038,
+                    50.42732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. a 2.světové válce na hřbitově v Roudnici nad Labem",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23996,
+                    50.42755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na hřbitově v Roudnici nad Labem",
+                "P31": "Kaple",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24017,
+                    50.42749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Rozálie v Terezínské ulici v Roudnici nad Labem",
+                "P31": "Kaple",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24507,
+                    50.42676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník 1.fotbalového zápasu v Čechách na ostrově v Roudnici nad Labem",
+                "P31": "Pomník",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16685"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25105,
+                    50.42923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Čechie s českým lvem na nájezdu na most přes Labe v Roudnici nad Labem",
+                "P31": "Socha",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26068,
+                    50.42623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Vavřince na Karlově náměstí v Roudnici nad Labem",
+                "P31": "Sloup",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "13649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26056,
+                    50.4244
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Zbožice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Havlíčkův Brod",
+                "P6736": "8833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5635,
+                    49.65408
+                ]
+            }
+        }
+    ]
+}

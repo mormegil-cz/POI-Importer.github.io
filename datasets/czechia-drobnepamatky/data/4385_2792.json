@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Bělé nad Radbuzou",
+                "P31": "Památník",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "5078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7164,
+                    49.59151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Bělé nad Radbuzou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "4902"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71665,
+                    49.59143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Bělé nad Radbuzou u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "4687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7128,
+                    49.59353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Bělé nad Radbuzou",
+                "P31": "Kaple",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "4686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71273,
+                    49.59348
+                ]
+            }
+        }
+    ]
+}

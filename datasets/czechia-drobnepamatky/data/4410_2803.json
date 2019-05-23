@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod Katovickou horou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Katovice",
+                "P6736": "7299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81475,
+                    49.278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození v Katovicích",
+                "P31": "Památník",
+                "P131^label:cs": "Katovice",
+                "P6736": "7298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82994,
+                    49.27405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Katovicích u křižovatky",
+                "P31": "Kaplička",
+                "P131^label:cs": "Katovice",
+                "P6736": "7296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83046,
+                    49.27118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Jana Husa v Katovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Katovice",
+                "P6736": "7297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82997,
+                    49.27404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně od Katovic",
+                "P31": "Kaplička",
+                "P131^label:cs": "Strakonice",
+                "P6736": "7295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84025,
+                    49.26891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Katovic u silnice I/22",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Katovice",
+                "P6736": "1713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8234,
+                    49.27724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice I/22 severně od Dolního Poříčí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Poříčí",
+                "P6736": "1415"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81123,
+                    49.28707
+                ]
+            }
+        }
+    ]
+}

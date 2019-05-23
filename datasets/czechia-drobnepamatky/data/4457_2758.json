@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník generála Ludvíka Gablenze na vrchu Šibeník v Trutnově",
+                "P31": "Památník",
+                "P131^label:cs": "Trutnov",
+                "P6736": "16532"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.90609,
+                    50.55589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Polibek smrti v Trutnově",
+                "P31": "Socha",
+                "P131^label:cs": "Trutnov",
+                "P6736": "10704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.90322,
+                    50.55559
+                ]
+            }
+        }
+    ]
+}

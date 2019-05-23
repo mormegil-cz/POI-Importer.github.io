@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Bílé Vodě",
+                "P31": "Socha",
+                "P131^label:cs": "Bílá Voda",
+                "P6736": "20466"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91629,
+                    50.44195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Bílé Vody na křižovatce cest k hraničnímu přechodu",
+                "P31": "Kaplička",
+                "P131^label:cs": "Bílá Voda",
+                "P6736": "16727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89915,
+                    50.4445
+                ]
+            }
+        }
+    ]
+}

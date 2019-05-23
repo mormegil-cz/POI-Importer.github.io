@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Přívratě jižní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Přívrat",
+                "P6736": "19337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40041,
+                    49.9176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zhoři u hřbitova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Němčice",
+                "P6736": "16173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39276,
+                    49.90354
+                ]
+            }
+        }
+    ]
+}

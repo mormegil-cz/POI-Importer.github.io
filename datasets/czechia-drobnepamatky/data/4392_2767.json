@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u silnice z Jakubova do Vojkovic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Vojkovice",
+                "P6736": "23214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02874,
+                    50.3086
+                ]
+            }
+        }
+    ]
+}

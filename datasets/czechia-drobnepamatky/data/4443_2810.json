@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v místní části Nový Svět",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26327,
+                    49.08051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dolním Radíkově při výjezdu na Český Rudolec",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12685"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29142,
+                    49.07553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty jihozápadně od Dolního Radíkova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28298,
+                    49.07459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Dolním Radíkově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12499"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28788,
+                    49.07574
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Františka Cyrila Kampelíka na budově obecního úřadu v Syřenově",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Syřenov",
+                "P6736": "16525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42773,
+                    50.49892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí v Syřenově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Syřenov",
+                "P6736": "16353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42897,
+                    50.50154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Syřenově",
+                "P31": "Socha",
+                "P131^label:cs": "Syřenov",
+                "P6736": "16352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42885,
+                    50.50079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Syřenově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Syřenov",
+                "P6736": "16351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42781,
+                    50.49901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u obecního úřadu v Syřenově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Syřenov",
+                "P6736": "16350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42771,
+                    50.49886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v lese nad potokem Černá poblíž osady Brodky",
+                "P31": "Kaplička",
+                "P131^label:cs": "Stará Paka",
+                "P6736": "16349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44098,
+                    50.51077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u potoka Černá mezi Syřenovem a Novou Vsí nad Popelkou",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44044,
+                    50.51098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Brdu",
+                "P31": "Socha",
+                "P131^label:cs": "Stará Paka",
+                "P6736": "15535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46709,
+                    50.49314
+                ]
+            }
+        }
+    ]
+}

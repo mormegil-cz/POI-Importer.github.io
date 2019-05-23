@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Lichtenštejnský památník ve Vysokém Potoku v lese",
+                "P31": "Památník",
+                "P131^label:cs": "Malá Morava",
+                "P6736": "22062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83623,
+                    50.05838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vysokém Potoku před kaplí v lese",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Malá Morava",
+                "P6736": "22061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83579,
+                    50.05851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Svatá Trojice ve Vysokém Potoku",
+                "P31": "Kaple",
+                "P131^label:cs": "Malá Morava",
+                "P6736": "22060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83575,
+                    50.0585
+                ]
+            }
+        }
+    ]
+}

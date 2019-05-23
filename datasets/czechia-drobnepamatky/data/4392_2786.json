@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v ohradní zdi kostela svatého Petra severovýchodně od Stříbra",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Stříbro",
+                "P6736": "25417"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01247,
+                    49.76596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vranově",
+                "P31": "Kaple",
+                "P131^label:cs": "Vranov",
+                "P6736": "4627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04226,
+                    49.76464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na kopci Evangelista u Svinné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vranov",
+                "P6736": "2788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02126,
+                    49.75814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Vranova nedaleko dráhy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vranov",
+                "P6736": "2789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02925,
+                    49.76339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Vranova",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vranov",
+                "P6736": "2790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04656,
+                    49.76464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Vranova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vranov",
+                "P6736": "2791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04483,
+                    49.76293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na křížové cestě u Stříbra - 2. zastavení",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vranov",
+                "P6736": "2609"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01218,
+                    49.75303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na křížové cestě u Stříbra - 1. zastavení",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vranov",
+                "P6736": "2608"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01195,
+                    49.75291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na křížové cestě u Stříbra - 7. zastavení",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vranov",
+                "P6736": "2599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0133,
+                    49.75293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na křížové cestě u Stříbra - 6. zastavení",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vranov",
+                "P6736": "2598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01309,
+                    49.75306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na křížové cestě u Stříbra - 5. zastavení",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vranov",
+                "P6736": "2597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01291,
+                    49.75323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na křížové cestě u Stříbra - 4. zastavení",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vranov",
+                "P6736": "2596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01262,
+                    49.7532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na křížové cestě u Stříbra - 3. zastavení",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vranov",
+                "P6736": "2595"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0124,
+                    49.75314
+                ]
+            }
+        }
+    ]
+}

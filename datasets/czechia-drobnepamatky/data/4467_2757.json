@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Broumova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "25304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34261,
+                    50.57058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Velké Vsi u Broumova na křižovatce ulic Havlíčkova a Osvobození",
+                "P31": "Boží muka",
+                "P131^label:cs": "Broumov",
+                "P6736": "22774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3412,
+                    50.59021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Velké Vsi u Broumova na třídě Osvobození",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "22773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34118,
+                    50.58813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Velké Vsi u Broumova v ulici Kladská",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "22772"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34292,
+                    50.57577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Broumově v Křinické ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "22756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33286,
+                    50.5798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Broumově na Malém náměstí",
+                "P31": "Kašna",
+                "P131^label:cs": "Broumov",
+                "P6736": "22649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33392,
+                    50.58391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Broumově na křižovatce ulic Šalounova a Jiráskova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Broumov",
+                "P6736": "22585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32923,
+                    50.58322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Hejtmánkovic u cesty Broumov Police nad Metují I",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hejtmánkovice",
+                "P6736": "22555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30689,
+                    50.59184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník padlým v 1 světové válce v Křinicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Křinice",
+                "P6736": "22553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31692,
+                    50.56945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava v Hejtmánkovicích na mostě do Broumova",
+                "P31": "Socha",
+                "P131^label:cs": "Hejtmánkovice",
+                "P6736": "22513"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32177,
+                    50.59055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hejtmánkovicích jihovýchodní část obce II",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hejtmánkovice",
+                "P6736": "22512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32261,
+                    50.59291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Hejtmánkovicích na mostě do Broumova",
+                "P31": "Socha",
+                "P131^label:cs": "Hejtmánkovice",
+                "P6736": "22437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32178,
+                    50.59064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hejtmánkovicích jihovýchodní část obce I",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hejtmánkovice",
+                "P6736": "22436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32344,
+                    50.59248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hejtmánkovicích jihovýchodní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hejtmánkovice",
+                "P6736": "22309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32101,
+                    50.59108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Broumově na Malém náměstí",
+                "P31": "Socha",
+                "P131^label:cs": "Broumov",
+                "P6736": "22284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33386,
+                    50.58397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Broumově na boku kostela svatého Petra a Pavla",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "22106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33059,
+                    50.58532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Broumově na Mírovém náměstí",
+                "P31": "Kašna",
+                "P131^label:cs": "Broumov",
+                "P6736": "22105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33255,
+                    50.58521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Broumově na Mírovém náměsté",
+                "P31": "Sloup",
+                "P131^label:cs": "Broumov",
+                "P6736": "22104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33245,
+                    50.58534
+                ]
+            }
+        }
+    ]
+}

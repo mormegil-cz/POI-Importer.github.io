@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v Lukohořanech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Děčany",
+                "P6736": "20516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93201,
+                    50.4359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Lukohořanech",
+                "P31": "Kaple",
+                "P131^label:cs": "Děčany",
+                "P6736": "20515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9339,
+                    50.43568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na návsi ve Lkáni",
+                "P31": "Kaplička",
+                "P131^label:cs": "Lkáň",
+                "P6736": "20508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97114,
+                    50.44284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí ve Lkáni",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lkáň",
+                "P6736": "20507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9741,
+                    50.44413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lukohořanech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Děčany",
+                "P6736": "9106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93411,
+                    50.43592
+                ]
+            }
+        }
+    ]
+}

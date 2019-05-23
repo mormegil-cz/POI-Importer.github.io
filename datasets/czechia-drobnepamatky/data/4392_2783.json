@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Pakoslavi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Konstantinovy Lázně",
+                "P6736": "8819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03756,
+                    49.85889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Mydlovar",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Křelovice",
+                "P6736": "5634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0343,
+                    49.84173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mydlovarech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Křelovice",
+                "P6736": "5633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04045,
+                    49.84783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Mydlovarech",
+                "P31": "Zvonička",
+                "P131^label:cs": "Křelovice",
+                "P6736": "5632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04069,
+                    49.84779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička vlevo od kaple východně od Šipína",
+                "P31": "Kaplička",
+                "P131^label:cs": "Konstantinovy Lázně",
+                "P6736": "5631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03522,
+                    49.85768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička vpravo od kaple východně od Šipína",
+                "P31": "Kaplička",
+                "P131^label:cs": "Konstantinovy Lázně",
+                "P6736": "5630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.035,
+                    49.8577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese nad Šipínem u cesty do Pakoslavi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Křelovice",
+                "P6736": "2278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04163,
+                    49.85707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka východně od Šipína na rozcestí",
+                "P31": "Boží muka",
+                "P131^label:cs": "Konstantinovy Lázně",
+                "P6736": "2234"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03492,
+                    49.85672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple východně od Šipína",
+                "P31": "Kaple",
+                "P131^label:cs": "Konstantinovy Lázně",
+                "P6736": "2235"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03511,
+                    49.85767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese nad Šipínem u cesty do Mydlovar",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Křelovice",
+                "P6736": "2121"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03692,
+                    49.85272
+                ]
+            }
+        }
+    ]
+}

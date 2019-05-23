@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Hnátnici západně od obce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hnátnice",
+                "P6736": "25555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44275,
+                    50.01286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Hnátnici poblíž kostela svatého Petra a Pavla",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hnátnice",
+                "P6736": "25553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44313,
+                    50.01638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Červené u mostu přes Orlici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Letohrad",
+                "P6736": "25047"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.47895,
+                    50.02548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dolní Dobrouči v místní části zvané Šejv",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Dobrouč",
+                "P6736": "17050"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.47848,
+                    50.0096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hnátnici v jižní části obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hnátnice",
+                "P6736": "12837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.45584,
+                    50.012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hnátnici severní část III",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hnátnice",
+                "P6736": "12832"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43696,
+                    50.02145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek jižně Písečné v místě kde býval Šuškovský mlýn",
+                "P31": "Obrázek",
+                "P131^label:cs": "Písečná",
+                "P6736": "12494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46631,
+                    50.02691
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha vodníka u Oparenského mlýna",
+                "P31": "Socha",
+                "P131^label:cs": "Velemín",
+                "P6736": "21388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00556,
+                    50.54267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním rozcestí v Dobkovičkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velemín",
+                "P6736": "15306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00508,
+                    50.55518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž s ulomeným vrškem v ulici pod kaplí v Dobkovičkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velemín",
+                "P6736": "15305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00781,
+                    50.55707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dobkovičkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Velemín",
+                "P6736": "15304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00681,
+                    50.55719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž za železniční tratí v Dobkovičkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velemín",
+                "P6736": "15303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00197,
+                    50.55622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Chotiměři",
+                "P31": "Kaple",
+                "P131^label:cs": "Chotiměř",
+                "P6736": "15247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00109,
+                    50.54843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození v Chotiměři",
+                "P31": "Pomník",
+                "P131^label:cs": "Chotiměř",
+                "P6736": "15246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00068,
+                    50.54842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí u silnice z Velemína do Chotiměře",
+                "P31": "Kaplička",
+                "P131^label:cs": "Chotiměř",
+                "P6736": "15245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99533,
+                    50.5456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec zničeného kříže u silnice z Velemína do Chotiměře",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chotiměř",
+                "P6736": "15244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99178,
+                    50.54421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v osadě Hrušovka",
+                "P31": "Kaple",
+                "P131^label:cs": "Velemín",
+                "P6736": "15242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98613,
+                    50.55475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty za kaplí v Kletečné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velemín",
+                "P6736": "15241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98407,
+                    50.56804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ulomeného kříže na návsi v Kletečné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velemín",
+                "P6736": "15240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98485,
+                    50.5681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Kletečné",
+                "P31": "Kaple",
+                "P131^label:cs": "Velemín",
+                "P6736": "15239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98464,
+                    50.56813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec zničeného kříže na rozcestí ke Kletečné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velemín",
+                "P6736": "15238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98811,
+                    50.56691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Hanse Kudlicha u Kletečné",
+                "P31": "Pomník",
+                "P131^label:cs": "Velemín",
+                "P6736": "9216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98844,
+                    50.56675
+                ]
+            }
+        }
+    ]
+}

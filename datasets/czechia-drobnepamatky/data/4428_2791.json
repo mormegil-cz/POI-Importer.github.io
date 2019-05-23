@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Nazdicích",
+                "P31": "Kaplička",
+                "P131^label:cs": "Votice",
+                "P6736": "19180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.60254,
+                    49.62841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek na návsi ve Střelítově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Votice",
+                "P6736": "19178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61222,
+                    49.63086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříz u Votic- u Mokate",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Votice",
+                "P6736": "19176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.62428,
+                    49.63562
+                ]
+            }
+        }
+    ]
+}

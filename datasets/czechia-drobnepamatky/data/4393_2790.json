@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Mířovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ves Touškov",
+                "P6736": "3771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08033,
+                    49.65434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Mířovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Ves Touškov",
+                "P6736": "3770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08354,
+                    49.65476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Honezovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Honezovice",
+                "P6736": "2927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07194,
+                    49.63929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Honezovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Honezovice",
+                "P6736": "2925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06644,
+                    49.64803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Mířovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ves Touškov",
+                "P6736": "2061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08695,
+                    49.65451
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Kalvárie na jihozápadním okraji Března",
+                "P31": "Socha",
+                "P131^label:cs": "Velemín",
+                "P6736": "18076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97423,
+                    50.52408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v Březně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velemín",
+                "P6736": "18075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97457,
+                    50.52505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Kocourově",
+                "P31": "Kaple",
+                "P131^label:cs": "Třebenice",
+                "P6736": "18028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94176,
+                    50.52428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského u silnice z Milešova ke Kocourovu",
+                "P31": "Socha",
+                "P131^label:cs": "Třebenice",
+                "P6736": "18027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94362,
+                    50.53
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha bohyně úrody na bráně statku v Milešově",
+                "P31": "Socha",
+                "P131^label:cs": "Velemín",
+                "P6736": "15683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93741,
+                    50.53963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí u hřbitova v Milešově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Velemín",
+                "P6736": "15669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93462,
+                    50.53636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec odstraněné sochy světce u rozcestí před Milešovem",
+                "P31": "Socha",
+                "P131^label:cs": "Velemín",
+                "P6736": "15666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94351,
+                    50.54003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Křtitele v osadě Mlýnce u Milešova",
+                "P31": "Socha",
+                "P131^label:cs": "Velemín",
+                "P6736": "15665"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94654,
+                    50.53678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Milešově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Velemín",
+                "P6736": "9108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93855,
+                    50.53981
+                ]
+            }
+        }
+    ]
+}

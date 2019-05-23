@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka při silnici Vlašim - Vracovice a odbočky k Staré oboře",
+                "P31": "Boží muka",
+                "P131^label:cs": "Vlašim",
+                "P6736": "17082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9203,
+                    49.68695
+                ]
+            }
+        }
+    ]
+}

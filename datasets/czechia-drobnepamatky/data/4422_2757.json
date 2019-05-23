@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Skalní kaplička u silnice z Úštěka do Ostrého",
+                "P31": "Kaplička",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36595,
+                    50.58136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v ohradní zdi kostela Nejsvětější Trojice v Úštěku",
+                "P31": "Kaplička",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34933,
+                    50.58519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hřbitovní ulici v Úštěku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35364,
+                    50.58562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v zahradě domu 249 v Úštěku",
+                "P31": "Socha",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34547,
+                    50.58904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Petra vlevo na římse kostela svatých Petra a Pavla v Úštěku",
+                "P31": "Socha",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34329,
+                    50.58488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Pavla vpravo na římse kostela svatých Petra a Pavla v Úštěku",
+                "P31": "Socha",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3434,
+                    50.58473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Soška Panny Marie v nice domu Mírové náměstí 38",
+                "P31": "Socha",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34181,
+                    50.58457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v ulici 1.máje v Úštěku",
+                "P31": "Socha",
+                "P131^label:cs": "Úštěk",
+                "P6736": "17301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33655,
+                    50.58408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska II. polské armády v Úštěku",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Úštěk",
+                "P6736": "9545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34629,
+                    50.58522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození v Úštěku",
+                "P31": "Památník",
+                "P131^label:cs": "Úštěk",
+                "P6736": "9544"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34801,
+                    50.58575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Hanse Kudlicha v Úštěku",
+                "P31": "Pomník",
+                "P131^label:cs": "Úštěk",
+                "P6736": "9543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34416,
+                    50.58488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na domě v Úštěku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úštěk",
+                "P6736": "9542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34088,
+                    50.58449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Deska z pomníku padlým v Úštěku u synagogy",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Úštěk",
+                "P6736": "9541"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33871,
+                    50.5841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Lhotě u Úštěku",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Úštěk",
+                "P6736": "9105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33402,
+                    50.57668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z 1. světové války ve Lhotě u Úštěka",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Úštěk",
+                "P6736": "9104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3346,
+                    50.5761
+                ]
+            }
+        }
+    ]
+}

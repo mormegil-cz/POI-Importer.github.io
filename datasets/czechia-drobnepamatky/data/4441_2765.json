@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Oltář svatého Salvatora u Osenic",
+                "P31": "Památník",
+                "P131^label:cs": "Dětenice",
+                "P6736": "9393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16218,
+                    50.36957
+                ]
+            }
+        }
+    ]
+}

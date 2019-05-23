@@ -1,0 +1,373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec u rybníčku v Černé Hati",
+                "P31": "Neznámý",
+                "P131^label:cs": "Mladotice",
+                "P6736": "19317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31036,
+                    50.00401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Jíchův kříž jihovýchodně od Brda",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "10353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27286,
+                    49.99692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek severně od Štichovic",
+                "P31": "Obrázek",
+                "P131^label:cs": "Štichovice",
+                "P6736": "10352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29943,
+                    49.98856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Strážovic nad Čoubovým mlýnem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "8616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31164,
+                    49.9955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v České Doubravici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "8174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27495,
+                    49.98003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jihovýchodně od Vysočan",
+                "P31": "Boží muka",
+                "P131^label:cs": "Manětín",
+                "P6736": "8173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29252,
+                    50.00423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Frantova Mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "8153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29429,
+                    49.99352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Čoubova Mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "8152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30543,
+                    49.99531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Čoubova Mlýna",
+                "P31": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "8150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30702,
+                    49.99746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Černé Hati",
+                "P31": "Zvonička",
+                "P131^label:cs": "Mladotice",
+                "P6736": "8151"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31042,
+                    50.00401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Čoubova Mlýna",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "8149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30895,
+                    49.99688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Černé Hati",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "8148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31053,
+                    50.00516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Černé Hati u transformátoru",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "8146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31162,
+                    50.00403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Černé Hati",
+                "P31": "Socha",
+                "P131^label:cs": "Mladotice",
+                "P6736": "8147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3115,
+                    50.00404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Černé Hati",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "8145"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31308,
+                    50.00349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v České Doubravici",
+                "P31": "Kaple",
+                "P131^label:cs": "Manětín",
+                "P6736": "4404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27448,
+                    49.97978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Štichovic",
+                "P31": "Kaple",
+                "P131^label:cs": "Štichovice",
+                "P6736": "4380"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30086,
+                    49.98566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod Vysočany",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "2809"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2821,
+                    50.00682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Štichovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "2550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30414,
+                    49.98535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u cesty severně od České Doubravice",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Manětín",
+                "P6736": "1344"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27284,
+                    49.98388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u okraje cesty u České Doubravice",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Manětín",
+                "P6736": "1347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27417,
+                    49.98364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od České Doubravice na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "1348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2768,
+                    49.98244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí severně od České Doubravice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "1343"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27518,
+                    49.98317
+                ]
+            }
+        }
+    ]
+}

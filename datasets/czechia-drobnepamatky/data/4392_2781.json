@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Ostrova u Bezdružic u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ostrov u Bezdružic",
+                "P6736": "8919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02783,
+                    49.90041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Ostrova u Bezdružic v remízku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ostrov u Bezdružic",
+                "P6736": "8918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04274,
+                    49.90313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Ostrově u Bezdružic nad zídkou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ostrov u Bezdružic",
+                "P6736": "8917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04343,
+                    49.89967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Blažimi u Dolského potoka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blažim",
+                "P6736": "6451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03385,
+                    49.91991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník u Blažimi",
+                "P31": "Pomník",
+                "P131^label:cs": "Blažim",
+                "P6736": "5640"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05088,
+                    49.91859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Blažimi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Blažim",
+                "P6736": "4725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04778,
+                    49.91619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Blažimi na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blažim",
+                "P6736": "4724"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04771,
+                    49.91616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Ostrovem u Bezdružic a Blažimí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ostrov u Bezdružic",
+                "P6736": "2256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04433,
+                    49.90612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Ostrova u Bezdružic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ostrov u Bezdružic",
+                "P6736": "2257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04561,
+                    49.89868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple jižně od Blažimi",
+                "P31": "Kaple",
+                "P131^label:cs": "Blažim",
+                "P6736": "1245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0451,
+                    49.91437
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vranově",
+                "P31": "Kaple",
+                "P131^label:cs": "Mnichov",
+                "P6736": "5089"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73706,
+                    49.47885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Vranově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "4869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73717,
+                    49.47888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vranově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "4292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73762,
+                    49.47898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Cyriaka v Pivoni",
+                "P31": "Socha",
+                "P131^label:cs": "Mnichov",
+                "P6736": "4107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73946,
+                    49.48831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Pivoni",
+                "P31": "Socha",
+                "P131^label:cs": "Mnichov",
+                "P6736": "4106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73931,
+                    49.48838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vranově v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "4006"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73495,
+                    49.47773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zaniklých Liščích domků",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "3997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.70849,
+                    49.49583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice mezi Vranovem a Pivoní",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "2786"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73756,
+                    49.47965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Pivoně u ohrady s koňmi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "2785"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73577,
+                    49.48167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Vranova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Mnichov",
+                "P6736": "2787"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74021,
+                    49.48108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Vranovem pod vrchem Starý Herštejn",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Postřekov",
+                "P6736": "2366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72904,
+                    49.47275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad studánkou západně od Pivoně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "2298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73642,
+                    49.48562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u zaniklých Herštejnských Chalup",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nemanice",
+                "P6736": "2128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.70735,
+                    49.48929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zaniklých Herštejnských Chalup",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nemanice",
+                "P6736": "2129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.70539,
+                    49.48644
+                ]
+            }
+        }
+    ]
+}

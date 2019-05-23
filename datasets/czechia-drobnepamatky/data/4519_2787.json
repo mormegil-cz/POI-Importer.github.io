@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník mezinárodní solidarity protifašistické koalice v Českém Těšíně",
+                "P31": "Památník",
+                "P131^label:cs": "Český Těšín",
+                "P6736": "9281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62245,
+                    49.75108
+                ]
+            }
+        }
+    ]
+}

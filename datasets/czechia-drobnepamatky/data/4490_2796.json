@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonkohra na Masarykově náměstí v Brodku u Přerova",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Brodek u Přerova",
+                "P6736": "14485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.34046,
+                    49.48429
+                ]
+            }
+        }
+    ]
+}

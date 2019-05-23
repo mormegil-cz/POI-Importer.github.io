@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Hřebči u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Koclířov",
+                "P6736": "15329"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57543,
+                    49.74671
+                ]
+            }
+        }
+    ]
+}

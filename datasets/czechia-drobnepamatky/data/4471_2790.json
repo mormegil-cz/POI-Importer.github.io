@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Františka Xaverského a boží muka u silnice západně od Březové nad Svitavou",
+                "P31": "Kaple",
+                "P131^label:cs": "Březová nad Svitavou",
+                "P6736": "15859"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.48475,
+                    49.66134
+                ]
+            }
+        }
+    ]
+}

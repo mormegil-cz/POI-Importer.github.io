@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lanškrouně v Dvořákově ulici",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lanškroun",
+                "P6736": "14986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5966,
+                    49.91288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na zdi kostela v Rudolticích",
+                "P31": "Boží muka",
+                "P131^label:cs": "Rudoltice",
+                "P6736": "13883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57069,
+                    49.89811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Rudolticích u Lanškrouna",
+                "P31": "Socha",
+                "P131^label:cs": "Rudoltice",
+                "P6736": "12876"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.571,
+                    49.89681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Lanškrouně při výjezdu na Ústí n O",
+                "P31": "Boží muka",
+                "P131^label:cs": "Lanškroun",
+                "P6736": "12719"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.58618,
+                    49.91387
+                ]
+            }
+        }
+    ]
+}

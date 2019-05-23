@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Plané v ulici Dukelských Hrdinů",
+                "P31": "Kašna",
+                "P131^label:cs": "Planá",
+                "P6736": "6582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74617,
+                    49.86821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Plané u nemocnice",
+                "P31": "Socha",
+                "P131^label:cs": "Planá",
+                "P6736": "6583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7482,
+                    49.8691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Plané",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7622,
+                    49.86977
+                ]
+            }
+        }
+    ]
+}

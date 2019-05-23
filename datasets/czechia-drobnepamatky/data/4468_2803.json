@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Lažánkách západně od obce",
+                "P31": "Boží muka",
+                "P131^label:cs": "Lažánky",
+                "P6736": "20573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37973,
+                    49.28002
+                ]
+            }
+        }
+    ]
+}

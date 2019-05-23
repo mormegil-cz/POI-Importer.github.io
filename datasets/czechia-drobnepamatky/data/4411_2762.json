@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v západní části osady Hnojnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Libčeves",
+                "P6736": "22533"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87235,
+                    50.43932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Geologický útvar Kamenná slunce",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Libčeves",
+                "P6736": "22092"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88588,
+                    50.43363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Židovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Libčeves",
+                "P6736": "17924"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86475,
+                    50.44413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Židovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Libčeves",
+                "P6736": "17923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86476,
+                    50.44405
+                ]
+            }
+        }
+    ]
+}

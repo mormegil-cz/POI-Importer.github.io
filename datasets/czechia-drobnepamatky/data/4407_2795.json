@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského v Dožicích",
+                "P31": "Socha",
+                "P131^label:cs": "Mladý Smolivec",
+                "P6736": "5795"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7028,
+                    49.52449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Anny v Dožicích",
+                "P31": "Socha",
+                "P131^label:cs": "Mladý Smolivec",
+                "P6736": "5794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70297,
+                    49.52457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Dožicích",
+                "P31": "Socha",
+                "P131^label:cs": "Mladý Smolivec",
+                "P6736": "5793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70303,
+                    49.52467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dožicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Mladý Smolivec",
+                "P6736": "4994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70341,
+                    49.52445
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Domamyšli",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vodice",
+                "P6736": "7123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87694,
+                    49.46627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Domamyšli",
+                "P31": "Kaple",
+                "P131^label:cs": "Vodice",
+                "P6736": "7122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87696,
+                    49.46631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Oblajovicích",
+                "P31": "Zvonička",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "7120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88186,
+                    49.44376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně od Hůrky u cesty do Prasetína",
+                "P31": "Kaplička",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "2214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89207,
+                    49.44143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Oblajovicemi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "2216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87891,
+                    49.44484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Hartvíkova na rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "1509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86264,
+                    49.45329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u rybníka u Hartvíkova",
+                "P31": "Kaple",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "1508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86643,
+                    49.45335
+                ]
+            }
+        }
+    ]
+}

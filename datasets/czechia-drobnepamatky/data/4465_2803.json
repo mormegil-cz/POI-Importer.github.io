@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž před kostelem Jana Křtitele",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Velká Bíteš",
+                "P6736": "22717"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22548,
+                    49.29062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Velké Bíteši",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Velká Bíteš",
+                "P6736": "9676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22613,
+                    49.29052
+                ]
+            }
+        }
+    ]
+}

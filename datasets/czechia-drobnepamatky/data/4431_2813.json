@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u autobusové zastávky Dvorce západně od Třeboně",
+                "P31": "Boží muka",
+                "P131^label:cs": "Třeboň",
+                "P6736": "22141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7298,
+                    48.99911
+                ]
+            }
+        }
+    ]
+}

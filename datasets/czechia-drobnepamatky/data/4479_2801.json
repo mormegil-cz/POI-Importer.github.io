@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na severozápadním okraji Ruprechtova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ruprechtov",
+                "P6736": "11923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84709,
+                    49.33231
+                ]
+            }
+        }
+    ]
+}

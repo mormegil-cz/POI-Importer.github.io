@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha mistra Jana Husa v Dráchově",
+                "P31": "Socha",
+                "P131^label:cs": "Dráchov",
+                "P6736": "6339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71156,
+                    49.22876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Dráchova na rozcestí polních cest",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dráchov",
+                "P6736": "1458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69952,
+                    49.22167
+                ]
+            }
+        }
+    ]
+}

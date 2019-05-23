@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka východně od Lnářů",
+                "P31": "Boží muka",
+                "P131^label:cs": "Lnáře",
+                "P6736": "7641"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79188,
+                    49.46003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Hradiště u Kasejovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradiště",
+                "P6736": "5820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76972,
+                    49.44038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Hradišti",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hradiště",
+                "P6736": "5818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75605,
+                    49.43961
+                ]
+            }
+        }
+    ]
+}

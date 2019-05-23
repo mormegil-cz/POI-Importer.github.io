@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastiky kohoutů před zámkem v Trhanově",
+                "P31": "Plastika",
+                "P131^label:cs": "Trhanov",
+                "P6736": "19729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84565,
+                    49.42108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha chodského psa na vrchu Hrádek nad Újezdem u Domažlic",
+                "P31": "Socha",
+                "P131^label:cs": "Újezd",
+                "P6736": "13899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86245,
+                    49.43108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Sladkého Koziny na vrchu Hrádek nad Újezdem u Domažlic",
+                "P31": "Pomník",
+                "P131^label:cs": "Újezd",
+                "P6736": "13898"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86156,
+                    49.431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na návsi v Trhanově",
+                "P31": "Kaplička",
+                "P131^label:cs": "Trhanov",
+                "P6736": "13897"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84424,
+                    49.41988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Újezdu u Domažlic",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Újezd",
+                "P6736": "9099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87221,
+                    49.4355
+                ]
+            }
+        }
+    ]
+}

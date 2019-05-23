@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Brána času v ulici Svobody v Chebu",
+                "P31": "Plastika",
+                "P131^label:cs": "Cheb",
+                "P6736": "24187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37144,
+                    50.07791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika v parku v ulici Nad Řekou v Chebu",
+                "P31": "Plastika",
+                "P131^label:cs": "Cheb",
+                "P6736": "19435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36522,
+                    50.08084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha David a Goliáš v nice na nároží Špalíčku v Chebu",
+                "P31": "Socha",
+                "P131^label:cs": "Cheb",
+                "P6736": "18009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37002,
+                    50.07994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Sépie v areálu hradu v Chebu",
+                "P31": "Socha",
+                "P131^label:cs": "Cheb",
+                "P6736": "18008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36555,
+                    50.08105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Štaufský sloup před hradem v Chebu",
+                "P31": "Sloup",
+                "P131^label:cs": "Cheb",
+                "P6736": "18007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36649,
+                    50.08077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy světců na spodku schodiště pod kostelem svatého Mikuláše v Chebu",
+                "P31": "Socha",
+                "P131^label:cs": "Cheb",
+                "P6736": "13522"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37098,
+                    50.08114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy na vrchu schodiště pod kostelem svatého Mikuláše v Chebu",
+                "P31": "Socha",
+                "P131^label:cs": "Cheb",
+                "P6736": "13521"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37098,
+                    50.08105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Soška svatého Jana Nepomuckého ve výklenku domu na Jánském náměstí v Chebu",
+                "P31": "Socha",
+                "P131^label:cs": "Cheb",
+                "P6736": "13517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36841,
+                    50.08115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Deska s Goethovým reliéfem na skále Kachní kámen v Chebu",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Cheb",
+                "P6736": "13492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35704,
+                    50.08028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Malá kašna pod schody ke kostelu svatého Václava v Chebu",
+                "P31": "Kašna",
+                "P131^label:cs": "Cheb",
+                "P6736": "13491"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36936,
+                    50.08044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna před Špalíčkem na náměstí Jiřího z Poděbrad v Chebu",
+                "P31": "Kašna",
+                "P131^label:cs": "Cheb",
+                "P6736": "13490"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37013,
+                    50.07949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Březinově ulici v Chebu",
+                "P31": "Kašna",
+                "P131^label:cs": "Cheb",
+                "P6736": "13489"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3702,
+                    50.07771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna se svatým Mikulášem na Růžovém kopečku v Chebu",
+                "P31": "Kašna",
+                "P131^label:cs": "Cheb",
+                "P6736": "13486"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36665,
+                    50.07951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna ve Františkánské zahradě v Chebu",
+                "P31": "Kašna",
+                "P131^label:cs": "Cheb",
+                "P6736": "13485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36666,
+                    50.07801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Cechovní kašna v Kamenné ulici v Chebu",
+                "P31": "Kašna",
+                "P131^label:cs": "Cheb",
+                "P6736": "13484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36926,
+                    50.08142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Angeluse Pfeffera v Městských sadech v Chebu",
+                "P31": "Pomník",
+                "P131^label:cs": "Cheb",
+                "P6736": "13483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36793,
+                    50.07471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Friedricha Schillera v Schillerových sadech v Chebu",
+                "P31": "Pomník",
+                "P131^label:cs": "Cheb",
+                "P6736": "13482"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37324,
+                    50.08009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník americkým vojákům v Městských sadech v Chebu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Cheb",
+                "P6736": "13481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3685,
+                    50.07449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha torza ženy v parku v ulici Májová v Chebu",
+                "P31": "Socha",
+                "P131^label:cs": "Cheb",
+                "P6736": "13480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36863,
+                    50.07551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ležící ženy v parku v Májové ulici v Chebu",
+                "P31": "Socha",
+                "P131^label:cs": "Cheb",
+                "P6736": "13479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36858,
+                    50.07563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Mlýnské ulice v Chebu",
+                "P31": "Boží muka",
+                "P131^label:cs": "Cheb",
+                "P6736": "9686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36682,
+                    50.08175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna rytíře Rolanda v Chebu",
+                "P31": "Kašna",
+                "P131^label:cs": "Cheb",
+                "P6736": "9646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37087,
+                    50.07873
+                ]
+            }
+        }
+    ]
+}

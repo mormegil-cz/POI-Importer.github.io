@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Českých Heřmanicích u hřbitova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "České Heřmanice",
+                "P6736": "12137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25331,
+                    49.93174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy Panny Marie v Českých Heřmanicích",
+                "P31": "Socha",
+                "P131^label:cs": "České Heřmanice",
+                "P6736": "12130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25249,
+                    49.93143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Orlově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vračovice-Orlov",
+                "P6736": "12094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24643,
+                    49.94962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tisové u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tisová",
+                "P6736": "12034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22553,
+                    49.93565
+                ]
+            }
+        }
+    ]
+}

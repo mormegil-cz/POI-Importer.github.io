@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Turkovicích",
+                "P31": "Socha",
+                "P131^label:cs": "Turkovice",
+                "P6736": "14777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5474,
+                    49.95239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Sovoluskách",
+                "P31": "Zvonička",
+                "P131^label:cs": "Sovolusky",
+                "P6736": "14776"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53763,
+                    49.96928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sovoluskách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sovolusky",
+                "P6736": "14775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53754,
+                    49.96933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Semtěši",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Semtěš",
+                "P6736": "14537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.51285,
+                    49.96009
+                ]
+            }
+        }
+    ]
+}

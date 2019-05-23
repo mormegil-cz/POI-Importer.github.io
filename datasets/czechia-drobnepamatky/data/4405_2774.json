@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Pšovlkách",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pšovlky",
+                "P6736": "10412"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59097,
+                    50.10849
+                ]
+            }
+        }
+    ]
+}

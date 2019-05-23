@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný kruh v lokalitě 'Pustiny' při silnici na Říčky",
+                "P31": "Něco jiného",
+                "P131^label:cs": "Rokytnice v Orlických horách",
+                "P6736": "17265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44174,
+                    50.20795
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jaroslavi na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Jaroslav",
+                "P6736": "21339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07793,
+                    50.01175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce v Jaroslavi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Jaroslav",
+                "P6736": "21338"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.078,
+                    50.01199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vysoké u Holic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Ostřetín",
+                "P6736": "21236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05634,
+                    50.02705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Jaroslavi",
+                "P31": "Boží muka",
+                "P131^label:cs": "Jaroslav",
+                "P6736": "11888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08131,
+                    50.02372
+                ]
+            }
+        }
+    ]
+}

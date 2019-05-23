@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v České Rybné u školy",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Česká Rybná",
+                "P6736": "16859"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39229,
+                    50.07219
+                ]
+            }
+        }
+    ]
+}

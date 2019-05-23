@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým jihozápadně od Višňovky",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Orlík nad Vltavou",
+                "P6736": "7888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15449,
+                    49.49834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Višňovky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Orlík nad Vltavou",
+                "P6736": "7887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16224,
+                    49.50155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Prokopa ve Starém Sedle",
+                "P31": "Socha",
+                "P131^label:cs": "Orlík nad Vltavou",
+                "P6736": "7056"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16806,
+                    49.50443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Starém Sedlu",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Orlík nad Vltavou",
+                "P6736": "7055"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1678,
+                    49.50443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Starého Sedla",
+                "P31": "Kaplička",
+                "P131^label:cs": "Orlík nad Vltavou",
+                "P6736": "6833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16669,
+                    49.50821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka nad Starým Sedlem",
+                "P31": "Boží muka",
+                "P131^label:cs": "Probulov",
+                "P6736": "2400"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15445,
+                    49.49821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Orlíku",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kožlí",
+                "P6736": "1778"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15222,
+                    49.51285
+                ]
+            }
+        }
+    ]
+}

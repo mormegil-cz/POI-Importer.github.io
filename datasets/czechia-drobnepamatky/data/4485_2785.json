@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Panny Marie Lazce na návsi",
+                "P31": "Sloup",
+                "P131^label:cs": "Troubelice",
+                "P6736": "25039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10119,
+                    49.8041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka Nová Dědina u silnice západně od vsi",
+                "P31": "Boží muka",
+                "P131^label:cs": "Uničov",
+                "P6736": "24982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11454,
+                    49.79467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Anny Samotřetí v Uničově na okraji města",
+                "P31": "Socha",
+                "P131^label:cs": "Uničov",
+                "P6736": "23743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1211,
+                    49.78484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Lazců vedle silnice",
+                "P31": "Obrázek",
+                "P131^label:cs": "Troubelice",
+                "P6736": "17667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10716,
+                    49.80645
+                ]
+            }
+        }
+    ]
+}

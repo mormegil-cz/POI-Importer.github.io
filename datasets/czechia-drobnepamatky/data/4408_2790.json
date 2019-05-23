@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup na Kolvíně",
+                "P31": "Sloup",
+                "P131^label:cs": "Skořice",
+                "P6736": "17163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73916,
+                    49.66448
+                ]
+            }
+        }
+    ]
+}

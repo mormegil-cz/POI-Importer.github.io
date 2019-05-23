@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Josefa II v Uničově ulice Dr Beneše",
+                "P31": "Socha",
+                "P131^label:cs": "Uničov",
+                "P6736": "25545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12118,
+                    49.7737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší svatého Jana Nepomuckého v Uničově na Olomoucké ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Uničov",
+                "P6736": "23742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12355,
+                    49.7691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Uničově na ulici Haškova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Uničov",
+                "P6736": "23741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12336,
+                    49.76975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník T. G. Masaryka v Uničově na Masarykově náměstí",
+                "P31": "Pomník",
+                "P131^label:cs": "Uničov",
+                "P6736": "23740"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12132,
+                    49.77077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna s Neptunem v Uničově na Masarykově náměstí",
+                "P31": "Kašna",
+                "P131^label:cs": "Uničov",
+                "P6736": "23739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12156,
+                    49.77047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna s orlem v Uničově na Masarykově náměstí",
+                "P31": "Kašna",
+                "P131^label:cs": "Uničov",
+                "P6736": "23738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12136,
+                    49.77134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Sarcandera v Uničově na Kostelním náměstí",
+                "P31": "Socha",
+                "P131^label:cs": "Uničov",
+                "P6736": "23736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11974,
+                    49.77075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Uničově na Kostelním náměstí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Uničov",
+                "P6736": "23735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1203,
+                    49.77102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Uničově na Kostelním náměstí",
+                "P31": "Sloup",
+                "P131^label:cs": "Uničov",
+                "P6736": "23734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11994,
+                    49.77124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Uničově na Mohelnické ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Uničov",
+                "P6736": "22515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11109,
+                    49.77368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Želechovic vedle polní cesty",
+                "P31": "Boží muka",
+                "P131^label:cs": "Želechovice",
+                "P6736": "16060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13535,
+                    49.75749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na Masarykově náměstí v Uničově",
+                "P31": "Sloup",
+                "P131^label:cs": "Uničov",
+                "P6736": "14032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12134,
+                    49.77128
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Svinné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hlohovice",
+                "P6736": "8067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60822,
+                    49.89193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Lhotce u Radnic",
+                "P31": "Kaple",
+                "P131^label:cs": "Lhotka u Radnic",
+                "P6736": "4569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58177,
+                    49.88964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kamenci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kamenec",
+                "P6736": "4568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59577,
+                    49.88062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Svaté Barboře",
+                "P31": "Kaple",
+                "P131^label:cs": "Radnice",
+                "P6736": "4567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5933,
+                    49.86996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Lhotce u Radnic u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lhotka u Radnic",
+                "P6736": "4548"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58183,
+                    49.88961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kamenci",
+                "P31": "Kaple",
+                "P131^label:cs": "Kamenec",
+                "P6736": "4547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59612,
+                    49.88049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u vrchu Na mytích nad Kamencem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kamenec",
+                "P6736": "1689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59945,
+                    49.8767
+                ]
+            }
+        }
+    ]
+}

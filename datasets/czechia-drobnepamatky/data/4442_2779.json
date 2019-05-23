@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého severozápadně od Kutné Hory",
+                "P31": "Socha",
+                "P131^label:cs": "Miskovice",
+                "P6736": "15795"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24009,
+                    49.9599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Červených Pečkách",
+                "P31": "Socha",
+                "P131^label:cs": "Červené Pečky",
+                "P6736": "15794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20785,
+                    49.97752
+                ]
+            }
+        }
+    ]
+}

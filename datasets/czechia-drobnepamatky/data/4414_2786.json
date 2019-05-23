@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Čenkově u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čenkov",
+                "P6736": "11373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00019,
+                    49.77655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Čenkově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Čenkov",
+                "P6736": "11372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00031,
+                    49.77663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Čenkově",
+                "P31": "Kaple",
+                "P131^label:cs": "Čenkov",
+                "P6736": "11371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00051,
+                    49.77686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník husitské bitvy u Čenkova v Brdech",
+                "P31": "Památník",
+                "P131^label:cs": "Čenkov",
+                "P6736": "11370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00773,
+                    49.76548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Hluboše",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hluboš",
+                "P6736": "11369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01245,
+                    49.75542
+                ]
+            }
+        }
+    ]
+}

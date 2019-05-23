@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nanebevzetí Panny Marie v Salavicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Třešť",
+                "P6736": "22749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4886,
+                    49.33139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Salavicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třešť",
+                "P6736": "22748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.48858,
+                    49.33142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Jana Nepomuckého v Salavicích",
+                "P31": "Socha",
+                "P131^label:cs": "Třešť",
+                "P6736": "22738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.48724,
+                    49.33168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u železniční stanice v Salavicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Třešť",
+                "P6736": "22737"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.48634,
+                    49.33103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník vojákům Rudé armády v Salavicích",
+                "P31": "Památník",
+                "P131^label:cs": "Třešť",
+                "P6736": "22736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.48621,
+                    49.33091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Antonína Podhorského v Salavicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Jezdovice",
+                "P6736": "22735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.48524,
+                    49.33022
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u Golf Klubu Alfrédov severně od Kostelce",
+                "P31": "Kašna",
+                "P131^label:cs": "Kostelec",
+                "P6736": "9963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03137,
+                    49.68503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Kostelci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02872,
+                    49.67729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Beraního Dvora u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "6662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02935,
+                    49.67216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Lšelínem v zatáčce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "3961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01133,
+                    49.66909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí v jižní části Kostelce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2921"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02588,
+                    49.67331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kostelci",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02588,
+                    49.67444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese u Kostelce za pietní zahradou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0378,
+                    49.67954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kostelce u vsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02355,
+                    49.67535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Kostelci",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02513,
+                    49.67407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Lšelínem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01207,
+                    49.67026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Lšelínu",
+                "P31": "Kaple",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0079,
+                    49.66792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Ostrova u Stříbra",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04448,
+                    49.69572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese u Ostrova u Stříbra",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0415,
+                    49.69452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Beraního Dvora",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "1774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03188,
+                    49.69078
+                ]
+            }
+        }
+    ]
+}

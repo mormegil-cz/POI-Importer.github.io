@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Uhersku západní část obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Uhersko",
+                "P6736": "20995"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01476,
+                    49.99393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Turově jižní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Moravany",
+                "P6736": "20819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.99623,
+                    49.98712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Městce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Chroustovice",
+                "P6736": "20817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01384,
+                    49.98192
+                ]
+            }
+        }
+    ]
+}

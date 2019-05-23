@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Helma u Loučeně",
+                "P31": "Památník",
+                "P131^label:cs": "Loučeň",
+                "P6736": "17693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02835,
+                    50.3007
+                ]
+            }
+        }
+    ]
+}

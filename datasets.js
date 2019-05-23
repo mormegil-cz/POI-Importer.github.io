@@ -20,6 +20,14 @@ var datasets = {
 			"name": "Haltes De Lijn",
 		},
 	},
+	"Czechia":
+	{
+		"DrobnePamatky":
+		{
+			"url": "datasets/czechia-drobnepamatky/", 
+			"name": "Drobné památky"
+		}
+	},
 	"Italy": {
 		"ITfuel":
 		{

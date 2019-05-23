@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice v osadě Rváčov",
+                "P31": "Zvonička",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "22661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3363,
+                    50.53529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zvonice v osadě Rváčov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "22660"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33632,
+                    50.53532
+                ]
+            }
+        }
+    ]
+}

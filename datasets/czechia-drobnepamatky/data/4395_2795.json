@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Přetína",
+                "P31": "Kaplička",
+                "P131^label:cs": "Křenice",
+                "P6736": "3289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18307,
+                    49.49675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Strýčkovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Srbice",
+                "P6736": "3270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1642,
+                    49.50241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Strýčkovicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Srbice",
+                "P6736": "3269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16363,
+                    49.5033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Strýčkovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Srbice",
+                "P6736": "3268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1637,
+                    49.5037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Strýčkovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Srbice",
+                "P6736": "3267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16842,
+                    49.50664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Strýčkovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Srbice",
+                "P6736": "3266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15915,
+                    49.50605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u Těšovic",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Srbice",
+                "P6736": "3264"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14083,
+                    49.50496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Těšovicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Srbice",
+                "P6736": "3263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14061,
+                    49.50483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Těšovicích",
+                "P31": "Památník",
+                "P131^label:cs": "Srbice",
+                "P6736": "3262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14012,
+                    49.50583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Těšovicích u zatáčky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Srbice",
+                "P6736": "3261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14013,
+                    49.50615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Těšovicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Srbice",
+                "P6736": "3259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14259,
+                    49.50644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Těšovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Srbice",
+                "P6736": "3258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14668,
+                    49.5141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Hájů",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Srbice",
+                "P6736": "3257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15335,
+                    49.52266
+                ]
+            }
+        }
+    ]
+}

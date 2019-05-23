@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Lažanech",
+                "P31": "Kaplička",
+                "P131^label:cs": "Lažany",
+                "P6736": "5839"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8823,
+                    49.36219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Lažan",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lažany",
+                "P6736": "5838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8794,
+                    49.36132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Milčicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Blatná",
+                "P6736": "5837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87072,
+                    49.36582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Milčicích u kaple",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blatná",
+                "P6736": "5836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87064,
+                    49.36589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Milčicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Blatná",
+                "P6736": "5835"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87067,
+                    49.36585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Milčic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blatná",
+                "P6736": "5834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86732,
+                    49.36825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Milčic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blatná",
+                "P6736": "5833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86073,
+                    49.37093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Bratronic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Bratronice",
+                "P6736": "5832"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84692,
+                    49.37437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Jindřichovic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Blatná",
+                "P6736": "5831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84818,
+                    49.37879
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Lukově u kostela",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Lukov",
+                "P6736": "17968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.73173,
+                    49.29049
+                ]
+            }
+        }
+    ]
+}

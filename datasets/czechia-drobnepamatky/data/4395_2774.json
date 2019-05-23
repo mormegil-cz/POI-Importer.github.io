@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Šebestiána v Karlovarské ulici ve Žluticích",
+                "P31": "Kaple",
+                "P131^label:cs": "Žlutice",
+                "P6736": "13788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16036,
+                    50.09334
+                ]
+            }
+        }
+    ]
+}

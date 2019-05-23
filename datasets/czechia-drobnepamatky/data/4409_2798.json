@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým západně od Zahorčiček",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Hradiště",
+                "P6736": "8367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75653,
+                    49.4267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Zahorčiček",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradiště",
+                "P6736": "8366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75709,
+                    49.4268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Zahorčiček",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradiště",
+                "P6736": "8365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75788,
+                    49.42859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Zahorčičkách",
+                "P31": "Kaple",
+                "P131^label:cs": "Hradiště",
+                "P6736": "8364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75851,
+                    49.42736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Zahorčičkách",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradiště",
+                "P6736": "8363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75856,
+                    49.42737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Zahorčiček na vršku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hradiště",
+                "P6736": "8362"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76278,
+                    49.42425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Zahorčiček",
+                "P31": "Boží muka",
+                "P131^label:cs": "Hradiště",
+                "P6736": "8361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76263,
+                    49.42475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Zahorčiček v lesíku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kadov",
+                "P6736": "8360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77834,
+                    49.43264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Pole u Pálenického potoka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kadov",
+                "P6736": "5823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78862,
+                    49.41259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Pole",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kadov",
+                "P6736": "5822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78491,
+                    49.41439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Pole u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kadov",
+                "P6736": "5821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78405,
+                    49.41496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Hradišti u Kasejovic",
+                "P31": "Kaple",
+                "P131^label:cs": "Hradiště",
+                "P6736": "5819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75615,
+                    49.43955
+                ]
+            }
+        }
+    ]
+}

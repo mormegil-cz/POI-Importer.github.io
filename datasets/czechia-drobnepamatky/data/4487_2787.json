@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž se sousoším Kalvárie v Žerotíně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Žerotín",
+                "P6736": "16992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18619,
+                    49.72514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Újezdu na polním rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Újezd",
+                "P6736": "16571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19752,
+                    49.74399
+                ]
+            }
+        }
+    ]
+}

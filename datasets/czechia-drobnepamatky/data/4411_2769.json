@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí U křížku východně od Hvížďalky",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Žerotín",
+                "P6736": "2874"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86481,
+                    50.25938
+                ]
+            }
+        }
+    ]
+}

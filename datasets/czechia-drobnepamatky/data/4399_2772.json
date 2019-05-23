@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Lužci",
+                "P31": "Kaplička",
+                "P131^label:cs": "Vroutek",
+                "P6736": "20248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35335,
+                    50.1588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vescích u Drahonic",
+                "P31": "Kaple",
+                "P131^label:cs": "Vroutek",
+                "P6736": "20068"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33036,
+                    50.15698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mlýncích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vroutek",
+                "P6736": "20067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31944,
+                    50.1598
+                ]
+            }
+        }
+    ]
+}

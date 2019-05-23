@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Veliše",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Veliš",
+                "P6736": "10560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81751,
+                    49.66334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem ve Veliši",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Veliš",
+                "P6736": "10559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82333,
+                    49.66622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Misijní kříž u kostela ve Veliši",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Veliš",
+                "P6736": "10558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82382,
+                    49.66625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelní zdí ve Veliši",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Veliš",
+                "P6736": "10557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8238,
+                    49.66637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník konce druhé světové války ve Veliši",
+                "P31": "Pomník",
+                "P131^label:cs": "Veliš",
+                "P6736": "10556"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82487,
+                    49.6675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Veliše u polní cesty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Veliš",
+                "P6736": "10555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82782,
+                    49.66353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Veliše u křižovatky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Veliš",
+                "P6736": "10554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82603,
+                    49.6674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem první světové války ve Veliši",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Veliš",
+                "P6736": "10553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82439,
+                    49.66739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem druhé světové války ve Veliši",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Veliš",
+                "P6736": "10552"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82441,
+                    49.66743
+                ]
+            }
+        }
+    ]
+}

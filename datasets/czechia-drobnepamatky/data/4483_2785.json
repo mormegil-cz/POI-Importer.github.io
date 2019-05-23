@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Zadním Újezdu před farmou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Medlov",
+                "P6736": "24541"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03934,
+                    49.80677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým Hlivice na návsi",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Medlov",
+                "P6736": "24180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03765,
+                    49.78336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Osvoboditelům v Úsově na náměstí Míru",
+                "P31": "Pomník",
+                "P131^label:cs": "Úsov",
+                "P6736": "23558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01029,
+                    49.79986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Úsově na náměstí Míru",
+                "P31": "Kašna",
+                "P131^label:cs": "Úsov",
+                "P6736": "23556"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01029,
+                    49.79976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Úsově na Zámecké ulici",
+                "P31": "Socha",
+                "P131^label:cs": "Úsov",
+                "P6736": "23555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01607,
+                    49.79743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Hlivic vedle cyklostezky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Medlov",
+                "P6736": "22562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04783,
+                    49.78522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Úsově na náměstí Míru",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úsov",
+                "P6736": "21963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00992,
+                    49.7995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Úsově na náměstí Míru u kostela",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úsov",
+                "P6736": "20654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0113,
+                    49.79902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Obětem zla v Zadním Újezdu u lesa",
+                "P31": "Pomník",
+                "P131^label:cs": "Medlov",
+                "P6736": "20645"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03976,
+                    49.80085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Jména Panny Marie v Zadním Újezdě",
+                "P31": "Kaple",
+                "P131^label:cs": "Medlov",
+                "P6736": "20644"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04599,
+                    49.79779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Medlova vedle silnice do Zadního Újezdu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Medlov",
+                "P6736": "20643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04892,
+                    49.79342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na okraji Zadního Újezdu",
+                "P31": "Boží muka",
+                "P131^label:cs": "Medlov",
+                "P6736": "20629"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04274,
+                    49.79865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Panny Marie Bolestné v Úsově u kostela",
+                "P31": "Sloup",
+                "P131^label:cs": "Úsov",
+                "P6736": "19396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01145,
+                    49.79921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Úsově u Městského úřadu",
+                "P31": "Socha",
+                "P131^label:cs": "Úsov",
+                "P6736": "19395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0106,
+                    49.79873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Úsově na Křížové hoře",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úsov",
+                "P6736": "19394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01226,
+                    49.79755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Úsově na ulici Pod Rochem",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Úsov",
+                "P6736": "19393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01247,
+                    49.79269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Úsově před hřbitovem",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Úsov",
+                "P6736": "19392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00894,
+                    49.79738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hlivicích před kaplí na návsi",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Medlov",
+                "P6736": "17703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03773,
+                    49.78313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Antonína Paduánského ve Hlivicích",
+                "P31": "Kaple",
+                "P131^label:cs": "Medlov",
+                "P6736": "17702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03788,
+                    49.78315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Úsově na nádvoří zámku",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Úsov",
+                "P6736": "16082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01463,
+                    49.79892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Rocha u Úsova",
+                "P31": "Kaple",
+                "P131^label:cs": "Úsov",
+                "P6736": "11605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01625,
+                    49.7878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Úsově na ulici Mohelnická",
+                "P31": "Boží muka",
+                "P131^label:cs": "Úsov",
+                "P6736": "11417"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00886,
+                    49.79475
+                ]
+            }
+        }
+    ]
+}

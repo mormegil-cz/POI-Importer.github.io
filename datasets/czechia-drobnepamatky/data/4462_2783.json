@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mokré Lhotě západní okraj obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nové Hrady",
+                "P6736": "25043"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12735,
+                    49.85698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Stříteži u Skutče vedle kapličky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Hluboká",
+                "P6736": "21693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08873,
+                    49.85239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Stříteži u Skutče",
+                "P31": "Kaplička",
+                "P131^label:cs": "Hluboká",
+                "P6736": "21692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08879,
+                    49.85239
+                ]
+            }
+        }
+    ]
+}

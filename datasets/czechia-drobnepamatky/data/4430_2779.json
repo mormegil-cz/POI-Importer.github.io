@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v Tehově",
+                "P31": "Pomník",
+                "P131^label:cs": "Tehov",
+                "P6736": "14862"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69471,
+                    49.97189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tehově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Tehov",
+                "P6736": "13745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.693,
+                    49.9712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Tehově",
+                "P31": "Socha",
+                "P131^label:cs": "Tehov",
+                "P6736": "13744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69324,
+                    49.97107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Tehově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Tehov",
+                "P6736": "13743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69407,
+                    49.9715
+                ]
+            }
+        }
+    ]
+}

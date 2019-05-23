@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Janoslavicích v zahradě",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rohle",
+                "P6736": "16979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99291,
+                    49.84967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Janoslavicích",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Rohle",
+                "P6736": "16906"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99504,
+                    49.85067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Rohle u silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rohle",
+                "P6736": "16037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00636,
+                    49.86395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Janoslavicích u hlavní silnice",
+                "P31": "Kaple",
+                "P131^label:cs": "Rohle",
+                "P6736": "15131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99475,
+                    49.84994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Svatého Josefa u Janoslavic v lese",
+                "P31": "Obrázek",
+                "P131^label:cs": "Rohle",
+                "P6736": "14291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97486,
+                    49.86124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Janoslavic severozápadně v poli",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rohle",
+                "P6736": "14290"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99805,
+                    49.85364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž s Pietou u Janoslavic vedle silnice",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rohle",
+                "P6736": "14289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99627,
+                    49.85315
+                ]
+            }
+        }
+    ]
+}

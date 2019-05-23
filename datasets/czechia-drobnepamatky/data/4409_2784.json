@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Horního Kařízku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kařízek",
+                "P6736": "13636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79683,
+                    49.81063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u křižovatky Tři sudy u Kařeza",
+                "P31": "Boží muka",
+                "P131^label:cs": "Kařez",
+                "P6736": "13063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79708,
+                    49.83015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska prof. J. Heyrovského v Kařezu",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Kařez",
+                "P6736": "13062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78436,
+                    49.82027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Cekově",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Cekov",
+                "P6736": "6914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76439,
+                    49.82243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník partyzánů v Kařezu",
+                "P31": "Památník",
+                "P131^label:cs": "Kařez",
+                "P6736": "6913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7827,
+                    49.82155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Cekově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Cekov",
+                "P6736": "6911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76456,
+                    49.82225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kařezu",
+                "P31": "Kaple",
+                "P131^label:cs": "Kařez",
+                "P6736": "6912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78097,
+                    49.81922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Cekově",
+                "P31": "Kaple",
+                "P131^label:cs": "Cekov",
+                "P6736": "6910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76447,
+                    49.82233
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž U Míky severně od Plzně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36831,
+                    49.7916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník jižně od Záluží",
+                "P31": "Pomník",
+                "P131^label:cs": "Třemošná",
+                "P6736": "8305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36625,
+                    49.80512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Plzně u Petrovky",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "7932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36158,
+                    49.7848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Josefa Sigmonda severně od Plzně",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Plzeň",
+                "P6736": "7919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36433,
+                    49.78819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník severně od Plzně u rybníka Strženka",
+                "P31": "Památník",
+                "P131^label:cs": "Chotíkov",
+                "P6736": "7247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36135,
+                    49.78824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž U řezníka severně od Plzně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5657"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36195,
+                    49.79199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen v lokalitě U řezníka",
+                "P31": "Křížový kámen",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5287"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37103,
+                    49.79844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník posledního zajíce severně od Plzně",
+                "P31": "Památník",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37599,
+                    49.78933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Plzně nedaleko rybníka Strženka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4710"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36286,
+                    49.78671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Menhir severně od Plzně",
+                "P31": "Menhir",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4007,
+                    49.78548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž nad hájovnou Dostálka severně od Plzně",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "1253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3743,
+                    49.78847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na památce bombardování u Kamenného rybníka",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "1252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38263,
+                    49.78899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v lokalitě U řezníka",
+                "P31": "Boží muka",
+                "P131^label:cs": "Plzeň",
+                "P6736": "1251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37126,
+                    49.79676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Třemošné v lese",
+                "P31": "Smírčí kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "1254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39035,
+                    49.79467
+                ]
+            }
+        }
+    ]
+}

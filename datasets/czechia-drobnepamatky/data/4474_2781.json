@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na východním okraji Lanškrouna při cestě na Sázavu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lanškroun",
+                "P6736": "15197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62876,
+                    49.90499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup na náměstí Aloise Jiráska v Lanškrouně",
+                "P31": "Sloup",
+                "P131^label:cs": "Lanškroun",
+                "P6736": "13887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61295,
+                    49.91305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí u radnice v Lanškrouně",
+                "P31": "Kašna",
+                "P131^label:cs": "Lanškroun",
+                "P6736": "13886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61214,
+                    49.91209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela svatého Václava v Lanškrouně",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Lanškroun",
+                "P6736": "13885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61293,
+                    49.91349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na náměstí u radnice v Lanškrouně",
+                "P31": "Sloup",
+                "P131^label:cs": "Lanškroun",
+                "P6736": "13884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61158,
+                    49.91192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Sázavě u Lanškrouna",
+                "P31": "Socha",
+                "P131^label:cs": "Sázava",
+                "P6736": "12819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63743,
+                    49.90461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sázavě u Lanškrouna ve středu obce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Sázava",
+                "P6736": "12721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63764,
+                    49.90501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na kraji Albrechtic",
+                "P31": "Boží muka",
+                "P131^label:cs": "Albrechtice",
+                "P6736": "11899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.64345,
+                    49.92091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na okraji Sázavy u silnice",
+                "P31": "Boží muka",
+                "P131^label:cs": "Sázava",
+                "P6736": "11691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63404,
+                    49.90469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší reliéfů Panny Marie na okraji Lanškrouna",
+                "P31": "Socha",
+                "P131^label:cs": "Lanškroun",
+                "P6736": "11573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6261,
+                    49.91898
+                ]
+            }
+        }
+    ]
+}

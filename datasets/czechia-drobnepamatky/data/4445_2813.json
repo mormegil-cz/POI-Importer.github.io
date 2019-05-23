@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna ve Slavonicích na Horním náměstí",
+                "P31": "Kašna",
+                "P131^label:cs": "Slavonice",
+                "P6736": "19657"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35325,
+                    48.99707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého Ve Slavonicích v ulici Nádražní",
+                "P31": "Kaple",
+                "P131^label:cs": "Slavonice",
+                "P6736": "19656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35161,
+                    48.99622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Slavonicích na křižovatce ulic Jana Žižky a Na potoku",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Slavonice",
+                "P6736": "19655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34951,
+                    48.99905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Slavonicích na křižovatce ulic Dačická a Polní",
+                "P31": "Kaplička",
+                "P131^label:cs": "Slavonice",
+                "P6736": "19654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35247,
+                    49.00032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Evangelisty ve Slavonicích na křižovatce ulic Rudolecká a Dačická",
+                "P31": "Socha",
+                "P131^label:cs": "Slavonice",
+                "P6736": "19653"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35254,
+                    49.00043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Slavonicích na křižovatce ulic Rudolecká a Dačická",
+                "P31": "Boží muka",
+                "P131^label:cs": "Slavonice",
+                "P6736": "19652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35245,
+                    49.00064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela Nanebevzetí Panny Marie ve Slavonicích",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Slavonice",
+                "P6736": "18514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35225,
+                    48.99705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Slavonic",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Slavonice",
+                "P6736": "12795"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33924,
+                    48.99564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození ve Slavonicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Slavonice",
+                "P6736": "9231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35129,
+                    48.99625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Rudoarmějce ve Slavonicích",
+                "P31": "Pomník",
+                "P131^label:cs": "Slavonice",
+                "P6736": "9135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35142,
+                    48.99605
+                ]
+            }
+        }
+    ]
+}

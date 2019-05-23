@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na severním okraji Rohovládovy Bělé",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rohovládova Bělá",
+                "P6736": "15369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60522,
+                    50.10938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Rohovládově Bělé",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Rohovládova Bělá",
+                "P6736": "15368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60529,
+                    50.1077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Rohovládově Bělé",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Rohovládova Bělá",
+                "P6736": "15367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60533,
+                    50.10753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Anděla Strážce v Rohovládově Bělé",
+                "P31": "Socha",
+                "P131^label:cs": "Rohovládova Bělá",
+                "P6736": "15366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60607,
+                    50.10614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Rohovládově Bělé",
+                "P31": "Socha",
+                "P131^label:cs": "Rohovládova Bělá",
+                "P6736": "15365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60682,
+                    50.10573
+                ]
+            }
+        }
+    ]
+}

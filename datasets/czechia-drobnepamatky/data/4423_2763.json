@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Horních Počaplech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Počaply",
+                "P6736": "22366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38463,
+                    50.42662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Horních Počaplech",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Počaply",
+                "P6736": "22365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39132,
+                    50.42501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u kostela v Horních Počaplech",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Horní Počaply",
+                "P6736": "22364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39074,
+                    50.42523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí v Horních Počaplech",
+                "P31": "Kaplička",
+                "P131^label:cs": "Horní Počaply",
+                "P6736": "22363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38787,
+                    50.42401
+                ]
+            }
+        }
+    ]
+}

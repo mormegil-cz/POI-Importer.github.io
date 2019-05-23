@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Červené Lhotě",
+                "P31": "Zvonička",
+                "P131^label:cs": "Pluhův Žďár",
+                "P6736": "9501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88444,
+                    49.24783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Jižné",
+                "P31": "Pomník padlým",
+                "P131^label:cs": "Pluhův Žďár",
+                "P6736": "8265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89655,
+                    49.2454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v západní části Jižné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pluhův Žďár",
+                "P6736": "8263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89363,
+                    49.24552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Vícemile u rozcestí",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vícemil",
+                "P6736": "8262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88139,
+                    49.26101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Jižné",
+                "P31": "Kaple",
+                "P131^label:cs": "Pluhův Žďár",
+                "P6736": "7805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89547,
+                    49.24564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vícemilu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vícemil",
+                "P6736": "7008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89295,
+                    49.2626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Vícemilu",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Vícemil",
+                "P6736": "7006"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89342,
+                    49.26632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vícemilu",
+                "P31": "Kaple",
+                "P131^label:cs": "Vícemil",
+                "P6736": "7007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89429,
+                    49.26398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší v Červené Lhotě",
+                "P31": "Socha",
+                "P131^label:cs": "Pluhův Žďár",
+                "P6736": "6312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88378,
+                    49.24875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Dírné",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Dírná",
+                "P6736": "6311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8662,
+                    49.24199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička nad pramenem východně od Červené Lhoty",
+                "P31": "Kaplička",
+                "P131^label:cs": "Pluhův Žďár",
+                "P6736": "1680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8861,
+                    49.24817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí nad Jižnou",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pluhův Žďár",
+                "P6736": "1682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89278,
+                    49.25205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Červené Lhoty",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pluhův Žďár",
+                "P6736": "1681"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88505,
+                    49.24187
+                ]
+            }
+        }
+    ]
+}

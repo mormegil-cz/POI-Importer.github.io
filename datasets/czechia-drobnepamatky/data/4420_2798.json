@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Květově na křižovatce",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Květov",
+                "P6736": "7669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27362,
+                    49.42549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky v Kučeři",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kučeř",
+                "P6736": "7668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24842,
+                    49.43261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky v Kučeři",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kučeř",
+                "P6736": "7617"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24431,
+                    49.43528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Kučeři",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Kučeř",
+                "P6736": "7616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2463,
+                    49.43368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kučeři",
+                "P31": "Kaple",
+                "P131^label:cs": "Kučeř",
+                "P6736": "7615"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24627,
+                    49.43362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Květově",
+                "P31": "Kaple",
+                "P131^label:cs": "Květov",
+                "P6736": "7614"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2752,
+                    49.42577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník turistické stezky jihovýchodně od Květova",
+                "P31": "Památník",
+                "P131^label:cs": "Květov",
+                "P6736": "7613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28066,
+                    49.42059
+                ]
+            }
+        }
+    ]
+}

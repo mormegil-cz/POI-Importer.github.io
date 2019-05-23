@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na západním okraji Čejkova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32045,
+                    49.37685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Čejkově",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32167,
+                    49.37522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Jana Nepomuckého v Čejkově",
+                "P31": "Kaple",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18750"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32173,
+                    49.37523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na východním okraji Čejkova",
+                "P31": "Boží muka",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32485,
+                    49.37686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na východním okraji Čejkova",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32493,
+                    49.37688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na východním okraji Chrástova v zahradě domu č.17",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Horní Cerekev",
+                "P6736": "18662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32382,
+                    49.35376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Chrástově",
+                "P31": "Kaple",
+                "P131^label:cs": "Horní Cerekev",
+                "P6736": "18661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32203,
+                    49.3541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska padlým na kapli v Chrástově",
+                "P31": "Pamětní deska",
+                "P131^label:cs": "Horní Cerekev",
+                "P6736": "18660"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.32207,
+                    49.35411
+                ]
+            }
+        }
+    ]
+}

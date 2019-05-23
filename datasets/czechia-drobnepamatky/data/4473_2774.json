@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Pastvinách v místní části zvané Vitanov",
+                "P31": "Pamětní kříž",
+                "P131^label:cs": "Pastviny",
+                "P6736": "17060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57886,
+                    50.09461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Dominika v Pastvinách v místní části zvané Vitanov",
+                "P31": "Kaple",
+                "P131^label:cs": "Pastviny",
+                "P6736": "17058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57857,
+                    50.0947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého jihozápadně od Českých Petrovic",
+                "P31": "Socha",
+                "P131^label:cs": "České Petrovice",
+                "P6736": "12172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.59237,
+                    50.11757
+                ]
+            }
+        }
+    ]
+}
