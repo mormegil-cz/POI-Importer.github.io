@@ -119,6 +119,9 @@
 	<script type="text/javascript" src="josmHelpers.js"></script>
 	<script type="text/javascript" src="htmlHelpers.js"></script>
 	<script type="text/javascript" src="commentsHelpers.js"></script>
+	<script type="text/javascript" src="query-osm.js"></script>
+	<script type="text/javascript" src="query-wikidata.js"></script>
+	<script type="text/javascript" src="queries.js"></script>
 	<script type="text/javascript" src="loadData.js"></script>
 	<script type="text/javascript" src="compareData.js"></script>
 	<script type="text/javascript">
@@ -128,10 +131,9 @@
 		mapObj.setZoom(3);
 		mapObj.on("zoomend", loadData);
 		mapObj.on("moveend", loadData);
-		L.tileLayer("https://api.mapbox.com/styles/v1/obtitus/cir6c5h440011cnlxo0eqqxby/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoib2J0aXR1cyIsImEiOiJjaWYzbXF1M3IwMGtuc3ZsdmhhYXR4d2hpIn0.tQQLwWt3e_NhGtTdUYLzwQ", {
-			subdomains: "1234",
-			attribution: '&copy; <a href="https://mapbox.com">Mapbox</a> &copy; <a href="https://openstreetmap.org">OpenStreetMap</a> &copy; <a href="https://digitalglobe.com">DigitalGlobe</a>',
-			maxZoom: 18
+		L.tileLayer("https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png", {
+			attribution: '<a href="https://wikimediafoundation.org/wiki/Maps_Terms_of_Use">Wikimedia maps</a> | Map data &copy; <a href="http://openstreetmap.org/copyright">OpenStreetMap contributors</a>',
+			maxZoom: 19
 		}).addTo(mapObj);
 		new L.Control.Zoom({ position: 'topright' }).addTo(mapObj);
 		loadAppState(mapObj);

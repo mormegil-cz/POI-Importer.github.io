@@ -1,5 +1,16 @@
-function compareData(tiles, osmData)
+var compareDriver = {
+	osm: compareDataOsm,
+	wikidata: compareDataWikidata
+}
+
+function compareData(tiles, resultData, queryType) {
+	compareDriver[queryType](tiles, resultData);
+}
+
+function compareDataOsm(tiles, resultData)
 {
+	var osmData = geojsonToPointlist(resultData.elements);
+
 	// split per tile
 	var i = -1;
 	for (var d = 0; d < tiles.length; d++)
@@ -38,6 +49,64 @@ function compareData(tiles, osmData)
 					score += comparisonAlgorithms[tag.algorithm || "equality"](
 						point.properties[tag.key],
 						element.tags[tag.key]) * (tag.importance || 1);
+				}
+				if (score > bestScore)
+				{
+					point.osmElement = element;
+					point.score = score;
+					bestScore = score;
+				}
+			}
+			displayPoint(tiles[d].datasetName, tiles[d].tileName, p);
+		}
+	}
+}
+
+function compareDataWikidata(tiles, resultData)
+{
+	var results = resultData.results.bindings;
+	// split per tile
+	var tilesPerName = {};
+	for (var d = 0; d < tiles.length; d++)
+	{
+		tilesPerName[tiles[d].tileName] = tiles[d];
+		tiles[d].osmData = [];
+	}
+	for (var i = 0; i < results.length; ++i) {
+		var tileName = results[i].tileName.value;
+		tilesPerName[tileName].osmData.push(results[i]);
+	}
+
+	for (var d = 0; d < tiles.length; d++)
+	{
+		var data = tiledData[tiles[d].datasetName][tiles[d].tileName].data;
+		var settings = datasetSettings[tiles[d].datasetName];
+		var maxScore = 1;
+		for (var t = 0; t < settings.tagmatch.length; t++)
+			maxScore += settings.tagmatch[t].importance || 1;
+		for (var p = 0; p < data.length; p++)
+		{
+			var point = data[p];
+			point.maxScore = maxScore;
+			point.score = 0;
+			point.osmElement = {};
+
+			var bestScore = 0;
+			for (var i = 0; i < tiles[d].osmData.length; i++)
+			{
+				var element = tiles[d].osmData[i];
+				var elementCenter = element.coords.value
+				if (geoHelper.getDistance(elementCenter, point.coordinates) > settings.dist)
+					continue;
+
+				var score = 1;
+				for (var t = 0; t < settings.tagmatch.length; t++)
+				{
+					var tag = settings.tagmatch[t];
+					var varName = tag.key.replace('^', '_').replace(':', '_');
+					score += comparisonAlgorithms[tag.algorithm || "equality"](
+						point.properties[varName],
+						element[varName]) * (tag.importance || 1);
 				}
 				if (score > bestScore)
 				{

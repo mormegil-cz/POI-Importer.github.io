@@ -1,7 +1,7 @@
 {
 	"zoom": 13,
-	"queryType":"Wikidata",
-	"query":"?item wdt:P31 wd:Q8205328.",
+	"queryType":"wikidata",
+	"query":"?item wdt:P31/wdt:P279* wd:Q8205328.",
 	"icon": "monument",
 	"dist":30,
 	"id": "P6736",

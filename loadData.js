@@ -2,12 +2,18 @@
 
 // GLOBAL VARIABLES
 var overpassApi = "https://overpass-api.de/api/interpreter?data=";
+var wqsApi = "https://query.wikidata.org/sparql?query=";
+
+var apiEndpoints = {
+	osm: overpassApi,
+	wikidata: wqsApi
+}
 
 var datasetSettings = {};
 var tiledData = {};
 var oms = {}; // markers
 var appSettings = {};
-var queryStatus = {"busy": false, "waiting": false};
+var queryStatus = {busy: false, waiting: false, queryType: null};
 var loggedInToOsm = true; // TODO default to false
 
 function loadDatasets()
@@ -128,7 +134,7 @@ function loadData()
 						if (response == '')
 						    return;
 					    
-						var data = geojsonToPointlist(JSON.parse(response));
+						var data = JSON.parse(response);
 						tiledData[datasetName][tileName].data = data;
 						for (var p = 0; p < data.length; p++)
 							displayPoint(datasetName, tileName, p);
@@ -157,14 +163,15 @@ function loadOverpass()
 	var mapBounds = mapObj.getBounds();
 	var mapCenter = mapObj.getCenter();
 	// Make query
-	var query = "[out:json];\n";
 	var queriedDatasets = [];
+	var queryType = null;
+	var queryProvider = null;
+	var query = null;
 	for (var datasetName in datasetSettings)
 	{
 		if (!tiledData[datasetName])
 			continue;
 		var settings = datasetSettings[datasetName];
-		var types = settings.types || ["node"];
 		var tileCoordinates = geoHelper.latlonToTilenumber(
 			mapCenter.lat,
 			mapCenter.lng,
@@ -185,14 +192,22 @@ function loadOverpass()
 						continue;
 				if (tiledData[datasetName][tileName].overpassQueried)
 					continue;
+
+				var currentQueryType = settings.queryType || 'osm';
+				if (queryType && currentQueryType !== queryType) {
+					queryStatus.waiting = true;
+					continue;
+				}
+				if (!queryType) {
+					queryType = currentQueryType;
+					queryProvider = queryProviders[queryType];
+					query = queryProvider.initQuery();
+				}
 				tiledData[datasetName][tileName].overpassQueried = true;
 
-				query += "(";
-				for (var t = 0; t < types.length; t++)
-					query += types[t] + settings.query + "(" + tileBbox.b + "," + tileBbox.l + "," + tileBbox.t + "," + tileBbox.r + ");";
-				query += "); out center; out count;\n";
+				query = queryProvider.addItem(query, settings, tileBbox, tileName);
 
-				queriedDatasets.push({"tileName": tileName, "datasetName": datasetName});
+				queriedDatasets.push({tileName: tileName, datasetName: datasetName});
 			}
 		}
 	}
@@ -200,6 +215,7 @@ function loadOverpass()
 	if (!queriedDatasets.length)
 		return;
 
+	query = queryProvider.finishQuery(query);
 	console.log("overpass query:\n" + query);
 
 	// Send query to overpass
@@ -210,24 +226,19 @@ function loadOverpass()
 			return;
 		if (req.status != 200)
 		    return;
-	        var response = req.responseText
-	        if (response == '')
+		var response = req.responseText
+		if (response == '')
 		    return;
-		var osmData = JSON.parse(req.responseText).elements;
-		compareData(queriedDatasets, osmData);
+		var resultData = JSON.parse(req.responseText);
+		compareData(queriedDatasets, resultData, queryStatus.queryType);
 		queryStatus.busy = false;
 		if (queryStatus.waiting)
 			loadOverpass();
 	}
 	queryStatus.busy = true;
-	//req.open("GET", overpassApi + encodeURIComponent(query), true);
-	//req.send(null);
-
-	compareData(queriedDatasets, [{type:'count'}]);
-	queryStatus.busy = false;
-	if (queryStatus.waiting)
-		loadOverpass();
-
+	queryStatus.queryType = queryType;
+	req.open("GET", apiEndpoints[queryType] + encodeURIComponent(query), true);
+	req.send(null);
 }
 
 function displayPoint(datasetName, tileName, idx)
