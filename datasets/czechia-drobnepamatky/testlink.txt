@@ -1,0 +1,16 @@
+http://localhost/poiimport/index.html#map=17/49.6156/14.6990&datasets=DrobnePamatky
+
+
+{…}
+coordinates: Object { lat: 49.60758, lon: 14.7807 }
+marker: Object { _initHooksCalled: true, _leaflet_id: 82, _zIndex: 2182, … }
+maxScore: 5
+osmElement: {…}
+	P31: Object { type: "uri", value: "http://www.wikidata.org/entity/Q486972" }
+	coords: Object { datatype: "http://www.opengis.net/ont/geosparql#wktLiteral", type: "literal", value: "Point(49.6 14.76666667)" }
+	item: Object { type: "uri", value: "http://www.wikidata.org/entity/Q4804437" }
+	tileName: Object { type: "literal", value: "4432_2792" }
+	<prototype>: Object { … }
+properties: Object { "label:cs": "Zvonièka u Jekova", P31: "Zvonièka", "P131^label:cs": "Zvìstov", … }
+score: 3
+<prototype>: Object { … }

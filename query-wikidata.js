@@ -12,7 +12,7 @@ var queryProviderWikidata = {
         q.push(tileName);
         q.push("' AS ?tileName) ");
         q.push(settings.query);
-        q.push(" SERVICE wikibase:box { ?item wdt:P625 ?coords. bd:serviceParam wikibase:cornerWest \"Point(" + tileBbox.b + "," + tileBbox.l + ")\"^^geo:wktLiteral. bd:serviceParam wikibase:cornerEast \"Point(" + tileBbox.t + "," + tileBbox.r + ")\"^^geo:wktLiteral. } ");
+        q.push(" SERVICE wikibase:box { ?item wdt:P625 ?coords. bd:serviceParam wikibase:cornerWest \"Point(" + tileBbox.l + "," + tileBbox.b + ")\"^^geo:wktLiteral. bd:serviceParam wikibase:cornerEast \"Point(" + tileBbox.r + "," + tileBbox.t + ")\"^^geo:wktLiteral. } ");
         for (var i = 0; i < settings.tagmatch.length; ++i) {
             var key = settings.tagmatch[i].key;
 

@@ -2,6 +2,13 @@ var htmlHelper = (function()
 {
 	var wikiUrl = "http://wiki.openstreetmap.org/wiki/";
 
+	var escapeXML = function(str) {
+		return str && str.replace(/&/g, "&amp;")
+			.replace(/'/g, "&apos;")
+			.replace(/>/g, "&gt;")
+			.replace(/</g, "&lt;");
+	}
+
 	var addDataset = function (country, id)
 	{
 		var displayname = datasets[country][id].name;
@@ -47,21 +54,22 @@ var htmlHelper = (function()
 		for (var t = 0; t < settings.tagmatch.length; t++)
 		{
 			var tag = settings.tagmatch[t];
-			var tagKey = tag.key; // .replace('^', '_').replace(':', '_');
+			var tagKey = tag.key.replace('^', '_').replace(':', '_');
+			var osmTags = point.osmElement && point.osmElement.tags;
 			if (!point.properties[tag.key])
 				continue;
 			var score = 0;
 			if (point.osmElement && point.osmElement.tags)
 				score = comparisonAlgorithms[tag.algorithm || "equality"](
-					point.properties[tagKey],
+					point.properties[tag.key],
 					point.osmElement.tags[tagKey]) * (tag.importance || 1);
 			var colour = hslToRgb(score / 3, 1, 0.8);
 			popupHtml += "<tr style='background-color:" + colour + ";'><td>";
-			popupHtml += "<b>" + tag.key + "</b></td><td> = </td><td> " + point.properties[tagKey];
+			popupHtml += "<b>" + escapeXML(tag.key) + "</b></td><td> = </td><td> " + escapeXML(point.properties[tagKey]);
 			popupHtml += "</td><td>";
-			popupHtml += "<b>" + tag.key + "</b></td><td> = </td><td>";
-			if (point.osmElement && point.osmElement.tags && point.osmElement.tags[tagKey])
-				popupHtml += point.osmElement.tags[tag.key];
+			popupHtml += "<b>" + escapeXML(tag.key) + "</b></td><td> = </td><td>";
+			if (osmTags && osmTags[tagKey])
+				popupHtml += escapeXML(osmTags[tagKey]);
 			else
 				popupHtml += "N/A";
 
@@ -127,5 +135,6 @@ var htmlHelper = (function()
 		"getPopup": getPopup,
 		"displayComments": displayComments,
 		"clearComments": clearComments,
+		"escapeXML": escapeXML,
 	};
 })();

@@ -354,15 +354,6 @@ function hslToRgb(h, s, l){
 	return "#" + toHex(r) + toHex(g) + toHex(b);
 }
 
-
-function escapeXML(str)
-{
-	return str.replace(/&/g, "&amp;")
-		.replace(/'/g, "&apos;")
-		.replace(/>/g, "&gt;")
-		.replace(/</g, "&lt;");
-}
-
 function saveAppState()
 {
 	var date = new Date();

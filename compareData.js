@@ -62,6 +62,16 @@ function compareDataOsm(tiles, resultData)
 	}
 }
 
+function parseWktLiteral(pointLiteral) {
+	// TODO
+	return pointLiteral;
+}
+
+function convertWikidataItem(settings, element) {
+	// TODO
+	return { tags: element };
+}
+
 function compareDataWikidata(tiles, resultData)
 {
 	var results = resultData.results.bindings;
@@ -96,7 +106,7 @@ function compareDataWikidata(tiles, resultData)
 			for (var i = 0; i < tiles[d].osmData.length; i++)
 			{
 				var element = tiles[d].osmData[i];
-				var elementCenter = element.coords.value
+				var elementCenter = parseWktLiteral(element.coords.value);
 				if (geoHelper.getDistance(elementCenter, point.coordinates) > settings.dist)
 					continue;
 
@@ -111,7 +121,7 @@ function compareDataWikidata(tiles, resultData)
 				}
 				if (score > bestScore)
 				{
-					point.osmElement = element;
+					point.osmElement = convertWikidataItem(settings, element);
 					point.score = score;
 					bestScore = score;
 				}
