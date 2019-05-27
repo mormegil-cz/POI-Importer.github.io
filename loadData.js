@@ -5,8 +5,8 @@ var overpassApi = "https://overpass-api.de/api/interpreter?data=";
 var wqsApi = "https://query.wikidata.org/sparql?query=";
 
 var apiEndpoints = {
-	osm: overpassApi,
-	wikidata: wqsApi
+	osm: { url: overpassApi, mimeType: "application/json" },
+	wikidata: { url: wqsApi, mimeType: "application/sparql-results+json" }
 }
 
 var datasetSettings = {};
@@ -31,7 +31,8 @@ function loadDatasets()
 				{
 					if (req.readyState != 4)
 					    return;
-					var response = req.responseText
+					var response = req.responseText;
+					console.debug('Dataset received');
 					if (response == '')
 					    return;
 					var settings = JSON.parse(response);
@@ -130,16 +131,18 @@ function loadData()
 					{
 						if (req.readyState != 4)
 						    return;
-						var response = req.responseText
+						var response = req.responseText;
+						console.debug("Tile received");
 						if (response == '')
 						    return;
 					    
-						var data = JSON.parse(response);
+						var data = geojsonToPointlist(JSON.parse(response));
 						tiledData[datasetName][tileName].data = data;
 						for (var p = 0; p < data.length; p++)
 							displayPoint(datasetName, tileName, p);
 						loadOverpass();
 					}
+					console.debug("Reading tiles for ", tileName);
 					req.open("GET", source + tileName + ".json", true);
 				    try { req.send(null); } catch (e) {}
 				})(datasetName, tileName, settings.url + "data/");
@@ -156,6 +159,7 @@ function loadOverpass()
 	if (queryStatus.busy)
 	{
 		queryStatus.waiting = true;
+		console.debug("Queuing Overpass");
 		return;
 	}
 	queryStatus.waiting = false;
@@ -196,6 +200,7 @@ function loadOverpass()
 				var currentQueryType = settings.queryType || 'osm';
 				if (queryType && currentQueryType !== queryType) {
 					queryStatus.waiting = true;
+					console.debug("Queueing additional query type", currentQueryType);
 					continue;
 				}
 				if (!queryType) {
@@ -216,10 +221,11 @@ function loadOverpass()
 		return;
 
 	query = queryProvider.finishQuery(query);
-	console.log("overpass query:\n" + query);
+	console.debug("query:\n" + query);
 
 	// Send query to overpass
 	var req = new XMLHttpRequest();
+	// req.overrideMimeType(apiEndpoints[queryType].mimeType);
 	req.onreadystatechange = function()
 	{
 		if (req.readyState != 4)
@@ -237,7 +243,8 @@ function loadOverpass()
 	}
 	queryStatus.busy = true;
 	queryStatus.queryType = queryType;
-	req.open("GET", apiEndpoints[queryType] + encodeURIComponent(query), true);
+	req.open("GET", apiEndpoints[queryType].url + encodeURIComponent(query), true);
+	req.setRequestHeader('Accept', apiEndpoints[queryType].mimeType);
 	req.send(null);
 }
 

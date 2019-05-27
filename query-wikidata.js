@@ -3,7 +3,7 @@ var queryProviderWikidata = {
         return {first: true, query: [], variables: {}};
     },
     addItem: function(state, settings, tileBbox, tileName) {
-        var q = [];
+        var q = state.query;
         if (!state.first) {
             q.push(" UNION ");
         }
@@ -12,17 +12,17 @@ var queryProviderWikidata = {
         q.push(tileName);
         q.push("' AS ?tileName) ");
         q.push(settings.query);
-        q.push(" SERVICE wikibase:box { ?item wdt:P625 ?coords. bd:serviceParam wikibase:cornerWest \"Point(" + tileBbox.b + "," + tileBbox.l + ")\"^^geo:wktLiteral. bd:serviceParam wikibase:cornerWest \"Point(" + tileBbox.t + "," + tileBbox.r + ")\"^^geo:wktLiteral. } ");
-        for (var i = 0; i < settings.tagMatch.length; ++i) {
-            var key = settings.tagMatch[i];
+        q.push(" SERVICE wikibase:box { ?item wdt:P625 ?coords. bd:serviceParam wikibase:cornerWest \"Point(" + tileBbox.b + "," + tileBbox.l + ")\"^^geo:wktLiteral. bd:serviceParam wikibase:cornerEast \"Point(" + tileBbox.t + "," + tileBbox.r + ")\"^^geo:wktLiteral. } ");
+        for (var i = 0; i < settings.tagmatch.length; ++i) {
+            var key = settings.tagmatch[i].key;
 
             var arrow = key.indexOf('^');
             var varName = '?' + key.replace('^', '_').replace(':', '_');
             if (arrow < 0) {
                 if (key.substr(0, 6) === 'label:') {
-                    var lang = key.substr(7);
+                    var lang = key.substr(6);
                     q.push("OPTIONAL { ?item rdfs:label " + varName + ". ");
-                    q.push("FILTER(LANG(" + varName + ")='" + lang + "' } ");
+                    q.push("FILTER(LANG(" + varName + ")='" + lang + "') } ");
                 } else if (key[0] === 'P') {
                     q.push("OPTIONAL { ?item wdt:" + key + " " + varName + " } ");
                 } else {
@@ -37,15 +37,15 @@ var queryProviderWikidata = {
 
                 q.push("OPTIONAL { ?item wdt:" + propName + " ?" + propName + ". ");
 
-                var lang = key.substr(7);
-                q.push("?propName rdfs:label " + varName + ". ");
-                q.push("FILTER(LANG(" + varName + ")='" + lang + "' } ");
+                var lang = labelName.substr(6);
+                q.push("?" + propName + " rdfs:label " + varName + ". ");
+                q.push("FILTER(LANG(" + varName + ")='" + lang + "') } ");
             }
 
-            variables[varName] = true;
+            state.variables[varName] = true;
         }
         q.push(" }");
-        return q.join('');
+        return state;
     },
     finishQuery: function(state) {
         var result = ["SELECT ?item ?tileName ?coords "];

@@ -9,7 +9,7 @@ function compareData(tiles, resultData, queryType) {
 
 function compareDataOsm(tiles, resultData)
 {
-	var osmData = geojsonToPointlist(resultData.elements);
+	var osmData = resultData.elements;
 
 	// split per tile
 	var i = -1;
@@ -73,6 +73,7 @@ function compareDataWikidata(tiles, resultData)
 		tiles[d].osmData = [];
 	}
 	for (var i = 0; i < results.length; ++i) {
+		if (!results[i].tileName) continue;
 		var tileName = results[i].tileName.value;
 		tilesPerName[tileName].osmData.push(results[i]);
 	}

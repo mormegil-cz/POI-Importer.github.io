@@ -42,22 +42,25 @@ var htmlHelper = (function()
 			"<th colspan='3'><a onclick='josmHelper.openOsmArea(\""+area+"\")' title='Open area in JOSM'>OSM Data</a></th>" +
 			"</tr>";
 
+			console.log(settings);
+			console.log(point);
 		for (var t = 0; t < settings.tagmatch.length; t++)
 		{
 			var tag = settings.tagmatch[t];
+			var tagKey = tag.key; // .replace('^', '_').replace(':', '_');
 			if (!point.properties[tag.key])
 				continue;
 			var score = 0;
 			if (point.osmElement && point.osmElement.tags)
 				score = comparisonAlgorithms[tag.algorithm || "equality"](
-					point.properties[tag.key],
-					point.osmElement.tags[tag.key]) * (tag.importance || 1);
+					point.properties[tagKey],
+					point.osmElement.tags[tagKey]) * (tag.importance || 1);
 			var colour = hslToRgb(score / 3, 1, 0.8);
 			popupHtml += "<tr style='background-color:" + colour + ";'><td>";
-			popupHtml += "<b>" + tag.key + "</b></td><td> = </td><td> " + point.properties[tag.key];
+			popupHtml += "<b>" + tag.key + "</b></td><td> = </td><td> " + point.properties[tagKey];
 			popupHtml += "</td><td>";
 			popupHtml += "<b>" + tag.key + "</b></td><td> = </td><td>";
-			if (point.osmElement && point.osmElement.tags && point.osmElement.tags[tag.key])
+			if (point.osmElement && point.osmElement.tags && point.osmElement.tags[tagKey])
 				popupHtml += point.osmElement.tags[tag.key];
 			else
 				popupHtml += "N/A";
