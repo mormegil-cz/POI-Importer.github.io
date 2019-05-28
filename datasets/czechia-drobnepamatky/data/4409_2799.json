@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kadovský viklan",
-                "P31": "Památný kámen",
+                "P31": "http://www.wikidata.org/entity/Q11734477",
+                "P31^label:cs": "Památný kámen",
                 "P131^label:cs": "Kadov",
                 "P6736": "20920"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "hraniční kameny mezi Kadovem a Slatinou",
-                "P31": "Hraniční kámen",
+                "P31": "http://www.wikidata.org/entity/Q921099",
+                "P31^label:cs": "Hraniční kámen",
                 "P131^label:cs": "Slatina",
                 "P6736": "20802"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Kadově u kostela",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kadov",
                 "P6736": "6807"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Kadově",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Kadov",
                 "P6736": "6806"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička v Kadově",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Kadov",
                 "P6736": "6805"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž východně od Kadova u rozcestí",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kadov",
                 "P6736": "2794"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž východně od Kadova u remízku",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kadov",
                 "P6736": "2795"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž západně od Kadova na rozcestí",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kadov",
                 "P6736": "1685"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž východně od Kadova u lesíka",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kadov",
                 "P6736": "1686"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v lese západně od Kadova",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kadov",
                 "P6736": "1684"
             },

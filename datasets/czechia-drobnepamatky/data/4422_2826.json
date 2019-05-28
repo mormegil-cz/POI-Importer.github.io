@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička svatého Floriána u silnice z Vyššího Brodu do Herbertova",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Vyšší Brod",
                 "P6736": "15908"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého u mostu přes Vltavici v Herbertově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Vyšší Brod",
                 "P6736": "13830"
             },

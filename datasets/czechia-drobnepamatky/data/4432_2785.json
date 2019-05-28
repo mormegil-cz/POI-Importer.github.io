@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v Čeňovicích",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Teplýšovice",
                 "P6736": "6776"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u rozcestí před Teplýšovicemi",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Teplýšovice",
                 "P6736": "2640"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u Čeňovického mlýna",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Teplýšovice",
                 "P6736": "2639"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u rybníka u Čeňovic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Teplýšovice",
                 "P6736": "2638"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u Teplýšovic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Teplýšovice",
                 "P6736": "2641"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u polní cesty nad Sembratcem",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Petroupim",
                 "P6736": "2289"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple u Čeňovic",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Teplýšovice",
                 "P6736": "1325"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u Čeňovic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Teplýšovice",
                 "P6736": "1324"
             },

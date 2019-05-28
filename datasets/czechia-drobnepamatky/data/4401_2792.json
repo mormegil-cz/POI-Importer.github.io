@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Obrázek sv. Anny a odpočívka.",
-                "P31": "Obrázek",
+                "P31": "http://www.wikidata.org/entity/Q478798",
+                "P31^label:cs": "Obrázek",
                 "P131^label:cs": "Řenče",
                 "P6736": "22144"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple ve Hájích",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Řenče",
                 "P6736": "5375"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž západně od Oseka",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Řenče",
                 "P6736": "5374"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého v Oseku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Řenče",
                 "P6736": "4298"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Oseku",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Řenče",
                 "P6736": "4297"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v Oseku",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Řenče",
                 "P6736": "4296"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž jižně od Oseka",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Řenče",
                 "P6736": "4295"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u Hájů",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Řenče",
                 "P6736": "1505"
             },

@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým ve Střížově uprostřed vesnice",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Drahanovice",
                 "P6736": "24921"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého ve Střížově na hlavní křižovatce",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Drahanovice",
                 "P6736": "24893"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší Piety ve Střížově na hlavní křižovatce",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Drahanovice",
                 "P6736": "24892"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž před kaplí ve Střížově",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Drahanovice",
                 "P6736": "24891"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple Panny Marie ve Střížově u silnice",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Drahanovice",
                 "P6736": "24890"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší svatého Cyrila a Metoděje v Náměšti na Hané v ulici Biskupství",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Náměšť na Hané",
                 "P6736": "18844"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Náměšti na Hané před kostelem",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Náměšť na Hané",
                 "P6736": "16889"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Náměšti na Hané na ulici Fučíkova",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Náměšť na Hané",
                 "P6736": "16888"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Náměšti na Hané na křižovatce",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Náměšť na Hané",
                 "P6736": "16887"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Ježíše Krista v Náměšti na Hané za kostelem",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Náměšť na Hané",
                 "P6736": "16783"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Náměšti na Hané v zahradě",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Náměšť na Hané",
                 "P6736": "16215"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Dřevěný kříž v Náměšti na Hané u kostela",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Náměšť na Hané",
                 "P6736": "16015"
             },
@@ -197,7 +209,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Panny Marie Immaculaty v Náměsti na Hané na náměstí",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Náměšť na Hané",
                 "P6736": "15078"
             },
@@ -213,7 +226,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple Svaté Trojice v Náměšti na Hané u zámku",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Náměšť na Hané",
                 "P6736": "15059"
             },
@@ -229,7 +243,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka v Náměšti na Hané v ulici Biskupství",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Náměšť na Hané",
                 "P6736": "15032"
             },
@@ -245,7 +260,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka v Náměšti na Hané u nádraží",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Náměšť na Hané",
                 "P6736": "15031"
             },

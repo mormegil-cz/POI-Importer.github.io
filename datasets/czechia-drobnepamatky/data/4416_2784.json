@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "obrázek na stromě na hřebenu Brd po vrchem Hradec",
-                "P31": "Obrázek",
+                "P31": "http://www.wikidata.org/entity/Q478798",
+                "P31^label:cs": "Obrázek",
                 "P131^label:cs": "Dobříš",
                 "P6736": "1393"
             },

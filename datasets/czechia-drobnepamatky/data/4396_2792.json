@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička ve Dvoře Maškrov",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Stod",
                 "P6736": "8899"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v Chalupách",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Zemětice",
                 "P6736": "3633"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž západně od Chalup",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Zemětice",
                 "P6736": "3632"
             },

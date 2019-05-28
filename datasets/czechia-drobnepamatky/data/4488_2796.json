@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka v Dubu nad Moravou v místní části Tučapy",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Dub nad Moravou",
                 "P6736": "15341"
             },

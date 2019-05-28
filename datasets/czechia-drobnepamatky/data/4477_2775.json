@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka Horní Orlice u Mariánského prame",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Červená Voda",
                 "P6736": "25147"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Králíkách v ulici Předměstí",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Králíky",
                 "P6736": "22577"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička u Dolní Odrlice vedle cyklostezky",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Červená Voda",
                 "P6736": "22064"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž severně od Horní Orlice při cestě na Hedeč",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Červená Voda",
                 "P6736": "17056"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u kláštera Hora Matky Boží v Dolní Hedči",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Králíky",
                 "P6736": "17010"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Obrázek u pramene Marie Pomocné v Horní Orlici",
-                "P31": "Obrázek",
+                "P31": "http://www.wikidata.org/entity/Q478798",
+                "P31^label:cs": "Obrázek",
                 "P131^label:cs": "Červená Voda",
                 "P6736": "17009"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička v Dolní Orlici západní část",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Červená Voda",
                 "P6736": "17007"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička v Dolní Orlici východní část",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Červená Voda",
                 "P6736": "17006"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Králíkách v ulici Pivovarská",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Králíky",
                 "P6736": "15227"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého v Králíkách v ulici Hluboká",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Králíky",
                 "P6736": "15226"
             },

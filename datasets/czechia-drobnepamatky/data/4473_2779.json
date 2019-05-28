@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloup se sochou Panny Marie Bolestné v Dolní Čermné u kostela",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Dolní Čermná",
                 "P6736": "15288"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Dolní Čermné u kostela jižní strana",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Dolní Čermná",
                 "P6736": "15287"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Dolní Čermné u kostela severní strana",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Dolní Čermná",
                 "P6736": "15283"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Dolní Čermné u rybníka",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Dolní Čermná",
                 "P6736": "15281"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "sousoší nejsvětější Trojice v Dolní Čermné u rybníka",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Dolní Čermná",
                 "P6736": "15280"
             },

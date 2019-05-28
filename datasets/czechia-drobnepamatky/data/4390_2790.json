@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v Bukové",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Mezholezy (dříve okres Horšovský Týn)",
                 "P6736": "4046"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž severně od Zhoře v zatáčce",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Zhoř",
                 "P6736": "3057"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Telicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Prostiboř",
                 "P6736": "3052"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Telicích",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Prostiboř",
                 "P6736": "3051"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž jižně od Telic u okraje vsi",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Prostiboř",
                 "P6736": "3050"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž mezi Telicemi a Bukovou",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Prostiboř",
                 "P6736": "3049"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička v Telicích",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Prostiboř",
                 "P6736": "3048"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v Telicích",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Prostiboř",
                 "P6736": "3047"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v poli západně od Telic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Prostiboř",
                 "P6736": "3045"
             },

@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v osadě Lysá",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Povrly",
                 "P6736": "17789"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na návsi v Českém Bukově",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Povrly",
                 "P6736": "14227"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na severním okraji Českého Bukova",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Povrly",
                 "P6736": "14226"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Ruina skalní kaple u silnice z Mírkova do Neštěmic",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Povrly",
                 "P6736": "14084"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple na návsi v Mírkově",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Povrly",
                 "P6736": "13609"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž za kostelem v Mojžíři",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13346"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Donáta u kostela v Mojžíři",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13345"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Floriána v Horní ulici v Mojžíři",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13344"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Mojžíři",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "9243"
             },

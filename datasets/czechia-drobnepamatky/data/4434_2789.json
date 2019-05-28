@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloupová výklenková kaplička jižně od Vlašimi při silnici do Kondrace",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Vlašim",
                 "P6736": "23280"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sluneční hodiny u lidové hvězdárny při silnici jižně od Vlašimi",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Vlašim",
                 "P6736": "23279"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž severně od Kondrace",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kondrac",
                 "P6736": "6784"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž mezi třemi stromy u polní cesty nad Kondrací",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kondrac",
                 "P6736": "1759"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž nad Kondrací v ohradnících",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kondrac",
                 "P6736": "1760"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u polní cesty nad Kondrací",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kondrac",
                 "P6736": "1758"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u stromů v poli u Kondrace",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kondrac",
                 "P6736": "1757"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž jihozápadně od Ovčin",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kondrac",
                 "P6736": "1484"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u Dubu u polní cesty",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kondrac",
                 "P6736": "1482"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u Dubu u rozcestí",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kondrac",
                 "P6736": "1481"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž severně od Dubu",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kondrac",
                 "P6736": "1480"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u Ovčin",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kondrac",
                 "P6736": "1483"
             },

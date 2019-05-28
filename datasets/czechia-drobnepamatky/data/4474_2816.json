@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha sv. Floriána ve Strachotíně na ulici Osvobození",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Strachotín",
                 "P6736": "22344"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž ve Strachotíně u kostela sv. Oldřicha a sv. Metoděje",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Strachotín",
                 "P6736": "22319"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž ve Strachotíně na Šakvické ulici",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Strachotín",
                 "P6736": "22318"
             },

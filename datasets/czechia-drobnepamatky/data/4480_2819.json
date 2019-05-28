@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž severovýchodně od Ladné",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ladná",
                 "P6736": "16960"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka u silnice a vlakové stanice Ladná.",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Ladná",
                 "P6736": "16959"
             },

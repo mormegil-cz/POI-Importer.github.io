@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "kašna na Masarykově náměstí",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Náměšť nad Oslavou",
                 "P6736": "22715"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Schulzovy filtry",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Náměšť nad Oslavou",
                 "P6736": "22714"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého v Náměšťi nad Oslavou v ulici Zámek",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Náměšť nad Oslavou",
                 "P6736": "20055"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna na nádvoří zámku Náměšť nad Oslavou",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Náměšť nad Oslavou",
                 "P6736": "13848"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Floriána u mostu v Náměšti nad Oslavou",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Náměšť nad Oslavou",
                 "P6736": "13847"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší Nejsvětější Trojice na Masarykově náměstí v Náměšti nad Oslavou",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Náměšť nad Oslavou",
                 "P6736": "13846"
             },

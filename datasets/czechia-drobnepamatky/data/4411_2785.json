@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple ve Hvozdci",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Hvozdec",
                 "P6736": "14266"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u kaple ve Hvozdci",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hvozdec",
                 "P6736": "14265"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým ve Hvozdci",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Hvozdec",
                 "P6736": "14264"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž mezi Hvozdcem a Mrtníkem",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hvozdec",
                 "P6736": "14263"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka pod kostelem v Mrtníku",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Hvozdec",
                 "P6736": "14219"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička na hřbitově v Mrtníku",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Hvozdec",
                 "P6736": "14200"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Dřevěný kříž před kostelem v Mrtníku",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hvozdec",
                 "P6736": "14197"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Litinový kříž před kostelem v Mrtníku",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hvozdec",
                 "P6736": "14196"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v Neřežíně",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Chaloupky",
                 "P6736": "14060"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u kaple v Neřežíně",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Chaloupky",
                 "P6736": "14059"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník obětem 2. svět. války na Chaloupkách",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Chaloupky",
                 "P6736": "14058"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v 1. svět. válce na Chaloupkách",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Chaloupky",
                 "P6736": "14057"
             },
@@ -197,7 +209,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž vedle pomníku padlým na Kleštěnici",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Komárov",
                 "P6736": "14056"
             },
@@ -213,7 +226,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v 1. svět. válce z Kleštěnice",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Komárov",
                 "P6736": "14055"
             },
@@ -229,7 +243,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Litinová socha 'Snění' v Komárově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Komárov",
                 "P6736": "14054"
             },
@@ -245,7 +260,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Litinový zahradní stůl v Komárově",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Komárov",
                 "P6736": "14053"
             },
@@ -261,7 +277,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Litinová socha 'Chlapec s rybou' v Komárově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Komárov",
                 "P6736": "14052"
             },
@@ -277,7 +294,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha 'Síla' před sokolovnou v Komárově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Komárov",
                 "P6736": "14051"
             },
@@ -293,7 +311,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha 'Svornost' před sokolovnou v Komárově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Komárov",
                 "P6736": "14050"
             },
@@ -309,7 +328,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Litinový kříž u křižovatky před sokolovnou v Komárově",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Komárov",
                 "P6736": "14049"
             },
@@ -325,7 +345,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pamětní deska na portálu starého komárovského zámku",
-                "P31": "Pamětní deska",
+                "P31": "http://www.wikidata.org/entity/Q721747",
+                "P31^label:cs": "Pamětní deska",
                 "P131^label:cs": "Komárov",
                 "P6736": "14048"
             },
@@ -341,7 +362,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník Dr. Miroslava Tyrše v Komárově",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Komárov",
                 "P6736": "14047"
             },
@@ -357,7 +379,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž před kaplí v Komárově",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Komárov",
                 "P6736": "14046"
             },
@@ -373,7 +396,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Litinová váza v Komárově",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Komárov",
                 "P6736": "14045"
             },
@@ -389,7 +413,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pamětní sloup Jubilejní zemské výstavy v Praze r. 1891",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Komárov",
                 "P6736": "13782"
             },
@@ -405,7 +430,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým na náměstí Míru v Komárově",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Komárov",
                 "P6736": "13781"
             },
@@ -421,7 +447,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka u křižovatky v Komárově",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Komárov",
                 "P6736": "13737"
             },
@@ -437,7 +464,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v Komárově",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Komárov",
                 "P6736": "6969"
             },

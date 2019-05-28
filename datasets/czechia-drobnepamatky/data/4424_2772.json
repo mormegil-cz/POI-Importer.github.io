@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Soška svatého Jana Nepomuckého nad bránou statku 15/11 v Dolních Chabrech",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Praha",
                 "P6736": "24836"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Polodřevěná zvonice u kostela v Dolních Chabrech",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Praha",
                 "P6736": "24835"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v květnu 1945 u kostela v Dolních Chabrech",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Praha",
                 "P6736": "24834"
             },

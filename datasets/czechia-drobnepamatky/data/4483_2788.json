@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Sobáčově na návsi",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Mladeč",
                 "P6736": "22995"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Sobáčově na návsi",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Mladeč",
                 "P6736": "22961"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Mladči ve středu obce",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Mladeč",
                 "P6736": "22926"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Mladči u silnice",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Mladeč",
                 "P6736": "18840"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž západně od Červenky u lesní cesty",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Červenka",
                 "P6736": "17952"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Čertův most u Mladče v Třesíně",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Mladeč",
                 "P6736": "16425"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Rytířská síň u Mladče v Třesíně",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Mladeč",
                 "P6736": "16424"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Obelisk severozápadně od Mladče",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Mladeč",
                 "P6736": "14847"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka západně od Sobáčova",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Mladeč",
                 "P6736": "11590"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Dřevěná zvonička v Sobáčově",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Mladeč",
                 "P6736": "11577"
             },

@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Historický kříž z roku 1801 východně od Těmic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Těmice",
                 "P6736": "13390"
             },

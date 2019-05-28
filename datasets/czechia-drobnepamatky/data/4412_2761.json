@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Mikuláše v zahradě u restaurace Granátka v Třebívlicích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Třebívlice",
                 "P6736": "20561"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Podstavec s ulomeným křížem jižně od Šepetel",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Třebívlice",
                 "P6736": "20560"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple na návsi v Šepetelech",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Třebívlice",
                 "P6736": "20559"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na jižním okraji osady Leská",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Třebívlice",
                 "P6736": "20558"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Piety na návsi v osadě Staré",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Třebívlice",
                 "P6736": "20556"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Vavřince v osadě Blešno",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Třebívlice",
                 "P6736": "20555"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple na návsi v Dřemčicích",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Třebívlice",
                 "P6736": "20554"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Chrášťanech",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Podsedice",
                 "P6736": "20286"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na návsi v Chrášťanech",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Podsedice",
                 "P6736": "20285"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple na návsi v Chrášťanech",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Podsedice",
                 "P6736": "20284"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v ulici Na Vilouni v Třebívlicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Třebívlice",
                 "P6736": "17109"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého u zámku v Třebívlicích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Třebívlice",
                 "P6736": "17106"
             },
@@ -197,7 +209,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník Jana Amose Komenského na Komenského náměstí v Třebívlicích",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Třebívlice",
                 "P6736": "17103"
             },
@@ -213,7 +226,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Třebívlicích",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Třebívlice",
                 "P6736": "9117"
             },

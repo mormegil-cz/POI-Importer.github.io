@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha sv. Jana Nepomuckého ve výklenku v ulici Svobody v Mikulově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Mikulov",
                 "P6736": "25305"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha sv. Jana Nepomuckého v Purkyňově ulici v Mikulově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Mikulov",
                 "P6736": "25302"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého ve výklenku domu 3 v Novokopečné ulici v Mikulově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Mikulov",
                 "P6736": "23527"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika Archa Noemova v zahradě zámku v Mikulově",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Mikulov",
                 "P6736": "18959"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kovová plastika u zámku v Mikulově",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Mikulov",
                 "P6736": "18958"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple svatého Šebestiána na Svatém kopečku v Mikulově",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Mikulov",
                 "P6736": "18070"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zvonice na Svatém kopečku v Mikulově",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Mikulov",
                 "P6736": "18069"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánský sloup na nádvoří zámku v Mikulově",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Mikulov",
                 "P6736": "13974"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna v zámecké zahradě v Mikulově",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Mikulov",
                 "P6736": "13973"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple Panny Marie Pomocnice v Koněvově ulici v Mikulově",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Mikulov",
                 "P6736": "13972"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička na křížové cestě na Svatý kopeček nad Mikulovem",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Mikulov",
                 "P6736": "13971"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloup Nejsvětější Trojice v Mikulově",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Mikulov",
                 "P6736": "9336"
             },

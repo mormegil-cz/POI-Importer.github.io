@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Panny Marie Immaculaty na náměstí ve Slezských Rudolticích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Slezské Rudoltice",
                 "P6736": "17218"
             },

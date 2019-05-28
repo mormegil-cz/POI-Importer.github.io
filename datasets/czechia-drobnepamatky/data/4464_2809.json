@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka sv. Antoníčka na okraji Mohelna u NPR Mohelenská hadcová step",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Mohelno",
                 "P6736": "15857"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Fluoreskující kráva u přírodní rezervace Hadcová step u Mohelna",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Mohelno",
                 "P6736": "15855"
             },

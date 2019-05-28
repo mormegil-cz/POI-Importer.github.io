@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Körnerův pomník u cesty na rozhlednu Háj",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Aš",
                 "P6736": "13512"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Jahnův pomník u cesty na rozhlednu Háj",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Aš",
                 "P6736": "13511"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Smírčí kříže před muzeem v Aši",
-                "P31": "Smírčí kříž",
+                "P31": "http://www.wikidata.org/entity/Q1640496",
+                "P31^label:cs": "Smírčí kříž",
                 "P131^label:cs": "Aš",
                 "P6736": "13510"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kamenný znak města před muzeem v Aši",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Aš",
                 "P6736": "13509"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna se sochou Goetha na Goethově náměstí v Aši",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Aš",
                 "P6736": "13508"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna na Poštovním náměstí v Chebu",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Aš",
                 "P6736": "13507"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha matky s děckem na Masarykově náměstí v Aši",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Aš",
                 "P6736": "13506"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník osvobození na Masarykově náměstí v Aši",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Aš",
                 "P6736": "13504"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna na Masarykově náměstí v Aši",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Aš",
                 "P6736": "13503"
             },

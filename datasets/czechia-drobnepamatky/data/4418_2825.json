@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha šumavského skřítka v parku na náměstí ve Frymburku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Frymburk",
                 "P6736": "19620"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Meteorologický sloup se soškou skřítka u kostela ve Frymburku",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Frymburk",
                 "P6736": "19619"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička u silnice v severní části Přední Výtoně",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Přední Výtoň",
                 "P6736": "15947"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník obětem válek u kostela ve Frymburku",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Frymburk",
                 "P6736": "15920"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Fontána Žába na náměstí ve Frymburku",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Frymburk",
                 "P6736": "15919"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloup s pranýřem na náměstí ve Frymburku",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Frymburk",
                 "P6736": "15918"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník osvobození na náměstí ve Frymburku",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Frymburk",
                 "P6736": "15917"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník Adalberta Stiftera na náměstí ve Frymburku",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Frymburk",
                 "P6736": "15916"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánský sloup na náměstí ve Frymburku",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Frymburk",
                 "P6736": "15915"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna na náměstí ve Frymburku",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Frymburk",
                 "P6736": "15914"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Lipenská víla u cyklostezky z Lipna do Frymburka",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Lipno nad Vltavou",
                 "P6736": "15911"
             },

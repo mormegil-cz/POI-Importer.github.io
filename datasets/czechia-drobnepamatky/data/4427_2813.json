@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Locus perennis, základní nivelační bod u silnice Lišov - Rudolfov",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Lišov",
                 "P6736": "15421"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž východně od Hlincovy Hory u Hlubokého rybníka",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Jivno",
                 "P6736": "1679"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž východně od Hlincovy Hora u pastvin",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hlincová Hora",
                 "P6736": "1519"
             },

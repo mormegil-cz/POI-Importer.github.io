@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Obrázek na skále u cesty kolem Černého rybníka pod hradem Kost",
-                "P31": "Obrázek",
+                "P31": "http://www.wikidata.org/entity/Q478798",
+                "P31^label:cs": "Obrázek",
                 "P131^label:cs": "Dobšín",
                 "P6736": "22791"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Václava u parkoviště pod hradem Kost",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Libošovice",
                 "P6736": "22790"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple svaté Anny na hradě Kost",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Libošovice",
                 "P6736": "22789"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pamětní deska Josefa Pekaře u brány do hradu Kost",
-                "P31": "Pamětní deska",
+                "P31": "http://www.wikidata.org/entity/Q721747",
+                "P31^label:cs": "Pamětní deska",
                 "P131^label:cs": "Libošovice",
                 "P6736": "22788"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna u hradu Kost",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Libošovice",
                 "P6736": "22787"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého u hradu Kost",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Libošovice",
                 "P6736": "22786"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zvonička v Podkosti",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Libošovice",
                 "P6736": "22785"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svaté Anny u zvoničky v Podkosti",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Libošovice",
                 "P6736": "22784"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Donáta na východním okraji Podkosti",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Libošovice",
                 "P6736": "22783"
             },

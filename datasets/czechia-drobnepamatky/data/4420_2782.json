@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "křížek v Mníšku pod Brdy na odbočce na Rymáně",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Mníšek pod Brdy",
                 "P6736": "21423"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy Herkulů na portálu zámku v Mníšku pod Brdy",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Mníšek pod Brdy",
                 "P6736": "20367"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy lvů na bráně k zámku v Mníšku pod Brdy",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Mníšek pod Brdy",
                 "P6736": "20366"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Obelisk v zámeckém parku v Mníšku pod Brdy",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Mníšek pod Brdy",
                 "P6736": "14959"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna v zámeckém parku v Mníšku pod Brdy",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Mníšek pod Brdy",
                 "P6736": "14958"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým ve světových válkách na náměstí v Mníšku pod Brdy",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Mníšek pod Brdy",
                 "P6736": "14957"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého na náměstí v Mníšku pod Brdy",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Mníšek pod Brdy",
                 "P6736": "14956"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník Františka Xavera Svobody na náměstí v Mníšku pod Brdy",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Mníšek pod Brdy",
                 "P6736": "14955"
             },

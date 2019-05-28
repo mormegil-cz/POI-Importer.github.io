@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Ryby v Týnci nad Sázavou",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Týnec nad Sázavou",
                 "P6736": "15483"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zvonička v Chářovicích",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Chářovice",
                 "P6736": "14278"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zvonička v Chlebech u Týnce nad Sázavou",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Chleby",
                 "P6736": "14277"
             },

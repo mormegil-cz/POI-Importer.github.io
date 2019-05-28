@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u domu 97 ve Sněžnické ulici v Jílovém",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Jílové",
                 "P6736": "16149"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník doktora Josefa Prokopa ve Sněžnické ulici v Jílovém",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Jílové",
                 "P6736": "16148"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple ve Sněžníku",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Jílové",
                 "P6736": "16147"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kámen zvaný Zifferstein v lese poblíž cesty z Jílového na Sněžník",
-                "P31": "Památný kámen",
+                "P31": "http://www.wikidata.org/entity/Q11734477",
+                "P31^label:cs": "Památný kámen",
                 "P131^label:cs": "Jílové",
                 "P6736": "16146"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník četaře Tomáše Webera",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Jílové",
                 "P6736": "16145"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička u silnice ve Sněžníku",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Jílové",
                 "P6736": "16144"
             },

@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka v Rudolticích u Sobotína na rozcestí",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Sobotín",
                 "P6736": "22819"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Rudolticích u Sobotína v zahradě domu",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Sobotín",
                 "P6736": "22818"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Dřevěná zvonička v Rudolticích u Sobotína",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Sobotín",
                 "P6736": "16195"
             },

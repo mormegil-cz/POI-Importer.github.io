@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka na křižovatce silnic Dolní Hbity - Smolotely a Horní Líšnice",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Dolní Hbity",
                 "P6736": "17375"
             },

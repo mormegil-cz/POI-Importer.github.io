@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pamětní kříž v lese jihovýchodně od Nového Jáchymova",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hudlice",
                 "P6736": "15454"
             },

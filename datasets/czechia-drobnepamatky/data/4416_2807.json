@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Hraniční kámen na vrcholu Skočického hradu jižně od Skočic",
-                "P31": "Hraniční kámen",
+                "P31": "http://www.wikidata.org/entity/Q921099",
+                "P31^label:cs": "Hraniční kámen",
                 "P131^label:cs": "Skočice",
                 "P6736": "17781"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Obrázek Panny Marie na Skočickém hradě jihozápadně od Skočic",
-                "P31": "Obrázek",
+                "P31": "http://www.wikidata.org/entity/Q478798",
+                "P31^label:cs": "Obrázek",
                 "P131^label:cs": "Skočice",
                 "P6736": "17768"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka svatého Václava jižně od Skočic pod Skočickým hradem",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Skočice",
                 "P6736": "17767"
             },

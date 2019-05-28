@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánská kaplička u kostela v Březně",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Březno",
                 "P6736": "23881"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloup svatého Josefa na rozcestí ulic Dlouhá a Radniční v Březně",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Březno",
                 "P6736": "23880"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník obětí transportů smrti v dubnu 1945 u hřbitova v Březně",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Březno",
                 "P6736": "23879"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika Magická brána-hodiny života u hřbitova v Březně",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Březno",
                 "P6736": "23878"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zvonička na hřbitově v Březně",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Březno",
                 "P6736": "23877"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple Panny Marie u dálnice D7 u Droužkovic",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Droužkovice",
                 "P6736": "23577"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v ulici Rudé Armády v Droužkovicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Droužkovice",
                 "P6736": "23567"
             },

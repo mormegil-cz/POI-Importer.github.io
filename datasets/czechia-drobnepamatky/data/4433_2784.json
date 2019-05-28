@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy sv. Petra a Pavla u Ostředku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Ostředek",
                 "P6736": "19277"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Ostředku",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Ostředek",
                 "P6736": "11255"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zvonička v Ostředku",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Ostředek",
                 "P6736": "11254"
             },

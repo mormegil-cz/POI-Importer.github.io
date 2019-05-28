@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník nejasného účelu v Černovicích",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Černovice",
                 "P6736": "23452"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánský sloup v Černovicích",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Černovice",
                 "P6736": "23451"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička se sochou Krista Trpitele u obecního úřadu v Černovicích",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Černovice",
                 "P6736": "23450"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Smírčí kříž u lesní cesty severně od Černovic",
-                "P31": "Smírčí kříž",
+                "P31": "http://www.wikidata.org/entity/Q1640496",
+                "P31^label:cs": "Smírčí kříž",
                 "P131^label:cs": "Černovice",
                 "P6736": "23449"
             },

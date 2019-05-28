@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kamenná plastika Jaro v parku u ulice Ke Kostelu ve Vtelně",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Most",
                 "P6736": "18899"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v zahradě domu na západním okraji Obrnic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Obrnice",
                 "P6736": "18723"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple Nejsvětější Trojice v Obrnicích",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Obrnice",
                 "P6736": "18722"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Smírčí kříž na rozcestí v Patokryjích",
-                "P31": "Smírčí kříž",
+                "P31": "http://www.wikidata.org/entity/Q1640496",
+                "P31^label:cs": "Smírčí kříž",
                 "P131^label:cs": "Patokryje",
                 "P6736": "18718"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na návsi v Patokryjích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Patokryje",
                 "P6736": "18717"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník osvobození na návsi v Patokryjích",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Patokryje",
                 "P6736": "18716"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha školačky u školy v Zlatnické ulici v Mostě",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Most",
                 "P6736": "17059"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Voda Živel u čističky odpadních vod v Chanovské ulici v Mostě",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Most",
                 "P6736": "17057"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Mosty v nás před Centrem Benedikt v Mostě",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Most",
                 "P6736": "16011"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Podstavec ulomeného kříže v Mostecké ulici ve Vtelně",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Most",
                 "P6736": "16010"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička Libkovické křížové cesty ve Vtelně",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Most",
                 "P6736": "15970"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička Libkovické křížové cesty ve Vtelně",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Most",
                 "P6736": "15969"
             },
@@ -197,7 +209,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička z Libkovické křížové cesty ve Vtelně",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Most",
                 "P6736": "15968"
             },
@@ -213,7 +226,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička z Libkovické křížové cesty umístěné ve Vtelně",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Most",
                 "P6736": "15967"
             },
@@ -229,7 +243,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v parku v ulici Ke Kostelu ve Vtelně",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Most",
                 "P6736": "15966"
             },
@@ -245,7 +260,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Floriána z Kopist u zdi kostela ve Vtelně",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Most",
                 "P6736": "15962"
             },
@@ -261,7 +277,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Floriána z Chanova v ulici Ke Kostelu ve Vtelně",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Most",
                 "P6736": "15961"
             },
@@ -277,7 +294,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Tři přemístěné smírčí kříže v Mostě-Vtelně",
-                "P31": "Smírčí kříž",
+                "P31": "http://www.wikidata.org/entity/Q1640496",
+                "P31^label:cs": "Smírčí kříž",
                 "P131^label:cs": "Most",
                 "P6736": "13947"
             },

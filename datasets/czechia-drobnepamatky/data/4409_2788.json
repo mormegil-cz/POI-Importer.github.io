@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pamětní deska V. Bryndy u zámečku Tři trubky",
-                "P31": "Pamětní deska",
+                "P31": "http://www.wikidata.org/entity/Q721747",
+                "P31^label:cs": "Pamětní deska",
                 "P131^label:cs": "Strašice",
                 "P6736": "18292"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna na nádvoří zámečku Tři trubky",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Strašice",
                 "P6736": "18129"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník lesníka Františka Komance",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Strašice",
                 "P6736": "13041"
             },

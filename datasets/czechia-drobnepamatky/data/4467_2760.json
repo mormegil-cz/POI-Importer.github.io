@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloup s plastikou v Božanově v místě zvaném Červená Hora",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Božanov",
                 "P6736": "22502"
             },

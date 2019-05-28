@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloup se sochou Panny Marie v Horních Domaslavicích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Horní Domaslavice",
                 "P6736": "9331"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Floriána v Horních Domaslavicích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Horní Domaslavice",
                 "P6736": "9330"
             },

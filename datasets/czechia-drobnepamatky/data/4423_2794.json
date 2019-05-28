@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple u Nálesí",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Chyšky",
                 "P6736": "7778"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v zahradě v Ohradě",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Petrovice",
                 "P6736": "7777"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Obděnicích u křižovatky",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Petrovice",
                 "P6736": "7776"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Smírčí kříž západně od Ratiboře",
-                "P31": "Smírčí kříž",
+                "P31": "http://www.wikidata.org/entity/Q1640496",
+                "P31^label:cs": "Smírčí kříž",
                 "P131^label:cs": "Chyšky",
                 "P6736": "2449"
             },

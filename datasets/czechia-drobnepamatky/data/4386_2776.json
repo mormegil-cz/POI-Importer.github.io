@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Neznámý objekt na návsi v Mnichově",
-                "P31": "Neznámý",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Neznámý",
                 "P131^label:cs": "Mnichov",
                 "P6736": "15175"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna na návsi v Mnichově",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Mnichov",
                 "P6736": "15174"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Křížový kámen na návsi v Mnichově",
-                "P31": "Křížový kámen",
+                "P31": "http://www.wikidata.org/entity/Q38411643",
+                "P31^label:cs": "Křížový kámen",
                 "P131^label:cs": "Mnichov",
                 "P6736": "15173"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník na návsi v Mnichově",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Mnichov",
                 "P6736": "15172"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Podstavec před kostelem v Mnichově",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Mnichov",
                 "P6736": "15171"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha u kostela v Mnichově",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Mnichov",
                 "P6736": "15170"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha u kostela v Mnichově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Mnichov",
                 "P6736": "15169"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pamětní kříž před kostelem v Mnichově",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Mnichov",
                 "P6736": "15168"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Křížový kámen v Mnichově jihozápadně od kostelu",
-                "P31": "Křížový kámen",
+                "P31": "http://www.wikidata.org/entity/Q38411643",
+                "P31^label:cs": "Křížový kámen",
                 "P131^label:cs": "Mnichov",
                 "P6736": "15167"
             },

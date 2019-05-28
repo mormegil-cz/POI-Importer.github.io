@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Podstavec s ulomeným křížem u silnice 15 v Třebenicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Třebenice",
                 "P6736": "18299"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým na návsi v Jenčicích",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Jenčice",
                 "P6736": "18297"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple na návsi v Jenčicích",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Jenčice",
                 "P6736": "18296"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Podstavec ulomeného kříže u silnice 15 východně od Jenčic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Jenčice",
                 "P6736": "18295"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička v Bezručově ulici v Třebenicích",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Třebenice",
                 "P6736": "17951"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na rozcestí severně u Chodovlic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Třebenice",
                 "P6736": "17950"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple na návsi v Chodovlicích",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Chodovlice",
                 "P6736": "17949"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na rozcestí u hřbitova v Chodovlicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Chodovlice",
                 "P6736": "17948"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v poli jihozápadně od Třebenic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Třebenice",
                 "P6736": "17910"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na rozcestí ulic Jiráskova a Nádražní v Třebenicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15405"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na rozcestí ulic Kaplířova a Tyršova v Třebenicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15404"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple na hřbitově v Třebenicích",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15403"
             },
@@ -197,7 +209,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Dřevěná zvonice na hřbitově v Třebenicích",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15402"
             },
@@ -213,7 +226,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník Václava Paříka na Paříkově náměstí v Třebenicích",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15401"
             },
@@ -229,7 +243,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna na Paříkově náměstí v Třebenicích",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15400"
             },
@@ -245,7 +260,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánský sloup na Paříkově náměstí v Třebenicích",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15399"
             },
@@ -261,7 +277,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Antonína Paduánského u rybníka v Dlažkovické ulici v Třebenicích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15398"
             },
@@ -277,7 +294,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Podstavec s ulomeným křížem nad tratí u zastávky Třebenice město",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15397"
             },
@@ -293,7 +311,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého na Havlíčkově náměstí v Třebenicích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15396"
             },
@@ -309,7 +328,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple na návsi v Kololeči",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15395"
             },
@@ -325,7 +345,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého na návsi v Kololeči",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15394"
             },
@@ -341,7 +362,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička na rozcestí před Třebenicemi",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Třebenice",
                 "P6736": "15393"
             },
@@ -357,7 +379,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Třebenicích",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Třebenice",
                 "P6736": "9229"
             },
@@ -373,7 +396,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník holokaustu v Třebenicích",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Třebenice",
                 "P6736": "9228"
             },
@@ -389,7 +413,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým legionářům",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Třebenice",
                 "P6736": "9227"
             },

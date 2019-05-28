@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Tři hraniční kameny jihozápadně od Tesáku",
-                "P31": "Hraniční kámen",
+                "P31": "http://www.wikidata.org/entity/Q921099",
+                "P31^label:cs": "Hraniční kámen",
                 "P131^label:cs": "Držková",
                 "P6736": "14195"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pilíř s Pannou Marií Svatohostýnskou u Machovy studánky jihozápadně od Tesáku",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Chvalčov",
                 "P6736": "14142"
             },

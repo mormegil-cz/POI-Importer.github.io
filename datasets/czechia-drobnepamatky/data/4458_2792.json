@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha anděla posledního soudu ve středu Dolního hřbitova ve Žďáře nad Sázavou",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Žďár nad Sázavou",
                 "P6736": "19682"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník legionáře Roberta Krejčího u rekreačního areálu Pilák severně od Žďáru nad Sázavou",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Žďár nad Sázavou",
                 "P6736": "15841"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Hraniční kámen se sochami u Ždáru nad Sázavou",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Žďár nad Sázavou",
                 "P6736": "10685"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloup se sousoším Panny Marie ve Žďáru nad Sázavou",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Žďár nad Sázavou",
                 "P6736": "9493"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým ve Žďáru nad Sázavou",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Žďár nad Sázavou",
                 "P6736": "9488"
             },

@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Heymannova kaple v Duchcově",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Duchcov",
                 "P6736": "17882"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna v zámecké zahradě v Duchcově",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14716"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Moderní socha v parku před zámeckou zahradou v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14715"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník obětem z řad členů Sokola v letech 1938-1945 v ulici Kubicových v Duchcově",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14714"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha ženy v hale nádraží v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14706"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Satyra v zámeckém parku v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14705"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého v zámeckém parku v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14704"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy ve Sfingovém rybníku v zahradě zámku v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14703"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Lví hlava na zdi schodiště do zahrady zámku v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14702"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Ozdobný sloup v zámecké zahradě v Duchcově",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14701"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy na plotě vpravo od brány do zámku v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14700"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy na plotě vlevo od brány zámku v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14699"
             },
@@ -197,7 +209,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Václava před zámkem v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14698"
             },
@@ -213,7 +226,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Prokopa před zámkem v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14697"
             },
@@ -229,7 +243,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloup svatého Vavřince na náměstí Jiřího z Poděbrad v Duchcově",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14696"
             },
@@ -245,7 +260,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník osvobození v Lipové ulici v Duchcově",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14695"
             },
@@ -261,7 +277,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého u kaple svaté Barbory v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14693"
             },
@@ -277,7 +294,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple svaté Barbory v Duchcově",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14692"
             },
@@ -293,7 +311,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník obětí holokaustu v Lipové ulici v Duchcově",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14691"
             },
@@ -309,7 +328,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník obětem okupace 1939-1945 v Lipové ulici v Duchcově",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14690"
             },
@@ -325,7 +345,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník básníka Walthera von der Vogelweide v parku v Tyršově ulici v Duchcově",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14689"
             },
@@ -341,7 +362,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Busta Bedřicha Smetany ve Smetanových sadech v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14688"
             },
@@ -357,7 +379,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Busta Ludwiga van Beethovena ve Smetanových sadech v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14687"
             },
@@ -373,7 +396,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník Karla Havlíčka Borovského před gymnáziem v Duchcově",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14686"
             },
@@ -389,7 +413,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník Antonína Sochora před školou v Osecké ulici v Duchcově",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14685"
             },
@@ -405,7 +430,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Barokní kříž u stadionu v Teplické ulici v Duchcově",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Duchcov",
                 "P6736": "14684"
             },
@@ -421,7 +447,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník Duchcovského viaduktu v Duchcově",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Duchcov",
                 "P6736": "13622"
             },
@@ -437,7 +464,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Nejsvětější Trojice v zámeckém parku v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "13621"
             },
@@ -453,7 +481,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Morový sloup na náměstí Republiky v Duchcově",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Duchcov",
                 "P6736": "13620"
             },
@@ -469,7 +498,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna na náměstí Republiky v Duchcově",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Duchcov",
                 "P6736": "13619"
             },
@@ -485,7 +515,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Niké v zámeckém parku v Duchcově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Duchcov",
                 "P6736": "13618"
             },
@@ -501,7 +532,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna na terase u zámku v Duchcově",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Duchcov",
                 "P6736": "13617"
             },
@@ -517,7 +549,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Duchcově",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Duchcov",
                 "P6736": "9423"
             },

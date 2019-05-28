@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zvonička u Ivančic uvnitř Stromokruhu Evropy",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Ivančice",
                 "P6736": "23050"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u kaple svatého Jakuba nad Ivančicemi",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ivančice",
                 "P6736": "23044"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple svatého Jakuba nad Ivančicemi",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Ivančice",
                 "P6736": "23043"
             },

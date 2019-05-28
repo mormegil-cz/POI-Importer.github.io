@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Keramická plastika Páv v zahradě školy v Školní ulici na Bukově",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "18865"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloupová plastika v ulici Dukelských hrdinů na Bukově",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "18864"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Prokopa v zahradě domu v ulici Pod Vodojemem ve Všebořicích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "16710"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha dětí před školou v ulici Pod Vodojemem ve Všebořicích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "16709"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Danae v parčíku v Masarykově ulici na Bukově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "16708"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha ptáka na dětském hřišti v Lipové ulici ve Všebořicích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "14734"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Rodina v Plynárenské ulici ve Všebořicích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "14733"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník osvobození na návsi v Habrovicích",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "14723"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na návsi v Habrovicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "14722"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v Habrovicích",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "14721"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník obětem v letech 1939 - 1945 v Habrovicích",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "14720"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Polní ulici ve Skoroticích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "14680"
             },
@@ -197,7 +209,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na rozcestí Kostelní a Polní ulice ve Skoroticích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "14679"
             },
@@ -213,7 +226,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v areálu zrušeného hřbitova u kostela ve Skoroticích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "14678"
             },
@@ -229,7 +243,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž ve Skoroticích v ulici Osvoboditelů",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "14677"
             },
@@ -245,7 +260,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na bývalé návsi zaniklé obce Podhoří poblíž Všebořic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13829"
             },
@@ -261,7 +277,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník osvobození na rohu ulic Masarykova a Kosmova",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13363"
             },
@@ -277,7 +294,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník kapitána Jaroše v parčíku na rohu ulic Masarykova a Kapitána Jaroše na Bukově",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13362"
             },
@@ -293,7 +311,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u kostela svatého Michala ve Všebořicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13358"
             },
@@ -309,7 +328,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka u hasičské stanice v Plynárenské ulici ve Všebořicích",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13356"
             },
@@ -325,7 +345,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v obci Strážky",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13335"
             },
@@ -341,7 +362,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v obci Strážky u rozcestí na Habrovice",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13333"
             },
@@ -357,7 +379,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kovaný křížek u kostela v Šebořicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13305"
             },
@@ -373,7 +396,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kamenný křížek ve Všebořicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "13304"
             },
@@ -389,7 +413,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým ve Skoroticích",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Ústí nad Labem",
                 "P6736": "9580"
             },

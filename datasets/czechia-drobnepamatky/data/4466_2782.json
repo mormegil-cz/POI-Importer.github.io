@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Smírčí kříž ve Višňárech v zahradě u samoty",
-                "P31": "Smírčí kříž",
+                "P31": "http://www.wikidata.org/entity/Q1640496",
+                "P31^label:cs": "Smírčí kříž",
                 "P131^label:cs": "Morašice",
                 "P6736": "21806"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž ve Višňárech",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Morašice",
                 "P6736": "21669"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž jihozápadně od Litomyšle v místě zvaném Šibeniční vrch",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Litomyšl",
                 "P6736": "21668"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Litomyšli v ulici Na Lánech",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Litomyšl",
                 "P6736": "17545"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž severně od Nedošína",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Litomyšl",
                 "P6736": "12358"
             },

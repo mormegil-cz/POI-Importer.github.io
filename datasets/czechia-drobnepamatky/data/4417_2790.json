@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Křížek u Jablonné",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Jablonná",
                 "P6736": "19256"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u Jablonné",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Jablonná",
                 "P6736": "19255"
             },

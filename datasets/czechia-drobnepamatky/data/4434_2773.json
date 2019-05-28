@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v 1 a 2 sv. válce u hlavní silnice východně od kostela sv. Petra ve Velence",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Velenka",
                 "P6736": "21565"
             },

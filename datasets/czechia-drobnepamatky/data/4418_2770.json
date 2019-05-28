@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zvonice v Želenicích u Kladna",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Želenice",
                 "P6736": "17357"
             },

@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Hraniční kámen u silnice ve východní části Všetat",
-                "P31": "Hraniční kámen",
+                "P31": "http://www.wikidata.org/entity/Q921099",
+                "P31^label:cs": "Hraniční kámen",
                 "P131^label:cs": "Všetaty",
                 "P6736": "16631"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Hraniční kámen u silnice ve východní části Všetat",
-                "P31": "Hraniční kámen",
+                "P31": "http://www.wikidata.org/entity/Q921099",
+                "P31^label:cs": "Hraniční kámen",
                 "P131^label:cs": "Všetaty",
                 "P6736": "16630"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zvonička na východním okraji Všetat",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Všetaty",
                 "P6736": "16529"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánský sloup západně od zámku ve Všetatech",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Všetaty",
                 "P6736": "16528"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým ve Všetatech u Rakovníka",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Všetaty",
                 "P6736": "10436"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička v Lašovicích",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Lašovice",
                 "P6736": "10433"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Lašovicích",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Lašovice",
                 "P6736": "10432"
             },

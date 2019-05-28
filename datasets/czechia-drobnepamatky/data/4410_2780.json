@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Hraniční kámen jihovýchodně od Skryje",
-                "P31": "Hraniční kámen",
+                "P31": "http://www.wikidata.org/entity/Q921099",
+                "P31^label:cs": "Hraniční kámen",
                 "P131^label:cs": "Skryje",
                 "P6736": "15472"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Hraniční kámen u silnice západně od Broum",
-                "P31": "Hraniční kámen",
+                "P31": "http://www.wikidata.org/entity/Q921099",
+                "P31^label:cs": "Hraniční kámen",
                 "P131^label:cs": "Skryje",
                 "P6736": "15471"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Hraniční kámen číslo 102 jihozápadně od Broum",
-                "P31": "Hraniční kámen",
+                "P31": "http://www.wikidata.org/entity/Q921099",
+                "P31^label:cs": "Hraniční kámen",
                 "P131^label:cs": "Ostrovec-Lhotka",
                 "P6736": "12789"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pamětní kříž severozápadně od Broum",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Broumy",
                 "P6736": "12782"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž východně od Broum",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Skryje",
                 "P6736": "8950"
             },

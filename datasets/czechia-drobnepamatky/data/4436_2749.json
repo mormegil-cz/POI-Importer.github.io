@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánský sloup na náměstí 1. Máje v Chrastavě",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Chrastava",
                 "P6736": "9357"
             },

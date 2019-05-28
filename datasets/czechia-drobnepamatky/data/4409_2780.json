@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Hraniční kámen číslo 101 jihozápadně od Broum",
-                "P31": "Hraniční kámen",
+                "P31": "http://www.wikidata.org/entity/Q921099",
+                "P31^label:cs": "Hraniční kámen",
                 "P131^label:cs": "Ostrovec-Lhotka",
                 "P6736": "12788"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Hraniční kámen číslo 99 jihozápadně od Broum",
-                "P31": "Hraniční kámen",
+                "P31": "http://www.wikidata.org/entity/Q921099",
+                "P31^label:cs": "Hraniční kámen",
                 "P131^label:cs": "Ostrovec-Lhotka",
                 "P6736": "12787"
             },

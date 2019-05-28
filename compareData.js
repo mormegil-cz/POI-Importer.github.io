@@ -62,14 +62,30 @@ function compareDataOsm(tiles, resultData)
 	}
 }
 
-function parseWktLiteral(pointLiteral) {
-	// TODO
-	return pointLiteral;
-}
-
 function convertWikidataItem(settings, element) {
-	// TODO
-	return { tags: element };
+	var tags = {};
+	for (var i = 0; i < settings.tagmatch.length; ++i) {
+		var tag = settings.tagmatch[i];
+		var varName = tag.key.replace('^', '_').replace(':', '_');
+		if (element.hasOwnProperty(varName)) {
+			var data = element[varName];
+			var valueRaw = data.value;
+			var value = valueRaw;
+			/*
+			switch(data.type) {
+				case "uri":
+					"http://www.wikidata.org/entity/" removal?
+					break;
+
+				default:
+					value = valueRaw;
+					break;
+			}
+			*/
+			tags[tag.key] = value;
+		}
+	}
+	return { tags: tags, item: element.item.value };
 }
 
 function compareDataWikidata(tiles, resultData)
@@ -106,7 +122,7 @@ function compareDataWikidata(tiles, resultData)
 			for (var i = 0; i < tiles[d].osmData.length; i++)
 			{
 				var element = tiles[d].osmData[i];
-				var elementCenter = parseWktLiteral(element.coords.value);
+				var elementCenter = {lat: element.lat.value, lon: element.lon.value};
 				if (geoHelper.getDistance(elementCenter, point.coordinates) > settings.dist)
 					continue;
 

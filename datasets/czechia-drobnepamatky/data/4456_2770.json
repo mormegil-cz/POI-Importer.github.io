@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v ulici Za Hřbitovem v Pouchově",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "17170"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým občanům Věkoš v první světové válce",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "17169"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž na rozcestí ve Věkoších v Hradci Králové",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "17168"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple Neposkvrněného početí Panny Marie na Slezském Předměstí v Hradci Králové",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "17167"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka na rozcestí v ulici Kladská v Hradci Králové",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "17166"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple svatého Josefa u kostela Nanebevzetí Panny Marie na Velkém náměstí v Hradci Králové",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "17141"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple svatého Klimenta na Velkém náměstí v Hradci Králové",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "17140"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "patník na Pospíšilově třídě v Hradci Králové",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16923"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Studna s mříží na Velkém náměstí v Hradci Králové",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16885"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Vítěze před budovou gymnázia Josefa Kajetána Tyla v Hradci Králové",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16883"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Abstraktní skulptura před nákupním centrem ve Věkoších",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16877"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika Milenci u Klicperova divadla v Hradci Králové",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16876"
             },
@@ -197,7 +209,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Evy před budovou Klicperova divadla v Hradci Králové",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16875"
             },
@@ -213,7 +226,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v bitvě u Hradce Králové roku 1866 na vojenském hřbitově v Pouchově",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16869"
             },
@@ -229,7 +243,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník Tomáše Garrique Masaryka na Masarykově náměstí v Hradci Králové",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16867"
             },
@@ -245,7 +260,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým Rudoarmějcům na vojenském hřbitově v Pouchově",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16866"
             },
@@ -261,7 +277,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v první světové válce v Pouchově",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16860"
             },
@@ -277,7 +294,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u hřbitova při kostelu svatého Pavla v Pouchově",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16858"
             },
@@ -293,7 +311,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v parku u hřbitova v Pouchově",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16857"
             },
@@ -309,7 +328,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Barokní kašna se sousoším svatého Jana Nepomuckého na Malém náměstí v Hradci Králové",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16856"
             },
@@ -325,7 +345,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zvonička ve Věkoších",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16855"
             },
@@ -341,7 +362,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník Jana Žižky v Hradci Králové",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16854"
             },
@@ -357,7 +379,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník Ladislava Jana Pospíšila v Hradci Králové",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16853"
             },
@@ -373,7 +396,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž před katedrálou Svatého Ducha na Velkém náměstí v Hradci Králové",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16851"
             },
@@ -389,7 +413,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník mistra Jana Husa u kostela Českobratrské církve evangelické v Hradci Králové",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16850"
             },
@@ -405,7 +430,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník Karla Šimka v Hradci Králové",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16849"
             },
@@ -421,7 +447,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník k poctě Aloise Jiráska a jeho Bratrstva v Hradci Králové",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16847"
             },
@@ -437,7 +464,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník mistra Jana Husa v Pouchově",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16846"
             },
@@ -453,7 +481,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "pomník padlým ve světových válkách a obětem nacistického a komunistického teroru u haly TJ Sokol Hradec Králové",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16785"
             },
@@ -469,7 +498,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "umělecká plastika kočky před Dětským denním rehabilitačním stacionářem v Hradci Králové",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16779"
             },
@@ -485,7 +515,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "socha Boženy Němcové před budovou Gymnazia Boženy Němcové v Hradci Králové",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16776"
             },
@@ -501,7 +532,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Květ Polabí na třídě SNP v Hradci Králové",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16769"
             },
@@ -517,7 +549,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlých ve světových válkách na třídě SNP v Hradci Králové",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16768"
             },
@@ -533,7 +566,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička Marie Panny Pomocné na Slezském Předměstí v Hradci Králové",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16721"
             },
@@ -549,7 +583,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Obelisk věnovaný památce Jana Voneše",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16720"
             },
@@ -565,7 +600,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Marka u kaple Neposkvrněného početí Panny Marie v Hradci Králové",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "16719"
             },
@@ -581,7 +617,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého v Hradci Králové - Pouchově",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "9274"
             },
@@ -597,7 +634,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Morový sloup na Velkém náměstí v Hradci Králové",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Hradec Králové",
                 "P6736": "9273"
             },

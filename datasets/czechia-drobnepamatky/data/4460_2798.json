@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Analematické sluneční hodiny západně od Dolních Borů",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Bory",
                 "P6736": "17533"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Replika historické dřevěné pumpy u rybníku Dolní Borek západně od Dolních Borů",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Bory",
                 "P6736": "17530"
             },

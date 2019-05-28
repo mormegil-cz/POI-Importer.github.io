@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "kříž před kostelem Jana Křtitele",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Velká Bíteš",
                 "P6736": "22717"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým ve Velké Bíteši",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Velká Bíteš",
                 "P6736": "9676"
             },

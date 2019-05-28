@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Podstavec ve výklenku u rybníka Doly",
-                "P31": "Neznámý",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Neznámý",
                 "P131^label:cs": "Mladějov",
                 "P6736": "8007"
             },

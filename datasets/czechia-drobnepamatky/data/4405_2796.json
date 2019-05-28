@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž pod zámkem Zelená Hora",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Klášter",
                 "P6736": "18310"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž severně od Kozlovic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Kozlovice",
                 "P6736": "9971"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zvonička severně od Kozlovic",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "9970"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika v Nepomuku u ulice Na Vinici",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "9969"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple ve Dvorci v ulici Ke Dvorům",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8543"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička v Nepomuku v Třebčické ulici",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8542"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka v Nepomuku v Třebčické ulici",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8541"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník v Nepomuku v Nádražní ulici",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8540"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku v Nádražní ulici",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8539"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku v Husově ulici",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8538"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika v Nepomuku v ulici U Pošty",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8537"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku v Plzeňské ulici u křižovatky",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8536"
             },
@@ -197,7 +209,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku v ulici Za Kostelem",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8532"
             },
@@ -213,7 +226,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku v Pivovarské ulici",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8529"
             },
@@ -229,7 +243,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika v Nepomuku v Zelenohorské ulici",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8528"
             },
@@ -245,7 +260,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Krista Trpitele severně od Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Klášter",
                 "P6736": "8527"
             },
@@ -261,7 +277,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého v Nepomuku v Zelenohorské ulici",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Klášter",
                 "P6736": "8526"
             },
@@ -277,7 +294,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník v Nepomuku v ulici Na Vinici I",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8525"
             },
@@ -293,7 +311,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika v Nepomuku v ulici U sokolovny",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8524"
             },
@@ -309,7 +328,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka severně od Nepomuku",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Klášter",
                 "P6736": "8523"
             },
@@ -325,7 +345,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička východně od Nepomuku",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Klášter",
                 "P6736": "8522"
             },
@@ -341,7 +362,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník mezi Nepomukem a Dvorcem",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Klášter",
                 "P6736": "8521"
             },
@@ -357,7 +379,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž ve Dvorci v Rožmitálské ulici",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8520"
             },
@@ -373,7 +396,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Medvědi v Družstevní ulici v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8332"
             },
@@ -389,7 +413,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Kohout v Družstevní ulici v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8331"
             },
@@ -405,7 +430,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Páv v Družstevní ulici v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "8329"
             },
@@ -421,7 +447,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého u Třebčic",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Třebčice",
                 "P6736": "7439"
             },
@@ -437,7 +464,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Třebčicích",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Třebčice",
                 "P6736": "7438"
             },
@@ -453,7 +481,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v Třebčicích",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Třebčice",
                 "P6736": "7437"
             },
@@ -469,7 +498,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž západně od Třebčic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Třebčice",
                 "P6736": "7436"
             },
@@ -485,7 +515,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka severozápadně od Třebčic",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Třebčice",
                 "P6736": "7435"
             },
@@ -501,7 +532,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž ve Dvorci v Tojické ulici",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "7434"
             },
@@ -517,7 +549,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika v Nepomuku II",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6037"
             },
@@ -533,7 +566,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika v Nepomuku I",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6036"
             },
@@ -549,7 +583,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku XI",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6035"
             },
@@ -565,7 +600,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku VIII",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6033"
             },
@@ -581,7 +617,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku IX",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6034"
             },
@@ -597,7 +634,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku VII",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6032"
             },
@@ -613,7 +651,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku VI",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6031"
             },
@@ -629,7 +668,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku V",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6030"
             },
@@ -645,7 +685,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku IV",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6029"
             },
@@ -661,7 +702,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku III",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6028"
             },
@@ -677,7 +719,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku II",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6027"
             },
@@ -693,7 +736,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Nepomuku I",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6026"
             },
@@ -709,7 +753,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna se sochou Panny Marie v Nepomuku",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6025"
             },
@@ -725,7 +770,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Nepomuku",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6024"
             },
@@ -741,7 +787,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6023"
             },
@@ -757,7 +804,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u kostela v Nepomuku",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6022"
             },
@@ -773,7 +821,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší v reliéfu v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6021"
             },
@@ -789,7 +838,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Prokopa v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6020"
             },
@@ -805,7 +855,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svaté Anežky české v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6019"
             },
@@ -821,7 +872,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Vojtěcha v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6018"
             },
@@ -837,7 +889,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svaté Ludmily v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6017"
             },
@@ -853,7 +906,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Václava v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6016"
             },
@@ -869,7 +923,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha u zdi kostela v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6015"
             },
@@ -885,7 +940,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha u náměstí v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6014"
             },
@@ -901,7 +957,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika v Nepomuku v Plzeňské ulici",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "6013"
             },
@@ -917,7 +974,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple severně od Nepomuku",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "5984"
             },
@@ -933,7 +991,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Františka Palackého v Nepomuku",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "5983"
             },
@@ -949,7 +1008,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž jižně od Nepomuku u cesty do Kozlovic",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "5980"
             },
@@ -965,7 +1025,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž jihovýchodně od Nepomuku",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Nepomuk",
                 "P6736": "5979"
             },
@@ -981,7 +1042,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka severně od Mileče",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Mileč",
                 "P6736": "5978"
             },

@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kámen Čertův kámen severovýchodně od Mutějovic",
-                "P31": "Památný kámen",
+                "P31": "http://www.wikidata.org/entity/Q11734477",
+                "P31^label:cs": "Památný kámen",
                 "P131^label:cs": "Mutějovice",
                 "P6736": "2115"
             },

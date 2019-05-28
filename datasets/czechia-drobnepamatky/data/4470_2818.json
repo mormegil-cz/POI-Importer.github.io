@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Křížek u rozhledny na okraji Drnholce",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Drnholec",
                 "P6736": "15414"
             },

@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "kaple v Malé Lečici",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Bojanovice",
                 "P6736": "21289"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "pomník obětem války před bývalou školou v Malé Lečici",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Bojanovice",
                 "P6736": "21288"
             },

@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Masarykův pomník u Masarykovy chaty pod Šerlichem",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Deštné v Orlických horách",
                 "P6736": "21791"
             },

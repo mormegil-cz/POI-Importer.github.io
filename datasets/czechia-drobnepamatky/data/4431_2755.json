@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánský sloup na rozcestí v Okrouhlické ulici v Mimoni",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Mimoň",
                 "P6736": "22472"
             },

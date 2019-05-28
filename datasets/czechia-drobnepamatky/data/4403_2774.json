@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Neznámý objekt na návsi v Kosobodech",
-                "P31": "Neznámý",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Neznámý",
                 "P131^label:cs": "Jesenice",
                 "P6736": "25601"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Hraniční kámen u silnice na Jesenici v Kosobodech",
-                "P31": "Hraniční kámen",
+                "P31": "http://www.wikidata.org/entity/Q921099",
+                "P31^label:cs": "Hraniční kámen",
                 "P131^label:cs": "Jesenice",
                 "P6736": "25600"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple v Kosobodech",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Jesenice",
                 "P6736": "7547"
             },

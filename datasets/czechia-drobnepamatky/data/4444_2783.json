@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Litinový kříž na pískovcovém podstavci s kovaným zábradlím",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Hraběšín",
                 "P6736": "21106"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník k výročí vlády císaře a krále Františka Josefa I.",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Hraběšín",
                 "P6736": "21045"
             },

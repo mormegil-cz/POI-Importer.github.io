@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Vojtěcha v zahradě domu v ulici Sokolský Vrch v Benešově nad Ploučnicí",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Benešov nad Ploučnicí",
                 "P6736": "19758"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Gloriet (altán) na Ploučnické vyhlídce v Benešově nad Ploučnicí",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Benešov nad Ploučnicí",
                 "P6736": "19757"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník Jana Švermy v Českolipské ulici v Benešově nad Ploučnicí",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Benešov nad Ploučnicí",
                 "P6736": "19755"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple Panny Marie Bolestné v Kostelní ulici v Benešově nad Ploučnicí",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Benešov nad Ploučnicí",
                 "P6736": "19752"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník osvobození v parku v Děčínské ulici v Benešově nad Ploučnicí",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Benešov nad Ploučnicí",
                 "P6736": "19749"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší Kalvárie u Horního zámku v Benešově nad Ploučnicí",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Benešov nad Ploučnicí",
                 "P6736": "17164"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna v zahradě Dolního zámku v Benešově nad Ploučnicí",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Benešov nad Ploučnicí",
                 "P6736": "17162"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy na náměstí u Dolního zámku v Benešově nad Ploučnicí",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Benešov nad Ploučnicí",
                 "P6736": "13616"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánský sloup na náměstí Míru v Benešově nad Ploučnicí",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Benešov nad Ploučnicí",
                 "P6736": "13613"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánský sloup v Benešově nad Ploučnicí",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Benešov nad Ploučnicí",
                 "P6736": "9521"
             },

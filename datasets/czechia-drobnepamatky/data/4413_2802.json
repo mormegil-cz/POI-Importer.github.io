@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší Blahoslavené Panny Marie na Maltézském náměstí v Radomyšli",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Radomyšl",
                 "P6736": "16748"
             },

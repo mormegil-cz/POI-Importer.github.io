@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Eliášova kaple v Hradišti",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Znojmo",
                 "P6736": "13453"
             },

@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Betlémská kaple v areálu poutního místa Rokole",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Bohdašín",
                 "P6736": "25793"
             },

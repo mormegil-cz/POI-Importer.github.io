@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Lichtenštejnský kříž v Mutěnicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Mutěnice",
                 "P6736": "9189"
             },

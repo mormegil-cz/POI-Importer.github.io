@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "křížek při u Černolic při silnici Řitka - Všenory",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Černolice",
                 "P6736": "21101"
             },

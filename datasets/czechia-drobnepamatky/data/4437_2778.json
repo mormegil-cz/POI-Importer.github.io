@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Lechův kámen u Kouřimi",
-                "P31": "Památný kámen",
+                "P31": "http://www.wikidata.org/entity/Q11734477",
+                "P31^label:cs": "Památný kámen",
                 "P131^label:cs": "Kouřim",
                 "P6736": "15222"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple svatého Víta na hradišti Stará Kouřim u Kouřimi",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Kouřim",
                 "P6736": "13913"
             },

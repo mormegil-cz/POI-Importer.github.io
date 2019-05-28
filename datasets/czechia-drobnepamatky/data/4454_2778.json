@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Dřevěná zvonička na návsi v Třebosicích",
-                "P31": "Zvonička",
+                "P31": "http://www.wikidata.org/entity/Q10861631",
+                "P31^label:cs": "Zvonička",
                 "P131^label:cs": "Třebosice",
                 "P6736": "16246"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha sv. Jana Nepomuckého na návsi v Třebosicích",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Třebosice",
                 "P6736": "16245"
             },

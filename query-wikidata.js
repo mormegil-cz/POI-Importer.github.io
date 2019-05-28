@@ -48,12 +48,12 @@ var queryProviderWikidata = {
         return state;
     },
     finishQuery: function(state) {
-        var result = ["SELECT ?item ?tileName ?coords "];
+        var result = ["SELECT ?item ?tileName ?lat ?lon "];
         for (var varName in state.variables) {
             if (!state.variables.hasOwnProperty(varName)) continue;
             result.push(varName + " ");
         }
-        result.push("WHERE { ");
+        result.push("WHERE { BIND(geof:latitude(?coords) AS ?lat). BIND(geof:longitude(?coords) AS ?lon). ");
         result.push(state.query.join(''));
         result.push(" }");
         return result.join('');

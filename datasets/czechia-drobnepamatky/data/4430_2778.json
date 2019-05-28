@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Padesátá rovnoběžka v Říčanech",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Říčany",
                 "P6736": "13742"
             },

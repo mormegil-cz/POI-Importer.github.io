@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Menhir Kamenný pastýř u Klobuk",
-                "P31": "Menhir",
+                "P31": "http://www.wikidata.org/entity/Q193475",
+                "P31^label:cs": "Menhir",
                 "P131^label:cs": "Klobuky",
                 "P6736": "8936"
             },

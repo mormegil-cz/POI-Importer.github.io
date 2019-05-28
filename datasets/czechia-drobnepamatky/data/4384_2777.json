@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Danzerova boží muka u Pramenů",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Prameny",
                 "P6736": "24041"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pamětní kříž v lese na křižovatce severozápadně od Kladské",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Mariánské Lázně",
                 "P6736": "15007"
             },

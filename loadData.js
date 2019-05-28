@@ -32,7 +32,6 @@ function loadDatasets()
 					if (req.readyState != 4)
 					    return;
 					var response = req.responseText;
-					console.debug('Dataset received');
 					if (response == '')
 					    return;
 					var settings = JSON.parse(response);
@@ -129,12 +128,13 @@ function loadData()
 				    // }
 					req.onreadystatechange = function()
 					{
-						if (req.readyState != 4)
-						    return;
+						if (req.readyState != 4) return;
 						var response = req.responseText;
-						console.debug("Tile received");
-						if (response == '')
-						    return;
+						if (req.status >= 400) {
+							// console.error(req.response);
+							return;
+						}
+						if (!response) return;
 					    
 						var data = geojsonToPointlist(JSON.parse(response));
 						tiledData[datasetName][tileName].data = data;
@@ -142,7 +142,6 @@ function loadData()
 							displayPoint(datasetName, tileName, p);
 						loadOverpass();
 					}
-					console.debug("Reading tiles for ", tileName);
 					req.open("GET", source + tileName + ".json", true);
 				    try { req.send(null); } catch (e) {}
 				})(datasetName, tileName, settings.url + "data/");
@@ -159,7 +158,6 @@ function loadOverpass()
 	if (queryStatus.busy)
 	{
 		queryStatus.waiting = true;
-		console.debug("Queuing Overpass");
 		return;
 	}
 	queryStatus.waiting = false;
@@ -200,7 +198,6 @@ function loadOverpass()
 				var currentQueryType = settings.queryType || 'osm';
 				if (queryType && currentQueryType !== queryType) {
 					queryStatus.waiting = true;
-					console.debug("Queueing additional query type", currentQueryType);
 					continue;
 				}
 				if (!queryType) {

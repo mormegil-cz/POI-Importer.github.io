@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "jeskyně Harfenice západně od Tupadel",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Tupadly",
                 "P6736": "11853"
             },

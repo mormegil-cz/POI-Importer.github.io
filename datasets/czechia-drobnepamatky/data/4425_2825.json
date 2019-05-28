@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Studniční kaple poblíž poutního kostela Panny Marie Sněžné v lokalitě Svatý Kámen",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Dolní Dvořiště",
                 "P6736": "15873"
             },

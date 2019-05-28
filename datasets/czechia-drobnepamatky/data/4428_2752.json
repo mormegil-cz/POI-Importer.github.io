@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Záhořínská kaplička v lese východně od Sloupu v Čechách",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Sloup v Čechách",
                 "P6736": "13840"
             },

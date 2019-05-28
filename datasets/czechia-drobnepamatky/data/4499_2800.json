@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomníček umělců Ondrúška a Táborského u cesty na zříceninu Obřany",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Chvalčov",
                 "P6736": "17977"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Dřevěná socha Portáše na horské louce Klapinov severovýchodně od Rusavy-Hořansko",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Rusava",
                 "P6736": "14238"
             },

@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Šestiboká kaple",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Sušice",
                 "P6736": "14948"
             },

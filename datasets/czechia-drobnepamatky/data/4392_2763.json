@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika v zaniklé obci Konigmuhle východně od Háje u Loučné pod Klínovcem",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Loučná pod Klínovcem",
                 "P6736": "17588"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika v zaniklé obci Konigmuhle východně od Háje u Loučné pod Klínovcem",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Loučná pod Klínovcem",
                 "P6736": "17587"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pamětní kříž v zaniklé obci Konigsmuhle východně od Háje u Loučné pod Klínovcem",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Loučná pod Klínovcem",
                 "P6736": "17586"
             },

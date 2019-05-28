@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Svatojakubský sloup u nádraží Jedlová",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Jiřetín pod Jedlovou",
                 "P6736": "9455"
             },

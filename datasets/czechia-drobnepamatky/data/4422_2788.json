@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Křížek na návsi v Křepenicích",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Křepenice",
                 "P6736": "19406"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple na návsi v Křepenicích",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Křepenice",
                 "P6736": "19405"
             },

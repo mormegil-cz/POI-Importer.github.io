@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Křížek u křižovatky",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Vysoký Chlumec",
                 "P6736": "19693"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž východně od Vysokého Chlumce",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Vysoký Chlumec",
                 "P6736": "2724"
             },

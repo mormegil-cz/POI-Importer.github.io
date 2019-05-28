@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým 1939-45 v hale hlavního nádraží v Plzni",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25477"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší ve štítě Měšťanské Besedy v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25476"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kamenné plastiky na Domě techniky v Plzni",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25475"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kovová plastika v Křižíkových sadech v Plzni",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25474"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Obrázek svatého Václava na domě Dřevěná 4 v Plzni",
-                "P31": "Obrázek",
+                "P31": "http://www.wikidata.org/entity/Q478798",
+                "P31^label:cs": "Obrázek",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25473"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Obrázek na domě 236/37 na náměstí Republiky v Plzni",
-                "P31": "Obrázek",
+                "P31": "http://www.wikidata.org/entity/Q478798",
+                "P31^label:cs": "Obrázek",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25472"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pamětní deska Josefa Vojtěcha Sedláčka na Studijní a vědecké knihovně v Plzni",
-                "P31": "Pamětní deska",
+                "P31": "http://www.wikidata.org/entity/Q721747",
+                "P31^label:cs": "Pamětní deska",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25471"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha jezdce na domě Dřevěná 8 v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25466"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pamětní deska Bedřicha Smetany na zdi kláštera dominikánek v Plzni",
-                "P31": "Pamětní deska",
+                "P31": "http://www.wikidata.org/entity/Q721747",
+                "P31^label:cs": "Pamětní deska",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25465"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy nad portálem kláštera dominikánek z ulice Bedřicha Smetany v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25464"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svaté Anny na průčelí kostela svaté Anny v Bezručově ulici v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25463"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy nad portálem kláštera dominikánek z Bezručovy ulice v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25462"
             },
@@ -197,7 +209,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha zbrojnoše na rohu domu 104/11 na náměstí Republiky v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25461"
             },
@@ -213,7 +226,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Obrázek Nejsvětější Trojice na domě 138/24 na náměstí Republiky v Plzni",
-                "P31": "Obrázek",
+                "P31": "http://www.wikidata.org/entity/Q478798",
+                "P31^label:cs": "Obrázek",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25460"
             },
@@ -229,7 +243,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Víta na rohu domu 206/32 na náměstí Republiky v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25459"
             },
@@ -245,7 +260,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha rytíře Žumbery na domě 290/41 na náměstí Republiky v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25458"
             },
@@ -261,7 +277,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník generála Pattona v sadech Pětatřicátníků v Plzni",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25457"
             },
@@ -277,7 +294,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna u Tylova divadla v Plzni",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25456"
             },
@@ -293,7 +311,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy v ostění západního portálu kostela svatého Bartoloměje v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25455"
             },
@@ -309,7 +328,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší Drama na štítě Tylova divadla v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25454"
             },
@@ -325,7 +345,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší Opera na štítě Tylova divadla v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25453"
             },
@@ -341,7 +362,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník Václava Trojana v parku u Mlýnské strouhy v Plzni",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25452"
             },
@@ -357,7 +379,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy ve štítě domu 36 na náměstí Republiky v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25450"
             },
@@ -373,7 +396,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Panny Marie ve štítě kostela Nanebevzetí Panny Marie v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25449"
             },
@@ -389,7 +413,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha vlevo ve štítě spořitelny ve Františkánské ulici v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25448"
             },
@@ -405,7 +430,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha vpravo na štítě spořitelny ve Františkánské ulici v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25447"
             },
@@ -421,7 +447,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy na štítě domu Kopeckého sady 7 v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25446"
             },
@@ -437,7 +464,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sochy dětí na průčelí Západočeského muzea v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "25445"
             },
@@ -453,7 +481,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník kasáren Prokopa Holého v Plzni",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "19005"
             },
@@ -469,7 +498,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník znovuotevření velké synagogy v Plzni",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "15265"
             },
@@ -485,7 +515,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník obětem nacismu u Cukrovarské ulice v Plzni",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Plzeň",
                 "P6736": "11422"
             },
@@ -501,7 +532,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník Milady Horákové v Plzni",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "11111"
             },
@@ -517,7 +549,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna ve Smetanových sadech v Plzni",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10879"
             },
@@ -533,7 +566,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník Jana Koziny v Plzeňském pivovoru",
-                "P31": "Pamětní deska",
+                "P31": "http://www.wikidata.org/entity/Q721747",
+                "P31^label:cs": "Pamětní deska",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10878"
             },
@@ -549,7 +583,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Araukarity u Divadelní ulice v Plzni",
-                "P31": "Památný kámen",
+                "P31": "http://www.wikidata.org/entity/Q11734477",
+                "P31^label:cs": "Památný kámen",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10877"
             },
@@ -565,7 +600,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna v Parku Miroslava Horníčka v Plzni",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10876"
             },
@@ -581,7 +617,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník osvobození v Parku Miroslava Horáčka v Plzni",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10875"
             },
@@ -597,7 +634,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Busta Miroslava Horníčka v Parku Miroslava Horníčka v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10874"
             },
@@ -613,7 +651,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna u pomníku na Americké ulici v Plzni",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10873"
             },
@@ -629,7 +668,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník ve Štruncových sadech v Plzni",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10832"
             },
@@ -645,7 +685,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Tyršův kámen u Tělocvičné ulice v Plzni",
-                "P31": "Památný kámen",
+                "P31": "http://www.wikidata.org/entity/Q11734477",
+                "P31^label:cs": "Památný kámen",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10831"
             },
@@ -661,7 +702,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kamenné pítko v Borském parku v Plzni",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10830"
             },
@@ -677,7 +719,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna v Plzni ve dvoře domu číslo 2",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10815"
             },
@@ -693,7 +736,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník u Korandovy ulice v Plzni",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10800"
             },
@@ -709,7 +753,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Rudá hvězda nad Plzní",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Plzeň",
                 "P6736": "10706"
             },
@@ -725,7 +770,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Základní kámen Domu Kultury v Plzni u Americké ulice",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9920"
             },
@@ -741,7 +787,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Technická památka u Plzeň - zastávka v Plzni",
-                "P31": "Neznámý",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Neznámý",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9834"
             },
@@ -757,7 +804,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u kostela na Chodském náměstí v Plzni",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9833"
             },
@@ -773,7 +821,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník obětem Rumburské vzpoury v Doudlevecké ulici v Plzni",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9832"
             },
@@ -789,7 +838,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna u Plazy u Pobřežní ulice v Plzni",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9812"
             },
@@ -805,7 +855,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Václava ve Františkánské ulici v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9773"
             },
@@ -821,7 +872,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple svatého Antonína Paduánského u Františkánské ulice v Plzni",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9772"
             },
@@ -837,7 +889,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Podstavec před kostelem Nanebevzetí Panny Marie vpravo od vchodu v Plzni",
-                "P31": "Neznámý",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Neznámý",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9771"
             },
@@ -853,7 +906,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Podstavec před kostelem Nanebevzetí Panny Marie v Plzni vlevo od vchodu",
-                "P31": "Neznámý",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Neznámý",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9770"
             },
@@ -869,7 +923,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého ve Františkánské ulici v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9769"
             },
@@ -885,7 +940,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Merkura na náměstí v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9548"
             },
@@ -901,7 +957,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Svícen u Staré synagogy v Plzni",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9547"
             },
@@ -917,7 +974,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší Hokejisté u Doudlevecké ulice v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9409"
             },
@@ -933,7 +991,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna Rusalka ve Smetanových sadech v Plzni",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9329"
             },
@@ -949,7 +1008,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička v Luční ulici v Plzni",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Plzeň",
                 "P6736": "9326"
             },
@@ -965,7 +1025,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž za Kostelem Nanebevzetí Panny Marie v Plzni",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7996"
             },
@@ -981,7 +1042,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Spejbla a Hurvínka v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7995"
             },
@@ -997,7 +1059,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Rocha na Rooseveltově mostě v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7959"
             },
@@ -1013,7 +1076,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Judy Tadeáše na Rooseveltově mostě v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7958"
             },
@@ -1029,7 +1093,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší Kalvárie na Rooseveltově mostě v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7957"
             },
@@ -1045,7 +1110,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého na Rooseveltově mostě v Plzni II",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7956"
             },
@@ -1061,7 +1127,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Sarkandera na Rooseveltově mostě v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7950"
             },
@@ -1077,7 +1144,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Bonaventury na Rooseveltově mostě v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7949"
             },
@@ -1093,7 +1161,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého na Rooseveltově mostě v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7948"
             },
@@ -1109,7 +1178,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Františka Serafinského na Rooseveltově mostě v Plzni",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7947"
             },
@@ -1125,7 +1195,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Zrcadlová koule před Novým divadlem v Plzni (v přípravě)",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7946"
             },
@@ -1141,7 +1212,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna Anděl v Plzni na náměstí Republiky",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7945"
             },
@@ -1157,7 +1229,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž u katedrály v Plzni",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7944"
             },
@@ -1173,7 +1246,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna Chrtice v Plzni na náměstí Republiky",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7943"
             },
@@ -1189,7 +1263,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna Velbloud v Plzni na náměstí Republiky",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "7942"
             },
@@ -1205,7 +1280,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Železnice v Plzni - Jižním Předměstí u vlakové stanice",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "6609"
             },
@@ -1221,7 +1297,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Deska v Plzni v Šumavské ulici",
-                "P31": "Pamětní deska",
+                "P31": "http://www.wikidata.org/entity/Q721747",
+                "P31^label:cs": "Pamětní deska",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5736"
             },
@@ -1237,7 +1314,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka v Plzni v areálu Pivovaru",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5603"
             },
@@ -1253,7 +1331,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kašna na v Plzni u Guldenerovy ulice",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5587"
             },
@@ -1269,7 +1348,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník obětem náletu v Plzni na Slovanech",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5521"
             },
@@ -1285,7 +1365,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Plastika v Plzni v průmyslovém areálu u Zahradní ulice",
-                "P31": "Plastika",
+                "P31": "http://www.wikidata.org/entity/Q12045520",
+                "P31^label:cs": "Plastika",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5493"
             },
@@ -1301,7 +1382,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloup v Plzni u koterovské ulice",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5408"
             },
@@ -1317,7 +1399,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha panenky v Plzni u Francouzské třídy",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5407"
             },
@@ -1333,7 +1416,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Plzni u Francouzské třídy před poliklinikou",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5392"
             },
@@ -1349,7 +1433,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník Emila Škody v Plzni u autobusového nádraží",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5387"
             },
@@ -1365,7 +1450,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník v Plzni u autobusového nádraží",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5386"
             },
@@ -1381,7 +1467,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník v Plzni v Husově ulici před bankou",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5384"
             },
@@ -1397,7 +1484,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník v Plzni v Husově ulici u křižovatky",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5383"
             },
@@ -1413,7 +1501,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička v Plzni v Doudlevcích",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5233"
             },
@@ -1429,7 +1518,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník v Doudlevcích u vodní elektrárny",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5232"
             },
@@ -1445,7 +1535,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha na Borech ve Skupově ulici",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5231"
             },
@@ -1461,7 +1552,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník letců v Plzni na Borech",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5229"
             },
@@ -1477,7 +1569,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Plzni na Borech",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5228"
             },
@@ -1493,7 +1586,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka v Plzni na Borech",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5227"
             },
@@ -1509,7 +1603,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Plzni v Doudlevcích",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5226"
             },
@@ -1525,7 +1620,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník v Plzni u soutoku Mže a Radbuzy",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5093"
             },
@@ -1541,7 +1637,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Josefa Kajetána Tyla v Plzni u divadla",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5063"
             },
@@ -1557,7 +1654,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého v Plzni na Chodském náměstí",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5062"
             },
@@ -1573,7 +1671,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník v Plzni na Masarykově náměstí",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "5048"
             },
@@ -1589,7 +1688,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha v Plzni u Slovanské aleje",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "4705"
             },
@@ -1605,7 +1705,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha u bazénu v Plzni na Slovanech",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3883"
             },
@@ -1621,7 +1722,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník bigbítu v Plzni ve Chvojkových sadech",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3882"
             },
@@ -1637,7 +1739,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník armádního generála Heilodora Píky",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3881"
             },
@@ -1653,7 +1756,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloup v Plzni ve Chvojkových sadech",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3880"
             },
@@ -1669,7 +1773,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v Plzni v papírenském parku",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3879"
             },
@@ -1685,7 +1790,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník Jiřího Trnky na Mikulášském náměstí",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3878"
             },
@@ -1701,7 +1807,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník J. K. Tyla v Plzni na Mikulášském náměstí",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3877"
             },
@@ -1717,7 +1824,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž v Plzni v Mikulášské ulici",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3876"
             },
@@ -1733,7 +1841,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník legionářů u hlavního nádraží Plzeň",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3875"
             },
@@ -1749,7 +1858,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha výhybkáře v budově hlavního nádraží Plzeň",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3874"
             },
@@ -1765,7 +1875,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha hutníka v budově hlavního nádraží Plzeň",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3873"
             },
@@ -1781,7 +1892,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník obětem komunistického teroru v Plzni u Anglického nábřeží",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3872"
             },
@@ -1797,7 +1909,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník Československo - Sovětské smlouvy v Plzni u Anglického nábřeží",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3871"
             },
@@ -1813,7 +1926,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sousoší v Plzni v Kopeckého sadech",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3870"
             },
@@ -1829,7 +1943,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kámen v Plzni v Šafaříkových sadech",
-                "P31": "Památný kámen",
+                "P31": "http://www.wikidata.org/entity/Q11734477",
+                "P31^label:cs": "Památný kámen",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3869"
             },
@@ -1845,7 +1960,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Památník na Františka Křižíka v Plzni v Křižíkových sadech",
-                "P31": "Památník",
+                "P31": "http://www.wikidata.org/entity/Q5003624",
+                "P31^label:cs": "Památník",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3868"
             },
@@ -1861,7 +1977,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha svatého Jana Nepomuckého v Plzni v Křižíkových sadech",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3867"
             },
@@ -1877,7 +1994,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha piety v Plzni v Pražské ulici",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3866"
             },
@@ -1893,7 +2011,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánský sloup v Plzni na Náměstí Republiky",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3865"
             },
@@ -1909,7 +2028,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Martina Kopeckého v Plzni v Kopeckého sadech",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3864"
             },
@@ -1925,7 +2045,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Ukazatel počasí v Plzni ve Smetanových sadech",
-                "P31": "Něco jiného",
+                "P31": "http://www.wikidata.org/entity/?",
+                "P31^label:cs": "Něco jiného",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3863"
             },
@@ -1941,7 +2062,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Bedřicha Smetany ve Smetanových sadech",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3862"
             },
@@ -1957,7 +2079,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha Josefa Františka Smetany v Plzni ve Smetanových sadech",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Plzeň",
                 "P6736": "3861"
             },

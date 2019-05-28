@@ -39,22 +39,32 @@ var htmlHelper = (function()
 	{
 		var point = tiledData[datasetName][tileName].data[idx];
 		var settings = datasetSettings[datasetName];
-		var area = "?left="   + (point.coordinates.lon - 0.001) +
-			"&right="         + (point.coordinates.lon + 0.001) +
-			"&top="           + (point.coordinates.lat + 0.001) +
-			"&bottom="        + (point.coordinates.lat - 0.001);
-		var popupHtml = "<table style='border-collapse:collapse'>" +
-			"<tr>" + 
-			"<th colspan='3'><a onclick='josmHelper.importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in JOSM'>Import Data</a></th>" +
-			"<th colspan='3'><a onclick='josmHelper.openOsmArea(\""+area+"\")' title='Open area in JOSM'>OSM Data</a></th>" +
-			"</tr>";
+		var popupHtml = "<table style='border-collapse:collapse'>";
+		switch(settings.queryType || 'osm') {
+			case "osm":
+				var area = "?left="   + (point.coordinates.lon - 0.001) +
+					"&right="         + (point.coordinates.lon + 0.001) +
+					"&top="           + (point.coordinates.lat + 0.001) +
+					"&bottom="        + (point.coordinates.lat - 0.001);
+				popupHtml += "<tr>" + 
+					"<th colspan='3'><a onclick='josmHelper.importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in JOSM'>Import Data</a></th>" +
+					"<th colspan='3'><a onclick='josmHelper.openOsmArea(\""+area+"\")' title='Open area in JOSM'>OSM Data</a></th>" +
+					"</tr>";
+				break;
+			case "wikidata":
+					popupHtml += "<tr>" + 
+					"<th colspan='3'><a onclick='quickStatementTools.importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in QuickStatements'>Import Data</a></th>" +
+					"<th colspan='3'><a href='" + point.osmElement.item + "' title='Open item in Wikidata' target='_blank'>Wikidata item</a></th>" +
+					"</tr>";
+				break;
+		}
 
-			console.log(settings);
-			console.log(point);
+		// console.log(settings);
+		// console.log(point);
 		for (var t = 0; t < settings.tagmatch.length; t++)
 		{
 			var tag = settings.tagmatch[t];
-			var tagKey = tag.key.replace('^', '_').replace(':', '_');
+			var tagKey = tag.key;
 			var osmTags = point.osmElement && point.osmElement.tags;
 			if (!point.properties[tag.key])
 				continue;
@@ -65,7 +75,7 @@ var htmlHelper = (function()
 					point.osmElement.tags[tagKey]) * (tag.importance || 1);
 			var colour = hslToRgb(score / 3, 1, 0.8);
 			popupHtml += "<tr style='background-color:" + colour + ";'><td>";
-			popupHtml += "<b>" + escapeXML(tag.key) + "</b></td><td> = </td><td> " + escapeXML(point.properties[tagKey]);
+			popupHtml += "<b>" + escapeXML(tag.key) + "</b></td><td> = </td><td> " + escapeXML(point.properties[tag.key]);
 			popupHtml += "</td><td>";
 			popupHtml += "<b>" + escapeXML(tag.key) + "</b></td><td> = </td><td>";
 			if (osmTags && osmTags[tagKey])

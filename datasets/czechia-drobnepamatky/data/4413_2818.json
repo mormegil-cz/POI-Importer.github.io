@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Výklenková kaplička na hranici VP Boletice v Uhlíkově",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Boletice",
                 "P6736": "25674"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Sloup s litinovým sousoším na hranici vojenského prostoru v Želnavě",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Želnava",
                 "P6736": "25673"
             },

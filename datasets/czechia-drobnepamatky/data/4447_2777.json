@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Mariánský sloup ve Zdechovicích",
-                "P31": "Sloup",
+                "P31": "http://www.wikidata.org/entity/Q4817",
+                "P31^label:cs": "Sloup",
                 "P131^label:cs": "Zdechovice",
                 "P6736": "15072"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kříž ve Zdechovicích",
-                "P31": "Pamětní kříž",
+                "P31": "http://www.wikidata.org/entity/Q2309609",
+                "P31^label:cs": "Pamětní kříž",
                 "P131^label:cs": "Zdechovice",
                 "P6736": "15070"
             },

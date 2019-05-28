@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Socha sv. Jana Nepomuckého na Masarykově náměstí v Brandýse nad Labem",
-                "P31": "Socha",
+                "P31": "http://www.wikidata.org/entity/Q179700",
+                "P31^label:cs": "Socha",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "18159"
             },
@@ -21,7 +22,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Moderně pojatá kašna na Masarykově náměstí v Brandýse nad Labem",
-                "P31": "Kašna",
+                "P31": "http://www.wikidata.org/entity/Q12029081",
+                "P31^label:cs": "Kašna",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "18158"
             },
@@ -37,7 +39,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Vartenská kaple poutní cesty Via Sancta v Pražské ulici v Brandýse nad Labem",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "18157"
             },
@@ -53,7 +56,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Vyšehradská kaple poutní cesty Via Sancta v Pražské ulici v Brandýse nad Labem",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "18156"
             },
@@ -69,7 +73,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým v obou světových válkách v parku u Královické ulice v Brandýse nad Labem",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "18155"
             },
@@ -85,7 +90,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník T. G. Masaryka u pedagogické fakulty UK v Brandýse nad Labem",
-                "P31": "Pomník",
+                "P31": "http://www.wikidata.org/entity/Q4989906",
+                "P31^label:cs": "Pomník",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "18154"
             },
@@ -101,7 +107,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník padlým z místní části Vrábí u Pražské ulice v Brandýse nad Labem",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "18152"
             },
@@ -117,7 +124,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka v ulici Pražská v Brandýse nad Labem",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "18151"
             },
@@ -133,7 +141,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaple u tvrze Vrábí v Brandýse nad Labem",
-                "P31": "Kaple",
+                "P31": "http://www.wikidata.org/entity/Q108325",
+                "P31^label:cs": "Kaple",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "18150"
             },
@@ -149,7 +158,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka v parčíku u Výletní ulice v Brandýse nad Labem",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "18149"
             },
@@ -165,7 +175,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Kaplička u Hrušovského rybníka v Brandýse nad Labem",
-                "P31": "Kaplička",
+                "P31": "http://www.wikidata.org/entity/Q14552192",
+                "P31^label:cs": "Kaplička",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "18148"
             },
@@ -181,7 +192,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Boží muka západně od Brandýsa nad Labem u polní cesty do Popovic",
-                "P31": "Boží muka",
+                "P31": "http://www.wikidata.org/entity/Q3395121",
+                "P31^label:cs": "Boží muka",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "16183"
             },
@@ -197,7 +209,8 @@
             "type": "Feature",
             "properties": {
                 "label:cs": "Pomník obětem 1. a 2. světové války v Brandýse nad Labem",
-                "P31": "Pomník padlým",
+                "P31": "http://www.wikidata.org/entity/Q575759",
+                "P31^label:cs": "Pomník padlým",
                 "P131^label:cs": "Brandýs nad Labem-Stará Boleslav",
                 "P6736": "9030"
             },
