@@ -53,7 +53,7 @@ var htmlHelper = (function()
 				break;
 			case "wikidata":
 					popupHtml += "<tr>" + 
-					"<th colspan='3'><a onclick='quickStatementTools.importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in QuickStatements'>Import Data</a></th>" +
+					"<th colspan='3'><a onclick='quickStatementsHelper.importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in QuickStatements'>Import Data</a></th>" +
 					"<th colspan='3'><a href='" + point.osmElement.item + "' title='Open item in Wikidata' target='_blank'>Wikidata item</a></th>" +
 					"</tr>";
 				break;

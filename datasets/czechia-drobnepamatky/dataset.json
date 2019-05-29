@@ -12,5 +12,6 @@
 		{"key":"P31^label:cs", "algorithm":"equalIgnoreCase"},
 		{"key":"P131^label:cs", "algorithm":"equality"},
 		{"key":"P6736", "algorithm":"equality"}
-	]
+	],
+	"quickStatementsReferences": { "S6736": { "from": "P6736" }, "S854": { "prefix": "https://www.drobnepamatky.cz/node/", "from": "P6736" }, "S813": { "value": "+2019-05-29T00:00:00Z/11", "type": "time" } }
 }
