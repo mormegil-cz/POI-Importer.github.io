@@ -53,9 +53,11 @@ var htmlHelper = (function()
 				break;
 			case "wikidata":
 					popupHtml += "<tr>" + 
-					"<th colspan='3'><a onclick='quickStatementsHelper.importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in QuickStatements'>Import Data</a></th>" +
-					"<th colspan='3'><a href='" + point.osmElement.item + "' title='Open item in Wikidata' target='_blank'>Wikidata item</a></th>" +
-					"</tr>";
+					"<th colspan='3'><a onclick='quickStatementsHelper.importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in QuickStatements'>Import Data</a></th>";
+					popupHtml += point.osmElement.item
+						? "<th colspan='3'><a href='" + point.osmElement.item + "' title='Open item in Wikidata' target='_blank'>Wikidata item</a></th>"
+						: "<th colspan='3'>No item</th>";
+					popupHtml += "</tr>";
 				break;
 		}
 
