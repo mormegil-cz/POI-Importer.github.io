@@ -72,7 +72,7 @@ var htmlHelper = (function()
 			if (point.osmElement && point.osmElement.tags)
 				score = comparisonAlgorithms[tag.algorithm || "equality"](
 					point.properties[tag.key],
-					point.osmElement.tags[tagKey]) * (tag.importance || 1);
+					point.osmElement.tags[tagKey]);
 			var colour = hslToRgb(score / 3, 1, 0.8);
 			popupHtml += "<tr style='background-color:" + colour + ";'><td>";
 			popupHtml += "<b>" + escapeXML(tag.key) + "</b></td><td> = </td><td> " + escapeXML(point.properties[tag.key]);

@@ -7,9 +7,9 @@
 	"id": "P6736",
 	"tagmatch":
 	[
-		{"key":"label:cs", "algorithm":"equalIgnoreCase"},
+		{"key":"label:cs", "algorithm":"equalIgnoreCase", "importance": 0.5},
 		{"key":"P31", "algorithm":"equality"},
-		{"key":"P31^label:cs", "algorithm":"equalIgnoreCase"},
+		{"key":"P31^label:cs", "algorithm":"equalIgnoreCase", "importance": 0.00001},
 		{"key":"P131^label:cs", "algorithm":"equality"},
 		{"key":"P6736", "algorithm":"equality"}
 	],

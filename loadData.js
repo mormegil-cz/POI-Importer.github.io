@@ -269,7 +269,7 @@ function displayPoint(datasetName, tileName, idx)
 	else
 		point.marker.setOpacity(1);
 
-	point.marker.setIcon(settings.icons[Math.floor(10 * point.score/point.maxScore)]);
+	point.marker.setIcon(settings.icons[Math.round(10 * point.score/point.maxScore)]);
 	point.marker.bindPopup(htmlHelper.getPopup(datasetName, tileName, idx), {"maxWidth": 900});
 }
 

@@ -108,9 +108,10 @@ function compareDataWikidata(tiles, resultData)
 	{
 		var data = tiledData[tiles[d].datasetName][tiles[d].tileName].data;
 		var settings = datasetSettings[tiles[d].datasetName];
-		var maxScore = 1;
-		for (var t = 0; t < settings.tagmatch.length; t++)
+		var maxScore = 0.1;
+		for (var t = 0; t < settings.tagmatch.length; t++) {
 			maxScore += settings.tagmatch[t].importance || 1;
+		}
 		for (var p = 0; p < data.length; p++)
 		{
 			var point = data[p];
@@ -122,22 +123,24 @@ function compareDataWikidata(tiles, resultData)
 			for (var i = 0; i < tiles[d].osmData.length; i++)
 			{
 				var element = tiles[d].osmData[i];
+				var osmElement = convertWikidataItem(settings, element);
 				var elementCenter = {lat: element.lat.value, lon: element.lon.value};
 				if (geoHelper.getDistance(elementCenter, point.coordinates) > settings.dist)
 					continue;
 
-				var score = 1;
+				var score = 0.1;
 				for (var t = 0; t < settings.tagmatch.length; t++)
 				{
 					var tag = settings.tagmatch[t];
 					var varName = tag.key.replace('^', '_').replace(':', '_');
-					score += comparisonAlgorithms[tag.algorithm || "equality"](
-						point.properties[varName],
-						element[varName]) * (tag.importance || 1);
+					var tagScore = comparisonAlgorithms[tag.algorithm || "equality"](
+						point.properties[tag.key],
+						osmElement.tags[tag.key]);
+					score += tagScore * (tag.importance || 1);
 				}
 				if (score > bestScore)
 				{
-					point.osmElement = convertWikidataItem(settings, element);
+					point.osmElement = osmElement;
 					point.score = score;
 					bestScore = score;
 				}
@@ -154,7 +157,7 @@ var comparisonAlgorithms = {
 	"equality": function(v1, v2)
 	{
 		if (!v1)
-			return 1;
+			return !v2;
 		if (v1 == v2)
 			return 1;
 		return 0;
@@ -188,7 +191,7 @@ var comparisonAlgorithms = {
 			return 1;
 		if (!v2)
 			return 0;
-		return v1.toLowerCase() == v2.toLowerCase();
+		return v1.toLowerCase() === v2.toLowerCase();
 	},
 	"substringIgnoreCase": function(v1, v2)
 	{
