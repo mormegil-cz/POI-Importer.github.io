@@ -1,7 +1,7 @@
 {
 	"zoom": 13,
 	"queryType":"wikidata",
-	"query":"?item wdt:P31/wdt:P279* wd:Q1746392.",
+	"query":"  VALUES ?cls { wd:Q3395121 wd:Q921099 wd:Q38411643 wd:Q12029081 wd:Q108325 wd:Q14552192 wd:Q193475 wd:Q478798 wd:Q721747 wd:Q2309609 wd:Q5003624 wd:Q11734477 wd:Q12045520 wd:Q4989906 wd:Q575759 wd:Q4817 wd:Q1640496 wd:Q179700 wd:Q10861631 }. ?item wdt:P31 ?cls.",
 	"icon": "monument",
 	"dist":30,
 	"id": "P6736",
