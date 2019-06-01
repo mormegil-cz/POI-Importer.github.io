@@ -1,6 +1,12 @@
 var quickStatementsHelper = (function () {
 	var quickStatementsUrl = "https://tools.wmflabs.org/quickstatements/#/v1=";
+	var wqsUrl = "https://query.wikidata.org/embed.html#";
 	var entityLinkUrlBase = "http://www.wikidata.org/entity/";
+
+	var openArea = function (lon, lat) {
+		var query = "#defaultView:Map\nSELECT ?location ?item ?itemLabel ?itemDescription ((CONCAT(STR(?distance*1000), \" m\")) AS ?dist) WHERE {\n\tSERVICE wikibase:around {\n\t\t?item wdt:P625 ?location.\n\t\tbd:serviceParam wikibase:center \"Point(" + lon + "," + lat + ")\"^^geo:wktLiteral.\n\t\tbd:serviceParam wikibase:radius \"5\".\n\t\tbd:serviceParam wikibase:distance ?distance.\n\t}\n\tSERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE],en\".\n\t}\n}\nORDER BY ?distance\nLIMIT 20";
+		window.open(wqsUrl + encodeURIComponent(query), '_blank');
+	}
 
 	var importPoint = function (datasetName, tileName, idx) {
 		var settings = datasetSettings[datasetName];
@@ -72,5 +78,6 @@ var quickStatementsHelper = (function () {
 
 	return {
 		importPoint: importPoint,
+		openArea: openArea
 	};
 })();

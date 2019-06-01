@@ -52,11 +52,11 @@ var htmlHelper = (function()
 					"</tr>";
 				break;
 			case "wikidata":
-					popupHtml += "<tr>" + 
+				popupHtml += "<tr>" +
 					"<th colspan='3'><a onclick='quickStatementsHelper.importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in QuickStatements'>Import Data</a></th>";
 					popupHtml += point.osmElement.item
 						? "<th colspan='3'><a href='" + point.osmElement.item + "' title='Open item in Wikidata' target='_blank'>Wikidata item</a></th>"
-						: "<th colspan='3'>No item</th>";
+						: "<th colspan='3'><a onclick='quickStatementsHelper.openArea("+ point.coordinates.lon + "," + point.coordinates.lat + ")' title='Open area in WQS'>Wikidata</a></th>";
 					popupHtml += "</tr>";
 				break;
 		}
