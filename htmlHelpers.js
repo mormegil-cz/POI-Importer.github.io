@@ -8,6 +8,13 @@ var htmlHelper = (function()
 			.replace(/>/g, "&gt;")
 			.replace(/</g, "&lt;");
 	}
+	var jsQuoteStr = function(str) {
+		return "'" + (
+			str && str
+			.replace(/\\/g, "\\\\")
+			.replace(/'/g, "\\'")
+			) + "'";
+	}
 
 	var addDataset = function (country, id)
 	{
@@ -53,11 +60,12 @@ var htmlHelper = (function()
 				break;
 			case "wikidata":
 				popupHtml += "<tr>" +
-					"<th colspan='3'><a onclick='quickStatementsHelper.importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in QuickStatements'>Import Data</a></th>";
+					"<th colspan='3'><a onclick='quickStatementsHelper.importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\"); return false' title='Import point in QuickStatements' href='#'>Import Data</a></th>" +
+					"<th colspan='4'>"
 					popupHtml += point.osmElement.item
-						? "<th colspan='3'><a href='" + point.osmElement.item + "' title='Open item in Wikidata' target='_blank'>Wikidata item</a></th>"
-						: "<th colspan='3'><a onclick='quickStatementsHelper.openArea("+ point.coordinates.lon + "," + point.coordinates.lat + ")' title='Open area in WQS'>Wikidata</a></th>";
-					popupHtml += "</tr>";
+						? "<a href='" + point.osmElement.item + "' title='Open item in Wikidata' target='_blank'>Wikidata item</a>"
+						: "<a onclick='quickStatementsHelper.openArea("+ point.coordinates.lon + "," + point.coordinates.lat + "); return false' title='Open area in WQS' href='#'>Wikidata</a>";
+					popupHtml += "</th></tr>";
 				break;
 		}
 
@@ -68,23 +76,28 @@ var htmlHelper = (function()
 			var tag = settings.tagmatch[t];
 			var tagKey = tag.key;
 			var osmTags = point.osmElement && point.osmElement.tags;
-			if (!point.properties[tag.key])
+			if (!point.properties[tagKey])
 				continue;
 			var score = 0;
 			if (point.osmElement && point.osmElement.tags)
 				score = comparisonAlgorithms[tag.algorithm || "equality"](
-					point.properties[tag.key],
+					point.properties[tagKey],
 					point.osmElement.tags[tagKey]);
 			var colour = hslToRgb(score / 3, 1, 0.8);
 			popupHtml += "<tr style='background-color:" + colour + ";'><td>";
-			popupHtml += "<b>" + escapeXML(tag.key) + "</b></td><td> = </td><td> " + escapeXML(point.properties[tag.key]);
+			popupHtml += "<b>" + escapeXML(tagKey) + "</b></td><td> = </td><td> " + escapeXML(point.properties[tagKey]);
 			popupHtml += "</td><td>";
-			popupHtml += "<b>" + escapeXML(tag.key) + "</b></td><td> = </td><td>";
-			if (osmTags && osmTags[tagKey])
+			popupHtml += "<b>" + escapeXML(tagKey) + "</b></td><td> = </td><td>";
+			var hasTag = osmTags && osmTags[tagKey];
+			if (hasTag)
 				popupHtml += escapeXML(osmTags[tagKey]);
 			else
-				popupHtml += "N/A";
+				popupHtml += "<i>N/A</i>";
 
+			popupHtml += "</td><td>"
+			if (!hasTag && point.osmElement.item && tagKey.indexOf('^') < 0) {
+				popupHtml += "<a onclick='quickStatementsHelper.addStatement(\"" + datasetName+"\",\""+tileName+"\",\""+idx + "\"," + escapeXML(jsQuoteStr(point.osmElement.item)) + "," + escapeXML(jsQuoteStr(tagKey)) + "); return false' href='#'>+</a>";
+			}
 			popupHtml += "</td></tr>";
 		}
 		popupHtml += "</table>";
