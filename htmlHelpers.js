@@ -85,14 +85,24 @@ var htmlHelper = (function()
 					point.osmElement.tags[tagKey]);
 			var colour = hslToRgb(score / 3, 1, 0.8);
 			popupHtml += "<tr style='background-color:" + colour + ";'><td>";
-			popupHtml += "<b>" + escapeXML(tagKey) + "</b></td><td> = </td><td> " + escapeXML(point.properties[tagKey]);
+			popupHtml += "<b>" + escapeXML(tagKey) + "</b></td><td> = </td><td> ";
+			if (tag.autolink) {
+				popupHtml += "<a href='" + escapeXML(tag.autolink.replace('$1', point.properties[tagKey])) + "' target='_blank'>" + escapeXML(point.properties[tagKey]) + "</a>";
+			} else {
+				popupHtml += escapeXML(point.properties[tagKey]);
+			}
 			popupHtml += "</td><td>";
 			popupHtml += "<b>" + escapeXML(tagKey) + "</b></td><td> = </td><td>";
 			var hasTag = osmTags && osmTags[tagKey];
-			if (hasTag)
-				popupHtml += escapeXML(osmTags[tagKey]);
-			else
+			if (hasTag) {
+				if (tag.autolink) {
+					popupHtml += "<a href='" + escapeXML(tag.autolink.replace('$1', osmTags[tagKey])) + "' target='_blank'>" + escapeXML(osmTags[tagKey]) + "</a>";
+				} else {
+					popupHtml += escapeXML(osmTags[tagKey]);
+				}
+			} else {
 				popupHtml += "<i>N/A</i>";
+			}
 
 			popupHtml += "</td><td>"
 			if (!hasTag && point.osmElement.item && tagKey.indexOf('^') < 0) {
