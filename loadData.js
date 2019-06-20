@@ -1,12 +1,9 @@
 // vim: tabstop=4:softtabstop=4:shiftwidth=4:noexpandtab
 
 // GLOBAL VARIABLES
-var overpassApi = "https://overpass-api.de/api/interpreter?data=";
-var wqsApi = "https://query.wikidata.org/sparql?query=";
-
 var apiEndpoints = {
-	osm: { url: overpassApi, mimeType: "application/json" },
-	wikidata: { url: wqsApi, mimeType: "application/sparql-results+json" }
+	osm: { url: "https://overpass-api.de/api/interpreter?data=", methods: [ {method: 'GET' } ], mimeType: "application/json" },
+	wikidata: { url: "https://query.wikidata.org/sparql", methods: [ { maxSize: 2100, method: 'GET', queryPrefix: '?query=' }, { method: 'POST', bodyPrefix: 'query=' }] , mimeType: "application/sparql-results+json" }
 }
 
 var datasetSettings = {};
@@ -240,9 +237,18 @@ function loadOverpass()
 	}
 	queryStatus.busy = true;
 	queryStatus.queryType = queryType;
-	req.open("GET", apiEndpoints[queryType].url + encodeURIComponent(query), true);
-	req.setRequestHeader('Accept', apiEndpoints[queryType].mimeType);
-	req.send(null);
+	var apiEndpoint = apiEndpoints[queryType];
+	var encodedQuery = encodeURIComponent(query);
+	var methodConfiguration;
+	for (var i = 0; i < apiEndpoint.methods.length; ++i) {
+		methodConfiguration = apiEndpoint.methods[i];
+		if (methodConfiguration.maxSize && methodConfiguration.maxSize > encodedQuery.length) break;
+	}
+	var isPost = methodConfiguration.method === 'POST';
+	req.open(methodConfiguration.method, isPost ? apiEndpoint.url : apiEndpoint.url + (methodConfiguration.queryPrefix || '') + encodedQuery, true);
+	req.setRequestHeader('Accept', apiEndpoint.mimeType);
+	if (isPost) req.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+	req.send(isPost ? (methodConfiguration.bodyPrefix || '') + encodedQuery : null);
 }
 
 function displayPoint(datasetName, tileName, idx)
