@@ -54,6 +54,7 @@ function compareDataOsm(tiles, resultData)
 				{
 					point.osmElement = element;
 					point.score = score;
+					point.isMatched = osmElement.tags[settings.id] === point.properties[settings.id];
 					bestScore = score;
 				}
 			}

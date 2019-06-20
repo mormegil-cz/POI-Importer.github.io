@@ -73,7 +73,7 @@ function changeSetting(element)
 		return;
 	id = id.slice(0, -7);
 	appSettings[id] = element.checked;
-	if (id == "hideCompletePOI" || id == "hideMatchedPOI") // re-render points
+	if (id == "hideCompletePOI" || id == "hideMatchedPOI" || id == "hideMissingPOI") // re-render points
 		for (var dataset in tiledData)
 			for (var tileName in tiledData[dataset])
 				if (tiledData[dataset][tileName].data)
@@ -271,7 +271,8 @@ function displayPoint(datasetName, tileName, idx)
 
 	// if the point has been compared, change its colour
 	if (appSettings.hideCompletePOI && point.score >= point.maxScore - 0.01
-		|| appSettings.hideMatchedPOI && point.isMatched)
+		|| appSettings.hideMatchedPOI && point.isMatched
+		|| appSettings.hideMissingPOI && (!point.osmElement || !point.osmElement.tags))
 		point.marker.setOpacity(0);
 	else
 		point.marker.setOpacity(1);
