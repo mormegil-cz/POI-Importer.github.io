@@ -75,7 +75,7 @@ for (var x in tiledData)
 		if (tileSize > 20) ++numBiggerThan20;
 		if (tileSize > 50) ++numBiggerThan50;
 		var fileName = repo + "data/" + x + "_" + y + ".json";
-		fs.writeFile(fileName, JSON.stringify(objectToWrite, null, 4), function(err) {
+		fs.writeFile(fileName, JSON.stringify(objectToWrite, null, 0), function(err) {
 			if(err) {
 				return console.log(err);
 			}
