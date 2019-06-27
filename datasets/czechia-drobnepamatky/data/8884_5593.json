@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Rožkovského Mlýna",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "19891"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2169,
+                    49.46993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Rožkovského Mlýna u Hejlovky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Krasíkovice",
+                "P6736": "19890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22224,
+                    49.46868
+                ]
+            }
+        }
+    ]
+}

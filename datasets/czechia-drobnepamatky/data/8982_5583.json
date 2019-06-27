@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Lošově v ulici Svolinského",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Olomouc",
+                "P6736": "12252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.36003,
+                    49.62207
+                ]
+            }
+        }
+    ]
+}

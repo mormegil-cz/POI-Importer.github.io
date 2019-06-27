@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v obci Suchá",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Stebno",
+                "P6736": "14725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99961,
+                    50.61187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v obci Suchá",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Stebno",
+                "P6736": "14724"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00133,
+                    50.61227
+                ]
+            }
+        }
+    ]
+}

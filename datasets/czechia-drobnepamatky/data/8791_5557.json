@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika u Doubravice",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "8188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1649,
+                    49.99054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Doubravici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "4642"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1647,
+                    49.98909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Doubravici",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "4641"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16409,
+                    49.99001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem nacismu u Nečtin",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16762,
+                    49.98158
+                ]
+            }
+        }
+    ]
+}

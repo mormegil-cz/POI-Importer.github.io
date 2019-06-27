@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jižní části Vystrkova u čp.23",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vystrkov",
+                "P6736": "18793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3485,
+                    49.5192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Vystrkově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vystrkov",
+                "P6736": "18792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3486,
+                    49.51969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vystrkově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Vystrkov",
+                "P6736": "18791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34856,
+                    49.51972
+                ]
+            }
+        }
+    ]
+}

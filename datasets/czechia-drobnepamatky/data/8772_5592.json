@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Mnichovem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "4140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75899,
+                    49.49216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Mnichova nad rozcestím",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "4105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76075,
+                    49.4958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u mohutné lípy v poli nad Mnichovem II",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "3996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74485,
+                    49.49346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka nad Mnichovem",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Mnichov",
+                "P6736": "3211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75052,
+                    49.49207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u mohutné lípy v poli nad Mnichovem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "2297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74476,
+                    49.49349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty jižně od Mnichova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "2081"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76058,
+                    49.48536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u silnice z Mnichova do Pivoně",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Mnichov",
+                "P6736": "2080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76109,
+                    49.48953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Mnichova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "2079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76204,
+                    49.49596
+                ]
+            }
+        }
+    ]
+}

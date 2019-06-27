@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty západně od obce Kozly",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kozly",
+                "P6736": "17930"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78346,
+                    50.46024
+                ]
+            }
+        }
+    ]
+}

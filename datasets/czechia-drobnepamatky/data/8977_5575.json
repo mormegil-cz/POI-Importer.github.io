@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Babicích na návsi",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Babice",
+                "P6736": "18839"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2604,
+                    49.73738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Babicích na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Babice",
+                "P6736": "17476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25871,
+                    49.73668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Babicích na okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Babice",
+                "P6736": "17475"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25761,
+                    49.73687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie v Babicích",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Babice",
+                "P6736": "17449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26125,
+                    49.73635
+                ]
+            }
+        }
+    ]
+}

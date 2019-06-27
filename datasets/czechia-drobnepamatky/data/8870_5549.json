@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Krytá dřevěná zvonička ve středu obce Klučov",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Klučov",
+                "P6736": "14800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91096,
+                    50.09455
+                ]
+            }
+        }
+    ]
+}

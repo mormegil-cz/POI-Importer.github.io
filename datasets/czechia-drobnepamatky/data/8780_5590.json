@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple západně od Horšovského Týna",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "3999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92251,
+                    49.52077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u Horšovského Týna",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "3976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9334,
+                    49.52409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší v Horšovském Týně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "3975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93665,
+                    49.52472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha západně od Horšovského Týna III",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "1575"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92453,
+                    49.52242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha západně od Horšovského Týna II",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "1574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9273,
+                    49.52306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha západně od Horšovského Týna I",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "1573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92844,
+                    49.52319
+                ]
+            }
+        }
+    ]
+}

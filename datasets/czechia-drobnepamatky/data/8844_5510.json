@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v osadě Pohorsko",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33856,
+                    50.64245
+                ]
+            }
+        }
+    ]
+}

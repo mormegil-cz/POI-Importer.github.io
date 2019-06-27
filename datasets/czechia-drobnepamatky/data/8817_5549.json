@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice na Husově náměstí v Rakovníku",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Rakovník",
+                "P6736": "18068"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73315,
+                    50.10398
+                ]
+            }
+        }
+    ]
+}

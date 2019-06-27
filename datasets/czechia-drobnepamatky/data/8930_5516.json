@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pěkově jižně od kaple Panny Marie Pomocné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Police nad Metují",
+                "P6736": "22289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22839,
+                    50.56599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Pěkově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Police nad Metují",
+                "P6736": "22247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22895,
+                    50.56666
+                ]
+            }
+        }
+    ]
+}

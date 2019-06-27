@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Čermnou u Libouchce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Libouchec",
+                "P6736": "14925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08452,
+                    50.74536
+                ]
+            }
+        }
+    ]
+}

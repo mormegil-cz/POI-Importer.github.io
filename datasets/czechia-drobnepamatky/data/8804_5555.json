@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec jižně od Vysoké Libyně",
+                "P31": "Neznámý",
+                "P31^label:cs": "Neznámý",
+                "P131^label:cs": "Vysoká Libyně",
+                "P6736": "5252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45738,
+                    50.01915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vysoké Libyni",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Vysoká Libyně",
+                "P6736": "3813"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45133,
+                    50.02153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vavřince ve Vysoké Libyni",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Vysoká Libyně",
+                "P6736": "3812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45094,
+                    50.02128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vysoké Libyni",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vysoká Libyně",
+                "P6736": "3809"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45484,
+                    50.02103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána ve Vysoké Libyni",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Vysoká Libyně",
+                "P6736": "3808"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45162,
+                    50.02131
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek severně od Obory",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Obora",
+                "P6736": "5086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42897,
+                    49.90664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Vobořickou hájovnou u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Obora",
+                "P6736": "2219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4331,
+                    49.90413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Vobořické hájovny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Obora",
+                "P6736": "2218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43767,
+                    49.89816
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Nové Vsi u polní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8412"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69407,
+                    49.42051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Přibika v Nové Vsi",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Oselce",
+                "P6736": "8411"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69508,
+                    49.42169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky v Nové Vsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69493,
+                    49.42164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Nové Vsi u kaple",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8409"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70956,
+                    49.42179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple východně od Nové Vsi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Oselce",
+                "P6736": "8408"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70961,
+                    49.42191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Chalup",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6975,
+                    49.41871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Nové Vsi",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Oselce",
+                "P6736": "8406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69517,
+                    49.42242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Nové Vsi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Oselce",
+                "P6736": "8405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69517,
+                    49.42242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nové Vsi u kaple",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69524,
+                    49.4224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nové Vsi u silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Oselce",
+                "P6736": "8403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69684,
+                    49.42317
+                ]
+            }
+        }
+    ]
+}

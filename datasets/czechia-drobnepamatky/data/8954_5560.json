@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Crhova na okraji lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Štíty",
+                "P6736": "17509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75708,
+                    49.94096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Štítů u lesní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Štíty",
+                "P6736": "17508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74681,
+                    49.95101
+                ]
+            }
+        }
+    ]
+}

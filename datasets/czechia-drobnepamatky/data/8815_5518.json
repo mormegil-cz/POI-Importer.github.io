@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na hřbitově v Braňanech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Braňany",
+                "P6736": "16652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70067,
+                    50.53993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod hřbitovem v Braňanech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Braňany",
+                "P6736": "16651"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70121,
+                    50.54013
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Tymákově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Tymákov",
+                "P6736": "4864"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5071,
+                    49.71948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tymákově u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tymákov",
+                "P6736": "4863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50368,
+                    49.72099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Tymákově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Tymákov",
+                "P6736": "4594"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51318,
+                    49.71836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Tymákově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Tymákov",
+                "P6736": "4593"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50972,
+                    49.71904
+                ]
+            }
+        }
+    ]
+}

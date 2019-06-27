@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kolodějích před kostelem Povýšení svatého Kříže",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "13258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64027,
+                    50.06024
+                ]
+            }
+        }
+    ]
+}

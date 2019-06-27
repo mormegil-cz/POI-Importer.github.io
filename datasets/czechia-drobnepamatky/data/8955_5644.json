@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Josefa ve Valticích na ulici U Rotundy",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Valtice",
+                "P6736": "17297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76711,
+                    48.74311
+                ]
+            }
+        }
+    ]
+}

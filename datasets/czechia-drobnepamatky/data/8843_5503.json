@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vojtěcha v zahradě domu v ulici Sokolský Vrch v Benešově nad Ploučnicí",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Benešov nad Ploučnicí",
+                "P6736": "19758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31037,
+                    50.73834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Gloriet (altán) na Ploučnické vyhlídce v Benešově nad Ploučnicí",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Benešov nad Ploučnicí",
+                "P6736": "19757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30864,
+                    50.7371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Švermy v Českolipské ulici v Benešově nad Ploučnicí",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Benešov nad Ploučnicí",
+                "P6736": "19755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31046,
+                    50.73901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Bolestné v Kostelní ulici v Benešově nad Ploučnicí",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Benešov nad Ploučnicí",
+                "P6736": "19752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31291,
+                    50.7423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození v parku v Děčínské ulici v Benešově nad Ploučnicí",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Benešov nad Ploučnicí",
+                "P6736": "19749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30632,
+                    50.74168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Kalvárie u Horního zámku v Benešově nad Ploučnicí",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Benešov nad Ploučnicí",
+                "P6736": "17164"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31098,
+                    50.74223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v zahradě Dolního zámku v Benešově nad Ploučnicí",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Benešov nad Ploučnicí",
+                "P6736": "17162"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31028,
+                    50.74191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy na náměstí u Dolního zámku v Benešově nad Ploučnicí",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Benešov nad Ploučnicí",
+                "P6736": "13616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31086,
+                    50.74192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na náměstí Míru v Benešově nad Ploučnicí",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Benešov nad Ploučnicí",
+                "P6736": "13613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31105,
+                    50.74141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Benešově nad Ploučnicí",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Benešov nad Ploučnicí",
+                "P6736": "9521"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31103,
+                    50.74138
+                ]
+            }
+        }
+    ]
+}

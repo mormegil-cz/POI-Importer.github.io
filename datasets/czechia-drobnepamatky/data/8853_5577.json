@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný kříž",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křečovice",
+                "P6736": "23257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53111,
+                    49.70278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž při silnici z Hořetic do Neveklova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křečovice",
+                "P6736": "21426"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52957,
+                    49.70214
+                ]
+            }
+        }
+    ]
+}

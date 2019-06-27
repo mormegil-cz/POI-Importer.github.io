@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve vinohradu západně od Šakvic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Šakvice",
+                "P6736": "8832"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70386,
+                    48.90048
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v obci Řepčice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Třebušín",
+                "P6736": "17675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19162,
+                    50.60805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v obci Řepčice",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Třebušín",
+                "P6736": "17674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19131,
+                    50.60883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí jižně od obce Řepčice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Třebušín",
+                "P6736": "17673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18343,
+                    50.5998
+                ]
+            }
+        }
+    ]
+}

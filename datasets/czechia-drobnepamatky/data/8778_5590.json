@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty z Meclova do Mašovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Meclov",
+                "P6736": "2028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88561,
+                    49.51353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Meclovem u silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Meclov",
+                "P6736": "2030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87771,
+                    49.51105
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Malešíně",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Vodice",
+                "P6736": "7142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9095,
+                    49.45539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Malešíně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Vodice",
+                "P6736": "7141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90692,
+                    49.45527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Malešína na křižovatce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vodice",
+                "P6736": "7140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90281,
+                    49.45558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Tadeáše ve Vodicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Vodice",
+                "P6736": "7139"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90938,
+                    49.46436
+                ]
+            }
+        }
+    ]
+}

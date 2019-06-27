@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Budislavi",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Budislav",
+                "P6736": "21397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17079,
+                    49.80315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika za kostelem Boží lásky v Budislavi",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Budislav",
+                "P6736": "12273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16844,
+                    49.80279
+                ]
+            }
+        }
+    ]
+}

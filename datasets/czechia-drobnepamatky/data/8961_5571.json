@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Mohelnici v parku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "22075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.912,
+                    49.78361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník děkana Lauttnera v Mohelnici v parku",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "22074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91292,
+                    49.78247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Šebestiána u Mohelnice za rybníkem",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "14648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90221,
+                    49.78287
+                ]
+            }
+        }
+    ]
+}

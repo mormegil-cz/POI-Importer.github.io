@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Černovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Černovice",
+                "P6736": "4242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99609,
+                    49.61523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty do Jivjan nad Černovicemi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "1333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99566,
+                    49.61863
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Svaté Trojice ve Vojnici u kaple",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Těšetice",
+                "P6736": "13281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13934,
+                    49.59701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vojnici",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Těšetice",
+                "P6736": "13245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13933,
+                    49.59712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž ve Vojnicích ve zdi kaple",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Těšetice",
+                "P6736": "12247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13939,
+                    49.59701
+                ]
+            }
+        }
+    ]
+}

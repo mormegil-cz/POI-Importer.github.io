@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika před základní školou v Nádražní ulici v Ledči nad Sázavou",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Ledeč nad Sázavou",
+                "P6736": "15138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27531,
+                    49.69636
+                ]
+            }
+        }
+    ]
+}

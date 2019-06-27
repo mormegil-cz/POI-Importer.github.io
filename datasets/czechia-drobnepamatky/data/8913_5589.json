@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Rosička",
+                "P6736": "14321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85072,
+                    49.53658
+                ]
+            }
+        }
+    ]
+}

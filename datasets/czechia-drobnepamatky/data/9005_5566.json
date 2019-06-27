@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hradci nad Moravicí u kostela svatého Petra a Pavla",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hradec nad Moravicí",
+                "P6736": "23298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87543,
+                    49.8663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí před zámkem v Hradci nad Moravicí",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Hradec nad Moravicí",
+                "P6736": "21571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87489,
+                    49.86551
+                ]
+            }
+        }
+    ]
+}

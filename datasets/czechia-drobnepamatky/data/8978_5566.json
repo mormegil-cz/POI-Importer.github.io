@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník neznámého určení u kostela sv. Michaela archanděla ve středu Jiříkova",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Jiříkov",
+                "P6736": "16241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27753,
+                    49.8544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v první světové válce ve středu Jiříkova",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Jiříkov",
+                "P6736": "16240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27774,
+                    49.85415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na severovýchodním okraji Jiříkova při silnici do Kněžpole",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Jiříkov",
+                "P6736": "16239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.28429,
+                    49.85617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na severovýchodním okraji Jiříkova při silnici do Kněžpole",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Jiříkov",
+                "P6736": "16238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.28481,
+                    49.85598
+                ]
+            }
+        }
+    ]
+}

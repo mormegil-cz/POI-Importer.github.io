@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Černotína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23974,
+                    49.62194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Černotína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3681"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23074,
+                    49.62375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Černotíně",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23861,
+                    49.61986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Černotíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23869,
+                    49.61957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jižní části Černotína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23669,
+                    49.61519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod Křížovým vrchem u Černotína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dnešice",
+                "P6736": "1327"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23104,
+                    49.61857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice severně od Černotína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dnešice",
+                "P6736": "1329"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23973,
+                    49.62195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice jižně od Černotína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dnešice",
+                "P6736": "1328"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23999,
+                    49.61425
+                ]
+            }
+        }
+    ]
+}

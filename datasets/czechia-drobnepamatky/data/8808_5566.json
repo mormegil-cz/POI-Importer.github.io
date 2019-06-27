@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obce Vranovice",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Břasy",
+                "P6736": "25213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5477,
+                    49.85501
+                ]
+            }
+        }
+    ]
+}

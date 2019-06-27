@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Újezdu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Albrechtice nad Vltavou",
+                "P6736": "6377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36326,
+                    49.2342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zatáčce západně od Neznašova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všemyslice",
+                "P6736": "2799"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36876,
+                    49.22932
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na křižovatce severně od Úholiček",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Úholičky",
+                "P6736": "13968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33522,
+                    50.16788
+                ]
+            }
+        }
+    ]
+}

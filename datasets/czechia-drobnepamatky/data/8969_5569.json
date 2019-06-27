@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Troubelicích vedle kostela",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Troubelice",
+                "P6736": "23120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.08146,
+                    49.81717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Troubelicích před kostelem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Troubelice",
+                "P6736": "23118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.08135,
+                    49.81716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie v Troubelicích naproti kostelu",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Troubelice",
+                "P6736": "22960"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.08092,
+                    49.81718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Troubelicích u Husova sboru",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Troubelice",
+                "P6736": "15036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.07971,
+                    49.8161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Troubelic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Troubelice",
+                "P6736": "12827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0822,
+                    49.81895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na kraji Troubelic",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Troubelice",
+                "P6736": "12729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.08289,
+                    49.81845
+                ]
+            }
+        }
+    ]
+}

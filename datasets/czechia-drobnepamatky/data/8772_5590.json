@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Hory Svatého Václava",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "10430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7446,
+                    49.51961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na zídce v Načetíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "6620"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74811,
+                    49.51131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Drahotíně u bytovek",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drahotín",
+                "P6736": "4170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75809,
+                    49.52374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Drahotína u pole",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drahotín",
+                "P6736": "3411"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75195,
+                    49.52267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Hory Svatého Václava",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drahotín",
+                "P6736": "3410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74449,
+                    49.52485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Načetíně na návsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "2143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74803,
+                    49.5122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty východně od Hory Svatého Václava",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drahotín",
+                "P6736": "1452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75573,
+                    49.52198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u brodu západně od Drahotína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drahotín",
+                "P6736": "1451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75126,
+                    49.5234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v křoví jižně od Drahotína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drahotín",
+                "P6736": "1454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76521,
+                    49.51864
+                ]
+            }
+        }
+    ]
+}

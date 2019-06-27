@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jihu Nového Rychnova u křižovatky na Čejkov",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36192,
+                    49.38133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Novém Rychnově u zatáčky směrem na Řeženčice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36099,
+                    49.38188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Josefa Rásochy v Novém Rychnově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Nový Rychnov",
+                "P6736": "18741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35987,
+                    49.38141
+                ]
+            }
+        }
+    ]
+}

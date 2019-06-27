@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z pruského 2.magdeburského pěšího pluku v bitvě 1866 u polní cesty z Čistěvsi do lesa Svíb",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Čistěves",
+                "P6736": "16517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.73205,
+                    50.29158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník hraběte Walderode padlého v bitvě 1866 v lese Svíb u Máslojed",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Máslojedy",
+                "P6736": "16497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.73202,
+                    50.29732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v místě hrobu padlých rakouských a pruských vojáků v bitvě 1866 v lese Svíb u Máslojed",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Máslojedy",
+                "P6736": "16494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.73189,
+                    50.29733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z 1.praporu rakouských polních myslivců v bitvě 1866 v lese Svíb u Máslojed",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Máslojedy",
+                "P6736": "16492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7319,
+                    50.29723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z 2.praporu rakouského 21.pěšího pluku v bitvě 1866 v lese Svíb u Máslojed",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Máslojedy",
+                "P6736": "16490"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.73205,
+                    50.29724
+                ]
+            }
+        }
+    ]
+}

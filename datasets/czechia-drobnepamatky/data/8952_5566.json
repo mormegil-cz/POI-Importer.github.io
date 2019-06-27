@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tatenici při cestě na Zábřeh",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tatenice",
+                "P6736": "15507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70052,
+                    49.86121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Tatenic v poli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tatenice",
+                "P6736": "12833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70359,
+                    49.8655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Rocha v Tatenicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Tatenice",
+                "P6736": "12176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69955,
+                    49.86631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Tatenic v poli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tatenice",
+                "P6736": "11690"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.705,
+                    49.8645
+                ]
+            }
+        }
+    ]
+}

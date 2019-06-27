@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž z roku 1920",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jemnice",
+                "P6736": "23271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55224,
+                    49.02765
+                ]
+            }
+        }
+    ]
+}

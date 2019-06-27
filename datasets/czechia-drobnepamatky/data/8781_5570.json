@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Záchlumí na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Záchlumí",
+                "P6736": "9876"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.96368,
+                    49.7977
+                ]
+            }
+        }
+    ]
+}

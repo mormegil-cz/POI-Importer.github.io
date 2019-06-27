@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Křížkovém Újezdci",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Křížkový Újezdec",
+                "P6736": "11172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58534,
+                    49.93096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Křížkovém Újezdci",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Křížkový Újezdec",
+                "P6736": "11171"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58532,
+                    49.931
+                ]
+            }
+        }
+    ]
+}

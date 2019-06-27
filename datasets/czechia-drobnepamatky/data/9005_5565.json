@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Hradci nad Moravicí u kostela svatého Petra a Pavla",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hradec nad Moravicí",
+                "P6736": "23299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87548,
+                    49.8664
+                ]
+            }
+        }
+    ]
+}

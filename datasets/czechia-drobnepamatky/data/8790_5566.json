@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí severně od Lípy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "1932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1494,
+                    49.86386
+                ]
+            }
+        }
+    ]
+}

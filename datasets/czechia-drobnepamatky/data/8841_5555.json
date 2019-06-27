@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "etalon metr piv v Dobříči",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Dobříč",
+                "P6736": "21661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26221,
+                    50.01774
+                ]
+            }
+        }
+    ]
+}

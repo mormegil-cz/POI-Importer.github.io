@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Svojetíně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Svojetín",
+                "P6736": "15736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62331,
+                    50.19058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Svojetína",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Svojetín",
+                "P6736": "15734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62795,
+                    50.18561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Svojetíně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Svojetín",
+                "P6736": "10413"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6233,
+                    50.19058
+                ]
+            }
+        }
+    ]
+}

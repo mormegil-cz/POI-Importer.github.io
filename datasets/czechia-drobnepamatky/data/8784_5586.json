@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého jižně od Čečovic",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Čečovice",
+                "P6736": "3979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01715,
+                    49.58047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Čečovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Čečovice",
+                "P6736": "3226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02926,
+                    49.58139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Puclicemi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Puclice",
+                "P6736": "2008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01589,
+                    49.56833
+                ]
+            }
+        }
+    ]
+}

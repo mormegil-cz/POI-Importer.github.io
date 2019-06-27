@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Přední Lhotě na Průběžné ulici",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Poděbrady",
+                "P6736": "15951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09201,
+                    50.13556
+                ]
+            }
+        }
+    ]
+}

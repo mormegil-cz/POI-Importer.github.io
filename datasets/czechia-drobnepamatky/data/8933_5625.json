@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Bognerů",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "13147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29198,
+                    49.01591
+                ]
+            }
+        }
+    ]
+}

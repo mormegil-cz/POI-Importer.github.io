@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Piety v Rajnochovicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rajnochovice",
+                "P6736": "9291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.82166,
+                    49.41158
+                ]
+            }
+        }
+    ]
+}

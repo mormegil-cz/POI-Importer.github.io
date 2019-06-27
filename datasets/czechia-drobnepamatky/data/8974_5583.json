@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Křelově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Křelov-Břuchotín",
+                "P6736": "13247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19979,
+                    49.61482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Nanebevzetí Panny Marie v Křelově v ulici Marie Kudeříkové",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Křelov-Břuchotín",
+                "P6736": "12211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19813,
+                    49.61503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Křelově v ulici Marie Kudeříkové",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Křelov-Břuchotín",
+                "P6736": "12210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.19808,
+                    49.61502
+                ]
+            }
+        }
+    ]
+}

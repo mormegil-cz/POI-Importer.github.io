@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v osadě Lysá",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Povrly",
+                "P6736": "17789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.12516,
+                    50.70346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Mírkově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Povrly",
+                "P6736": "13609"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.11443,
+                    50.69518
+                ]
+            }
+        }
+    ]
+}

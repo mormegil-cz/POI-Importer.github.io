@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí u Duban",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Vrbátky",
+                "P6736": "12480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2011,
+                    49.51589
+                ]
+            }
+        }
+    ]
+}

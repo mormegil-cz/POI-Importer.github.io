@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Menhir Kamenný pastýř u Klobuk",
+                "P31": "Menhir",
+                "P31^label:cs": "Menhir",
+                "P131^label:cs": "Klobuky",
+                "P6736": "8936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98449,
+                    50.30126
+                ]
+            }
+        }
+    ]
+}

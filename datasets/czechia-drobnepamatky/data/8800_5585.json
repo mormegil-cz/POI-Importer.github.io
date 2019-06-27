@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Vodokrt",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Řenče",
+                "P6736": "2781"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38068,
+                    49.59128
+                ]
+            }
+        }
+    ]
+}

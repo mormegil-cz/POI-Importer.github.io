@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jih od Unkovic u cesty k Žabčicím",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Unkovice",
+                "P6736": "22341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6046,
+                    49.01598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Žabčicích u kaple sv. Vavřince",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Žabčice",
+                "P6736": "22326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.60245,
+                    49.01178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Unkovicích u kostela Nanebevzetí Panny Marie",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Unkovice",
+                "P6736": "22323"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.60553,
+                    49.01887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Žabčicích na Přísnotické ulici",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Žabčice",
+                "P6736": "22313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.60172,
+                    49.01221
+                ]
+            }
+        }
+    ]
+}

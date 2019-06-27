@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Strojetic u Podbořan",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Kryry",
+                "P6736": "19936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47661,
+                    50.18055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž severně od Strojetic u Podbořan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kryry",
+                "P6736": "19935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4766,
+                    50.1806
+                ]
+            }
+        }
+    ]
+}

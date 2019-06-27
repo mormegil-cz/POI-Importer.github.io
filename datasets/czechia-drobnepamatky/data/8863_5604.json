@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Košic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Košice",
+                "P6736": "13414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74595,
+                    49.32079
+                ]
+            }
+        }
+    ]
+}

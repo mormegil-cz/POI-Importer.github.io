@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Bukovce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bukovec",
+                "P6736": "2948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00426,
+                    49.58755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rybníka Horymír západně od Bukovce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bukovec",
+                "P6736": "1301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00424,
+                    49.58753
+                ]
+            }
+        }
+    ]
+}

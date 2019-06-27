@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Antonína Paduánského v Malé Černoci na návsi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Blšany",
+                "P6736": "20061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54931,
+                    50.20314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Malé Černoci",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Blšany",
+                "P6736": "19882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54554,
+                    50.20124
+                ]
+            }
+        }
+    ]
+}

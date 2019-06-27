@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "křížek u cesty na Brabec",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nová Včelnice",
+                "P6736": "22695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08053,
+                    49.23805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Šimků v Nové Včelnici",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Nová Včelnice",
+                "P6736": "11132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07327,
+                    49.2383
+                ]
+            }
+        }
+    ]
+}

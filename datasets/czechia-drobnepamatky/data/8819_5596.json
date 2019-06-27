@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Zahorčiček v lesíku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kadov",
+                "P6736": "8360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77834,
+                    49.43264
+                ]
+            }
+        }
+    ]
+}

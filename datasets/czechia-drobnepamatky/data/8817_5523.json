@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Nejsvětější Trojice na návsi ve Skršíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Skršín",
+                "P6736": "17935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75437,
+                    50.46513
+                ]
+            }
+        }
+    ]
+}

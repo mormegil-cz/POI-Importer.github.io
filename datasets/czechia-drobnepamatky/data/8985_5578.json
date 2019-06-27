@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Hrubá Voda u Smilovského mlýna",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hlubočky",
+                "P6736": "25730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.44611,
+                    49.69294
+                ]
+            }
+        }
+    ]
+}

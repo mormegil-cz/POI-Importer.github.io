@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 1. světové války v Pticích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Ptice",
+                "P6736": "22733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.17221,
+                    50.05236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Pticích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Ptice",
+                "P6736": "22730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1654,
+                    50.0526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž - ul. K Jezírku, Ptice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ptice",
+                "P6736": "22691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15948,
+                    50.05457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u Obecné školy ve Svárově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Svárov",
+                "P6736": "22690"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15483,
+                    50.06395
+                ]
+            }
+        }
+    ]
+}

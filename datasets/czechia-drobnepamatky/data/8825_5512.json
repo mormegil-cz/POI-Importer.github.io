@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Malhosticích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Rtyně nad Bílinou",
+                "P6736": "14545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92272,
+                    50.6121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Piety u silnice k Rtyni nad Bílinou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rtyně nad Bílinou",
+                "P6736": "14544"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91136,
+                    50.61507
+                ]
+            }
+        }
+    ]
+}

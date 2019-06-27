@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na severním okraji Strašova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strašov",
+                "P6736": "14459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52228,
+                    50.09211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Strašově",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Strašov",
+                "P6736": "14458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52279,
+                    50.0894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Strašově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strašov",
+                "P6736": "14457"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52273,
+                    50.08941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Strašově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Strašov",
+                "P6736": "14456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52308,
+                    50.08691
+                ]
+            }
+        }
+    ]
+}

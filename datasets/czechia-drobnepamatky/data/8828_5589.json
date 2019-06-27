@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Počapel",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Počaply",
+                "P6736": "10503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99057,
+                    49.53621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Počaplech",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Počaply",
+                "P6736": "7928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98249,
+                    49.53909
+                ]
+            }
+        }
+    ]
+}

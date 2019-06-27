@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí křiž jižně od Pakoslavi",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Křelovice",
+                "P6736": "8818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05422,
+                    49.86319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rozněvicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křelovice",
+                "P6736": "4925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06582,
+                    49.85779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž západně od Rozněvic u cesty na Šipín",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Křelovice",
+                "P6736": "2459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05956,
+                    49.85711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Rozněvic",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Křelovice",
+                "P6736": "2458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06436,
+                    49.85811
+                ]
+            }
+        }
+    ]
+}

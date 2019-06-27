@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Gryfa u severní zdi zámku Pohled",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Pohled",
+                "P6736": "17256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6495,
+                    49.60358
+                ]
+            }
+        }
+    ]
+}

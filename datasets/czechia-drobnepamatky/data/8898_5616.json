@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u obecního úřadu ve Vystrčenovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vystrčenovice",
+                "P6736": "21079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53258,
+                    49.15199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi ve Vystrčenovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vystrčenovice",
+                "P6736": "21052"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52997,
+                    49.15111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Vystrčenovicích",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Vystrčenovice",
+                "P6736": "21051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5301,
+                    49.15114
+                ]
+            }
+        }
+    ]
+}

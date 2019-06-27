@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Hradišťan na rozcestí",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Kostelec",
+                "P6736": "3001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02883,
+                    49.64359
+                ]
+            }
+        }
+    ]
+}

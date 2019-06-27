@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Dolním Bukovsku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dolní Bukovsko",
+                "P6736": "6283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58096,
+                    49.17125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na náměstí v Dolním Bukovsku",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Dolní Bukovsko",
+                "P6736": "6281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58093,
+                    49.17101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dolním Bukovsku u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dolní Bukovsko",
+                "P6736": "6279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57975,
+                    49.16874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dolním Bukovsku",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dolní Bukovsko",
+                "P6736": "6280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58147,
+                    49.17125
+                ]
+            }
+        }
+    ]
+}

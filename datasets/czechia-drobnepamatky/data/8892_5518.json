@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli poblíž cesty na Císařovu hůru nad Novou Vsí nad Popelkou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nová Ves nad Popelkou",
+                "P6736": "16306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.39893,
+                    50.53418
+                ]
+            }
+        }
+    ]
+}

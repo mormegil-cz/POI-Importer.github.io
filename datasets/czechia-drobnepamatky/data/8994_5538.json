@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sádku u Dívčího Hradu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dívčí Hrad",
+                "P6736": "18024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.63895,
+                    50.25327
+                ]
+            }
+        }
+    ]
+}

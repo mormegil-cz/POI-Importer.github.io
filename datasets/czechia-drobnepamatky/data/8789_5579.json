@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Záluží u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kotovice",
+                "P6736": "6173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.13614,
+                    49.67967
+                ]
+            }
+        }
+    ]
+}

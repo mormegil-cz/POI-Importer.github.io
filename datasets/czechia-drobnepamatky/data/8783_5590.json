@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Přívozce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blížejov",
+                "P6736": "3210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99998,
+                    49.51178
+                ]
+            }
+        }
+    ]
+}

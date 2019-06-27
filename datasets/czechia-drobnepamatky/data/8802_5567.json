@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek svatého Josefa a Ježíška západně od Hromnice",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Hromnice",
+                "P6736": "20634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40967,
+                    49.85016
+                ]
+            }
+        }
+    ]
+}

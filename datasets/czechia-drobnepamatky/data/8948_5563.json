@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na východním okraji Lanškrouna při cestě na Sázavu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lanškroun",
+                "P6736": "15197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62876,
+                    49.90499
+                ]
+            }
+        }
+    ]
+}

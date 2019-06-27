@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska osvobození na náměstí Míru v Klatovech",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Klatovy",
+                "P6736": "20365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29291,
+                    49.39483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Přemysla Otakara II. na zdi spořitelny na náměstí Míru v Klatovech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Klatovy",
+                "P6736": "18382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29323,
+                    49.39569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Nádražní ulici v Klatovech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15641"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28842,
+                    49.39663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětí 2.světové války v parku Na Valech v Klatovech",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29194,
+                    49.39403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Antonína Švehly v Dragounské ulici v Klatovech",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28995,
+                    49.39289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika v parku za Černou věží v Klatovech",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15608"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29221,
+                    49.39446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný sloup s křížkem u cesty na Klatovskou hůrku z Klostermannovy ulice",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27461,
+                    49.39372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Vojtěcha na rozcestí ulic Janovická a U Elektrárny v Klatovech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15586"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27633,
+                    49.3879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup v Klatovech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Klatovy",
+                "P6736": "11852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29262,
+                    49.39389
+                ]
+            }
+        }
+    ]
+}

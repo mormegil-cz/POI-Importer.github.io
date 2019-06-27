@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Mašovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "10722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81366,
+                    49.44728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mašovicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "10721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81364,
+                    49.44647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Mašovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "10720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8132,
+                    49.44518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Mašovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "10719"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81317,
+                    49.44515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Mašovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "10718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81717,
+                    49.4425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Chotčin",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "10717"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82548,
+                    49.44336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Chotčin",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hořice",
+                "P6736": "10716"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82453,
+                    49.44372
+                ]
+            }
+        }
+    ]
+}

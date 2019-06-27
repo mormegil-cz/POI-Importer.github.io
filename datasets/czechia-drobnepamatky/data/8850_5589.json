@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Růžené u Chyšek",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chyšky",
+                "P6736": "14130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45992,
+                    49.53279
+                ]
+            }
+        }
+    ]
+}

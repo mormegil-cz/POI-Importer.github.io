@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek západně od Hrádku",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Sloupnice",
+                "P6736": "11764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32666,
+                    49.96207
+                ]
+            }
+        }
+    ]
+}

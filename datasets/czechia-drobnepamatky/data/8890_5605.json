@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Švábova u silnice mezi Švábovem a Horní Cerekví",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Švábov",
+                "P6736": "19614"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35406,
+                    49.3091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji obce Švábov",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Švábov",
+                "P6736": "19590"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35548,
+                    49.30869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Cyrila a Metoděje ve Švábově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Švábov",
+                "P6736": "19589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35744,
+                    49.30888
+                ]
+            }
+        }
+    ]
+}

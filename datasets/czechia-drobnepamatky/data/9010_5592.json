@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem I. a II. světové války na vrcholu Helštýn",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Valašské Meziříčí",
+                "P6736": "13570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.98528,
+                    49.48429
+                ]
+            }
+        }
+    ]
+}

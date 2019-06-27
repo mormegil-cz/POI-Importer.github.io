@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník rodu Vršovců ve Vraclavi na hradišti",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Vraclav",
+                "P6736": "17401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.09258,
+                    49.96974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna sv. Mikuláše při vstupu do poutního areálu ve Vraclavi",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Vraclav",
+                "P6736": "16244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0926,
+                    49.9711
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Sedlečka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Štětkovice",
+                "P6736": "19261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5187,
+                    49.66326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Vojkova - u rybníka",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Vojkov",
+                "P6736": "19260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50954,
+                    49.65529
+                ]
+            }
+        }
+    ]
+}

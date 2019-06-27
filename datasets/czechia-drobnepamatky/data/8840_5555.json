@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dobříči u Prahy",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dobříč",
+                "P6736": "11001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25792,
+                    50.02112
+                ]
+            }
+        }
+    ]
+}

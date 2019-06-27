@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Habrovanech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Habrovany",
+                "P6736": "14446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98216,
+                    50.59863
+                ]
+            }
+        }
+    ]
+}

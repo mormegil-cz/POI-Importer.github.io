@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha mistra Jana Husa v Kyšicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Kyšice",
+                "P6736": "5052"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48721,
+                    49.75218
+                ]
+            }
+        }
+    ]
+}

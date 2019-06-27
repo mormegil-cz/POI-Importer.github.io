@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mladějovicích u hřbitova",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mladějovice",
+                "P6736": "18841"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22792,
+                    49.75142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mladějovicích u cesty ke hřbitovu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladějovice",
+                "P6736": "17898"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22779,
+                    49.75153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Mladějovicích na okraji obce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Mladějovice",
+                "P6736": "17542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2279,
+                    49.75059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mladějovicích na křižovatce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladějovice",
+                "P6736": "17513"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2285,
+                    49.75262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mladějovicích u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladějovice",
+                "P6736": "16207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2305,
+                    49.75254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Mladějovicích poblíž kostela",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Mladějovice",
+                "P6736": "12479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.23067,
+                    49.75238
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Mokrouší",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mokrouše",
+                "P6736": "3128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53787,
+                    49.71991
+                ]
+            }
+        }
+    ]
+}

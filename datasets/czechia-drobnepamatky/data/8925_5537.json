@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Svatého Floriána na Trčkově náměstí v Opočně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Opočno",
+                "P6736": "15987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1139,
+                    50.26554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Svatého Jana Nepomuckého na Trčkově náměstí v Opočně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Opočno",
+                "P6736": "15986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11421,
+                    50.26563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Jana Nepomuckého na Kodymově ulici v Opočně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Opočno",
+                "P6736": "15985"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11594,
+                    50.266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na Kupkově náměstí v Opočně",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Opočno",
+                "P6736": "15984"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.115,
+                    50.26781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na Kupkově náměstí v Opočně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Opočno",
+                "P6736": "15983"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11534,
+                    50.26789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Jana Husa na Kupkově náměstí v Opočně",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Opočno",
+                "P6736": "15982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11584,
+                    50.26802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Františka Kupky na Kupkově náměstí v Opočně",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Opočno",
+                "P6736": "15981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11564,
+                    50.26798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela Nejsvětější Trojice v Opočně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Opočno",
+                "P6736": "15980"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.114,
+                    50.26528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Opočenském zámku",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Opočno",
+                "P6736": "15979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11546,
+                    50.2654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Trčkově náměstí v Opočně",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Opočno",
+                "P6736": "15978"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1144,
+                    50.26579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika v průčelí kostela Narození Páně v Opočně",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Opočno",
+                "P6736": "15977"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11572,
+                    50.26764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jihozápadním okraji Opočna",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Opočno",
+                "P6736": "11933"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10617,
+                    50.26348
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Dvércích na návsi",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Nepomyšl",
+                "P6736": "19979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32599,
+                    50.20424
+                ]
+            }
+        }
+    ]
+}

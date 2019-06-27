@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Senci",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Zruč-Senec",
+                "P6736": "4087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42039,
+                    49.79346
+                ]
+            }
+        }
+    ]
+}

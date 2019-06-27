@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Jana Nepomuckého severně od Českých Petrovic",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "České Petrovice",
+                "P6736": "12157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61302,
+                    50.1274
+                ]
+            }
+        }
+    ]
+}

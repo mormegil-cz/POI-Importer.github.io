@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Křeničné",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Chotilsko",
+                "P6736": "11337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39178,
+                    49.766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Křeničné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chotilsko",
+                "P6736": "11336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39173,
+                    49.76598
+                ]
+            }
+        }
+    ]
+}

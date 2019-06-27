@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník s rybou u Babína",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Těmice",
+                "P6736": "23247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07913,
+                    49.34305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Babína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "6681"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08289,
+                    49.34349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Babíně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Těmice",
+                "P6736": "6679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08109,
+                    49.34223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník nalezení zlatých dukátů u Babína",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Těmice",
+                "P6736": "6677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07982,
+                    49.34249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Babíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "6678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08105,
+                    49.34215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Babína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Těmice",
+                "P6736": "6676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07907,
+                    49.34284
+                ]
+            }
+        }
+    ]
+}

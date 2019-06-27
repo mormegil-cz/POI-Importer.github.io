@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Lhotce u Radnic",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Lhotka u Radnic",
+                "P6736": "4569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58177,
+                    49.88964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kamenci",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Kamenec",
+                "P6736": "4568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59577,
+                    49.88062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Lhotce u Radnic u kaple",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lhotka u Radnic",
+                "P6736": "4548"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58183,
+                    49.88961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kamenci",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kamenec",
+                "P6736": "4547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59612,
+                    49.88049
+                ]
+            }
+        }
+    ]
+}

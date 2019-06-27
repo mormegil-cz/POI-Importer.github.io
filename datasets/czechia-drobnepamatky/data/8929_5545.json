@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Libel střed obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Libel",
+                "P6736": "24597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.20235,
+                    50.15448
+                ]
+            }
+        }
+    ]
+}

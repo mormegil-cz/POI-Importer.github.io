@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hradci nad Svitavou v místě zvaném Nový Svět",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hradec nad Svitavou",
+                "P6736": "21332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46406,
+                    49.70357
+                ]
+            }
+        }
+    ]
+}

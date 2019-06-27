@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním okraji Veselé u hlavní křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Veselá",
+                "P6736": "19417"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22614,
+                    49.31593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem sv. Jakuba ve Veselé",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Veselá",
+                "P6736": "19415"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22664,
+                    49.31961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Veselé",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Veselá",
+                "P6736": "19414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22686,
+                    49.31917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty mezi Veselou a Ctiboří na okraji lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Veselá",
+                "P6736": "18437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22319,
+                    49.31179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Veselé u cesty do Ctiboře",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Veselá",
+                "P6736": "18436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22423,
+                    49.3143
+                ]
+            }
+        }
+    ]
+}

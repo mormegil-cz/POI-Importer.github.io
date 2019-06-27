@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chlumu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pšov",
+                "P6736": "8196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19974,
+                    50.01945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší u Chlumu",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Pšov",
+                "P6736": "8194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20156,
+                    50.01871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Chlumu",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Pšov",
+                "P6736": "7841"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20476,
+                    50.01806
+                ]
+            }
+        }
+    ]
+}

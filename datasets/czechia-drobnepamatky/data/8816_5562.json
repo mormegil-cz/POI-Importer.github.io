@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník východně od Terešovské Huti",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Ostrovec-Lhotka",
+                "P6736": "8061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71324,
+                    49.90925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Ostrovci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ostrovec-Lhotka",
+                "P6736": "8060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72601,
+                    49.91833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ostrovci",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Ostrovec-Lhotka",
+                "P6736": "8058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72629,
+                    49.91827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Ostrovci",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Ostrovec-Lhotka",
+                "P6736": "8057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72616,
+                    49.91829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Lhotky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ostrovec-Lhotka",
+                "P6736": "8055"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72464,
+                    49.90953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Ostrovci na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ostrovec-Lhotka",
+                "P6736": "8056"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72299,
+                    49.91599
+                ]
+            }
+        }
+    ]
+}

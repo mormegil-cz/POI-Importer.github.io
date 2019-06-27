@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vejvanově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vejvanov",
+                "P6736": "24391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65278,
+                    49.87173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vejvanově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Vejvanov",
+                "P6736": "3893"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65338,
+                    49.86929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Vejvanově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vejvanov",
+                "P6736": "3892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65341,
+                    49.86932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vejvanově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Vejvanov",
+                "P6736": "3891"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65262,
+                    49.86834
+                ]
+            }
+        }
+    ]
+}

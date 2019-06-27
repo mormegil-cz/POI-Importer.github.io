@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v I světové válce v Městském parku v Trutnově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Trutnov",
+                "P6736": "16536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9104,
+                    50.55726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dračí kašna v Městském parku v Trutnově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Trutnov",
+                "P6736": "16535"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91138,
+                    50.55796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha císaře Josefa II na Krakonošově náměstí v Trutnově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Trutnov",
+                "P6736": "16534"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91273,
+                    50.56056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Janská kaple na kótě 512 m.n.m. v lesoparku Trutnov",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Trutnov",
+                "P6736": "16533"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9146,
+                    50.55592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Svaté rodiny v Trutnově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Trutnov",
+                "P6736": "10703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91379,
+                    50.56204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Jan Nepomucký v Trutnově na Svatojanském náměstí",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Trutnov",
+                "P6736": "10702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91148,
+                    50.56173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Krakonošově náměstí v Trutnově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Trutnov",
+                "P6736": "9311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91304,
+                    50.56069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup na Krakonošově náměstí v Trutnově",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Trutnov",
+                "P6736": "9310"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91333,
+                    50.56079
+                ]
+            }
+        }
+    ]
+}

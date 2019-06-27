@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Káraném",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Káraný",
+                "P6736": "13220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74,
+                    50.17481
+                ]
+            }
+        }
+    ]
+}

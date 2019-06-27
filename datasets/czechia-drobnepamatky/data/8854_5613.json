@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Bzí u cesty na Horní Bukovsko",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dolní Bukovsko",
+                "P6736": "1315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54621,
+                    49.18193
+                ]
+            }
+        }
+    ]
+}

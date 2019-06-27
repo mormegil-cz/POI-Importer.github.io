@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ulomeného kříže v ulici Na Perštýně v Liberci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Liberec",
+                "P6736": "20437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06016,
+                    50.76205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v ulici Na Perštýně v Liberci",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Liberec",
+                "P6736": "20436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06069,
+                    50.76096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Alberta Einsteina před IQLandií v Liberci",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Liberec",
+                "P6736": "20435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05285,
+                    50.76073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika vajec před IQLandií v Liberci",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20434"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05286,
+                    50.76102
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Ploužnici",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "16342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38348,
+                    50.51169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Ploužnici",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "16341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38313,
+                    50.51142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Ploužnici",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "16340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38565,
+                    50.51109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Ploužnici u rozcestí na Žďár",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "14542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38726,
+                    50.51284
+                ]
+            }
+        }
+    ]
+}

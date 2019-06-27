@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Božejově u památníku padlých",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Božejov",
+                "P6736": "18406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15572,
+                    49.3616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple západně od Božejova",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Božejov",
+                "P6736": "6702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.14774,
+                    49.36097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple západně od Božejova u rozcestí",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Božejov",
+                "P6736": "6701"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.14976,
+                    49.36
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Božejova u mostu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Božejov",
+                "P6736": "6700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15061,
+                    49.36044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Božejova u křižovatky",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Božejov",
+                "P6736": "6699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15918,
+                    49.36283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Božejově na návsi",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Božejov",
+                "P6736": "6697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15531,
+                    49.36137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Božejově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Božejov",
+                "P6736": "6698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15612,
+                    49.36166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Božejově u kostela",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Božejov",
+                "P6736": "6695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15526,
+                    49.36163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Božejově na návsi",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Božejov",
+                "P6736": "6696"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15489,
+                    49.36142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Božejově u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Božejov",
+                "P6736": "6694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15508,
+                    49.36167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Božejově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Božejov",
+                "P6736": "6693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15431,
+                    49.36296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Božejova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Božejov",
+                "P6736": "6692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.14231,
+                    49.36595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně od Stříteže",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Střítež",
+                "P6736": "6691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.141,
+                    49.36547
+                ]
+            }
+        }
+    ]
+}

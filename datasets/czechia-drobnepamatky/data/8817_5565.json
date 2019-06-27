@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Rudova Mlýna",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Drahoňův Újezd",
+                "P6736": "8040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73302,
+                    49.87567
+                ]
+            }
+        }
+    ]
+}

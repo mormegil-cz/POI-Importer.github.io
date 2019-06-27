@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník politickým vězňům nad lomem Mexiko",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Mořina",
+                "P6736": "19150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1922,
+                    49.95688
+                ]
+            }
+        }
+    ]
+}

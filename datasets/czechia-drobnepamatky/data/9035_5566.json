@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Masarykově náměstí v Karviné",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Karviná",
+                "P6736": "9279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.54216,
+                    49.85427
+                ]
+            }
+        }
+    ]
+}

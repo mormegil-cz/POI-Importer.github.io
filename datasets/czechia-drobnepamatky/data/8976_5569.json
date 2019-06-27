@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž před kaplí v Karlově u Paseky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Paseka",
+                "P6736": "24031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24411,
+                    49.81599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Antonína Paduánského v Karlově u Paseky",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Paseka",
+                "P6736": "24030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24422,
+                    49.81598
+                ]
+            }
+        }
+    ]
+}

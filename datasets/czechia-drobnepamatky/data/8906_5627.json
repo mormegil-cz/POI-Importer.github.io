@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Velkém Dešově východní okraj obce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Dešov",
+                "P6736": "19626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.70831,
+                    48.98455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Velkém Dešově východní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dešov",
+                "P6736": "19625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.70833,
+                    48.98461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Velkého Dešova",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Dešov",
+                "P6736": "19624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6979,
+                    48.99007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Velkého Dešova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dešov",
+                "P6736": "19623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.69827,
+                    48.98865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Dešově",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Dešov",
+                "P6736": "19447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.69929,
+                    48.98396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha anděla v Dešově u kostela",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Dešov",
+                "P6736": "17899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.70065,
+                    48.98514
+                ]
+            }
+        }
+    ]
+}

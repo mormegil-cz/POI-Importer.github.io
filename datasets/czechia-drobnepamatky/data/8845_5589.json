@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Porešíně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Petrovice",
+                "P6736": "7774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36302,
+                    49.53868
+                ]
+            }
+        }
+    ]
+}

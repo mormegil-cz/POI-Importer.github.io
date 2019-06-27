@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Svatého Huberta",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drahouš",
+                "P6736": "7233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51097,
+                    50.07151
+                ]
+            }
+        }
+    ]
+}

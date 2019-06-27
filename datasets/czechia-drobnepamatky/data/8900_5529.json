@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie v Holovousích",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Holovousy",
+                "P6736": "15346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57675,
+                    50.37475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Holovousích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Holovousy",
+                "P6736": "9392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57718,
+                    50.37533
+                ]
+            }
+        }
+    ]
+}

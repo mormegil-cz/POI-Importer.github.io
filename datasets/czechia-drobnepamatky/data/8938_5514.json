@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Šonova při cestě do Broumova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Šonov",
+                "P6736": "22757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3926,
+                    50.5887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Panny Marie v Šonově střed obce",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Šonov",
+                "P6736": "22724"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39949,
+                    50.59311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Šonově střed obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Šonov",
+                "P6736": "22563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40944,
+                    50.58424
+                ]
+            }
+        }
+    ]
+}

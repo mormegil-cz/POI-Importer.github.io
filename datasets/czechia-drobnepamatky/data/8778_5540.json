@@ -1,0 +1,634 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Soška andílka s harfou ve výklenku domu Mírové náměstí 316/2 v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25844"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87884,
+                    50.22005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší vpravo nad průčelím bývalé spořitelny na Divadelním náměstí v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25839"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88297,
+                    50.22187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší vlevo nad průčelím bývalé spořitelny na Divadelním náměstí v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88307,
+                    50.22197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické sochy vpravo na severním tympanonu Mlýnské kolonády v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88152,
+                    50.22549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické sochy vlevo na severním tympanonu Mlýnské kolonády v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88163,
+                    50.2254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické sochy vpravo na jižním tympanonu Mlýnské kolonády v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25835"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88228,
+                    50.22496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické sochy měsíců vlevo na jižním tympanonu Mlýnské kolonády v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88232,
+                    50.22494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika u hotelu Thermal v Karlových Varech",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87676,
+                    50.22836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník židovským obětem 1938-1945 v Sadové ulici v Karlových Varech",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87754,
+                    50.22548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Karla Marxe v ulici Petra Velikého v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87616,
+                    50.22388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny nad ulicí Petra Velikého v Karlových Varech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87885,
+                    50.22497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha chlapce ve lví kůži ve Skalníkových sadech v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88099,
+                    50.22549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha dívky s ovocem ve Skalníkových sadech v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88111,
+                    50.22514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup vévodů z Cambridge na vyhlídce nad Mlýnskou kolonádou v Karlových Varech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88107,
+                    50.22575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Konstantina Batuškova na domě Tržiště 35 v Karlových Varech",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88259,
+                    50.22311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Malá kašna s rybami na horním konci Zámecké kolonády v Karlových Varech",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88254,
+                    50.22409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Malá kašna s žábou nad Tržní kolonádou v Karlových Varech",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88293,
+                    50.22327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší vlevo na průčelí Městského divadla Karlovy Vary",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88161,
+                    50.22114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší vpravo na průčelí Městského divadla Karlovy Vary",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25813"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88147,
+                    50.22106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánská kaple nad Grandhotelem Pupp v Karlových Varech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8779,
+                    50.2193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Karla IV. v sadech Karla IV. v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25811"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88074,
+                    50.21931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Prasíla vlevo u vchodu do Císařských lázní v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88126,
+                    50.21912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha lovkyně lvů v zahradě vily Lützow v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25798"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88502,
+                    50.22409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha jezdce před vilou Lützow v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25797"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88535,
+                    50.22414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička nad Tylovou ulicí v Karlových Varech",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25785"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88311,
+                    50.2207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Karla IV. v Sadech Jeana de Carro v Karlových Varech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25784"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88565,
+                    50.22366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou kočky na vyhlídce u Stezky Jeana de Carro v Karlových Varech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25783"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88509,
+                    50.22396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Ondřeje v Ondřejské ulici v Karlových Varech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25782"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88177,
+                    50.22741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie na rozcestí ulic 5.května a Hřbitovní v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25781"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88056,
+                    50.22961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v lesoparku nad ulici 5.května v Karlových Varech",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25780"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88101,
+                    50.22952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika jezevčíka na Palackého náměstí v Karlových Varech",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25779"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87805,
+                    50.23131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Mateřství na Palackého náměstí v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25778"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87729,
+                    50.23106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika v Mariánské ulici v Karlových Varech",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "17982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87881,
+                    50.22007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice v ulici Tržiště v Karlových Varech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "13824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88275,
+                    50.22303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u Tržní kolonády v Karlových Varech",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "13823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88286,
+                    50.2231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha čerta u Tržní kolonády v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "13822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88306,
+                    50.22319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Antonína Dvořáka v Dvořákových sadech v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "13821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87811,
+                    50.22753
+                ]
+            }
+        }
+    ]
+}

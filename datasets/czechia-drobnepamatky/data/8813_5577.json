@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník TGM v Hrádku",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Hrádek",
+                "P6736": "19802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64823,
+                    49.70994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný kříž na vrchu Svatý Vojtěch",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mirošov",
+                "P6736": "18111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64726,
+                    49.70189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hřbitova v Mirošově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mirošov",
+                "P6736": "14841"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64868,
+                    49.70427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Centrální kříž na hřbitově v Mirošově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mirošov",
+                "P6736": "14840"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6485,
+                    49.70477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Mirošova",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Mirošov",
+                "P6736": "7151"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66551,
+                    49.70205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Čtrnáctky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mirošov",
+                "P6736": "5135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6522,
+                    49.70004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Čtrnáctky",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Mirošov",
+                "P6736": "2056"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64988,
+                    49.70272
+                ]
+            }
+        }
+    ]
+}

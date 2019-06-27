@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mohyla jihozápadně od Litic",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9940"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34578,
+                    49.6939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Litic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34631,
+                    49.69357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Anny v Liticích u kostela",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Plzeň",
+                "P6736": "9938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35252,
+                    49.69552
+                ]
+            }
+        }
+    ]
+}

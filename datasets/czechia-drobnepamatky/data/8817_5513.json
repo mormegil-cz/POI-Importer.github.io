@@ -1,0 +1,549 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Heymannova kaple v Duchcově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Duchcov",
+                "P6736": "17882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74753,
+                    50.60067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v zámecké zahradě v Duchcově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14716"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74049,
+                    50.60551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Moderní socha v parku před zámeckou zahradou v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7449,
+                    50.6043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem z řad členů Sokola v letech 1938-1945 v ulici Kubicových v Duchcově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74862,
+                    50.6054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Satyra v zámeckém parku v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74187,
+                    50.60516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v zámeckém parku v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7431,
+                    50.6059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy ve Sfingovém rybníku v zahradě zámku v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74481,
+                    50.60512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Lví hlava na zdi schodiště do zahrady zámku v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74445,
+                    50.60238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Ozdobný sloup v zámecké zahradě v Duchcově",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14701"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74466,
+                    50.60327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy na plotě vpravo od brány do zámku v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74528,
+                    50.60217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy na plotě vlevo od brány zámku v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74525,
+                    50.60208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava před zámkem v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74575,
+                    50.60205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Prokopa před zámkem v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74589,
+                    50.60207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Vavřince na náměstí Jiřího z Poděbrad v Duchcově",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14696"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74905,
+                    50.60245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození v Lipové ulici v Duchcově",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75437,
+                    50.60287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kaple svaté Barbory v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75337,
+                    50.6026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Barbory v Duchcově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75313,
+                    50.60262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětí holokaustu v Lipové ulici v Duchcově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74775,
+                    50.60329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem okupace 1939-1945 v Lipové ulici v Duchcově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14690"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74795,
+                    50.60352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník básníka Walthera von der Vogelweide v parku v Tyršově ulici v Duchcově",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74806,
+                    50.60379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Busta Bedřicha Smetany ve Smetanových sadech v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75015,
+                    50.60626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Busta Ludwiga van Beethovena ve Smetanových sadech v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75025,
+                    50.60649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Karla Havlíčka Borovského před gymnáziem v Duchcově",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74622,
+                    50.60465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Antonína Sochora před školou v Osecké ulici v Duchcově",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14685"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74583,
+                    50.60582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Barokní kříž u stadionu v Teplické ulici v Duchcově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Duchcov",
+                "P6736": "14684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75127,
+                    50.61074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Duchcovského viaduktu v Duchcově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Duchcov",
+                "P6736": "13622"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74575,
+                    50.60515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Nejsvětější Trojice v zámeckém parku v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "13621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74251,
+                    50.60361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Morový sloup na náměstí Republiky v Duchcově",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Duchcov",
+                "P6736": "13620"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74654,
+                    50.60212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Republiky v Duchcově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Duchcov",
+                "P6736": "13619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74665,
+                    50.60213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Niké v zámeckém parku v Duchcově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Duchcov",
+                "P6736": "13618"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74507,
+                    50.6032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na terase u zámku v Duchcově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Duchcov",
+                "P6736": "13617"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74488,
+                    50.60259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Duchcově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Duchcov",
+                "P6736": "9423"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74904,
+                    50.60245
+                ]
+            }
+        }
+    ]
+}

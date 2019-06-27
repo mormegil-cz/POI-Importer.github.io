@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž severně od Svojšic u Sušice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Petrovice u Sušice",
+                "P6736": "14441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46075,
+                    49.24422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž ve Svojšicích u Sušice u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Petrovice u Sušice",
+                "P6736": "14440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45209,
+                    49.244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička u vchodu do zámku ve Svojšici u Sušice",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Petrovice u Sušice",
+                "P6736": "14439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45224,
+                    49.24355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž západně od Svojšic u Sušice v lese",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Petrovice u Sušice",
+                "P6736": "14438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44745,
+                    49.24574
+                ]
+            }
+        }
+    ]
+}

@@ -58,6 +58,9 @@ rmdir.sync(repo + "data");
 mkdir.sync(repo + "data");
 
 var numTiles = 0;
+var tileSizes = [];
+var numBiggerThan20 = 0;
+var numBiggerThan50 = 0;
 for (var x in tiledData)
 {
 	for (var y in tiledData[x])
@@ -67,6 +70,10 @@ for (var x in tiledData)
 			"type": "FeatureCollection",
 			"features": tiledData[x][y]
 		}
+		var tileSize= tiledData[x][y].length;
+		tileSizes.push(tileSize);
+		if (tileSize > 20) ++numBiggerThan20;
+		if (tileSize > 50) ++numBiggerThan50;
 		var fileName = repo + "data/" + x + "_" + y + ".json";
 		fs.writeFile(fileName, JSON.stringify(objectToWrite, null, 4), function(err) {
 			if(err) {
@@ -75,8 +82,6 @@ for (var x in tiledData)
 		}); 	
 	}
 }
+tileSizes.sort((a, b) => a - b);
 
-console.log("Data density: " + (data.features.length / numTiles).toFixed(2) + " POI per tile");
-
-
-
+console.log(`Data density: average: ${(data.features.length / numTiles).toFixed(2)}, Q1: ${tileSizes[Math.round(tileSizes.length / 4)]}, median: ${tileSizes[Math.floor(tileSizes.length / 2)]}, Q3: ${tileSizes[Math.round(3 * tileSizes.length / 4)]}, max: ${tileSizes[tileSizes.length - 1]} POI per tile; ${numBiggerThan20} bigger than 20, ${numBiggerThan50} bigger than 50`);

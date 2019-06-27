@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Brňanech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Brňany",
+                "P6736": "16802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1438,
+                    50.48079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. a 2.světové válce v Brňanech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Brňany",
+                "P6736": "16801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14277,
+                    50.48086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Výklenková kaplička na rohu domu v Brňanech",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Brňany",
+                "P6736": "16800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14194,
+                    50.48107
+                ]
+            }
+        }
+    ]
+}

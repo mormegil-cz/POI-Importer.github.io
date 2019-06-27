@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kámen Čertův kámen severovýchodně od Mutějovic",
+                "P31": "Památný kámen",
+                "P31^label:cs": "Památný kámen",
+                "P131^label:cs": "Mutějovice",
+                "P6736": "2115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71428,
+                    50.20204
+                ]
+            }
+        }
+    ]
+}

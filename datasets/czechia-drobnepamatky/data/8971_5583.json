@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Senice na Hané vedle silnice",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Senice na Hané",
+                "P6736": "16104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12148,
+                    49.61735
+                ]
+            }
+        }
+    ]
+}

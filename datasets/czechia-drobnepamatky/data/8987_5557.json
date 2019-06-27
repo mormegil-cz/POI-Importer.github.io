@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého u mostu přes Černýpotok v Bruntálu",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bruntál",
+                "P6736": "18480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.46959,
+                    49.99089
+                ]
+            }
+        }
+    ]
+}

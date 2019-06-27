@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Něšova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pernarec",
+                "P6736": "2160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10544,
+                    49.88395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Něšova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pernarec",
+                "P6736": "2161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10684,
+                    49.88369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty východně od Něšova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pernarec",
+                "P6736": "2158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11253,
+                    49.88561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí severně nad Něšovem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pernarec",
+                "P6736": "2159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1071,
+                    49.88461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Číhané",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "1354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11628,
+                    49.89381
+                ]
+            }
+        }
+    ]
+}

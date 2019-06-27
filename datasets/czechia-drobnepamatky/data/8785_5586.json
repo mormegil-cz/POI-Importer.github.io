@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Čečovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Čečovice",
+                "P6736": "3225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03483,
+                    49.57884
+                ]
+            }
+        }
+    ]
+}

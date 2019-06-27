@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha bachyně severně od Benátek",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Benátky",
+                "P6736": "17922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.73325,
+                    50.31579
+                ]
+            }
+        }
+    ]
+}

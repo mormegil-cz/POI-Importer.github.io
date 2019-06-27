@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Vojtěcha ve Slemeně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Synkov-Slemeno",
+                "P6736": "24554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23065,
+                    50.14702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v obci Slemeno západní část obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Synkov-Slemeno",
+                "P6736": "24553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22733,
+                    50.14598
+                ]
+            }
+        }
+    ]
+}

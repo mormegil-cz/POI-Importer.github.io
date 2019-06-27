@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník české házené v Červeném Hrádku",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Plzeň",
+                "P6736": "5155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45835,
+                    49.75703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Červeném Hrádku",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45869,
+                    49.75817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Červeném Hrádku",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Plzeň",
+                "P6736": "3852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45874,
+                    49.75821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Červeným Hrádkem u silnice do Dýšiny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "1341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46291,
+                    49.76152
+                ]
+            }
+        }
+    ]
+}

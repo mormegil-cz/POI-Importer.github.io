@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Polomí",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Polomí",
+                "P6736": "16912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95045,
+                    49.6305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Polomí na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Polomí",
+                "P6736": "16208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95055,
+                    49.63044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Polomí ve středu obce",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Polomí",
+                "P6736": "14492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.94833,
+                    49.63124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Polomí na rozcestí",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Polomí",
+                "P6736": "14426"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95066,
+                    49.63046
+                ]
+            }
+        }
+    ]
+}

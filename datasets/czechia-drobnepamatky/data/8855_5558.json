@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Modletic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Modletice",
+                "P6736": "2084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58774,
+                    49.97086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce u Dobřejovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dobřejovice",
+                "P6736": "1391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56917,
+                    49.97794
+                ]
+            }
+        }
+    ]
+}

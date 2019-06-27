@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Spytovicích",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Zdechovice",
+                "P6736": "15076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.49426,
+                    50.02107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Spytovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zdechovice",
+                "P6736": "15075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.49432,
+                    50.02111
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Jaroslava Foglara ve Sluneční zátoce východně od Ledče nad Sázavou",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Ledeč nad Sázavou",
+                "P6736": "15139"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31067,
+                    49.6877
+                ]
+            }
+        }
+    ]
+}

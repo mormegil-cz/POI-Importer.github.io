@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Orlově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vračovice-Orlov",
+                "P6736": "12094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24643,
+                    49.94962
+                ]
+            }
+        }
+    ]
+}

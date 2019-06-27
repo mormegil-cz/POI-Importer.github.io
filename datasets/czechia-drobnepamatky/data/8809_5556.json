@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kožlan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kožlany",
+                "P6736": "5266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55839,
+                    49.99628
+                ]
+            }
+        }
+    ]
+}

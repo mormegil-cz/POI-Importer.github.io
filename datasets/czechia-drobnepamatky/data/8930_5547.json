@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vincence z Pauly v Tyršově ulici v Kostelci nad Orlicí",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Kostelec nad Orlicí",
+                "P6736": "21824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21837,
+                    50.12153
+                ]
+            }
+        }
+    ]
+}

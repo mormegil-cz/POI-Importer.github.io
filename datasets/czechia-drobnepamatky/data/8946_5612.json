@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník vítězství nad fašismem u Kounicových kolejí v Brně",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Brno",
+                "P6736": "9340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.58232,
+                    49.20858
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ryby v Týnci nad Sázavou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Týnec nad Sázavou",
+                "P6736": "15483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58955,
+                    49.83451
+                ]
+            }
+        }
+    ]
+}

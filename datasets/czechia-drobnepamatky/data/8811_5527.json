@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Rozvalené části kříže na rozcestí v západním okraji Blažimi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blažim",
+                "P6736": "24633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62077,
+                    50.40622
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Budeče",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "6450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10073,
+                    49.89774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Budeče u okraje lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "1350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10536,
+                    49.8953
+                ]
+            }
+        }
+    ]
+}

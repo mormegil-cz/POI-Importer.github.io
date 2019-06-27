@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Branišova u potůčku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Branišov",
+                "P6736": "1275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40677,
+                    48.97907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Branišova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Branišov",
+                "P6736": "1274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41379,
+                    48.97791
+                ]
+            }
+        }
+    ]
+}

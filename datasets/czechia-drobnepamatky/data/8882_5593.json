@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jižní části Bácovic u čp.25",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bácovice",
+                "P6736": "19927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16801,
+                    49.4758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na kraji lesa jižně od Bácovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bácovice",
+                "P6736": "18892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16551,
+                    49.46895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Bácovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bácovice",
+                "P6736": "7396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17532,
+                    49.48221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Bácovic u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bácovice",
+                "P6736": "7395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17076,
+                    49.48081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Bácovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bácovice",
+                "P6736": "7394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16716,
+                    49.47717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bácovicích v zahradě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bácovice",
+                "P6736": "7392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16654,
+                    49.47762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Bácovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bácovice",
+                "P6736": "7393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16725,
+                    49.47718
+                ]
+            }
+        }
+    ]
+}

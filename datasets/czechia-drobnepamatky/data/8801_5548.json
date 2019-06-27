@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u čp. 35 v Malměřicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blatno",
+                "P6736": "19964"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38348,
+                    50.11771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Malměřicích naproti čp 43",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blatno",
+                "P6736": "19962"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38595,
+                    50.11488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlých v Malměřicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Blatno",
+                "P6736": "6975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38519,
+                    50.11607
+                ]
+            }
+        }
+    ]
+}

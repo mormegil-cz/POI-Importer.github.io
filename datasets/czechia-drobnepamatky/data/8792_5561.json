@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u vrchu Lom v Manětínské rezervaci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20169,
+                    49.9349
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Čermné nad Orlicí",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Čermná nad Orlicí",
+                "P6736": "12902"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14597,
+                    50.08057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Čermné nad Orlicí",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Čermná nad Orlicí",
+                "P6736": "11778"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14647,
+                    50.08073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Čermné nad Orlicí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Čermná nad Orlicí",
+                "P6736": "11777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14651,
+                    50.08072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Velké Čermné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Čermná nad Orlicí",
+                "P6736": "11761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13846,
+                    50.08503
+                ]
+            }
+        }
+    ]
+}

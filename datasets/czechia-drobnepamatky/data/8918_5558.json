@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nových Holešovicích na křižovatce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Slepotice",
+                "P6736": "20823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.96334,
+                    49.97608
+                ]
+            }
+        }
+    ]
+}

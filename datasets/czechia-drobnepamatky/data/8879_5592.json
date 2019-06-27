@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u samoty Křovinka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bořetice",
+                "P6736": "16439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10212,
+                    49.48618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Útěchovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Útěchovice",
+                "P6736": "7407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11563,
+                    49.4829
+                ]
+            }
+        }
+    ]
+}

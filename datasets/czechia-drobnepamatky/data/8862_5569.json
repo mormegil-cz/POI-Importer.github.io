@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Soběhrdech",
+                "P31": "Neznámý",
+                "P31^label:cs": "Neznámý",
+                "P131^label:cs": "Soběhrdy",
+                "P6736": "6773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.73686,
+                    49.82204
+                ]
+            }
+        }
+    ]
+}

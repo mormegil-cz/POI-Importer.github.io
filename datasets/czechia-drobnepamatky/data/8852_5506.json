@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Horní Libchavy do České Lípy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Česká Lípa",
+                "P6736": "25351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52178,
+                    50.69787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Horní Libchavy do České Lípy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Česká Lípa",
+                "P6736": "25350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51936,
+                    50.70066
+                ]
+            }
+        }
+    ]
+}

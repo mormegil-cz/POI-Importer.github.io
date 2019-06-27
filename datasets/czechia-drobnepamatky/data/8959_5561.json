@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Postřelmůvku na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Postřelmůvek",
+                "P6736": "16970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87462,
+                    49.92454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Rovenska na okraji lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rovensko",
+                "P6736": "11878"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85592,
+                    49.92579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Rovenska na křižovatce polních cest",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rovensko",
+                "P6736": "11877"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85883,
+                    49.92429
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Strahovicích jižní část obce",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Strahovice",
+                "P6736": "23818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08693,
+                    49.99987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Strahovicích východní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strahovice",
+                "P6736": "23484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.09551,
+                    50.00488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Strahovicích na státní hranici při cestě do Krzanowic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Strahovice",
+                "P6736": "23483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.09929,
+                    50.00603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek ve Strahovicích východní okraj obce",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Strahovice",
+                "P6736": "23482"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.09228,
+                    50.00139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Strahovicích ve středu obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strahovice",
+                "P6736": "23481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.09026,
+                    50.00236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple panny Marie Schönstattské ve Strahovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Strahovice",
+                "P6736": "23480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08963,
+                    50.00174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Strahovicích před kalí panny Marie Schönstattské",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strahovice",
+                "P6736": "23478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08958,
+                    50.00176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Strahovicích jižní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strahovice",
+                "P6736": "23476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08668,
+                    49.998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Ježíše Krista ve Strahovicích u kostela svatého Augustina",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Strahovice",
+                "P6736": "23475"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08723,
+                    50.00241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Strahovicích u kostela svatého Augustina",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strahovice",
+                "P6736": "23474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08717,
+                    50.00256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem války ve Strahovicích u kostela svatého Augustina",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Strahovice",
+                "P6736": "23473"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08725,
+                    50.00261
+                ]
+            }
+        }
+    ]
+}

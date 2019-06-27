@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Kladek na polním rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kladky",
+                "P6736": "16211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83844,
+                    49.63668
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí ze silnice 237 k osadě Horka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Evaň",
+                "P6736": "25014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99862,
+                    50.37397
+                ]
+            }
+        }
+    ]
+}

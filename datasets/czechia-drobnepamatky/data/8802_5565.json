@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od vlakové zastávky Obora",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Obora",
+                "P6736": "11260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40401,
+                    49.87348
+                ]
+            }
+        }
+    ]
+}

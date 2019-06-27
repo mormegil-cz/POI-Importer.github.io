@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek západně od Spankova",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Líté",
+                "P6736": "8315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22105,
+                    49.90891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen jihozápadně od Spankova",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Líté",
+                "P6736": "8314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22445,
+                    49.90891
+                ]
+            }
+        }
+    ]
+}

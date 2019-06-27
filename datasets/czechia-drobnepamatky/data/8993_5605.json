@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vendelína severně od Žeranovic",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Žeranovice",
+                "P6736": "9364"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60129,
+                    49.29948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž jihovýchodně od Martinic",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Martinice",
+                "P6736": "9363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60756,
+                    49.30749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky v Horním Lapači",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Lapač",
+                "P6736": "9361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.61829,
+                    49.29993
+                ]
+            }
+        }
+    ]
+}

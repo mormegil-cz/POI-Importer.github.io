@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž na Boušíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Slatina nad Úpou",
+                "P6736": "11610"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05665,
+                    50.45662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž ve Slatině nad Úpou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Slatina nad Úpou",
+                "P6736": "11609"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04064,
+                    50.45339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Slatině nad Úpou",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Slatina nad Úpou",
+                "P6736": "11608"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04062,
+                    50.45346
+                ]
+            }
+        }
+    ]
+}

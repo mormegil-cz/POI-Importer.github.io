@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Polžicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Srby",
+                "P6736": "5286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88721,
+                    49.53644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Polžic mezi stromy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Srby",
+                "P6736": "4239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88525,
+                    49.53716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Srby a Polžicemi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Srby",
+                "P6736": "2349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8809,
+                    49.53749
+                ]
+            }
+        }
+    ]
+}

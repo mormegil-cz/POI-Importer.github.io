@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem válek v Újezdečku",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Újezdeček",
+                "P6736": "15821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78916,
+                    50.64523
+                ]
+            }
+        }
+    ]
+}

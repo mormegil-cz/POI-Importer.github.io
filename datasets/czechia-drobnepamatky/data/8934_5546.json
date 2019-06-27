@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Antonína Švehly v Rovni u Rychnova nad Kněžnou",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "24559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30934,
+                    50.14152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rovni u Rychnova nad Kněžnou severní část obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "24558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30946,
+                    50.14109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Rovni u Rychnova nad Kněžnou severní část obce",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "24557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30965,
+                    50.14084
+                ]
+            }
+        }
+    ]
+}

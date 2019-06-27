@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kejšovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Krsy",
+                "P6736": "4696"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05306,
+                    49.947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Kejšovic",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Krsy",
+                "P6736": "4695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05418,
+                    49.94591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Polínkách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Krsy",
+                "P6736": "4694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05727,
+                    49.93898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Polínkách",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Krsy",
+                "P6736": "4692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05757,
+                    49.93784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Kejšovicemi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Krsy",
+                "P6736": "1716"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05914,
+                    49.9488
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým severně od Cotkytle",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Cotkytle",
+                "P6736": "18300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.72558,
+                    49.94419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Cotkytli na okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Cotkytle",
+                "P6736": "17516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.72125,
+                    49.93912
+                ]
+            }
+        }
+    ]
+}

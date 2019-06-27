@@ -1,0 +1,447 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha dívky s květinou u galerie Atrium v Čajkovského ulici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45294,
+                    50.08192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Povýšení svatého Kříže v ulici Čajkovského",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "25162"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45325,
+                    50.08186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Krista nad portálem kostela svatého Prokopa na Žižkově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45074,
+                    50.08429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Jaroslava Seiferta na rohu ulic Táboritská a Chelčického",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "25160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45366,
+                    50.084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Ryszarda Siwiece v Siwiecově ulici na Žižkově",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "25001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44336,
+                    50.08345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha dětí v zahradě školky ve Vozové ulici na Vinohradech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "25000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44077,
+                    50.08175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup-obelisk Brigitty Canalové v Riegrových sadech na Vinohradech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Praha",
+                "P6736": "24999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44172,
+                    50.08152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Dívka s obručí v Riegrových sadech na Vinohradech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44358,
+                    50.07959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník 150 let Sokola u haly Sokola Královské Vinohrady",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "24997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4423,
+                    50.07872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy na štítě budovy Muzea hlavního města Prahy",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43839,
+                    50.09007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha husitského práčete v Karlíně v Praze",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "23847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44859,
+                    50.09112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hřbitovní kaple v Praze-Karlíně v Pernerově ulici",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "13871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45709,
+                    50.0914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Rokycanově ulici v Praze",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "11441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45565,
+                    50.08464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Znak Československa na Vítkově v Praze",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "10998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44907,
+                    50.08839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Bronzová vrata s reliéfy na Národním památníku na Vítkově v Praze",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Praha",
+                "P6736": "10997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44958,
+                    50.08844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Táborský památník na Vítkově v Praze",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "10996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44811,
+                    50.08803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Tank T-34 u vojenského muzea u Vítkova v Praze",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Praha",
+                "P6736": "10995"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44483,
+                    50.08766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Jezdecká socha Jaroslava Haška na Prokopově náměstí v Praze",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "10994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45258,
+                    50.08593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u Národního památníků na Vítkově v Praze",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "10993"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45129,
+                    50.08872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Karla Havlíčka Borovského na Havlíčkově náměstí v Praze",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "10992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45426,
+                    50.08506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Winstona Churchilla na náměstí Winstona Churchilla v Praze",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "9792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44118,
+                    50.08467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Mostaři před autobusovým nádražím Florenc v Praze",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "9741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43908,
+                    50.08948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika s hodinami u Florence",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "9740"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43896,
+                    50.09096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup u Florence v Praze",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Praha",
+                "P6736": "9739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43872,
+                    50.09044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Národní památník na Vítkově - Žižkova socha",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "8943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44923,
+                    50.0884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Františka Ladislava Riegra v Riegrových sadech v Praze",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "8895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43798,
+                    50.07949
+                ]
+            }
+        }
+    ]
+}

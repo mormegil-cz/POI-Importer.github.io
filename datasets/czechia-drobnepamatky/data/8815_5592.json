@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Přebudově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "4949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69581,
+                    49.49536
+                ]
+            }
+        }
+    ]
+}

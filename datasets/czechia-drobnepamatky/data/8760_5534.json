@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého ve Sněžné",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Kraslice",
+                "P6736": "9565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49191,
+                    50.30669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obce Sněžná ve Sněžné",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Kraslice",
+                "P6736": "9564"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49207,
+                    50.30667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Sněžné",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Kraslice",
+                "P6736": "9563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49204,
+                    50.30714
+                ]
+            }
+        }
+    ]
+}

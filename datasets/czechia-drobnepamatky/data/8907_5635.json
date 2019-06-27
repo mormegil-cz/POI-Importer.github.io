@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Šafova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Šafov",
+                "P6736": "20289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.71356,
+                    48.86713
+                ]
+            }
+        }
+    ]
+}

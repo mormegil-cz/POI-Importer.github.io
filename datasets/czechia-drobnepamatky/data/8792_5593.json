@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Býšova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chudenice",
+                "P6736": "3281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18538,
+                    49.47874
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v ulici Ke Klenči v Roudnici nad Labem",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "19837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24751,
+                    50.4127
+                ]
+            }
+        }
+    ]
+}

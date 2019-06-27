@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vlčí u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vlčí",
+                "P6736": "4778"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36075,
+                    49.51591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vlčí",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Vlčí",
+                "P6736": "4323"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35994,
+                    49.51181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vlčí",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Vlčí",
+                "P6736": "4322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36008,
+                    49.51173
+                ]
+            }
+        }
+    ]
+}

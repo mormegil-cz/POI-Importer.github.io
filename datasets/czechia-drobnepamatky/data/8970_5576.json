@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Tři Dvory u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Litovel",
+                "P6736": "25766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1055,
+                    49.71334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Tři Dvory u kaple ve středu vesnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Litovel",
+                "P6736": "25765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10735,
+                    49.7146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Tři Dvory ve středu vesnice",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Litovel",
+                "P6736": "25764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10753,
+                    49.7146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boří muka Tři Dvory na polním rozcestí",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Litovel",
+                "P6736": "20030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11349,
+                    49.71247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Tři Dvory na okraji vesnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Litovel",
+                "P6736": "13200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1051,
+                    49.71602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka Tři Dvory na okraji vesnice",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Litovel",
+                "P6736": "12067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10929,
+                    49.71512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž Tři Dvory u silnice",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Litovel",
+                "P6736": "12028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10431,
+                    49.71295
+                ]
+            }
+        }
+    ]
+}

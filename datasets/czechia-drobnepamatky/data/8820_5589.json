@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem druhé světové války ve Hvožďanech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hvožďany",
+                "P6736": "7918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80396,
+                    49.52718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v první světové válce ve Hvožďanech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hvožďany",
+                "P6736": "7917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80489,
+                    49.5281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Hvožďanech nedaleko tvrze",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hvožďany",
+                "P6736": "7916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80397,
+                    49.52729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Hvožďan u silnice do Vacíkova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hvožďany",
+                "P6736": "1605"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81391,
+                    49.53281
+                ]
+            }
+        }
+    ]
+}

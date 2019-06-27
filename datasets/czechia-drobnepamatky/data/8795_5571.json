@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Města Touškov",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Město Touškov",
+                "P6736": "3692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25051,
+                    49.78818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Čemin",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Čeminy",
+                "P6736": "3691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25037,
+                    49.79195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky u Kumberku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Čeminy",
+                "P6736": "3690"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26919,
+                    49.79137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Města Touškov u cesty do Kumberku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Město Touškov",
+                "P6736": "2036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25933,
+                    49.78348
+                ]
+            }
+        }
+    ]
+}

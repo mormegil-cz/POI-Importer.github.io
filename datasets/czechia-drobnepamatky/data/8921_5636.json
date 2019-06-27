@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Eliášova kaple v Hradišti",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Znojmo",
+                "P6736": "13453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03835,
+                    48.85653
+                ]
+            }
+        }
+    ]
+}

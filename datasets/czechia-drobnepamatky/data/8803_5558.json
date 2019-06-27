@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Sechutické hájovny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "3115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.428,
+                    49.967
+                ]
+            }
+        }
+    ]
+}

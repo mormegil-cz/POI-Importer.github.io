@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v ulici 5.května v Košeticích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Košetice",
+                "P6736": "19828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11798,
+                    49.55645
+                ]
+            }
+        }
+    ]
+}

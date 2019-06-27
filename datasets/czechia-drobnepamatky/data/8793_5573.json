@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jihozápadně od Bdeněvsi",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Bdeněves",
+                "P6736": "6206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22656,
+                    49.7642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Bdeněvsí v poli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bdeněves",
+                "P6736": "4945"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21907,
+                    49.76014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Bdeněvsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bdeněves",
+                "P6736": "4027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22406,
+                    49.75744
+                ]
+            }
+        }
+    ]
+}

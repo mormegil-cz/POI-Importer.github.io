@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Dubci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Třemešné",
+                "P6736": "3780"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72325,
+                    49.63054
+                ]
+            }
+        }
+    ]
+}

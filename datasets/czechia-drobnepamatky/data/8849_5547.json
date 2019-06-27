@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Inspirace před školou v Hovorčovické ulici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "23869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44387,
+                    50.1283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na hřbitově v Kobylisích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "23868"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4523,
+                    50.13164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Dvě ženy u nákupního centra Přemyšlenská",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "23856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45115,
+                    50.12725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Tak zvaný Valdštejnský sloup v zahradě v ulici Na Dlážděnce",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Praha",
+                "P6736": "23855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44703,
+                    50.12074
+                ]
+            }
+        }
+    ]
+}

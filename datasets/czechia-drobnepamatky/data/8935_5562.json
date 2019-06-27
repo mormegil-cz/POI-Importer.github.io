@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie ve Sloupnici u bramborárny",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sloupnice",
+                "P6736": "21715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3261,
+                    49.92035
+                ]
+            }
+        }
+    ]
+}

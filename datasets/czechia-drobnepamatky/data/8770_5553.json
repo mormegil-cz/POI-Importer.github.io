@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie u Pramenů",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Prameny",
+                "P6736": "24044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71952,
+                    50.04813
+                ]
+            }
+        }
+    ]
+}

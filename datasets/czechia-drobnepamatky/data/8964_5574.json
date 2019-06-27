@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Doubravici",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Moravičany",
+                "P6736": "23593"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9762,
+                    49.74785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na okraji Doubravice",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Moravičany",
+                "P6736": "23592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97247,
+                    49.74435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Josefa v Doubravici v části Mitrovice",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Moravičany",
+                "P6736": "20567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98142,
+                    49.74108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Křtitele v Doubravici v části Mitrovicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Moravičany",
+                "P6736": "20566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98178,
+                    49.74119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Svaté Trojice za Doubravicí u silnice",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Moravičany",
+                "P6736": "20565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97938,
+                    49.74545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Doubravici před kaplí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Moravičany",
+                "P6736": "20564"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97569,
+                    49.74736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Doubravice u pole",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Moravičany",
+                "P6736": "16224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97292,
+                    49.75262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice v Doubravici",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Moravičany",
+                "P6736": "13086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97579,
+                    49.74746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Doubravici",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Moravičany",
+                "P6736": "11693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97539,
+                    49.74679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na kraji Doubravice",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Moravičany",
+                "P6736": "11649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97363,
+                    49.74834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Doubravici na konci obce",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Moravičany",
+                "P6736": "11295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97243,
+                    49.74425
+                ]
+            }
+        }
+    ]
+}

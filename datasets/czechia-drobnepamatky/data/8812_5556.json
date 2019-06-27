@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v lese u říčky Javornice severně od Slatiny",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Slatina",
+                "P6736": "22632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63434,
+                    49.99543
+                ]
+            }
+        }
+    ]
+}

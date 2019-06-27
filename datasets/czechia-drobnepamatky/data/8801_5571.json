@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Menhir severně od Plzně",
+                "P31": "Menhir",
+                "P31^label:cs": "Menhir",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4007,
+                    49.78548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na památce bombardování u Kamenného rybníka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "1252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38263,
+                    49.78899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Třemošné v lese",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "1254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39035,
+                    49.79467
+                ]
+            }
+        }
+    ]
+}

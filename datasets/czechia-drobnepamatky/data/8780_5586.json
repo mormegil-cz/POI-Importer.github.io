@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Věvrově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "4150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92759,
+                    49.57604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí jižně od Věvrova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "2962"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93039,
+                    49.57416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v plotě ve Věvrově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "2961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92604,
+                    49.57629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí ve Věvrově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "2960"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92622,
+                    49.57639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u lípy ve Věvrově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "2959"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92877,
+                    49.57603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Věvrově u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "2958"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93079,
+                    49.57551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Věvrovem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "2957"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.931,
+                    49.58097
+                ]
+            }
+        }
+    ]
+}

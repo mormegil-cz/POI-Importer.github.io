@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí sv. Anny v Lachovicích.",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Toužim",
+                "P6736": "18306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03841,
+                    50.08428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Anny v Lachovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Toužim",
+                "P6736": "18305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03853,
+                    50.08429
+                ]
+            }
+        }
+    ]
+}

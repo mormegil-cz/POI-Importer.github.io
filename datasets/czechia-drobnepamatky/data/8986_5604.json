@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Hulíně u kostela",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Hulín",
+                "P6736": "12122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.46604,
+                    49.31498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Hulína",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hulín",
+                "P6736": "9362"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.46069,
+                    49.32046
+                ]
+            }
+        }
+    ]
+}

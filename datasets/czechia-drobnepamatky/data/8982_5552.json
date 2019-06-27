@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice ve středu Suché Rudné",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Světlá Hora",
+                "P6736": "17222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.35952,
+                    50.06262
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zahradě v Hostišovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93174,
+                    49.48914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hostišovicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8445"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93158,
+                    49.48975
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Výklenková kaplička sv. Václava",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Bystřice",
+                "P6736": "12353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68169,
+                    49.69123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Ouběnicích nad silnicí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bystřice",
+                "P6736": "10655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68443,
+                    49.69341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Ouběnicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bystřice",
+                "P6736": "10654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68499,
+                    49.69316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Ouběnicích pod kostelem",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bystřice",
+                "P6736": "10653"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68538,
+                    49.69331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Jiřína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bystřice",
+                "P6736": "10651"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68089,
+                    49.68296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Josefa v Ouběnicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bystřice",
+                "P6736": "10650"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68668,
+                    49.69408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ouběnicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Bystřice",
+                "P6736": "10649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6867,
+                    49.69385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce v Ouběnicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bystřice",
+                "P6736": "10648"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6917,
+                    49.69532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Ouběnic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bystřice",
+                "P6736": "10647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69589,
+                    49.69138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Ouběnic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Bystřice",
+                "P6736": "6942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68167,
+                    49.6912
+                ]
+            }
+        }
+    ]
+}

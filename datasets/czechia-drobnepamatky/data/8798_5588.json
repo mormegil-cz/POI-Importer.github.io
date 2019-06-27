@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Zelené Hoře",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Lužany",
+                "P6736": "4758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33169,
+                    49.54146
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný dvojramenný kříž u kaple svatého Klimenta severozápadně od Osvětiman",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Osvětimany",
+                "P6736": "14653"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21766,
+                    49.08585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička svatého Gorazda u kaple svatého Klimenta severozápadně od Osvětiman",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Osvětimany",
+                "P6736": "14652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21766,
+                    49.08585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěná kaple svatého Klimenta severozápadně od Osvětiman",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Osvětimany",
+                "P6736": "14651"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21766,
+                    49.08585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný dvojramenný kříž u Gorazdovy studánky severozápadně od Osvětiman",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Osvětimany",
+                "P6736": "14504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22029,
+                    49.08603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěná socha svatého Gorazda nad Gorazdovou studánkou severozápadně od Osvětiman",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Osvětimany",
+                "P6736": "14503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22029,
+                    49.08603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž u Hradiska svatého Klimenta severozápadně od Osvětiman",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Osvětimany",
+                "P6736": "14502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2192,
+                    49.087
+                ]
+            }
+        }
+    ]
+}

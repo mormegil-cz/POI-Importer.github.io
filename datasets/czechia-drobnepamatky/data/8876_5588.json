@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty jižně od Nových Vyklantic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Buřenice",
+                "P6736": "19819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04688,
+                    49.54441
+                ]
+            }
+        }
+    ]
+}

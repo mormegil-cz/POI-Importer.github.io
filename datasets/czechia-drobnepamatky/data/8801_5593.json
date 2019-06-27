@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Měčína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Měčín",
+                "P6736": "5492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39919,
+                    49.47643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Nedanic II",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Měčín",
+                "P6736": "5491"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38981,
+                    49.471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Nedanic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Měčín",
+                "P6736": "5490"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38978,
+                    49.47097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Měčíně u kostela",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Měčín",
+                "P6736": "4320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40329,
+                    49.47985
+                ]
+            }
+        }
+    ]
+}

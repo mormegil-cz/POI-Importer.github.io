@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vysokém Potoku na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Malá Morava",
+                "P6736": "22070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83874,
+                    50.07734
+                ]
+            }
+        }
+    ]
+}

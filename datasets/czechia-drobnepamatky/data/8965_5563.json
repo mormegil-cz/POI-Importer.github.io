@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dlouhomilově na okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dlouhomilov",
+                "P6736": "22184"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98961,
+                    49.90547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dlouhomilově v lese",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dlouhomilov",
+                "P6736": "16917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99314,
+                    49.90654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dlouhomilově u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dlouhomilov",
+                "P6736": "16014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99101,
+                    49.9083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Floriána v Dlouhomilově v lese",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Dlouhomilov",
+                "P6736": "15562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99377,
+                    49.90575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Dlouhomilově u kostela",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Dlouhomilov",
+                "P6736": "15561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99127,
+                    49.90835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dlouhomilově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dlouhomilov",
+                "P6736": "12321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99106,
+                    49.90772
+                ]
+            }
+        }
+    ]
+}

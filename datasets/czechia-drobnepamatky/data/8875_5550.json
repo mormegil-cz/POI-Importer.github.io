@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u silnice Tatce - Pečky",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Radim",
+                "P6736": "14801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00858,
+                    50.08395
+                ]
+            }
+        }
+    ]
+}

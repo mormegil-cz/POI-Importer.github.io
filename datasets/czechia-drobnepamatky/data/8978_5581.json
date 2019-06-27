@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hlušovicích na severním okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hlušovice",
+                "P6736": "23825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27671,
+                    49.64083
+                ]
+            }
+        }
+    ]
+}

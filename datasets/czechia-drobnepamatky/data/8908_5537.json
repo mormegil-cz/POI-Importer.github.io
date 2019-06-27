@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomníky padlým vojákům v bitvě 1866 na rozcestí Hejcmanka u Rozběřic",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Všestary",
+                "P6736": "16524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74342,
+                    50.26792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník rakouského prvního armádního sboru jižně od Chlumu",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Všestary",
+                "P6736": "13381"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74676,
+                    50.27395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník čtvrtého rakouského pěšího pluku v Rozběřicích",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Všestary",
+                "P6736": "13378"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.75186,
+                    50.26716
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek u Kosovy Hory",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Kosova Hora",
+                "P6736": "19517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48503,
+                    49.65654
+                ]
+            }
+        }
+    ]
+}

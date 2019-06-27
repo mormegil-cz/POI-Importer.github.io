@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice severně od Rovenska pod Troskami",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rovensko pod Troskami",
+                "P6736": "25866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25854,
+                    50.5423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice za hřbitovem v Rovensku pod Troskami",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rovensko pod Troskami",
+                "P6736": "25863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25514,
+                    50.54146
+                ]
+            }
+        }
+    ]
+}

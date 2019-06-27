@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Chyníně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Čížkov",
+                "P6736": "5025"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7127,
+                    49.55943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Chyníně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Čížkov",
+                "P6736": "5024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7124,
+                    49.55944
+                ]
+            }
+        }
+    ]
+}

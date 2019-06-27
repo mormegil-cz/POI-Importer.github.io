@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Nových Butovicích před školou",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "11225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34538,
+                    50.05198
+                ]
+            }
+        }
+    ]
+}

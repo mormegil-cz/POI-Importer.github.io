@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Chodského Újezdu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chodský Újezd",
+                "P6736": "6561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64283,
+                    49.86726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chodského Újezdu u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chodský Újezd",
+                "P6736": "6560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63774,
+                    49.86653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Chodského Újezdu na hřbitově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chodský Újezd",
+                "P6736": "6555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65327,
+                    49.86701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Chodského Újezdu u hřbitova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chodský Újezd",
+                "P6736": "6554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65368,
+                    49.8673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Chodského Újezdu u tůje",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chodský Újezd",
+                "P6736": "6553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65407,
+                    49.86799
+                ]
+            }
+        }
+    ]
+}

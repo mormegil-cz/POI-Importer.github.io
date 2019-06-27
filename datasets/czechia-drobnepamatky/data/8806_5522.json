@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž na návsi v Okoříně",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Strupčice",
+                "P6736": "23552"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5034,
+                    50.47295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice na návsi v Okoříně",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Strupčice",
+                "P6736": "16023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50255,
+                    50.4734
+                ]
+            }
+        }
+    ]
+}

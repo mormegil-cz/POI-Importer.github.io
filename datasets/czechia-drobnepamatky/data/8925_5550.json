@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Borohrádku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Borohrádek",
+                "P6736": "11800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11141,
+                    50.08529
+                ]
+            }
+        }
+    ]
+}

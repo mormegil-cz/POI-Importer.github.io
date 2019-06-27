@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Klášterci na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Olšany",
+                "P6736": "21550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86251,
+                    49.95223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Klášterci u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Olšany",
+                "P6736": "20710"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86582,
+                    49.95437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Bohutíně u chatové osady",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Bohutín",
+                "P6736": "20709"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87042,
+                    49.95294
+                ]
+            }
+        }
+    ]
+}

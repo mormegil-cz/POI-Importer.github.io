@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple jižně od Ostromeče",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velký Malahov",
+                "P6736": "3019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95415,
+                    49.60283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Ostromeče u silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velký Malahov",
+                "P6736": "3018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95545,
+                    49.6095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž západně od Ostromeče mezi stromy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velký Malahov",
+                "P6736": "3017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95596,
+                    49.61057
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Drobná stavba ve stylu kapličky jihozápadně od obce Vysoké Mýto - Vanice",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Vysoké Mýto",
+                "P6736": "22057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1237,
+                    49.93351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Brtči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vysoké Mýto",
+                "P6736": "22048"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12142,
+                    49.92426
+                ]
+            }
+        }
+    ]
+}

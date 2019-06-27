@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Oseči",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Obecnice",
+                "P6736": "13169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95771,
+                    49.70393
+                ]
+            }
+        }
+    ]
+}

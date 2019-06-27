@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kokašicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kokašice",
+                "P6736": "11024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.94963,
+                    49.87914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození v Kokašicích",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Kokašice",
+                "P6736": "11016"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.94735,
+                    49.87864
+                ]
+            }
+        }
+    ]
+}

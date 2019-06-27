@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice mezi Soběrazí a Lhání",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radim",
+                "P6736": "16397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41121,
+                    50.47042
+                ]
+            }
+        }
+    ]
+}

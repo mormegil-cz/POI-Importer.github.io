@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Svinné",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Vranov",
+                "P6736": "4020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03022,
+                    49.75279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně od Sytna",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Sytno",
+                "P6736": "2616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04612,
+                    49.74133
+                ]
+            }
+        }
+    ]
+}

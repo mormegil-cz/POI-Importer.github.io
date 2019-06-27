@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Tišnově na náměstí Míru",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Tišnov",
+                "P6736": "9673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42324,
+                    49.34917
+                ]
+            }
+        }
+    ]
+}

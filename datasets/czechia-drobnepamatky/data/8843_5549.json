@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Kamenný květ v Praze-Liboci",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "17750"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32197,
+                    50.09251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník sestřeleného US pilota v Praze-Ruzyni",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "17161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30685,
+                    50.09575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Vaníčkův pomníček v Praze, les Šárka",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "16575"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30503,
+                    50.09922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v lese u Nebušic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "15862"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31568,
+                    50.10381
+                ]
+            }
+        }
+    ]
+}

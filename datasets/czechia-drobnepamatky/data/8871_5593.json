@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Velké Rovné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pacov",
+                "P6736": "16455"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93824,
+                    49.48076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Velké Rovné",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pacov",
+                "P6736": "16454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93571,
+                    49.47544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Velké Rovné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pacov",
+                "P6736": "16453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93598,
+                    49.47485
+                ]
+            }
+        }
+    ]
+}

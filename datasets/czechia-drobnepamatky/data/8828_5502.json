@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec vylomeného kříže na rozcestí v osadě Panenská",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "23031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97498,
+                    50.75927
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Škudlech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Přelouč",
+                "P6736": "14557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52718,
+                    50.02593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička ve Škudlech",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Přelouč",
+                "P6736": "14556"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52718,
+                    50.02592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Lhotě pod Přeloučí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Přelouč",
+                "P6736": "13219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52723,
+                    50.0345
+                ]
+            }
+        }
+    ]
+}

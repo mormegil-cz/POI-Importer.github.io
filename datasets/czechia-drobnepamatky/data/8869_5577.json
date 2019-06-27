@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Fontána na Husově náměstí ve Vlašimi",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Vlašim",
+                "P6736": "22157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89618,
+                    49.70628
+                ]
+            }
+        }
+    ]
+}

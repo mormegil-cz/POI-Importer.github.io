@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Novém Poddvorově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nový Poddvorov",
+                "P6736": "10811"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95823,
+                    48.86711
+                ]
+            }
+        }
+    ]
+}

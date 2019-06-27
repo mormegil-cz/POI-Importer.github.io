@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u zaniklého pramene v Textilní ulici v Jičíně",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Jičín",
+                "P6736": "22816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36645,
+                    50.43343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava u kostela v Textilní ulici v Jičíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Jičín",
+                "P6736": "22815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3664,
+                    50.43355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ženy s holubicí v Husově ulici v Jičíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Jičín",
+                "P6736": "22814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36204,
+                    50.43513
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Chrášťovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "4232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34914,
+                    50.00777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Chrášťovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "4230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35341,
+                    50.01073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese nad Chráštovicemi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "2945"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34749,
+                    50.01685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji lesa nad Chráštovicemi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "2944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35237,
+                    50.01247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u Chrášťovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "2943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35174,
+                    50.00945
+                ]
+            }
+        }
+    ]
+}

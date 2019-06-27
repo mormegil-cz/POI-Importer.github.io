@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Červenky u lesní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Červenka",
+                "P6736": "17952"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03892,
+                    49.72441
+                ]
+            }
+        }
+    ]
+}

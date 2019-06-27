@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Rašovech",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Turkovice",
+                "P6736": "14533"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58106,
+                    49.96293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rašovech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Turkovice",
+                "P6736": "14532"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58104,
+                    49.96294
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vinařicích u Loun",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Vinařice",
+                "P6736": "9224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82362,
+                    50.26511
+                ]
+            }
+        }
+    ]
+}

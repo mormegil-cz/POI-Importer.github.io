@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. sv. válce na návsi Poboří",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Plaňany",
+                "P6736": "25566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04923,
+                    50.02413
+                ]
+            }
+        }
+    ]
+}

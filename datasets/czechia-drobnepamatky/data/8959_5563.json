@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Svaté Trojice na okraji Rovenska",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Rovensko",
+                "P6736": "13115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87291,
+                    49.90683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rovensku na okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rovensko",
+                "P6736": "13114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86995,
+                    49.90787
+                ]
+            }
+        }
+    ]
+}

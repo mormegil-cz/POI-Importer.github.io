@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u silnice Protivín - Chvaletice",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Protivín",
+                "P6736": "21763"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19596,
+                    49.19173
+                ]
+            }
+        }
+    ]
+}

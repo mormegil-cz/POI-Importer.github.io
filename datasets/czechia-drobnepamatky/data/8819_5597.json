@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Pole u Pálenického potoka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kadov",
+                "P6736": "5823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78862,
+                    49.41259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Pole",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kadov",
+                "P6736": "5822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78491,
+                    49.41439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Pole u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kadov",
+                "P6736": "5821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78405,
+                    49.41496
+                ]
+            }
+        }
+    ]
+}

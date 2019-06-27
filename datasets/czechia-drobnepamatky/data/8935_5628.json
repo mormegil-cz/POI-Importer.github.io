@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Urbana západně od Miroslavských Knínic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "13242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33369,
+                    48.97747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Marka se lvem u Miroslavských Knínic",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33279,
+                    48.97787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Švábůj kříž jihovýchodně od Miroslavských Knínic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32654,
+                    48.97217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Dolním rybníkem jihovýchodně od Miroslavských Knínic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Miroslavské Knínice",
+                "P6736": "10846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3366,
+                    48.97148
+                ]
+            }
+        }
+    ]
+}

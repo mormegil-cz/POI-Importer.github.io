@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Komárově u Štědré",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Toužim",
+                "P6736": "18311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0647,
+                    50.0411
+                ]
+            }
+        }
+    ]
+}

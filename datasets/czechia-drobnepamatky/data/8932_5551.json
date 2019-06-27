@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chlen",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chleny",
+                "P6736": "11682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26089,
+                    50.07618
+                ]
+            }
+        }
+    ]
+}

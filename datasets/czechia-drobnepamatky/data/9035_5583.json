@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěná socha před chalupou Ateliér v Morávce",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Morávka",
+                "P6736": "14913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53307,
+                    49.61529
+                ]
+            }
+        }
+    ]
+}

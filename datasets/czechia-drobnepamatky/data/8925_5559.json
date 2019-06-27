@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník západně od Vysokého Mýta",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Vysoké Mýto",
+                "P6736": "12226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11754,
+                    49.95774
+                ]
+            }
+        }
+    ]
+}

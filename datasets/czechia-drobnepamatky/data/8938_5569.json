@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Gajeru",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Janov",
+                "P6736": "12363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40977,
+                    49.82177
+                ]
+            }
+        }
+    ]
+}

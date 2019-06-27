@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Snopoušov",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "10917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37523,
+                    49.61317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Lišic",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Dolní Lukavice",
+                "P6736": "10916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36105,
+                    49.61148
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Milotičkách",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "7399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.14929,
+                    49.48273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Milotičkách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "7398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.14933,
+                    49.4827
+                ]
+            }
+        }
+    ]
+}

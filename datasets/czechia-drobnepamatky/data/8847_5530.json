@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského ve výklenku kostela v Cítově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Cítov",
+                "P6736": "22444"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3965,
+                    50.37277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána ve výklenku kostela v Cítově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Cítov",
+                "P6736": "22443"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39649,
+                    50.37272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava ve výklenku kostela v Cítově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Cítov",
+                "P6736": "22442"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39651,
+                    50.37281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice pod kostelem v Cítově",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Cítov",
+                "P6736": "22440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3969,
+                    50.3725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na návsi v Cítově",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Cítov",
+                "P6736": "22439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39711,
+                    50.37233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u školy v Cítově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Cítov",
+                "P6736": "22438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39775,
+                    50.37209
+                ]
+            }
+        }
+    ]
+}

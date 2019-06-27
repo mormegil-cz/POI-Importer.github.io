@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Zdeňkově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Zdeňkov",
+                "P6736": "21097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61945,
+                    49.14074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Prokopa ve Zdeňkově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Zdeňkov",
+                "P6736": "21096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61826,
+                    49.14023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Zdeňkově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zdeňkov",
+                "P6736": "21095"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61933,
+                    49.14077
+                ]
+            }
+        }
+    ]
+}

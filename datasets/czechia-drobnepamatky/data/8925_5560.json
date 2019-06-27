@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník u cesty na Domoradice",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Vysoké Mýto",
+                "P6736": "12905"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12461,
+                    49.94907
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u rozcestí K Těšině v Tursku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tursko",
+                "P6736": "23010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32807,
+                    50.19362
+                ]
+            }
+        }
+    ]
+}

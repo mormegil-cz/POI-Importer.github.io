@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Boháčkově ulici v Novém Jáchymově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nový Jáchymov",
+                "P6736": "15453"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94363,
+                    49.98127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Boháčkově ulici v Novém Jáchymově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Nový Jáchymov",
+                "P6736": "15452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94362,
+                    49.98128
+                ]
+            }
+        }
+    ]
+}

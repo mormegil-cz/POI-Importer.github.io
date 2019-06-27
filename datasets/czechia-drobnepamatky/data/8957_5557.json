@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Jakubovicích na rozcestí",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Jakubovice",
+                "P6736": "18327"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82896,
+                    49.99172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Jakubovicích na rozcestí",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Jakubovice",
+                "P6736": "18326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82843,
+                    49.99258
+                ]
+            }
+        }
+    ]
+}

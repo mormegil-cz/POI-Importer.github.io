@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple uprostřed Zavadilky u Pavlova",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pavlov",
+                "P6736": "17963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86709,
+                    49.74688
+                ]
+            }
+        }
+    ]
+}

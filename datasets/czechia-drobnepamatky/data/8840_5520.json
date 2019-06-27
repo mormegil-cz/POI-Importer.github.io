@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Oknech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Polepy",
+                "P6736": "17528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2395,
+                    50.5048
+                ]
+            }
+        }
+    ]
+}

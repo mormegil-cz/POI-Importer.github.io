@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Smíření severně od Mladých Buků",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Mladé Buky",
+                "P6736": "10701"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8572,
+                    50.61977
+                ]
+            }
+        }
+    ]
+}

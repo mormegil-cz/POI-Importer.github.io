@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Píšťanech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Píšťany",
+                "P6736": "15677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07077,
+                    50.51952
+                ]
+            }
+        }
+    ]
+}

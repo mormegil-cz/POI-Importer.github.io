@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve východní části Popelištné u čp.9",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "20417"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2034,
+                    49.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve východní části Popelištné před zahradou u čp.26",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "20416"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20483,
+                    49.49994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Popelištné do Červené Řečice u chatové oblasti",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "20356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19582,
+                    49.50339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Popelištné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "20355"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2014,
+                    49.5004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Popelištné",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "20354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20144,
+                    49.50042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Trnávky u silnice mezi Červenou Řečicí a Popelištnou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "20353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19272,
+                    49.5069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Zmišovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "19783"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18666,
+                    49.49683
+                ]
+            }
+        }
+    ]
+}

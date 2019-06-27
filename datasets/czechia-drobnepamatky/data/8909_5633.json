@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Lančova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lančov",
+                "P6736": "20242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.76058,
+                    48.90595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Lančově východní okraj obce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Lančov",
+                "P6736": "19853"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77233,
+                    48.90679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lančově u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lančov",
+                "P6736": "19852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.76763,
+                    48.90751
+                ]
+            }
+        }
+    ]
+}

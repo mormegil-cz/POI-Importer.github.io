@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na rozcestí v jihozápadní části Obříství",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Obříství",
+                "P6736": "24947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46764,
+                    50.29353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Bedřicha Smetany v osadě Semilkovice",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Obříství",
+                "P6736": "24946"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46846,
+                    50.29559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v osadě Semilkovice",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Obříství",
+                "P6736": "24945"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46758,
+                    50.29718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u kostela v Obříství",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Obříství",
+                "P6736": "24944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47901,
+                    50.29644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Polodřevěná zvonice u kostela v Obříství",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Obříství",
+                "P6736": "24943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47913,
+                    50.2965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy na východní straně mariánského sloupu v Obříství",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Obříství",
+                "P6736": "24942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4794,
+                    50.29586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy na západní straně mariánského sloupu v Obříství",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Obříství",
+                "P6736": "24941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47933,
+                    50.2959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na návsi v Obříství",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Obříství",
+                "P6736": "24940"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47959,
+                    50.29614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na návsi v Obříství",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Obříství",
+                "P6736": "24938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47938,
+                    50.29587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Markéty na návsi v Obříství",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Obříství",
+                "P6736": "24937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47807,
+                    50.29587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kámen lípy svobody na návsi v Obříství",
+                "P31": "Památný kámen",
+                "P31^label:cs": "Památný kámen",
+                "P131^label:cs": "Obříství",
+                "P6736": "24936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47789,
+                    50.29557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Svatopluka Čecha na návsi v Obříství",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Obříství",
+                "P6736": "24935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47758,
+                    50.29555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na rozcestí v Obříství",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Obříství",
+                "P6736": "24934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47742,
+                    50.29216
+                ]
+            }
+        }
+    ]
+}

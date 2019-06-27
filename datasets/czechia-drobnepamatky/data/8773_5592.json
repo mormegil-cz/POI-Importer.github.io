@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Mnichovem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnichov",
+                "P6736": "3426"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.77189,
+                    49.4927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Šitboří u cesty do Mnichova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Poběžovice",
+                "P6736": "2496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7861,
+                    49.49609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž na kopci nad Šitboří",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Poběžovice",
+                "P6736": "2492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78041,
+                    49.49231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka východně od Mnichova",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Mnichov",
+                "P6736": "2082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.77062,
+                    49.49596
+                ]
+            }
+        }
+    ]
+}

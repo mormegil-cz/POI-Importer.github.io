@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. sv. válce na hřbitově ve Vojtíškově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Malá Morava",
+                "P6736": "21576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87542,
+                    50.10336
+                ]
+            }
+        }
+    ]
+}

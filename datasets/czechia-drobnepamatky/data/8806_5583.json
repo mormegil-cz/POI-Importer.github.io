@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup u Vlčtejna",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Vlčtejn",
+                "P6736": "6009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49125,
+                    49.61295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chlumánkách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vlčtejn",
+                "P6736": "5768"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50044,
+                    49.61108
+                ]
+            }
+        }
+    ]
+}

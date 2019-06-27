@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Pavlova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pavlov",
+                "P6736": "22911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67677,
+                    48.87837
+                ]
+            }
+        }
+    ]
+}

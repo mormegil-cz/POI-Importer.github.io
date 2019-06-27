@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v místní části Splav u Zdislavického rybníka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Herálec",
+                "P6736": "18667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42384,
+                    49.54464
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Ratiboři",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Ratiboř",
+                "P6736": "6417"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91907,
+                    49.14448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Ratiboři u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ratiboř",
+                "P6736": "6416"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91521,
+                    49.14331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Ratiboři",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Ratiboř",
+                "P6736": "6415"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9171,
+                    49.14417
+                ]
+            }
+        }
+    ]
+}

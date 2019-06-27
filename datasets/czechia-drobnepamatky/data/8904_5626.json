@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dobré Vodě u Mladoňovic na Moravě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladoňovice",
+                "P6736": "19449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.64881,
+                    48.99922
+                ]
+            }
+        }
+    ]
+}

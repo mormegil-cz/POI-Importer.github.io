@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým z partyzánského krytu u Újezda",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Újezd",
+                "P6736": "13640"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81166,
+                    49.82047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. světové válce v Horním Kařízku",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Kařízek",
+                "P6736": "13639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80001,
+                    49.81334
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Kamenné",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Milín",
+                "P6736": "7758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99111,
+                    49.62391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kamenné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Milín",
+                "P6736": "7757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.991,
+                    49.6239
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Sulislavi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sulislav",
+                "P6736": "9469"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06464,
+                    49.7496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sulislavi u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sulislav",
+                "P6736": "9468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07081,
+                    49.74767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sulislavi u sochy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sulislav",
+                "P6736": "4909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07282,
+                    49.74887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Sulislavi",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sulislav",
+                "P6736": "4908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07279,
+                    49.74885
+                ]
+            }
+        }
+    ]
+}

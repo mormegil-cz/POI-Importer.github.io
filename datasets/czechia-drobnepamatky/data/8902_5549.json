@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Anděla Strážce v Rohovládově Bělé",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rohovládova Bělá",
+                "P6736": "15366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60607,
+                    50.10614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Rohovládově Bělé",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rohovládova Bělá",
+                "P6736": "15365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60682,
+                    50.10573
+                ]
+            }
+        }
+    ]
+}

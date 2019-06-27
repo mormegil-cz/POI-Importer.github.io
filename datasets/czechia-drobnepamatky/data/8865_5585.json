@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Vosné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Šebířov",
+                "P6736": "10755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80565,
+                    49.58227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vosné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Šebířov",
+                "P6736": "10754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80591,
+                    49.58456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v zahradě ve Vosné",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Šebířov",
+                "P6736": "10753"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80416,
+                    49.58387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u návsi v Křekovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Šebířov",
+                "P6736": "10752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80266,
+                    49.59079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Křekovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Šebířov",
+                "P6736": "10751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80385,
+                    49.58987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska umučeného STB v Křekovicích",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Šebířov",
+                "P6736": "10750"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80234,
+                    49.59037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Křekovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Šebířov",
+                "P6736": "10749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80232,
+                    49.59035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Křekovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Šebířov",
+                "P6736": "10748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79868,
+                    49.58878
+                ]
+            }
+        }
+    ]
+}

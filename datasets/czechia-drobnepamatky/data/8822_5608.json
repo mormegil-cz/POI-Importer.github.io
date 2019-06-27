@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Střely na svahu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strakonice",
+                "P6736": "7294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85256,
+                    49.26754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Střele",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Strakonice",
+                "P6736": "7293"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8518,
+                    49.26735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Střele",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strakonice",
+                "P6736": "7292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8518,
+                    49.26739
+                ]
+            }
+        }
+    ]
+}

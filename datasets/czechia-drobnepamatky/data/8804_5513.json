@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty v dolní části Nové Vsi v Horách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svaté Kateřiny",
+                "P6736": "23003"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46203,
+                    50.60131
+                ]
+            }
+        }
+    ]
+}

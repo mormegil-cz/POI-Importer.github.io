@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Zadním Chodově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zadní Chodov",
+                "P6736": "6550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65455,
+                    49.89052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Zadním Chodově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Zadní Chodov",
+                "P6736": "6543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65342,
+                    49.89065
+                ]
+            }
+        }
+    ]
+}

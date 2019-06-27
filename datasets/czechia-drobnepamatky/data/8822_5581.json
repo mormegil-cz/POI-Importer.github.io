@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek severně od Zalán u vojenského prostoru Brdy",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Brdy",
+                "P6736": "2812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85649,
+                    49.64212
+                ]
+            }
+        }
+    ]
+}

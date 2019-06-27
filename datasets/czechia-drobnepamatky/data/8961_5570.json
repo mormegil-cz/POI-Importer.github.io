@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Libivé",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "11526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91742,
+                    49.80439
+                ]
+            }
+        }
+    ]
+}

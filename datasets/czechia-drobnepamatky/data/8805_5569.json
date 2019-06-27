@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Dolan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dolany",
+                "P6736": "1397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47777,
+                    49.81137
+                ]
+            }
+        }
+    ]
+}

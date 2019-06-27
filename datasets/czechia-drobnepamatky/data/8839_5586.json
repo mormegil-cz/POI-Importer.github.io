@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříže jižně od Milešova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Milešov",
+                "P6736": "2053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21642,
+                    49.58055
+                ]
+            }
+        }
+    ]
+}

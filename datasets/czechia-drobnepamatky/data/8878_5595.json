@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Litohošti",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Litohošť",
+                "P6736": "7417"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09151,
+                    49.44987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Litohošti",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Litohošť",
+                "P6736": "7416"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09154,
+                    49.44995
+                ]
+            }
+        }
+    ]
+}

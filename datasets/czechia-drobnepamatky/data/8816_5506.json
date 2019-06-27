@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Košťanech na kopci Pramenáč",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Košťany",
+                "P6736": "22765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73168,
+                    50.69908
+                ]
+            }
+        }
+    ]
+}

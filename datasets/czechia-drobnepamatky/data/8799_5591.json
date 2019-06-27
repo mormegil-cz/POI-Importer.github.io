@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kaliště",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kbel",
+                "P6736": "4783"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34838,
+                    49.49717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Stropčic v poli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Švihov",
+                "P6736": "4777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34346,
+                    49.50657
+                ]
+            }
+        }
+    ]
+}

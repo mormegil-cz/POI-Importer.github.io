@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Komňátky vedle polní cesty",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Bohdíkov",
+                "P6736": "14578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87746,
+                    50.02399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Komňátky na Rovince",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bohdíkov",
+                "P6736": "14513"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87831,
+                    50.02649
+                ]
+            }
+        }
+    ]
+}

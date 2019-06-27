@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na kruhovém objezdu u Oltyně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Opařany",
+                "P6736": "2248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52354,
+                    49.42522
+                ]
+            }
+        }
+    ]
+}

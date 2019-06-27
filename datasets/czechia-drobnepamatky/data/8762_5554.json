@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup s kapličkou na Manském Dvoře",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Dolní Žandov",
+                "P6736": "10394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.54021,
+                    50.03483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník zastřeleného zajatce na Manském Dvoře",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dolní Žandov",
+                "P6736": "10393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.54021,
+                    50.03483
+                ]
+            }
+        }
+    ]
+}

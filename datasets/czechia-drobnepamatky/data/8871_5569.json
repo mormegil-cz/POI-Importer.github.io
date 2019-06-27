@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pilířová kamenná zvonička v Českém Šternberku",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Český Šternberk",
+                "P6736": "22158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92787,
+                    49.81065
+                ]
+            }
+        }
+    ]
+}

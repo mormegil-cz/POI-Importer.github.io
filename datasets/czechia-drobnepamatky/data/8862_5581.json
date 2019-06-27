@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník bitvy u Jankova nad Jankovem",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Jankov",
+                "P6736": "10667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74269,
+                    49.64711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jankově u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jankov",
+                "P6736": "10630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72993,
+                    49.65334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Jankově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Jankov",
+                "P6736": "10629"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.73085,
+                    49.65314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Jankově",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Jankov",
+                "P6736": "10628"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.73106,
+                    49.65299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jankově v zahradě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jankov",
+                "P6736": "10627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.73543,
+                    49.65255
+                ]
+            }
+        }
+    ]
+}

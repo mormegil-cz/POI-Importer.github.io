@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Tomic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Olbramovice",
+                "P6736": "11319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66565,
+                    49.69184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tomicích u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Olbramovice",
+                "P6736": "11318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.669,
+                    49.68695
+                ]
+            }
+        }
+    ]
+}

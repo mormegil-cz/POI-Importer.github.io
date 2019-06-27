@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kranzův kříž v Brdech severně od Nepomuku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nepomuk",
+                "P6736": "14822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.85231,
+                    49.65825
+                ]
+            }
+        }
+    ]
+}

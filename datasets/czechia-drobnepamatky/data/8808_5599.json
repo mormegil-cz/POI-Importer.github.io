@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Žďáru u rozcestí polních cest",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "2865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55314,
+                    49.38337
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Cekově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Cekov",
+                "P6736": "6914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76439,
+                    49.82243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Cekově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Cekov",
+                "P6736": "6911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76456,
+                    49.82225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Cekově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Cekov",
+                "P6736": "6910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76447,
+                    49.82233
+                ]
+            }
+        }
+    ]
+}

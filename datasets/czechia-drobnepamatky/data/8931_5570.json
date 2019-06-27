@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horním Újezdě u Litomyšle v části zvané Víska II",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Újezd",
+                "P6736": "21432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2411,
+                    49.80945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horním Újezdě u Litomyšle v části zvané Víska I",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Újezd",
+                "P6736": "21431"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24245,
+                    49.80925
+                ]
+            }
+        }
+    ]
+}

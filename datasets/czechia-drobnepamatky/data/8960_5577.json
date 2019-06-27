@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Bouzově na hradě",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bouzov",
+                "P6736": "23915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88939,
+                    49.70466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Bouzově na rozcestí",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bouzov",
+                "P6736": "23914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89541,
+                    49.70423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bouzově vedle hlavní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "23912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89365,
+                    49.70142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Bouzova na okraji lesa",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88847,
+                    49.69653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Bouzova na okraji lesa",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88911,
+                    49.69945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Dolech u Bouzova u Javořičky",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8815,
+                    49.70988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Dolů u Bouzova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88312,
+                    49.71021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bouzově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89262,
+                    49.70461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bouzově pod hradem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89258,
+                    49.70436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Dolech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88178,
+                    49.70756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Bouzově před hradem",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89048,
+                    49.7027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Panny Marie v Dolech pod lesem",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88587,
+                    49.70815
+                ]
+            }
+        }
+    ]
+}

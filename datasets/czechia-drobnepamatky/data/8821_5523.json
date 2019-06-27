@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Všechlapech u Libčevsi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Libčeves",
+                "P6736": "21250"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83596,
+                    50.45871
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Myšence",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Protivín",
+                "P6736": "2122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20683,
+                    49.22667
+                ]
+            }
+        }
+    ]
+}

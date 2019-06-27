@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Předním Poříčí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Březnice",
+                "P6736": "10479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93877,
+                    49.57387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Zadního Poříčí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Březnice",
+                "P6736": "2390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93779,
+                    49.57857
+                ]
+            }
+        }
+    ]
+}

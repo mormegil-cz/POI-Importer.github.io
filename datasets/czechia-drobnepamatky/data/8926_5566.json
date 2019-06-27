@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mokré Lhotě střed obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nové Hrady",
+                "P6736": "25044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13138,
+                    49.85699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Podhořan u Nových Hradů",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Leština",
+                "P6736": "11938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13512,
+                    49.86584
+                ]
+            }
+        }
+    ]
+}

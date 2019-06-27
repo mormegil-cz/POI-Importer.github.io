@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Drahonicích u Lubence",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Lubenec",
+                "P6736": "20266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33983,
+                    50.14797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Drahonicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Lubenec",
+                "P6736": "20154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33784,
+                    50.14699
+                ]
+            }
+        }
+    ]
+}

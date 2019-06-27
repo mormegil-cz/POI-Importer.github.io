@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Ostrova u Bezdružic u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ostrov u Bezdružic",
+                "P6736": "8919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02783,
+                    49.90041
+                ]
+            }
+        }
+    ]
+}

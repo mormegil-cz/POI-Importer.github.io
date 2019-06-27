@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Noutonicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lichoceves",
+                "P6736": "17269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28605,
+                    50.16425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u Svrkyně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Svrkyně",
+                "P6736": "15712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30019,
+                    50.17207
+                ]
+            }
+        }
+    ]
+}

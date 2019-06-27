@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Kozmicemi pod rozcestím",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radenín",
+                "P6736": "1783"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89143,
+                    49.38212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky nad Kozmicemi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křeč",
+                "P6736": "1800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89398,
+                    49.38097
+                ]
+            }
+        }
+    ]
+}

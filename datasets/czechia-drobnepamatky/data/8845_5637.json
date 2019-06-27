@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u silnice 39 v Rájově",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Zlatá Koruna",
+                "P6736": "21119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36644,
+                    48.84511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Jana Nepomuckého poblíž mostu přes Vltavu v Rájově",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Zlatá Koruna",
+                "P6736": "21118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36308,
+                    48.84314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Rájově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Zlatá Koruna",
+                "P6736": "21117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36434,
+                    48.84644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Rájově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zlatá Koruna",
+                "P6736": "21116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36412,
+                    48.84664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice ze Zlaté Koruny do Rájova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zlatá Koruna",
+                "P6736": "21115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36464,
+                    48.85002
+                ]
+            }
+        }
+    ]
+}

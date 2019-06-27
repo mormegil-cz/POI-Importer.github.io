@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v údolí Kotelského potoka v Morávce",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Morávka",
+                "P6736": "14880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.59386,
+                    49.54307
+                ]
+            }
+        }
+    ]
+}

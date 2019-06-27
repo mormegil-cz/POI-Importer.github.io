@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Krnsku u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Krnsko",
+                "P6736": "9215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.85674,
+                    50.3758
+                ]
+            }
+        }
+    ]
+}

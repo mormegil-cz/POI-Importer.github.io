@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kucínech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Příchovice",
+                "P6736": "4301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36911,
+                    49.56454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kucínech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Příchovice",
+                "P6736": "4300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37088,
+                    49.55999
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kostník",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostníky",
+                "P6736": "19606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.64242,
+                    48.9804
+                ]
+            }
+        }
+    ]
+}

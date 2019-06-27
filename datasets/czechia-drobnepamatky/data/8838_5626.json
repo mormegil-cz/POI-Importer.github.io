@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horních Chrášťanech u kaple",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lhenice",
+                "P6736": "6751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19739,
+                    48.99964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Horních Chrášťanech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Lhenice",
+                "P6736": "6432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19746,
+                    48.99961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Horních Chrášťan na okraji lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lhenice",
+                "P6736": "1558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2065,
+                    49.0002
+                ]
+            }
+        }
+    ]
+}

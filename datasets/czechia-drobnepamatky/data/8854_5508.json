@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Partyzánské ulici v České Lípě",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Česká Lípa",
+                "P6736": "20705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54687,
+                    50.67811
+                ]
+            }
+        }
+    ]
+}

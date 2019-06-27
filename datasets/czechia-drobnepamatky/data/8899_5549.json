@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sopřeči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sopřeč",
+                "P6736": "14483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55639,
+                    50.09373
+                ]
+            }
+        }
+    ]
+}

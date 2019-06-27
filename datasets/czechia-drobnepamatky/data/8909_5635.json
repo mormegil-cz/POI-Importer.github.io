@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Piety jihozápadně od Podmyče",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Podmyče",
+                "P6736": "20263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77274,
+                    48.87254
+                ]
+            }
+        }
+    ]
+}

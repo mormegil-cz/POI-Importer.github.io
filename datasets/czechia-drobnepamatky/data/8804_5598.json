@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Plánice u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plánice",
+                "P6736": "2303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45828,
+                    49.39685
+                ]
+            }
+        }
+    ]
+}

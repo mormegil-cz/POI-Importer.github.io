@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Benešově na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "6735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0031,
+                    49.338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Benešově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Černovice",
+                "P6736": "6734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00379,
+                    49.33796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Benešově u Šrůtkovy farmy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "6733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00645,
+                    49.33728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Benešova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "6732"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00428,
+                    49.33288
+                ]
+            }
+        }
+    ]
+}

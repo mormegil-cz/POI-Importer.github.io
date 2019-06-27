@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka západně od návsi v Bělbožicích",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Šípy",
+                "P6736": "12992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59987,
+                    50.01887
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Matějovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rusín",
+                "P6736": "18182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.74729,
+                    50.22409
+                ]
+            }
+        }
+    ]
+}

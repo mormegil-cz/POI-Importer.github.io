@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Němčicích u polní cesty",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Němčice",
+                "P6736": "11448"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.49374,
+                    49.36679
+                ]
+            }
+        }
+    ]
+}

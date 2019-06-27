@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Řečice nad Bobrůvkou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Řečice",
+                "P6736": "17874"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05861,
+                    49.5288
+                ]
+            }
+        }
+    ]
+}

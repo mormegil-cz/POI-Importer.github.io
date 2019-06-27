@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Menhiry u Drahenického Málkova",
+                "P31": "Menhir",
+                "P31^label:cs": "Menhir",
+                "P131^label:cs": "Blatná",
+                "P6736": "8011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90715,
+                    49.47545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Drahenickém Málkově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Blatná",
+                "P6736": "7705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90051,
+                    49.47246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Drahenickém Málkově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blatná",
+                "P6736": "7704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90117,
+                    49.47296
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jiří v Mnichově u Loun",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Libčeves",
+                "P6736": "22331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80859,
+                    50.4187
+                ]
+            }
+        }
+    ]
+}

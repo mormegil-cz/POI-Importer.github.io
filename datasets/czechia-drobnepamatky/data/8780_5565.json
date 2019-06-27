@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice na Krasíkově",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Kokašice",
+                "P6736": "23898"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93262,
+                    49.87702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Máří Magdaleny na Krasíkově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kokašice",
+                "P6736": "23897"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93211,
+                    49.87712
+                ]
+            }
+        }
+    ]
+}

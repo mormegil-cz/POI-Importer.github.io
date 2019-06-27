@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela svaté Rozálie v Horních Věstonicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Věstonice",
+                "P6736": "13979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62554,
+                    48.87505
+                ]
+            }
+        }
+    ]
+}

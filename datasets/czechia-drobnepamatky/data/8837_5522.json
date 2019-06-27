@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Hrdlech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bohušovice nad Ohří",
+                "P6736": "16818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.17328,
+                    50.48271
+                ]
+            }
+        }
+    ]
+}

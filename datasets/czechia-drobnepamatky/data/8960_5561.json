@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska v Chromči na budově školky",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Chromeč",
+                "P6736": "24734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89411,
+                    49.93566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Chromči na návsi",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Chromeč",
+                "P6736": "22232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89299,
+                    49.93444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chromči na křižovatce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chromeč",
+                "P6736": "20493"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89658,
+                    49.93053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chromči před kostelem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chromeč",
+                "P6736": "20492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89372,
+                    49.93303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chromči na okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chromeč",
+                "P6736": "20491"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88903,
+                    49.93567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vyšehoří na okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vyšehoří",
+                "P6736": "20490"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88123,
+                    49.93242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž na okraji Vyšehoří",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vyšehoří",
+                "P6736": "18531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8815,
+                    49.93008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vyšehoří u kaple",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vyšehoří",
+                "P6736": "16232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87918,
+                    49.93322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého ve Vyšehoří",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Vyšehoří",
+                "P6736": "16231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8793,
+                    49.93316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž za Postřelmůvkem u silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Postřelmůvek",
+                "P6736": "14245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88003,
+                    49.92562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chromči u polní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chromeč",
+                "P6736": "13037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89457,
+                    49.92776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázky Panny Marie v Chromči u hřbitova",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Chromeč",
+                "P6736": "12544"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89663,
+                    49.92937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Jana Nepomuckého u Postřelmůvku",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Postřelmůvek",
+                "P6736": "11389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88135,
+                    49.92746
+                ]
+            }
+        }
+    ]
+}

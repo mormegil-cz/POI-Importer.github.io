@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u samoty Na Pile u Benátek",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23633,
+                    49.34609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Benátkách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24881,
+                    49.34427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Benátkách",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24889,
+                    49.3443
+                ]
+            }
+        }
+    ]
+}

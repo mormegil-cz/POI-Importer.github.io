@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Všekarech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04316,
+                    49.60136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Všekarech u rybníka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3243"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04143,
+                    49.60297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Všekarech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Všekary",
+                "P6736": "3242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04189,
+                    49.60369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Všekarech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Všekary",
+                "P6736": "3241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04234,
+                    49.60373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Všekar",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03896,
+                    49.60988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Všekar na svahu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03943,
+                    49.60453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Všekar",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03393,
+                    49.59955
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u Kalce",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Žihle",
+                "P6736": "4390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3279,
+                    50.02092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Velké Černé Hati",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Mladotice",
+                "P6736": "4389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33343,
+                    50.00875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od zámku Kalec u silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Žihle",
+                "P6736": "1688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32792,
+                    50.02085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u pole severně od Velké Černé Hati",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "1326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33102,
+                    50.0125
+                ]
+            }
+        }
+    ]
+}

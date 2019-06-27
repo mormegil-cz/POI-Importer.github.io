@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník severovýchodně od Světce",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Bezvěrov",
+                "P6736": "8932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04533,
+                    49.96523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Světce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bezvěrov",
+                "P6736": "5681"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0444,
+                    49.95896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Světce",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Bezvěrov",
+                "P6736": "5643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04526,
+                    49.96518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Světci",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Bezvěrov",
+                "P6736": "5642"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0381,
+                    49.96148
+                ]
+            }
+        }
+    ]
+}

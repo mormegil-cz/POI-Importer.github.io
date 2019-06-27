@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Chodové Plané v areálu pivovaru Chodovar",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72829,
+                    49.89328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Chodové Plané na náměstí",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72935,
+                    49.89435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Chodové Plané na náměstí",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72943,
+                    49.89461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Chodové Plané",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6513"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72724,
+                    49.88822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník jižně od Chodové Plané",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72601,
+                    49.88792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Chodové Plané u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73344,
+                    49.88725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Chodové Plané",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73501,
+                    49.88393
+                ]
+            }
+        }
+    ]
+}

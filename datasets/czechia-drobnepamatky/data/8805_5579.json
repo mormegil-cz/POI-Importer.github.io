@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník jižně od Starého Plzence",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Starý Plzenec",
+                "P6736": "7146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47589,
+                    49.6771
+                ]
+            }
+        }
+    ]
+}

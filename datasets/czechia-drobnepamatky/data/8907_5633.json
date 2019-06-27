@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Starého Petřína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Starý Petřín",
+                "P6736": "20456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.71739,
+                    48.89523
+                ]
+            }
+        }
+    ]
+}

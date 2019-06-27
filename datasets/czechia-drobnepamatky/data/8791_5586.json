@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Zemětic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zemětice",
+                "P6736": "3636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18217,
+                    49.57679
+                ]
+            }
+        }
+    ]
+}

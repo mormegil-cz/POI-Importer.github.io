@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Olešovicích na zdi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "8921"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01108,
+                    49.937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Olešovic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "5688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01484,
+                    49.92797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Olešovic u rybníka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "5687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01515,
+                    49.93609
+                ]
+            }
+        }
+    ]
+}

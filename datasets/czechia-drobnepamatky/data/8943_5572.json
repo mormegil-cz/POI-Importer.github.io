@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Krista v Koclířově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Koclířov",
+                "P6736": "12382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.52146,
+                    49.77496
+                ]
+            }
+        }
+    ]
+}

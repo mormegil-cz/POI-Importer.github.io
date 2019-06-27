@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dolních Polžicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "11026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95762,
+                    49.8956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Bezdružic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bezdružice",
+                "P6736": "5623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.96158,
+                    49.9011
+                ]
+            }
+        }
+    ]
+}

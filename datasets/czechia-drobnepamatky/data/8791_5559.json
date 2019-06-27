@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Novém Městečku",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16302,
+                    49.96149
+                ]
+            }
+        }
+    ]
+}

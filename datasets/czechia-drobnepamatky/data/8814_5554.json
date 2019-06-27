@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž na hřbitově v Rousínově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Slabce",
+                "P6736": "13004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67482,
+                    50.02313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severozápadně od Rousínova",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Slabce",
+                "P6736": "12998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67155,
+                    50.02308
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Srb",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Srby",
+                "P6736": "6623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87397,
+                    49.52455
+                ]
+            }
+        }
+    ]
+}

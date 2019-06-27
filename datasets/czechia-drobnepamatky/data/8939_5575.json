@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vendolí ve středu obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vendolí",
+                "P6736": "15322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43411,
+                    49.73212
+                ]
+            }
+        }
+    ]
+}

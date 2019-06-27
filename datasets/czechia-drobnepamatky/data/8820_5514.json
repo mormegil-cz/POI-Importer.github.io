@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hřbitova v Křemýži",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ohníč",
+                "P6736": "19062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81646,
+                    50.59658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž s ulomeným vrškem v ulici Vrbenského v Hostomicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hostomice",
+                "P6736": "15258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80915,
+                    50.5848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník k osamostatnění Československa v Hostomicích",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Hostomice",
+                "P6736": "15257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80918,
+                    50.58691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 2.světové války v Hostomicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hostomice",
+                "P6736": "15256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80932,
+                    50.58685
+                ]
+            }
+        }
+    ]
+}

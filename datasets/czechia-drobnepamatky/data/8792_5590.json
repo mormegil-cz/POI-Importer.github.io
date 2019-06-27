@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Újezdci u vrat",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ptenín",
+                "P6736": "3297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19843,
+                    49.51802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Újezdce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ptenín",
+                "P6736": "3296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19793,
+                    49.51925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Újezdci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ptenín",
+                "P6736": "3295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19844,
+                    49.51779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Újezdci",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Ptenín",
+                "P6736": "3293"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.19876,
+                    49.517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Ptenína",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Ptenín",
+                "P6736": "3254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18976,
+                    49.52515
+                ]
+            }
+        }
+    ]
+}

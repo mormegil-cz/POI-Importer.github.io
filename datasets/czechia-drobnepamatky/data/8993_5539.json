@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce v Pitárné",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Vysoká",
+                "P6736": "17891"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60131,
+                    50.24685
+                ]
+            }
+        }
+    ]
+}

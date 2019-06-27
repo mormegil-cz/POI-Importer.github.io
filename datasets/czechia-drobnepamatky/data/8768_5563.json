@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník severně od Zadního Chodova",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Zadní Chodov",
+                "P6736": "6542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65673,
+                    49.89514
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž jižně od Křečova",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "8328"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32628,
+                    49.9668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Křečova u svahu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "8171"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32522,
+                    49.97367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Křečově u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "4401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32171,
+                    49.97234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Ondřejova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pláně",
+                "P6736": "4400"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33726,
+                    49.96782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Lidických žen u Ondřejova",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Pláně",
+                "P6736": "4399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33665,
+                    49.96746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Křečova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Štichovice",
+                "P6736": "1808"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32704,
+                    49.97354
+                ]
+            }
+        }
+    ]
+}

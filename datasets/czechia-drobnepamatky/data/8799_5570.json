@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník jihozápadně od Záluží",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Ledce",
+                "P6736": "8287"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34837,
+                    49.80741
+                ]
+            }
+        }
+    ]
+}

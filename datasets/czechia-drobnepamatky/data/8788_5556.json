@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Krašova u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bezvěrov",
+                "P6736": "5546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09575,
+                    49.99632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Potoku",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bezvěrov",
+                "P6736": "4515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11669,
+                    49.99871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Krašově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bezvěrov",
+                "P6736": "4514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09774,
+                    49.99701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Krašova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bezvěrov",
+                "P6736": "1793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10069,
+                    49.99657
+                ]
+            }
+        }
+    ]
+}

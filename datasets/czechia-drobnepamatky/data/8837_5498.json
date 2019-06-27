@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Maxičkách",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Děčín",
+                "P6736": "9446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18324,
+                    50.81087
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Dřemčicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Třebívlice",
+                "P6736": "20554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91205,
+                    50.47487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Chrášťanech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Podsedice",
+                "P6736": "20286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92762,
+                    50.47589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Chrášťanech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Podsedice",
+                "P6736": "20285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92796,
+                    50.47631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Chrášťanech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Podsedice",
+                "P6736": "20284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92667,
+                    50.47716
+                ]
+            }
+        }
+    ]
+}

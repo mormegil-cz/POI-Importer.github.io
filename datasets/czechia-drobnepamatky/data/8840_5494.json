@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela v Hřensku",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hřensko",
+                "P6736": "22959"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24112,
+                    50.87405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce na Janovské vyhlídce v Hřensku",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hřensko",
+                "P6736": "22958"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24414,
+                    50.8741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Claryho kaple na zrušeném hřbitově v Hřensku",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hřensko",
+                "P6736": "22957"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24582,
+                    50.87255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Skalní obrázky u silnice z Janova do Hřenska",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Hřensko",
+                "P6736": "22956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24632,
+                    50.87252
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Příčině",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Příčina",
+                "P6736": "10423"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66709,
+                    50.06493
+                ]
+            }
+        }
+    ]
+}

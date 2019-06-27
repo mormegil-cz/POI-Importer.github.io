@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně od Vrbice",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Hořovičky",
+                "P6736": "15727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53468,
+                    50.16835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Vrbici",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Hořovičky",
+                "P6736": "15726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52619,
+                    50.16864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Vrbice",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Hořovičky",
+                "P6736": "15725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5261,
+                    50.17072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kaplička k Děkovu",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Hořovičky",
+                "P6736": "13225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53467,
+                    50.16836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na návsi ve Vrbici",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Hořovičky",
+                "P6736": "13224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5262,
+                    50.16864
+                ]
+            }
+        }
+    ]
+}

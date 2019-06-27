@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Horní Lukavicí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Lukavice",
+                "P6736": "1559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31523,
+                    49.61378
+                ]
+            }
+        }
+    ]
+}

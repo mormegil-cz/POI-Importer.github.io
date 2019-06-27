@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Pavlově před kostelem",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Pavlov",
+                "P6736": "17826"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87943,
+                    49.74251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž výchdně od Pavlova u silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pavlov",
+                "P6736": "17825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88832,
+                    49.74351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na kraji Pavlova",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Pavlov",
+                "P6736": "11866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88338,
+                    49.7445
+                ]
+            }
+        }
+    ]
+}

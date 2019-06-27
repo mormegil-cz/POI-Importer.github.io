@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Lesné u lesa Bukovec",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lesná",
+                "P6736": "19352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05476,
+                    49.52694
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v osadě Vidovle",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bitozeves",
+                "P6736": "24634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6469,
+                    50.38926
+                ]
+            }
+        }
+    ]
+}

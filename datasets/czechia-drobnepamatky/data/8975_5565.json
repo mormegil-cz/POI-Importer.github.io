@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Rešově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Horní Město",
+                "P6736": "16913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22228,
+                    49.8797
+                ]
+            }
+        }
+    ]
+}

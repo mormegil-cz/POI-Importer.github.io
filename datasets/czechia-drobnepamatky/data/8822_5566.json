@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec pod kříž v Drozdově u silnice na Točník",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drozdov",
+                "P6736": "19143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84561,
+                    49.86326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Drozdově u silnice na Točník",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drozdov",
+                "P6736": "19140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84563,
+                    49.86325
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Žichovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Žichovice",
+                "P6736": "10180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65041,
+                    49.26556
+                ]
+            }
+        }
+    ]
+}

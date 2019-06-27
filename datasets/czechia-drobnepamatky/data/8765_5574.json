@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Mikoty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dlouhý Újezd",
+                "P6736": "8748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60167,
+                    49.74757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Rozpadlý pomník u Mikoty",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Hošťka",
+                "P6736": "8747"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60345,
+                    49.74747
+                ]
+            }
+        }
+    ]
+}

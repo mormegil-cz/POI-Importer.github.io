@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kalenicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kalenice",
+                "P6736": "10151"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71705,
+                    49.27118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kalenicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Kalenice",
+                "P6736": "10150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71672,
+                    49.27136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou svatého Vavřince v Kalenicích",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Kalenice",
+                "P6736": "10149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71715,
+                    49.27117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Kalenic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kalenice",
+                "P6736": "10148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72186,
+                    49.2725
+                ]
+            }
+        }
+    ]
+}

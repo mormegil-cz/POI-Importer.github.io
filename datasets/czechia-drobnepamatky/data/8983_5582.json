@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na okraji Posluchova",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Hlubočky",
+                "P6736": "15439"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.39413,
+                    49.63142
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Jelen u Slavětína",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Slavětín",
+                "P6736": "9019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77743,
+                    49.66921
+                ]
+            }
+        }
+    ]
+}

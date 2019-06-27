@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník jihozápadně od Lomničky",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Loza",
+                "P6736": "8311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29703,
+                    49.90778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mrtníku",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mrtník",
+                "P6736": "5670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31235,
+                    49.89671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mrtníku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mrtník",
+                "P6736": "4711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30982,
+                    49.89627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Lozou a Mrtníkem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mrtník",
+                "P6736": "2112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3026,
+                    49.89602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky nad Lozou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Loza",
+                "P6736": "1982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2936,
+                    49.90747
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka vedle vstupu na hřbitov v Slavoňově",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Slavoňov",
+                "P6736": "25796"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19792,
+                    50.343
+                ]
+            }
+        }
+    ]
+}

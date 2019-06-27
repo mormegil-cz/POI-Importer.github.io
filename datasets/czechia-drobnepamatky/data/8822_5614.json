@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí severozápadně od Volyně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Volyně",
+                "P6736": "19635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8632,
+                    49.17473
+                ]
+            }
+        }
+    ]
+}

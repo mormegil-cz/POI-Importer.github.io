@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Bývalý památník (zřejmě) u mostu přes řeku Kamenici",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Česká Kamenice",
+                "P6736": "21970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38581,
+                    50.80008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem koncentračního tábora v Rabštejně",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Česká Kamenice",
+                "P6736": "21969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38683,
+                    50.80073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem fašismu severně od Kamenícké Nové Vísky",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Česká Kamenice",
+                "P6736": "17557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38502,
+                    50.79753
+                ]
+            }
+        }
+    ]
+}

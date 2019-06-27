@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Brně Maloměřicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Brno",
+                "P6736": "14254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.64436,
+                    49.2216
+                ]
+            }
+        }
+    ]
+}

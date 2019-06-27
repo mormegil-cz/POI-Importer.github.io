@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup hranice panství mezi Kaznějovem a Třemošnou",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Hromnice",
+                "P6736": "1600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39185,
+                    49.84502
+                ]
+            }
+        }
+    ]
+}

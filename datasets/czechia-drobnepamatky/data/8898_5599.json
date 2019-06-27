@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u hájovny Hosov",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Jihlava",
+                "P6736": "21224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52039,
+                    49.38401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u lesní cesty západně od Hosova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jihlava",
+                "P6736": "21223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52595,
+                    49.38461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rybníka Pod Kopcem u hlavní silnice západně od Hosova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jihlava",
+                "P6736": "21222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52921,
+                    49.38591
+                ]
+            }
+        }
+    ]
+}

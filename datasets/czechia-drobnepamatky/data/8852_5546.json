@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na křižovatce ulic Toužimská a Beranových ve Starých Letňanech",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Praha",
+                "P6736": "17393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51669,
+                    50.1372
+                ]
+            }
+        }
+    ]
+}

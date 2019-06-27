@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Prostřednice všech milostí ve Vědlicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Úštěk",
+                "P6736": "23503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34238,
+                    50.52635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie u kaple ve Vědlicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Úštěk",
+                "P6736": "23501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34665,
+                    50.52719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi ve Vědlicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Úštěk",
+                "P6736": "23500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3466,
+                    50.52715
+                ]
+            }
+        }
+    ]
+}

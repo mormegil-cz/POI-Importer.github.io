@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Jana Nepomuckého v Zámrsku u kostela",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Zámrsk",
+                "P6736": "12198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13155,
+                    49.98798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník východně od Zámrsku u řeky Loučné",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Zámrsk",
+                "P6736": "12197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13796,
+                    49.98962
+                ]
+            }
+        }
+    ]
+}

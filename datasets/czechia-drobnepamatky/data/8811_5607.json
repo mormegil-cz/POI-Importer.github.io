@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rabí pod hradem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rabí",
+                "P6736": "3746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61915,
+                    49.28039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rabí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rabí",
+                "P6736": "3745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6186,
+                    49.28023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen na hradě Rabí",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Rabí",
+                "P6736": "3744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61859,
+                    49.27951
+                ]
+            }
+        }
+    ]
+}

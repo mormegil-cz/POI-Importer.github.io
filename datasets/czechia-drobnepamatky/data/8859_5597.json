@@ -1,0 +1,345 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska zaniklé synagogy v Táboře",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Tábor",
+                "P6736": "9502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65825,
+                    49.41249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Augustina v průčelí kostela v Táboře",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Tábor",
+                "P6736": "9156"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6559,
+                    49.4137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Moniky v průčelí Kostela Narození Panny Marie v Táboře",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Tábor",
+                "P6736": "9155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65586,
+                    49.41375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Mikuláše z Husi",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Tábor",
+                "P6736": "9154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65606,
+                    49.41394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Františka Aloise Lhotky v Táboře",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Tábor",
+                "P6736": "9153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66103,
+                    49.41265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna se sochou u vlakového nádraží v Táboře",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Tábor",
+                "P6736": "9152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67584,
+                    49.41376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha pumy před Státním okresním archivem v Táboře",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Tábor",
+                "P6736": "9151"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66286,
+                    49.41254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela na Náměstí J. Žižky v Táboře",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tábor",
+                "P6736": "9149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65847,
+                    49.41432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha vlevo od kříže u kostela na Náměstí J. Žižky v Táboře",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Tábor",
+                "P6736": "9148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65838,
+                    49.41432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána na náměstí Jana Žižky v Táboře",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Tábor",
+                "P6736": "9147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65851,
+                    49.41434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Jana Žižky na náměstí J. Žižky v Táboře",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Tábor",
+                "P6736": "9146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65875,
+                    49.41431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Renesanční kašna na náměstí J. Žižky v táboře",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Tábor",
+                "P6736": "9145"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6588,
+                    49.41409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Brána času v Táboře",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Tábor",
+                "P6736": "9143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6638,
+                    49.41284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník s mapou historického centra v Táboře",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Tábor",
+                "P6736": "9142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66368,
+                    49.41304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. světové válce v Táboře",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Tábor",
+                "P6736": "9141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66402,
+                    49.41313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Žabí fontána v Táboře",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Tábor",
+                "P6736": "9140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66534,
+                    49.41277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Klubu českých turistů v Táboře",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Tábor",
+                "P6736": "9139"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66584,
+                    49.41265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Palcát ve Vančurově ulici v Táboře",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Tábor",
+                "P6736": "9138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66618,
+                    49.41297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození na náměstí T. G. Masaryka v Táboře",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Tábor",
+                "P6736": "9137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66826,
+                    49.41288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník mistra Jana Husa v Táboře",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Tábor",
+                "P6736": "7263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67522,
+                    49.4134
+                ]
+            }
+        }
+    ]
+}

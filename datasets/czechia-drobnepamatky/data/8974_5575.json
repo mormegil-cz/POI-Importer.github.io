@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž se sousoším Kalvárie v Žerotíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Žerotín",
+                "P6736": "16992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18619,
+                    49.72514
+                ]
+            }
+        }
+    ]
+}

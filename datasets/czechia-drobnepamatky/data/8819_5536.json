@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Břínkova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ročov",
+                "P6736": "7545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78667,
+                    50.27831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Břínkově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Ročov",
+                "P6736": "7544"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78737,
+                    50.2774
+                ]
+            }
+        }
+    ]
+}

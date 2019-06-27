@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Panských Mlýnech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "8233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94093,
+                    49.354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž nad Panskými Mlýny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "1338"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93925,
+                    49.35992
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hluboké u Skutče severně od obce v poli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hluboká",
+                "P6736": "21682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07097,
+                    49.8499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hluboké u Skutče vedle kapličky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hluboká",
+                "P6736": "21404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07077,
+                    49.84528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hluboké u Skutče na návsi",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Hluboká",
+                "P6736": "21403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07072,
+                    49.84526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník padlým v 1 světové válce v Hluboké u Skutče",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hluboká",
+                "P6736": "21402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07156,
+                    49.84526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hluboké u Skutče jižně od obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hluboká",
+                "P6736": "21401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06546,
+                    49.84174
+                ]
+            }
+        }
+    ]
+}

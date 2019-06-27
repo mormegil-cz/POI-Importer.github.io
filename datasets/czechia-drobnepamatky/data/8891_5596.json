@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Vyskytné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vyskytná",
+                "P6736": "24899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3609,
+                    49.43385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž za kostelem Jména Panny Marie ve Vyskytné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vyskytná",
+                "P6736": "18949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36578,
+                    49.42947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem Jména Panny Marie ve Vyskytné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vyskytná",
+                "P6736": "18948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36485,
+                    49.42942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Obětem 2. světové války ve Vyskytné",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Vyskytná",
+                "P6736": "18947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36454,
+                    49.42936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Obětem 1. světové války ve Vyskytné",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Vyskytná",
+                "P6736": "18946"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36451,
+                    49.42938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vyskytné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vyskytná",
+                "P6736": "11093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.37064,
+                    49.43201
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u myslivny Senný Dolík",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plasy",
+                "P6736": "11261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34581,
+                    49.91274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u myslivny Senný Dolík",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Plasy",
+                "P6736": "5665"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34541,
+                    49.91255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na stromě v lese mezi Plasy a Mrtníkem",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Plasy",
+                "P6736": "1975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34225,
+                    49.91889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na stromě v lese mezi Plasy a Mrtníkem",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Plasy",
+                "P6736": "1974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34653,
+                    49.92261
+                ]
+            }
+        }
+    ]
+}

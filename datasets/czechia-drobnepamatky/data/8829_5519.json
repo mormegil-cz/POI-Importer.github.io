@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Bílince",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velemín",
+                "P6736": "16161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00235,
+                    50.52116
+                ]
+            }
+        }
+    ]
+}

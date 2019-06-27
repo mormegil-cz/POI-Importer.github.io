@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Honech střed obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Police nad Metují",
+                "P6736": "22249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23799,
+                    50.58118
+                ]
+            }
+        }
+    ]
+}

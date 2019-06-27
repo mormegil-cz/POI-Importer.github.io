@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození v Malé Bělé / Klokočce",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Bakov nad Jizerou",
+                "P6736": "15419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9024,
+                    50.50354
+                ]
+            }
+        }
+    ]
+}

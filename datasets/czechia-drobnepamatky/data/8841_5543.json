@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička se zvonicí, Hole u Svrkyně",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Svrkyně",
+                "P6736": "19705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2638,
+                    50.18104
+                ]
+            }
+        }
+    ]
+}

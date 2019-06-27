@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Františka z Assisi v Odrách",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Odry",
+                "P6736": "8979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.82963,
+                    49.66614
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen číslo 102 jihozápadně od Broum",
+                "P31": "Hraniční kámen",
+                "P31^label:cs": "Hraniční kámen",
+                "P131^label:cs": "Ostrovec-Lhotka",
+                "P6736": "12789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79933,
+                    49.93143
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Vlna v parčíku v ulici Mezivrší",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41674,
+                    50.03765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v ulici K Ryšánce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Praha",
+                "P6736": "24576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42946,
+                    50.03875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Violoncelista v atriu školy v ulici Na Planině",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24575"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43227,
+                    50.03928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sedící ženy v parčíku na rohu ulic Točitá a Návršní",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43523,
+                    50.03948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Květ v parku mezi ulicemi Pujmanové a Horáčkova",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43495,
+                    50.04587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Pomona v ulici Pujmanové na Pankráci",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43448,
+                    50.0463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Malá kašna mezi domy v ulici Pujmanové na Pankráci",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "24571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43495,
+                    50.04643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika mezi domy v ulici Pujmanové na Pankráci",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43513,
+                    50.04734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Ryby v ulici Pujmanové na Pankráci",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43487,
+                    50.04732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Obyčejná Madona v ulici Pujmanové na Pankráci",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43491,
+                    50.04789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika v ulici Pujmanové na Pankráci",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "24567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43501,
+                    50.04843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha srny s mládětem v parku Na Pankráci",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43105,
+                    50.04915
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u Dymokur",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dymokury",
+                "P6736": "11035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20757,
+                    50.26249
+                ]
+            }
+        }
+    ]
+}

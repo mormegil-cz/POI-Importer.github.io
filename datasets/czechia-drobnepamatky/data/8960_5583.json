@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na křižovatce u Ponikve",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Ludmírov",
+                "P6736": "15662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88174,
+                    49.62027
+                ]
+            }
+        }
+    ]
+}

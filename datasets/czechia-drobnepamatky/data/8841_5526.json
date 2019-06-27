@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v zahradě Městského úřadu v Roudnici nad Labem",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "24461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26028,
+                    50.42348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Šiška v Očkově ulici v Roudnici nad Labem",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "21303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26233,
+                    50.42488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Tyršův pomník v Tyršových sadech v Roudnici nad Labem",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "18938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26956,
+                    50.42079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Maxe Dvořáka v Očkově ulici v Roudnici nad Labem",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "17053"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26213,
+                    50.42459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na rohu ulic Na Hradčanech a Palackého v Roudnici nad Labem",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27277,
+                    50.42627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Kratochvílově ulici v Roudnici nad Labem",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26641,
+                    50.41933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Jana Nepomuckého na rohu ulic Řipská a Michálkova v Roudnici nad Labem",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26283,
+                    50.42361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vojtěcha na Karlově náměstí v Roudnici nad Labem",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26041,
+                    50.4248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Čechie s českým lvem na nájezdu na most přes Labe v Roudnici nad Labem",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "16684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26068,
+                    50.42623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Vavřince na Karlově náměstí v Roudnici nad Labem",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Roudnice nad Labem",
+                "P6736": "13649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26056,
+                    50.4244
+                ]
+            }
+        }
+    ]
+}

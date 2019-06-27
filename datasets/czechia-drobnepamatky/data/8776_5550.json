@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Nádražní ulici na mostě v Bečově nad Teplou",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Bečov nad Teplou",
+                "P6736": "15215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83521,
+                    50.08383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek v Bečově nad Teplou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bečov nad Teplou",
+                "P6736": "11273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84068,
+                    50.08303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek při levé straně kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bečov nad Teplou",
+                "P6736": "11272"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83986,
+                    50.08372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Rámeček obrázku u vchodu do kostela",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Bečov nad Teplou",
+                "P6736": "11271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8396,
+                    50.08382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bečově nad Teplou",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Bečov nad Teplou",
+                "P6736": "10682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83804,
+                    50.08281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Bečově nad Teplou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bečov nad Teplou",
+                "P6736": "9678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83965,
+                    50.08532
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Josefa u rozcestí v Horní Brusnici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horní Brusnice",
+                "P6736": "21562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.68032,
+                    50.47162
+                ]
+            }
+        }
+    ]
+}

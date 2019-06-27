@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika v parku u stanice metra Vysočanská",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Praha",
+                "P6736": "25205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50241,
+                    50.10989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v parku u stanice metra Vysočanská",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "25204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50303,
+                    50.1106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v parku u stanice metra Vysočanská",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Praha",
+                "P6736": "25203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50301,
+                    50.11071
+                ]
+            }
+        }
+    ]
+}

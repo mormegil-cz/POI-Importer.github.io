@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Betonová plastika Želva v sídlišti Kamenný vrch na Střekově",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "25775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06553,
+                    50.65636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětí 2.světové války na hřbitově čtvrti Střekov",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "18863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06726,
+                    50.65473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětí výbuchu muničního skladu 31.7.1945 v ulici U Cukrovaru v Krásném Březně",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "16760"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07092,
+                    50.66511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Žena s růží v Truhlářově ulici na Střekově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "16718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06521,
+                    50.65385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem války v parku na Drážďanské ulici v Krásném Březně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07541,
+                    50.66574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ecce Homo u kostela svatého Floriána v Krásném Březně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08157,
+                    50.66681
+                ]
+            }
+        }
+    ]
+}

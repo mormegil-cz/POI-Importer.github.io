@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mírově u hradu",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mírov",
+                "P6736": "19904"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84779,
+                    49.79753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mírově u zdi kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mírov",
+                "P6736": "19903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84724,
+                    49.79883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mírově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mírov",
+                "P6736": "16910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8511,
+                    49.79899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v Mírově v centru obce",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Mírov",
+                "P6736": "13017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84739,
+                    49.79785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie Bolestné v Mírově",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Mírov",
+                "P6736": "12693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84732,
+                    49.79876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž uprostřed Mírovečku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mírov",
+                "P6736": "11879"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83815,
+                    49.79609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Mírovečku",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Mírov",
+                "P6736": "11767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84161,
+                    49.79617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Mírově v centru obce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Mírov",
+                "P6736": "11766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84612,
+                    49.79813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mírově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mírov",
+                "P6736": "11563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85182,
+                    49.80034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Mírově na křižovatce",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Mírov",
+                "P6736": "11524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85167,
+                    49.80005
+                ]
+            }
+        }
+    ]
+}

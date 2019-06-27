@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Oldřišově před kostelem Narození Panny Marie",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Oldřišov",
+                "P6736": "23391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9654,
+                    49.99271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Oldřišově u kostela Narození Panny Marie",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Oldřišov",
+                "P6736": "23390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.96497,
+                    49.99273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Oldřišově poblíž křižovatky ulic Svobody a Zámecká",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Oldřišov",
+                "P6736": "23389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.96024,
+                    49.9915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Oldřišově poblíž křižovatky ulic Svobody a Jaselská",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Oldřišov",
+                "P6736": "23388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.95726,
+                    49.99161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Oldřišově na křižovatce ulic Opavská a Slezská",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Oldřišov",
+                "P6736": "23385"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.95402,
+                    49.98877
+                ]
+            }
+        }
+    ]
+}

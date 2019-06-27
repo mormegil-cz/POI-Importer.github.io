@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Mírovém náměstí ve Vysokém Veselí",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Vysoké Veselí",
+                "P6736": "16331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43433,
+                    50.33147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava v Husově ulici ve Vysokém Veselí",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Vysoké Veselí",
+                "P6736": "16330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43606,
+                    50.33171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný kříž na rozcestí v ulici 9.května ve Vysokém Veselí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vysoké Veselí",
+                "P6736": "16329"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44285,
+                    50.33236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u mostu přes Cidlinu ve Vysokém Veselí",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Vysoké Veselí",
+                "P6736": "16324"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43273,
+                    50.33164
+                ]
+            }
+        }
+    ]
+}

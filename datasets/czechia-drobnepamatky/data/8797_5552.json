@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen západně od Nového Dvora",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Žihle",
+                "P6736": "7974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31098,
+                    50.05342
+                ]
+            }
+        }
+    ]
+}

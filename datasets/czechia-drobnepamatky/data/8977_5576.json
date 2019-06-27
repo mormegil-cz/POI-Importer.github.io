@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Lužicích na okraji obce",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Lužice",
+                "P6736": "16062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26626,
+                    49.71818
+                ]
+            }
+        }
+    ]
+}

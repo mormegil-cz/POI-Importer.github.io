@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Raka na pokraji rybníka ve středu Račína",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Račín",
+                "P6736": "15708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.86712,
+                    49.61606
+                ]
+            }
+        }
+    ]
+}

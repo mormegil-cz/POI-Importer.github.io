@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mokošíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mokošín",
+                "P6736": "14779"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56782,
+                    50.01437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Benešovicích",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Brloh",
+                "P6736": "14772"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55929,
+                    50.01574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Benešovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Brloh",
+                "P6736": "14748"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55927,
+                    50.0157
+                ]
+            }
+        }
+    ]
+}

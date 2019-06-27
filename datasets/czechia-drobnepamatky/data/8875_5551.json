@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava v zámeckém parku v Radimi",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Radim",
+                "P6736": "13944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01007,
+                    50.07169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vojtěcha v zámeckém parku v Radimi",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Radim",
+                "P6736": "13943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00995,
+                    50.0717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Gotharda u zámku v Radimi",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Radim",
+                "P6736": "13942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00984,
+                    50.07172
+                ]
+            }
+        }
+    ]
+}

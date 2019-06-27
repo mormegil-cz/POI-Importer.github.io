@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na severním okraji Svébohova",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Svébohov",
+                "P6736": "12848"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83994,
+                    49.9236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Svébohova na rozcestí v polích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Svébohov",
+                "P6736": "12845"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83882,
+                    49.93075
+                ]
+            }
+        }
+    ]
+}

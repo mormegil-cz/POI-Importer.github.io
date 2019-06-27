@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Holovous",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chříč",
+                "P6736": "5279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62964,
+                    49.97038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Chříči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chříč",
+                "P6736": "3909"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64468,
+                    49.97094
+                ]
+            }
+        }
+    ]
+}

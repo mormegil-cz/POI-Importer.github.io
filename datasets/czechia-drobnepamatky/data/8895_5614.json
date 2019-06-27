@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rohu ulice 9.května a Křížové v Telči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Telč",
+                "P6736": "25382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45194,
+                    49.18085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Vendelína u Staroměstského rybníka v Telči",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Telč",
+                "P6736": "25243"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4568,
+                    49.17849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha archanděla Rafaela u Staroměstského rybníka v Telči",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Telč",
+                "P6736": "25242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45757,
+                    49.17788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Archanděla Michaela v ulici Na Dlážkách",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Telč",
+                "P6736": "23175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45375,
+                    49.18134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u kruhového objezdu v Hradecké ulici",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Telč",
+                "P6736": "23173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45253,
+                    49.18153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od rozhledny Oslednice v Telči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Telč",
+                "P6736": "18905"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4667,
+                    49.17672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha archanděla Gabriela na náměstí U Matky Boží v Telči",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Telč",
+                "P6736": "18710"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45868,
+                    49.1767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie na náměstí U Matky Boží",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Telč",
+                "P6736": "18709"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45877,
+                    49.17671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup s Pannou Marií na náměstí U Matky Boží v Telči",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Telč",
+                "P6736": "18708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4588,
+                    49.17679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rohu Zachariášovy a Luční ulice v Telči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Telč",
+                "P6736": "18707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45461,
+                    49.17785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Křtitele u Staroměstského rybníka v Telči",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Telč",
+                "P6736": "18706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.45862,
+                    49.17743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Rocha ve Starém Městě v Telči",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Telč",
+                "P6736": "18705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4593,
+                    49.17636
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec s vylomeným křížem u cesty jihovýchodně od Křemýže",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ohníč",
+                "P6736": "19063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82577,
+                    50.59239
+                ]
+            }
+        }
+    ]
+}

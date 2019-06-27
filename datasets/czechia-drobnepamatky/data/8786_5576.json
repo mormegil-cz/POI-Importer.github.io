@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Nového Dvora západně od Heřmanovy Huti",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Heřmanova Huť",
+                "P6736": "8804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05636,
+                    49.71908
+                ]
+            }
+        }
+    ]
+}

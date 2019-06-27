@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Chýšti",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Chýšť",
+                "P6736": "14479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54169,
+                    50.12826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chýšti",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chýšť",
+                "P6736": "14478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54159,
+                    50.12823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Chýšti",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Chýšť",
+                "P6736": "14477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54145,
+                    50.12709
+                ]
+            }
+        }
+    ]
+}

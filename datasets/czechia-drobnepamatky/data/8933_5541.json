@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lukavici u Rychnova nad Kněžnou severní část obcř",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lukavice",
+                "P6736": "24621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.301,
+                    50.21265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Lukavici u Rychnova nad Kněžnou severní okraj obce",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Lukavice",
+                "P6736": "24620"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29931,
+                    50.2135
+                ]
+            }
+        }
+    ]
+}

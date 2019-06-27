@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Bezděkově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bezděkov",
+                "P6736": "4542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59677,
+                    49.82378
+                ]
+            }
+        }
+    ]
+}

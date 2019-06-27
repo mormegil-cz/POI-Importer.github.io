@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u řeky Radbuzy jižně od Mírkovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hostouň",
+                "P6736": "2613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78177,
+                    49.57082
+                ]
+            }
+        }
+    ]
+}

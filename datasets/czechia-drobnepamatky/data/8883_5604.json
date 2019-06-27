@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Častrova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Častrov",
+                "P6736": "6079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18742,
+                    49.31671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v severní části Častrova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Častrov",
+                "P6736": "6078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18667,
+                    49.31209
+                ]
+            }
+        }
+    ]
+}

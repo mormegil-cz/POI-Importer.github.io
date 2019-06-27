@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Výklenková kaplička u křižovatky silnic východně od Stříteže",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Litochovice",
+                "P6736": "21764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9809,
+                    49.17298
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Líšťan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Líšťany",
+                "P6736": "7955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18172,
+                    49.83698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severozápadně od Líšťan",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Líšťany",
+                "P6736": "7954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17967,
+                    49.83585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Náklově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Líšťany",
+                "P6736": "3995"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17396,
+                    49.83489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Líšťanech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Líšťany",
+                "P6736": "3103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18221,
+                    49.83274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Líšťan",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Líšťany",
+                "P6736": "3102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17861,
+                    49.83318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Líšťanech u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Líšťany",
+                "P6736": "3098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1808,
+                    49.83238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Líšťanech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Líšťany",
+                "P6736": "3097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18072,
+                    49.83216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník založení obce Líšťany",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Líšťany",
+                "P6736": "3096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1817,
+                    49.83024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Líšťan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Líšťany",
+                "P6736": "3095"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1787,
+                    49.82992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Líšťan",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Líšťany",
+                "P6736": "2674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16667,
+                    49.82419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Náklova u silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Líšťany",
+                "P6736": "2149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17032,
+                    49.83437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na rozcestí jižně od Líšťan",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Líšťany",
+                "P6736": "1954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17641,
+                    49.8269
+                ]
+            }
+        }
+    ]
+}

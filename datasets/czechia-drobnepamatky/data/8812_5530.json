@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Bitozevsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bitozeves",
+                "P6736": "24708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64048,
+                    50.37262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Bitozevsi",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Bitozeves",
+                "P6736": "24707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6404,
+                    50.3729
+                ]
+            }
+        }
+    ]
+}

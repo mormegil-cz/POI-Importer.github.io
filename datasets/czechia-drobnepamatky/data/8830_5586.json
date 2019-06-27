@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Tušovicích",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Tušovice",
+                "P6736": "7206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03195,
+                    49.57578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zdi v Tušovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tušovice",
+                "P6736": "7205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03167,
+                    49.57635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Tušovičkách",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Tušovice",
+                "P6736": "7204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02367,
+                    49.58068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Tušoviček",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tušovice",
+                "P6736": "7203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02464,
+                    49.58162
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Rohatce u cesty do Ratíškovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rohatec",
+                "P6736": "12887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1927,
+                    48.90328
+                ]
+            }
+        }
+    ]
+}

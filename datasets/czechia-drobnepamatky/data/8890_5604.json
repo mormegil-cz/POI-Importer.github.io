@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice mezi Švábovem a Horní Cerekví nad Švábovským potokem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Švábov",
+                "P6736": "19609"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34855,
+                    49.31184
+                ]
+            }
+        }
+    ]
+}

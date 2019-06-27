@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Nezamyslic vedle polní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nezamyslice",
+                "P6736": "21059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.15755,
+                    49.3314
+                ]
+            }
+        }
+    ]
+}

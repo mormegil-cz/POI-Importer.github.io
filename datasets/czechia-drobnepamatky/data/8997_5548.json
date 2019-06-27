@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Krnově Horním Předměstí poblíž státní hranice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Krnov",
+                "P6736": "17604"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.696,
+                    50.11229
+                ]
+            }
+        }
+    ]
+}

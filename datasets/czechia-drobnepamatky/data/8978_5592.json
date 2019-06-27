@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava v Dubu nad Moravou v části Bolelouc",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Dub nad Moravou",
+                "P6736": "18843"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27195,
+                    49.49505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dubu nad Moravou u zvonice",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dub nad Moravou",
+                "P6736": "17073"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2758,
+                    49.48979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Dubu nad Moravou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Dub nad Moravou",
+                "P6736": "16777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27587,
+                    49.48976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Dubu nad Moravou v části Tučapy",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Dub nad Moravou",
+                "P6736": "15430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27594,
+                    49.48974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice v Dubu nad Moravou v části Bolelouc",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Dub nad Moravou",
+                "P6736": "15428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.272,
+                    49.49493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek svatého Huberta v Dubu nad Moravou",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Dub nad Moravou",
+                "P6736": "15357"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27431,
+                    49.48362
+                ]
+            }
+        }
+    ]
+}

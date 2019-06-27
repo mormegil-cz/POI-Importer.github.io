@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Keramická plastika Opuštěná v ulici Květnové Revoluce v Nových Pavlovicích",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05663,
+                    50.78008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Kamenné ořechy v parku v Kmochově ulici v Ruprechticích",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06385,
+                    50.78762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Ruprechticích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Liberec",
+                "P6736": "20600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06525,
+                    50.78832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Ocelová plastika Spartakiáda v ulici Na Pískovně v Ruprechticích",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05713,
+                    50.78625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Žulová plastika Květ ve Vrchlického ulici v Ruprechticích",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0609,
+                    50.78427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Dvojice v parku v Třešňové ulici v Ruprechticích",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06164,
+                    50.78367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Sluneční hodiny v parku v Rychtářské ulici v Ruprechticích",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06207,
+                    50.78172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Fontány v parku v Rychtářské ulici v Ruprechticích",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Liberec",
+                "P6736": "20595"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06185,
+                    50.7815
+                ]
+            }
+        }
+    ]
+}

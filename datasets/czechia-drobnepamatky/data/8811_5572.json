@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Volduch",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Volduchy",
+                "P6736": "25032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60794,
+                    49.76962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka západně od Volduch",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Volduchy",
+                "P6736": "6888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60897,
+                    49.77643
+                ]
+            }
+        }
+    ]
+}

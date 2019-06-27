@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Zvíkova u lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zvíkov",
+                "P6736": "2890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.60876,
+                    48.97673
+                ]
+            }
+        }
+    ]
+}

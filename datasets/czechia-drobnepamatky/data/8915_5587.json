@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Kůň u Hamrů nad Sázavou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hamry nad Sázavou",
+                "P6736": "9017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.90701,
+                    49.56241
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Horních Počátkách",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Seč",
+                "P6736": "15150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.62156,
+                    49.84932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž s deskou padlých občanů v Horních Počátkách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Seč",
+                "P6736": "15149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.62146,
+                    49.84933
+                ]
+            }
+        }
+    ]
+}

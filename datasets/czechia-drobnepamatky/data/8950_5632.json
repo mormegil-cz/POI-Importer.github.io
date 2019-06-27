@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severovýchodně od Strachotína",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Strachotín",
+                "P6736": "22312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.66201,
+                    48.91048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Popic",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Popice",
+                "P6736": "22311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65594,
+                    48.9173
+                ]
+            }
+        }
+    ]
+}

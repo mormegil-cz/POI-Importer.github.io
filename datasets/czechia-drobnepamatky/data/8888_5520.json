@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na západním okraji Libuně",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Libuň",
+                "P6736": "22838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29651,
+                    50.49989
+                ]
+            }
+        }
+    ]
+}

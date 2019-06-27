@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Jurkovičovy křížové cesty na hoře Hostýn nad Chvalčovem",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Chvalčov",
+                "P6736": "13957"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.70214,
+                    49.37806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Cyrila na hoře Hostýn nad obcí Chvalčov",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Chvalčov",
+                "P6736": "13956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.69992,
+                    49.3767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Metoděje na hoře Hostýn nad obcí Chvalčov",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Chvalčov",
+                "P6736": "13955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.69994,
+                    49.37684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Sarkandera na hoře Hostýn nad obcí Chvalčov",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Chvalčov",
+                "P6736": "13954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.70036,
+                    49.377
+                ]
+            }
+        }
+    ]
+}

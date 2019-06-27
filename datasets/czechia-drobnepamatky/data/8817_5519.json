@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ulomeného kříže u cesty na severním okraji Liběšic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Želenice",
+                "P6736": "20888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73973,
+                    50.52199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice na návsi v Liběšicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Želenice",
+                "P6736": "20887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74599,
+                    50.51982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí na jižním okraji Liběšic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Želenice",
+                "P6736": "20886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74737,
+                    50.51823
+                ]
+            }
+        }
+    ]
+}

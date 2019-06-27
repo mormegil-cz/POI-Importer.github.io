@@ -48,14 +48,14 @@ var queryProviderWikidata = {
         return state;
     },
     finishQuery: function(state) {
-        var result = ["SELECT ?item ?tileName ?lat ?lon "];
+        var result = ["SELECT ?item ?tileName (SAMPLE(?lat) AS ?lat) (SAMPLE(?lon) AS ?lon) "];
         for (var varName in state.variables) {
             if (!state.variables.hasOwnProperty(varName)) continue;
-            result.push(varName + " ");
+            result.push("(SAMPLE(" + varName + ") AS " + varName + ") ");
         }
         result.push("WHERE { BIND(geof:latitude(?coords) AS ?lat). BIND(geof:longitude(?coords) AS ?lon). ");
         result.push(state.query.join(''));
-        result.push(" }");
+        result.push(" } GROUP BY ?item ?tileName");
         return result.join('');
     }
 }

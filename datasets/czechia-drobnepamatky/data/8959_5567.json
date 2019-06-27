@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jestřebí na okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jestřebí",
+                "P6736": "21546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87441,
+                    49.84939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Pobučí na kopci Kalvárie",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jestřebí",
+                "P6736": "21154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85425,
+                    49.84688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Karla Havlíčka Borovského v Jestřebí",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Jestřebí",
+                "P6736": "18796"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86809,
+                    49.85211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na okraji Pobučí",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Jestřebí",
+                "P6736": "12029"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85341,
+                    49.84287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na okraji Pobučí",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Jestřebí",
+                "P6736": "11395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85511,
+                    49.84325
+                ]
+            }
+        }
+    ]
+}

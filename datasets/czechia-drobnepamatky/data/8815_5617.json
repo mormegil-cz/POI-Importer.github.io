@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v severní části Rohanova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vacov",
+                "P6736": "16312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70356,
+                    49.13415
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Pazuše poblíž kaple",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Litomyšl",
+                "P6736": "17537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37128,
+                    49.87808
+                ]
+            }
+        }
+    ]
+}

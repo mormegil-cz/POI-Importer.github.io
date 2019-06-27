@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Hlohovčic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hlohovčice",
+                "P6736": "3459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10749,
+                    49.5252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Hlohovčic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hlohovčice",
+                "P6736": "3458"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11073,
+                    49.52246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Hlohovčicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hlohovčice",
+                "P6736": "3457"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11378,
+                    49.52078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hlohovčic",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hlohovčice",
+                "P6736": "3456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11411,
+                    49.52031
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple nad Přimdou",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Přimda",
+                "P6736": "2397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66867,
+                    49.67848
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Velkých Opatovicích v Luční ulici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velké Opatovice",
+                "P6736": "13318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67497,
+                    49.60825
+                ]
+            }
+        }
+    ]
+}

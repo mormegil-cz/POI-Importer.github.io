@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na terase zámku Kozel u Štáhlavic",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Šťáhlavy",
+                "P6736": "9754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52959,
+                    49.67041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zahradě zámku Kozel",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Šťáhlavy",
+                "P6736": "8546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53439,
+                    49.66908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha u zámku Kozel",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Šťáhlavy",
+                "P6736": "7148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52926,
+                    49.67132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Šťáhlav",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Šťáhlavy",
+                "P6736": "7147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51868,
+                    49.67548
+                ]
+            }
+        }
+    ]
+}

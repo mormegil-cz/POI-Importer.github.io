@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Blažově u kaple svatého Martina",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88263,
+                    49.68338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Martina v Blažově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88267,
+                    49.68344
+                ]
+            }
+        }
+    ]
+}

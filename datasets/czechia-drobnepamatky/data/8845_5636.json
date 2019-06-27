@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty do Nové Koruny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zlatá Koruna",
+                "P6736": "21120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36451,
+                    48.85255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v části Nová Koruna",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Zlatá Koruna",
+                "P6736": "21112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3573,
+                    48.85202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u rozcestí nad nádražím Zlatá Koruna",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Zlatá Koruna",
+                "P6736": "21111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3507,
+                    48.85107
+                ]
+            }
+        }
+    ]
+}

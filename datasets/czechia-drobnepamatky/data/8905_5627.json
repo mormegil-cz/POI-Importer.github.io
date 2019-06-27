@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hornicích jižní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hornice",
+                "P6736": "19450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67963,
+                    48.9942
+                ]
+            }
+        }
+    ]
+}

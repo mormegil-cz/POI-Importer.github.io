@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Nekrasína u řeky Kamenice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nová Včelnice",
+                "P6736": "5868"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06868,
+                    49.22037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Nové Včelnice u lípy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nová Včelnice",
+                "P6736": "2186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07037,
+                    49.22304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Nekrasína",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Jarošov nad Nežárkou",
+                "P6736": "2154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07035,
+                    49.21697
+                ]
+            }
+        }
+    ]
+}

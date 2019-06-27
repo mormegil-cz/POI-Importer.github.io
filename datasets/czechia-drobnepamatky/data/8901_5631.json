@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Mešovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Uherčice",
+                "P6736": "20295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.59343,
+                    48.92433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Mešovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Uherčice",
+                "P6736": "20294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58915,
+                    48.92859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Mešovic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Uherčice",
+                "P6736": "20293"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.59076,
+                    48.9269
+                ]
+            }
+        }
+    ]
+}

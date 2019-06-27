@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Rosičce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Rosička",
+                "P6736": "16444"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.95533,
+                    49.28033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli východně od Světců",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Světce",
+                "P6736": "13451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.95183,
+                    49.26951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Světcích v zahradě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Světce",
+                "P6736": "13445"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94438,
+                    49.26901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Světcích na svahu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Světce",
+                "P6736": "13444"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9421,
+                    49.27079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Rosičce",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Rosička",
+                "P6736": "7020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.95356,
+                    49.27947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Světců",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Světce",
+                "P6736": "7019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94826,
+                    49.27676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Světcích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Světce",
+                "P6736": "7018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94219,
+                    49.27375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Světcích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Světce",
+                "P6736": "7017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94195,
+                    49.27383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rosičce v zahradě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Světce",
+                "P6736": "6314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94486,
+                    49.27793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Rosičkou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Světce",
+                "P6736": "2591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94632,
+                    49.27894
+                ]
+            }
+        }
+    ]
+}

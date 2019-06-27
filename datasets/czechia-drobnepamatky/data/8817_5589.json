@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Starého Smolivce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladý Smolivec",
+                "P6736": "5026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7433,
+                    49.53692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vincence ve Starém Smolivci",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Mladý Smolivec",
+                "P6736": "4286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74922,
+                    49.52564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Starém Smolivci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladý Smolivec",
+                "P6736": "4285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75064,
+                    49.52784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Brdský anděl nad Starým Smolivcem",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Mladý Smolivec",
+                "P6736": "2537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74285,
+                    49.52578
+                ]
+            }
+        }
+    ]
+}

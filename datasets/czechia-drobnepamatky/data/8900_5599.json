@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zahradě u čp.21 na východním okraji Pístova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jihlava",
+                "P6736": "21201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56834,
+                    49.38363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u bývalých garáží Armády České republiky severně od Pístova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jihlava",
+                "P6736": "21200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57064,
+                    49.38533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nanebevstoupení Páně na hřbitově v Jihlavě",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Jihlava",
+                "P6736": "21199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57219,
+                    49.394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Obětem 2. světové války na zdi hřbitova v Jihlavě",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Jihlava",
+                "P6736": "21198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57317,
+                    49.3947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jihlavě u Domu zdraví",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jihlava",
+                "P6736": "12307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57382,
+                    49.3965
+                ]
+            }
+        }
+    ]
+}

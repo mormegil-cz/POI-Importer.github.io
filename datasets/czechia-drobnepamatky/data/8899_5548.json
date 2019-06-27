@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Malých Výklekách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Malé Výkleky",
+                "P6736": "14480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53837,
+                    50.1202
+                ]
+            }
+        }
+    ]
+}

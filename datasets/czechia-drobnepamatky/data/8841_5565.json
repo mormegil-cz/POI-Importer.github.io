@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "křížek v Mníšku pod Brdy na odbočce na Rymáně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mníšek pod Brdy",
+                "P6736": "21423"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2738,
+                    49.86667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Františka Xavera Svobody na náměstí v Mníšku pod Brdy",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Mníšek pod Brdy",
+                "P6736": "14955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26043,
+                    49.86681
+                ]
+            }
+        }
+    ]
+}

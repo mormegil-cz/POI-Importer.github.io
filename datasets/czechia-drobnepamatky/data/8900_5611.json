@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Nepomukách",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Stará Říše",
+                "P6736": "9374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57289,
+                    49.21337
+                ]
+            }
+        }
+    ]
+}

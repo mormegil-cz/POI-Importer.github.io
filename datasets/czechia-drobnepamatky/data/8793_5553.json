@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Vískou a Novosedly",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pšov",
+                "P6736": "2200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21609,
+                    50.04049
+                ]
+            }
+        }
+    ]
+}

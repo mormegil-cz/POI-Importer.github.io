@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Vírský mlýnek",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Vír",
+                "P6736": "21662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30966,
+                    49.55397
+                ]
+            }
+        }
+    ]
+}

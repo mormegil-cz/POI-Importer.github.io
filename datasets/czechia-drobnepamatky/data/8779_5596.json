@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u lesa pod Veselou horou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Domažlice",
+                "P6736": "1423"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91345,
+                    49.42687
+                ]
+            }
+        }
+    ]
+}

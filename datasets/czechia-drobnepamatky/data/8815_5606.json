@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Veřechova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "10138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70948,
+                    49.28723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Veřechova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "10137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70792,
+                    49.29476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Veřechova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "10136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70885,
+                    49.29039
+                ]
+            }
+        }
+    ]
+}

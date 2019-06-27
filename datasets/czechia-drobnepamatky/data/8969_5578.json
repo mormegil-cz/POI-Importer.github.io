@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Floriána v Chořelicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Litovel",
+                "P6736": "17028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.07951,
+                    49.69104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chořelicích u kaple svatého Floriána",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Litovel",
+                "P6736": "17012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.07941,
+                    49.69101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Chořelicích u hřbitova",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Litovel",
+                "P6736": "16101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0778,
+                    49.68251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Litovli v Palackého ulici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Litovel",
+                "P6736": "13263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.07417,
+                    49.69587
+                ]
+            }
+        }
+    ]
+}

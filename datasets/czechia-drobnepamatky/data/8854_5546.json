@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek u vchodu do areálu ctěnického zámku",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Praha",
+                "P6736": "14746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.563,
+                    50.14844
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Droždína u lesní stezky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Olomouc",
+                "P6736": "12251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.347,
+                    49.62141
+                ]
+            }
+        }
+    ]
+}

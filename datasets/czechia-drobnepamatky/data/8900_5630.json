@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Dančovic II",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dešná",
+                "P6736": "20313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57114,
+                    48.94342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Dančovic I",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dešná",
+                "P6736": "20312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57008,
+                    48.95016
+                ]
+            }
+        }
+    ]
+}

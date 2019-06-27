@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Jeronýma Pražského v Hostokryjích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Senomaty",
+                "P6736": "13232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66867,
+                    50.0849
+                ]
+            }
+        }
+    ]
+}

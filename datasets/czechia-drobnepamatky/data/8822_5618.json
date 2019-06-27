@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v zámeckém parku ve Lčovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Lčovice",
+                "P6736": "23803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8536,
+                    49.1174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Lčovic na křižovatce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lčovice",
+                "P6736": "17976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84756,
+                    49.11969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Milník severně od Lčovic na křižovatce",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Lčovice",
+                "P6736": "17972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84896,
+                    49.11981
+                ]
+            }
+        }
+    ]
+}

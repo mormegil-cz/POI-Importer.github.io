@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Nejsvětější Trojice východně u cesty Litomyšl Polička",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Dolní Újezd",
+                "P6736": "19984"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28462,
+                    49.79816
+                ]
+            }
+        }
+    ]
+}

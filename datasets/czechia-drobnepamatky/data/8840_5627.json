@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Dobčicemi a Zábořím",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Záboří",
+                "P6736": "2813"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25733,
+                    48.99338
+                ]
+            }
+        }
+    ]
+}

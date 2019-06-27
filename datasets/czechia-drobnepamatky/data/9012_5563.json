@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Mokrých Lazcích na křižovatce ulic Petra Bezruče a Kostelní",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Mokré Lazce",
+                "P6736": "23613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.02937,
+                    49.90398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Mokrých Lazcích na křižovatce ulic Petra Bezruče a Hájová",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Mokré Lazce",
+                "P6736": "23612"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.02913,
+                    49.90342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým a zemřelým ve světové válce v Mokrých Lazcích na křižovatce ulic Petra Bezruče a Kostelní",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mokré Lazce",
+                "P6736": "23611"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.02937,
+                    49.90391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mokrých Lazcích v ulici Sokolská východní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mokré Lazce",
+                "P6736": "23610"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03618,
+                    49.90733
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u základní školy v Želivě",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Želiv",
+                "P6736": "18821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22211,
+                    49.52655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 1. světové války v Želivě",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Želiv",
+                "P6736": "18820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21815,
+                    49.52894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého v Želivě",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Želiv",
+                "P6736": "18819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21659,
+                    49.52889
+                ]
+            }
+        }
+    ]
+}

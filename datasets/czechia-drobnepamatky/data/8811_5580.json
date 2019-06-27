@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Mešna",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mešno",
+                "P6736": "5221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61768,
+                    49.6573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Mešna u hřbitova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mešno",
+                "P6736": "5220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61922,
+                    49.65604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jižní části Mešna",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mešno",
+                "P6736": "5219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62103,
+                    49.65465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlých v Mešnu",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mešno",
+                "P6736": "5218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62162,
+                    49.65595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mešně u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mešno",
+                "P6736": "5217"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62161,
+                    49.65606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Mešnu",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Mešno",
+                "P6736": "5216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62166,
+                    49.6561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mešně nad křižovatkou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mešno",
+                "P6736": "5215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62174,
+                    49.65652
+                ]
+            }
+        }
+    ]
+}

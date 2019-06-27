@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna ve vnitrobloku u Náměstí míru v Mělníku",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Mělník",
+                "P6736": "24680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47368,
+                    50.35151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Husově ulici v Mělníku",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Mělník",
+                "P6736": "24678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47281,
+                    50.35139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem za osvobození na návsi v Brozánkách",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Hořín",
+                "P6736": "22496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45998,
+                    50.35367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Brozánkách",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hořín",
+                "P6736": "22495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45986,
+                    50.35376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v rohu zdi na severním okraji Brozánek",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Hořín",
+                "P6736": "22494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45982,
+                    50.35489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Náměstí Míru ve středu Mělníka",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Mělník",
+                "P6736": "18999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47465,
+                    50.35219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Karla IV v Mělníku u zámku",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Mělník",
+                "P6736": "14601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47259,
+                    50.3513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Viktora Dyka v Mělníku",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Mělník",
+                "P6736": "14600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4734,
+                    50.35021
+                ]
+            }
+        }
+    ]
+}

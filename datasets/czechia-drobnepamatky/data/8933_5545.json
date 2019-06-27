@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v severní části Nové Vsi u Rychnova nad Kněžnou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "12804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29229,
+                    50.15012
+                ]
+            }
+        }
+    ]
+}

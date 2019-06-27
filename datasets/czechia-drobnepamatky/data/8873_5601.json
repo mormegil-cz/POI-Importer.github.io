@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Ladislava Macka u Rytova",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Černovice",
+                "P6736": "10322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98105,
+                    49.35865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Rytově",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Černovice",
+                "P6736": "7497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98495,
+                    49.35558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rytově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "6736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98485,
+                    49.35566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Dobešova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "1382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96546,
+                    49.35411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička mezi Černovicemi a Dobešovem",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Černovice",
+                "P6736": "1337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96386,
+                    49.36412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Černovic u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "1336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96411,
+                    49.3671
+                ]
+            }
+        }
+    ]
+}

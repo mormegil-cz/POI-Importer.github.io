@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž na okraji Vysokého Mýta",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Vysoké Mýto",
+                "P6736": "11414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1403,
+                    49.96496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž na rozcestí za Vysokým Mýtem",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Vysoké Mýto",
+                "P6736": "11413"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13435,
+                    49.95298
+                ]
+            }
+        }
+    ]
+}

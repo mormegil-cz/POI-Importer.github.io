@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Malý Bor",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Stvolínky",
+                "P6736": "25517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45259,
+                    50.62872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jiřího Bělského u Dolanského rybníku",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Stvolínky",
+                "P6736": "25516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45117,
+                    50.62629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u silnice východně od Stvolínek",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Stvolínky",
+                "P6736": "22646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43961,
+                    50.63503
+                ]
+            }
+        }
+    ]
+}

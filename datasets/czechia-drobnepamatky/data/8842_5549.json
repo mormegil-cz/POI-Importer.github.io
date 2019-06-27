@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník zahájení vzduchoplavecké dopravy v Praze",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "17075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28811,
+                    50.09803
+                ]
+            }
+        }
+    ]
+}

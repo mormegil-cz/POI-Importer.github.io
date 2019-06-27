@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Všekar v lese",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02614,
+                    49.6079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Všekar u lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všekary",
+                "P6736": "3237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02499,
+                    49.60198
+                ]
+            }
+        }
+    ]
+}

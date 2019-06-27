@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Staré Vodě",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Stará Voda",
+                "P6736": "14473"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53033,
+                    50.1501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Staré Vodě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Stará Voda",
+                "P6736": "14472"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52867,
+                    50.14975
+                ]
+            }
+        }
+    ]
+}

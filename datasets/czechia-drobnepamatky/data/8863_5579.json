@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v Čestíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jankov",
+                "P6736": "10622"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76245,
+                    49.67352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Čestíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jankov",
+                "P6736": "10621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76384,
+                    49.67327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Čestíně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Jankov",
+                "P6736": "10620"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76386,
+                    49.67323
+                ]
+            }
+        }
+    ]
+}

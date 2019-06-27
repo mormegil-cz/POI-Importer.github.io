@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Plané",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6588"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74331,
+                    49.85039
+                ]
+            }
+        }
+    ]
+}

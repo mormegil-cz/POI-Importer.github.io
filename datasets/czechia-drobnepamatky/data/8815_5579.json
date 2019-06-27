@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Skořicích",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Skořice",
+                "P6736": "4283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7058,
+                    49.67772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Skořicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Skořice",
+                "P6736": "4282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7031,
+                    49.67798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomníky padlým ve Skořicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Skořice",
+                "P6736": "4281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70308,
+                    49.67823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela ve Skořicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Skořice",
+                "P6736": "4280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70142,
+                    49.67877
+                ]
+            }
+        }
+    ]
+}

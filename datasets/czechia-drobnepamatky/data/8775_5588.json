@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Sedlce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Srby",
+                "P6736": "2760"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82985,
+                    49.54267
+                ]
+            }
+        }
+    ]
+}

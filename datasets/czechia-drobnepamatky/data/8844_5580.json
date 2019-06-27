@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný kříž - Chramosty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dublovice",
+                "P6736": "21686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.32751,
+                    49.66734
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Moravanech u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Moravany",
+                "P6736": "25635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.94222,
+                    50.0015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Platěnsku II",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Moravany",
+                "P6736": "25634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.95111,
+                    50.00334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Moravanech na náměstí Hrdinů",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Moravany",
+                "P6736": "21000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9409,
+                    50.00096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Moravanech na náměstí Hrdinů",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Moravany",
+                "P6736": "20999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.94102,
+                    49.99882
+                ]
+            }
+        }
+    ]
+}

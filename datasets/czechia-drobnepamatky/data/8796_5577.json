@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník těžby v Sulkově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Líně",
+                "P6736": "8792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27619,
+                    49.70383
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na východním okraji Jankova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jankov",
+                "P6736": "25591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38871,
+                    49.41486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple sv. Anny v Jankově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jankov",
+                "P6736": "25543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38602,
+                    49.41444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Jankově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Jankov",
+                "P6736": "19514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38606,
+                    49.41441
+                ]
+            }
+        }
+    ]
+}

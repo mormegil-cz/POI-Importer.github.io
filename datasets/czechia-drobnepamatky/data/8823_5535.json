@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hříškově u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hříškov",
+                "P6736": "6433"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86531,
+                    50.29096
+                ]
+            }
+        }
+    ]
+}

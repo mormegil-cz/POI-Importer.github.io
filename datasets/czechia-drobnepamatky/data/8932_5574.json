@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lezníku střed obce u pole",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Polička",
+                "P6736": "17713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26909,
+                    49.7511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Lezníku poblíž benzinové pumpy",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Polička",
+                "P6736": "17712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26876,
+                    49.7498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 světové válce v Lezníku",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Polička",
+                "P6736": "17710"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26811,
+                    49.75113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lezníku v jižní části zvané Haná",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Polička",
+                "P6736": "17709"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26826,
+                    49.7444
+                ]
+            }
+        }
+    ]
+}

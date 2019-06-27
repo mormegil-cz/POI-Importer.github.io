@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Obědném u hlavní silnice",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Libina",
+                "P6736": "22059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05726,
+                    49.88425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horní Libině u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Libina",
+                "P6736": "20794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.07087,
+                    49.89254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Obědném na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Libina",
+                "P6736": "20793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05844,
+                    49.88404
+                ]
+            }
+        }
+    ]
+}

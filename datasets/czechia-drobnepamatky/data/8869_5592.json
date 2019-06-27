@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pojbukách u zemědělského areálu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pojbuky",
+                "P6736": "7135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89327,
+                    49.49627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Pojbukách",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pojbuky",
+                "P6736": "7134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8954,
+                    49.49641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pojbukách na návsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pojbuky",
+                "P6736": "7133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89543,
+                    49.49653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Horní Světlé",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bradáčov",
+                "P6736": "7125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88138,
+                    49.48592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Horní Světlou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bradáčov",
+                "P6736": "1565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87938,
+                    49.48397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Horní Světlé",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bradáčov",
+                "P6736": "1566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88339,
+                    49.48718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Bradáčova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bradáčov",
+                "P6736": "1270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87729,
+                    49.49266
+                ]
+            }
+        }
+    ]
+}

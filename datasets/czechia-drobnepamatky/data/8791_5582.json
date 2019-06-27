@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Stodu v Domažlické ulici",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Stod",
+                "P6736": "8775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16647,
+                    49.63725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Stodu u Domažlické ulice",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Stod",
+                "P6736": "8771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16431,
+                    49.63557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec u kostela ve Stodu",
+                "P31": "Neznámý",
+                "P31^label:cs": "Neznámý",
+                "P131^label:cs": "Stod",
+                "P6736": "8770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16687,
+                    49.63655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Stodu v Družstevní ulici",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Stod",
+                "P6736": "8769"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16926,
+                    49.63899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Jana Nepomuckého a Panny Marie ve Stodu",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Stod",
+                "P6736": "7220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16555,
+                    49.63898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem ve Stodu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Stod",
+                "P6736": "4797"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16675,
+                    49.63648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Stodu v Bezručově ulici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Stod",
+                "P6736": "3949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1741,
+                    49.63634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Stodu u mostu",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Stod",
+                "P6736": "3948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17041,
+                    49.63725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Stodu za kostelem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Stod",
+                "P6736": "3947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16683,
+                    49.63687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Šibeničního vrchu u Stodu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Stod",
+                "P6736": "2556"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17708,
+                    49.63215
+                ]
+            }
+        }
+    ]
+}

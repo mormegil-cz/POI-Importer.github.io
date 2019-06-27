@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Piety ve Mšeně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Jablonec nad Nisou",
+                "P6736": "9394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16528,
+                    50.73895
+                ]
+            }
+        }
+    ]
+}

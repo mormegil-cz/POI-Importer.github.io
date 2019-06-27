@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Čeradicích nad Loučnou",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Moravany",
+                "P6736": "20997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.98592,
+                    49.99846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Čeradicích nad Loučnou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Moravany",
+                "P6736": "20996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.98693,
+                    49.99819
+                ]
+            }
+        }
+    ]
+}

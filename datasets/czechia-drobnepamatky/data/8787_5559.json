@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v zaniklém Račíně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08892,
+                    49.95691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zaniklého Račína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08958,
+                    49.95747
+                ]
+            }
+        }
+    ]
+}

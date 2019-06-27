@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese severně od Dobříkova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Újezd u Chocně",
+                "P6736": "14625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13875,
+                    50.01488
+                ]
+            }
+        }
+    ]
+}

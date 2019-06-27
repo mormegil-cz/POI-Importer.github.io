@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na severním okraji Humpolce u cesty do Brunky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Humpolec",
+                "P6736": "19965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.34771,
+                    49.55125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Dr. Aleše Hrdličky na Dolním náměstí v Humpolci",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Humpolec",
+                "P6736": "18917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35846,
+                    49.54198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Humpolci v Nerudově ulici",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Humpolec",
+                "P6736": "12126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35094,
+                    49.54685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památný kámen nejslavnějšímu přistěhovalci",
+                "P31": "Památný kámen",
+                "P31^label:cs": "Památný kámen",
+                "P131^label:cs": "Humpolec",
+                "P6736": "9613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3567,
+                    49.54333
+                ]
+            }
+        }
+    ]
+}

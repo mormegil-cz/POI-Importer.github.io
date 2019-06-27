@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětí výstavby a bombardování chemičky v Záluží",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Litvínov",
+                "P6736": "24113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60152,
+                    50.56097
+                ]
+            }
+        }
+    ]
+}

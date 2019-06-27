@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník padlým v 1 světové válce ve Vinarech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Vinary",
+                "P6736": "21409"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0605,
+                    49.9589
+                ]
+            }
+        }
+    ]
+}

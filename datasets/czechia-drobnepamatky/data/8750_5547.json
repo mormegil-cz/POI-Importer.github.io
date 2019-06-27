@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Floriána na nádvoří hradu v Ostrohu",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Poustka",
+                "P6736": "18010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.28219,
+                    50.13192
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u bývalého hřbitova v Nové Vsi u Rýmařova",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Dolní Moravice",
+                "P6736": "24138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27298,
+                    49.99255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Anny u hřbitova v Nové Vsi u Rýmařova",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Dolní Moravice",
+                "P6736": "24137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.27279,
+                    49.99213
+                ]
+            }
+        }
+    ]
+}

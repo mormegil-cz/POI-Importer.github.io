@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Koutech nad Desnou u Vřesové studánky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Loučná nad Desnou",
+                "P6736": "17765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1347,
+                    50.14596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Koutech nad Desnou na Vřesové studánce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Loučná nad Desnou",
+                "P6736": "17764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1342,
+                    50.14541
+                ]
+            }
+        }
+    ]
+}

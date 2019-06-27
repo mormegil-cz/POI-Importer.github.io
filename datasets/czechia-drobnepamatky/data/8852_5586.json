@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Petra a Pavla v Měšeticích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Sedlec-Prčice",
+                "P6736": "19282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51888,
+                    49.58179
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Třeštině na okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Třeština",
+                "P6736": "21337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96363,
+                    49.7983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Třeštině na zahradě domu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Třeština",
+                "P6736": "21336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96341,
+                    49.79674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Třeštině u zdi kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Třeština",
+                "P6736": "17897"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96374,
+                    49.79637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž u Třeštiny Za Humny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Třeština",
+                "P6736": "17842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96635,
+                    49.79827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Třeštiny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Třeština",
+                "P6736": "11527"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96546,
+                    49.80038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Třeštině za obcí u polní cesty",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Třeština",
+                "P6736": "11394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97023,
+                    49.79739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Třeštiny na rozcestí",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Třeština",
+                "P6736": "11393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.96913,
+                    49.80473
+                ]
+            }
+        }
+    ]
+}

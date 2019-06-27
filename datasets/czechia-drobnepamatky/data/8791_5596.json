@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Poleňky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Poleň",
+                "P6736": "3394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18101,
+                    49.43386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Poleňky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Poleň",
+                "P6736": "3393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18036,
+                    49.43131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Polni",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Poleň",
+                "P6736": "3392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17763,
+                    49.4261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Polni",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Poleň",
+                "P6736": "3391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17722,
+                    49.42671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Polně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Poleň",
+                "P6736": "3384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16475,
+                    49.42825
+                ]
+            }
+        }
+    ]
+}

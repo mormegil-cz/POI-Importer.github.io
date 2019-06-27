@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jihovýchodní části Chotěšova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chotěšov",
+                "P6736": "8784"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20604,
+                    49.65493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Chotěšově u silnice",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Chotěšov",
+                "P6736": "3685"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20634,
+                    49.65564
+                ]
+            }
+        }
+    ]
+}

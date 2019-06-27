@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Platěnsku I",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Moravany",
+                "P6736": "25633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.95269,
+                    50.00404
+                ]
+            }
+        }
+    ]
+}

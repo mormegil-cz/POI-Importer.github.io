@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kámen u Býkova",
+                "P31": "Památný kámen",
+                "P31^label:cs": "Památný kámen",
+                "P131^label:cs": "Hromnice",
+                "P6736": "4049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42349,
+                    49.85908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž u dvora Býkov",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hromnice",
+                "P6736": "1597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42263,
+                    49.85891
+                ]
+            }
+        }
+    ]
+}

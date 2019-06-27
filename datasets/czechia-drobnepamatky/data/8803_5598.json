@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Vítkovic severně od rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plánice",
+                "P6736": "2856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42573,
+                    49.40677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vítkovic severně od rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "1861"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44559,
+                    49.40006
+                ]
+            }
+        }
+    ]
+}

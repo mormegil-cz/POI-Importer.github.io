@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chotěšinách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "České Heřmanice",
+                "P6736": "12128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26021,
+                    49.94515
+                ]
+            }
+        }
+    ]
+}

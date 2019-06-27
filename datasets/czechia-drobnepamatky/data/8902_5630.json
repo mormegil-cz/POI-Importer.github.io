@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Lubnice I",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "20223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60271,
+                    48.94914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lubnici před kostelem svatého Jiří",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "20163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61385,
+                    48.93951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lubnici za kostelem svatého Jiří",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "20162"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61382,
+                    48.93927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lubnicí",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Lubnice",
+                "P6736": "20161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61378,
+                    48.9392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Lubnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "19912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60749,
+                    48.95116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lubnici severně u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "19911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60782,
+                    48.94543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lubnici severní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "19816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61276,
+                    48.94134
+                ]
+            }
+        }
+    ]
+}

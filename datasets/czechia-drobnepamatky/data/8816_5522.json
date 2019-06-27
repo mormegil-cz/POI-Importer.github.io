@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Josefa v zámecké zahradě v Korozlukách",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Korozluky",
+                "P6736": "17938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72609,
+                    50.4785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Korozlukách",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Korozluky",
+                "P6736": "17937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72241,
+                    50.4785
+                ]
+            }
+        }
+    ]
+}

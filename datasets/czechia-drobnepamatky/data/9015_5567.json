@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník příslušníků 1. tankové brigády v Dolní Lhotě",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Dolní Lhota",
+                "P6736": "9352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.09328,
+                    49.84164
+                ]
+            }
+        }
+    ]
+}

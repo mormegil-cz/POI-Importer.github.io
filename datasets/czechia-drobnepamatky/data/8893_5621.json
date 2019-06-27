@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Toužíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dačice",
+                "P6736": "19551"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41972,
+                    49.07432
+                ]
+            }
+        }
+    ]
+}

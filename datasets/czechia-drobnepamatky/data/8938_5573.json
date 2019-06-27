@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Cyrila a Metoděje v Ostrém Kameni",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Karle",
+                "P6736": "21717"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39342,
+                    49.7544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Ostrém Kameni na návsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Karle",
+                "P6736": "21469"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39376,
+                    49.75458
+                ]
+            }
+        }
+    ]
+}

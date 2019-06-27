@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník svatého Huberta u Supíkovic",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Supíkovice",
+                "P6736": "16107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.24324,
+                    50.30091
+                ]
+            }
+        }
+    ]
+}

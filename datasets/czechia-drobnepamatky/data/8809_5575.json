@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese západně od Rokycan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rokycany",
+                "P6736": "3130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56406,
+                    49.73022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v lese Západně od Rokycan",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Rokycany",
+                "P6736": "3129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56401,
+                    49.73029
+                ]
+            }
+        }
+    ]
+}

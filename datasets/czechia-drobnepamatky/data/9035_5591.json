@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěná socha na rozcestí u Bílého kříže v Morávce",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Morávka",
+                "P6736": "14915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.54088,
+                    49.50194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník na jihozápadní hranici obce Morávka",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Morávka",
+                "P6736": "14910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53422,
+                    49.50672
+                ]
+            }
+        }
+    ]
+}

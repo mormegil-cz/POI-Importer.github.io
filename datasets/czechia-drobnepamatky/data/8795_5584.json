@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Dnešicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26453,
+                    49.60448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Dnešicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26326,
+                    49.6044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Dnešicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Dnešice",
+                "P6736": "3671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26257,
+                    49.60267
+                ]
+            }
+        }
+    ]
+}

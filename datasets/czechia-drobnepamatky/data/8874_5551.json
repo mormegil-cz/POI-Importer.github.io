@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na křižovatce ve středu Chotutic",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Chotutice",
+                "P6736": "24654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99044,
+                    50.07122
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Sebečic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sebečice",
+                "P6736": "8032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69493,
+                    49.8707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Sebečicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sebečice",
+                "P6736": "8031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6919,
+                    49.86968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Sebečicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Sebečice",
+                "P6736": "8030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6916,
+                    49.86982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Sebečicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Sebečice",
+                "P6736": "8028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69223,
+                    49.87004
+                ]
+            }
+        }
+    ]
+}

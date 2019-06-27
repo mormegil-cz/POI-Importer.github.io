@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského u potoka v Křižanově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hrob",
+                "P6736": "16551"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71518,
+                    50.6523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Křižanově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hrob",
+                "P6736": "16550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71447,
+                    50.65158
+                ]
+            }
+        }
+    ]
+}

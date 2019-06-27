@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž severně od Hylvát",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Orlicí",
+                "P6736": "14378"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41506,
+                    49.96004
+                ]
+            }
+        }
+    ]
+}

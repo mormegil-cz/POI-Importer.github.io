@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ve Sloupnici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sloupnice",
+                "P6736": "12131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2831,
+                    49.9295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Sloupnici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sloupnice",
+                "P6736": "12129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2888,
+                    49.92774
+                ]
+            }
+        }
+    ]
+}

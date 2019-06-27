@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Makova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5488"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38472,
+                    49.45107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Makova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Předslav",
+                "P6736": "5487"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38886,
+                    49.44788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Makově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Předslav",
+                "P6736": "5486"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39119,
+                    49.44813
+                ]
+            }
+        }
+    ]
+}

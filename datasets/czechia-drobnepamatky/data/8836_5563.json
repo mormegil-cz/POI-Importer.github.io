@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na křižovatce na Svinaře a Všeradice u Litně",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Liteň",
+                "P6736": "9165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.16015,
+                    49.90152
+                ]
+            }
+        }
+    ]
+}

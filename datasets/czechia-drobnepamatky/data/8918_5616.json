@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Lipníku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lipník",
+                "P6736": "17901"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.95619,
+                    49.14494
+                ]
+            }
+        }
+    ]
+}

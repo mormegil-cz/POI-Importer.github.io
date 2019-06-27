@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Polomi u Potštejna",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Polom",
+                "P6736": "12038"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30167,
+                    50.05798
+                ]
+            }
+        }
+    ]
+}

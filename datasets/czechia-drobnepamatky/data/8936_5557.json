@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Říčkách",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Orlické Podhůří",
+                "P6736": "12115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35872,
+                    49.98955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Kaple v Říčkách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Orlické Podhůří",
+                "P6736": "12084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35869,
+                    49.98959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Svatého Václava v západní části Říček",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Orlické Podhůří",
+                "P6736": "12078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35112,
+                    49.98898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese východně od Říček",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Orlické Podhůří",
+                "P6736": "12077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36567,
+                    49.98917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Jana Nepomuckého v Říčkách",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Orlické Podhůří",
+                "P6736": "12076"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35888,
+                    49.99332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup s obrázkem zvěstování Panny Marie v Říčkách",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Orlické Podhůří",
+                "P6736": "12075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35817,
+                    49.99152
+                ]
+            }
+        }
+    ]
+}

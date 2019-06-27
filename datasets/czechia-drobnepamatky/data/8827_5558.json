@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v lese jihovýchodně od Nového Jáchymova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hudlice",
+                "P6736": "15454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95398,
+                    49.97616
+                ]
+            }
+        }
+    ]
+}

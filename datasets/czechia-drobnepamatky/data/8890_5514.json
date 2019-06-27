@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Bořkově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Slaná",
+                "P6736": "16359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35279,
+                    50.58576
+                ]
+            }
+        }
+    ]
+}

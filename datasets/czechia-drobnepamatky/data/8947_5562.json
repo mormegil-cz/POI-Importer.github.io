@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lanškrouně v Dvořákově ulici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lanškroun",
+                "P6736": "14986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5966,
+                    49.91288
+                ]
+            }
+        }
+    ]
+}

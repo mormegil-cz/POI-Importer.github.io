@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Pikárce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pikárec",
+                "P6736": "17904"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12678,
+                    49.42459
+                ]
+            }
+        }
+    ]
+}

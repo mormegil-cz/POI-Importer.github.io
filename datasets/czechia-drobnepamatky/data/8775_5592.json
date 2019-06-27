@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Otovem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Otov",
+                "P6736": "2267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83157,
+                    49.49507
+                ]
+            }
+        }
+    ]
+}

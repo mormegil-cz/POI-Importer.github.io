@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Dobršína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dobršín",
+                "P6736": "10197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55618,
+                    49.25759
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Neznámý objekt na návsi v Kosobodech",
+                "P31": "Neznámý",
+                "P31^label:cs": "Neznámý",
+                "P131^label:cs": "Jesenice",
+                "P6736": "25601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51456,
+                    50.09563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kosobodech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Jesenice",
+                "P6736": "7547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51524,
+                    50.09559
+                ]
+            }
+        }
+    ]
+}

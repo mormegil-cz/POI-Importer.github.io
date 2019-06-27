@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bolaticích v ulici Hlučínská",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bolatice",
+                "P6736": "23342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08187,
+                    49.95061
+                ]
+            }
+        }
+    ]
+}

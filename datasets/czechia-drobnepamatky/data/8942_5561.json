@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Skuhrově uprostřed obce",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Česká Třebová",
+                "P6736": "19336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.49969,
+                    49.93494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž jižně od kostela ve Skuhrově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Česká Třebová",
+                "P6736": "14380"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.49669,
+                    49.93264
+                ]
+            }
+        }
+    ]
+}

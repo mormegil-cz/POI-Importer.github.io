@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž-rozcestník v Praze-Suchdole",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "18052"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36519,
+                    50.13852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný pamětní kříž v Úněticích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Únětice",
+                "P6736": "16198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35721,
+                    50.14729
+                ]
+            }
+        }
+    ]
+}

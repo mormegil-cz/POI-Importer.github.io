@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u penzionu na Polce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Vltavice",
+                "P6736": "17435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71127,
+                    48.94657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Josefa Gubische na Polce",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Horní Vltavice",
+                "P6736": "17428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71269,
+                    48.94658
+                ]
+            }
+        }
+    ]
+}

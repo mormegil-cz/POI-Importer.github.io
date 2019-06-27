@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Plinkoutu na křižovatce",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dlouhá Loučka",
+                "P6736": "23330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16955,
+                    49.83836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Plinkoutu vedle polní cesty",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Dlouhá Loučka",
+                "P6736": "22920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16586,
+                    49.84407
+                ]
+            }
+        }
+    ]
+}

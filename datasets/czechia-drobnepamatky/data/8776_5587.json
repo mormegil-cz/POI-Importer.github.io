@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Svinné",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "6638"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85015,
+                    49.55725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Svinné u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "6637"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85178,
+                    49.55708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Svinné u zahrad",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "6636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85021,
+                    49.55786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Hašova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "6635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85388,
+                    49.56547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tasnovicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "6632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83388,
+                    49.56719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Vítání u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "6631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8369,
+                    49.55664
+                ]
+            }
+        }
+    ]
+}

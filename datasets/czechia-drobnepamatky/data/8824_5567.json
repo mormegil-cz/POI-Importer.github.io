@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika ve Vrbnovské ulici v Hořovicích",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Hořovice",
+                "P6736": "14978"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90825,
+                    49.83885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u cesty ke stadionu v Hořovicích",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Hořovice",
+                "P6736": "14976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9049,
+                    49.84023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Figurální plastika slévače u Starého zámku v Hořovicích",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Hořovice",
+                "P6736": "14974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90658,
+                    49.83808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník květnového povstání v Hořovicích na nádraží",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Hořovice",
+                "P6736": "11387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89926,
+                    49.84314
+                ]
+            }
+        }
+    ]
+}

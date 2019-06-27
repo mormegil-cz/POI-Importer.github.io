@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bolaticích na křižovatce ulic Svobody a Příkopní",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bolatice",
+                "P6736": "23341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08548,
+                    49.95
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Bolaticích na křižovatce ulic Hlučínská a Svobody",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Bolatice",
+                "P6736": "23340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08571,
+                    49.94744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bolaticích na křižovatce ulic Hlučínská a Svobody",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bolatice",
+                "P6736": "23339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.08565,
+                    49.94733
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vranovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Břasy",
+                "P6736": "4463"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55516,
+                    49.84552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Tyršův památník ve Vranovicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Břasy",
+                "P6736": "4462"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55403,
+                    49.84566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vranovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Břasy",
+                "P6736": "4461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55394,
+                    49.84532
+                ]
+            }
+        }
+    ]
+}

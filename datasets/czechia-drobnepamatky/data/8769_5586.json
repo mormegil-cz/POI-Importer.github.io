@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u zaniklého Růžova",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "4895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.69185,
+                    49.57612
+                ]
+            }
+        }
+    ]
+}

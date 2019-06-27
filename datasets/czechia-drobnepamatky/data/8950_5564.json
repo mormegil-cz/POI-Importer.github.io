@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lubníku u kostela na jižní straně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lubník",
+                "P6736": "15199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.66088,
+                    49.88745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Svaté Trojice v Lubníku u kostela",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Lubník",
+                "P6736": "15095"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.66117,
+                    49.88775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lubníku před hřbitovem",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Lubník",
+                "P6736": "12357"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.66053,
+                    49.8913
+                ]
+            }
+        }
+    ]
+}

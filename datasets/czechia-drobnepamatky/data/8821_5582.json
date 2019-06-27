@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí v Bukové",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Věšín",
+                "P6736": "6858"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82581,
+                    49.6256
+                ]
+            }
+        }
+    ]
+}

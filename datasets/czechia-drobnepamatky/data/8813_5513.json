@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice v Horním Lomu",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Lom",
+                "P6736": "18340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64823,
+                    50.61104
+                ]
+            }
+        }
+    ]
+}

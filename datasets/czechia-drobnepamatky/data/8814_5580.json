@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Vísek",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vísky",
+                "P6736": "5205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67975,
+                    49.65344
+                ]
+            }
+        }
+    ]
+}

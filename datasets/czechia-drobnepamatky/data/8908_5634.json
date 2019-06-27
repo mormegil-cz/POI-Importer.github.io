@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Starého Petřína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Starý Petřín",
+                "P6736": "20460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.73347,
+                    48.87984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Starého Petřína u rybníka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Starý Petřín",
+                "P6736": "20452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74189,
+                    48.8876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Nového Petřína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Starý Petřín",
+                "P6736": "20430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.74593,
+                    48.88498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Starém Petříně u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Starý Petřín",
+                "P6736": "20245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.73454,
+                    48.88993
+                ]
+            }
+        }
+    ]
+}

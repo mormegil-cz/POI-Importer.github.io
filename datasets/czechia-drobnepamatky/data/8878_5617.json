@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník znovudosídlení v Hospřízi",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Hospříz",
+                "P6736": "9499"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.084,
+                    49.12918
+                ]
+            }
+        }
+    ]
+}

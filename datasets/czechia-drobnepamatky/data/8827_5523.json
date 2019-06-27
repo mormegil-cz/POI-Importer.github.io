@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním okraji Dlažkovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Podsedice",
+                "P6736": "17915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96206,
+                    50.46285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice u kostela v Dlažkovicích",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Dlažkovice",
+                "P6736": "17914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96575,
+                    50.46652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela v Dlažkovicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Dlažkovice",
+                "P6736": "17913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96587,
+                    50.46644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Barbory u kostela v Dlažkovicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Dlažkovice",
+                "P6736": "17912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96638,
+                    50.46637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice na severovýchodním okraji Dlažkovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dlažkovice",
+                "P6736": "17911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9691,
+                    50.46705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi u rybníka v Dlažkovicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dlažkovice",
+                "P6736": "9039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96492,
+                    50.46635
+                ]
+            }
+        }
+    ]
+}

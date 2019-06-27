@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u potoka na rozcestí ze silnice 13 v Libouchci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Libouchec",
+                "P6736": "15658"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03411,
+                    50.7533
+                ]
+            }
+        }
+    ]
+}

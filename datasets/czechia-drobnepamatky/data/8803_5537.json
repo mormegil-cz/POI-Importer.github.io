@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Neprobylicích u Kaštic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44522,
+                    50.27234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup u zámku v Kašticích",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42934,
+                    50.26431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Kašticích u čp. 48",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20181"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42581,
+                    50.26176
+                ]
+            }
+        }
+    ]
+}

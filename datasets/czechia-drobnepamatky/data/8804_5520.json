@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Eduarda Beneše v Jirkově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Jirkov",
+                "P6736": "19647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44814,
+                    50.50011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v parku na návsi v Červeném Hrádku",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Jirkov",
+                "P6736": "19645"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4504,
+                    50.51155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Votivní sloup v parku na návsi v Červeném Hrádku",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Jirkov",
+                "P6736": "19644"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45018,
+                    50.51156
+                ]
+            }
+        }
+    ]
+}

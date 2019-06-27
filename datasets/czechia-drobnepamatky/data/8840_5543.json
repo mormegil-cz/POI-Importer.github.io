@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Isidora Madridského v Kovárech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Zákolany",
+                "P6736": "16635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24855,
+                    50.18872
+                ]
+            }
+        }
+    ]
+}

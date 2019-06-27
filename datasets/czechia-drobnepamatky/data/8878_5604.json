@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u osady Johanka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "23244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08425,
+                    49.31537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Kamenice nad Lipou",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "1700"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07981,
+                    49.31115
+                ]
+            }
+        }
+    ]
+}

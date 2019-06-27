@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jetenovicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velký Bor",
+                "P6736": "7333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66841,
+                    49.37764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Jetenovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velký Bor",
+                "P6736": "7332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67176,
+                    49.37511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Jetenovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velký Bor",
+                "P6736": "7331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66918,
+                    49.37589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jetenovicích u kaple",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velký Bor",
+                "P6736": "7330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66902,
+                    49.37605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Jetenovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velký Bor",
+                "P6736": "7329"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66702,
+                    49.37024
+                ]
+            }
+        }
+    ]
+}

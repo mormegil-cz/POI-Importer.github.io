@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička sv. Mikuláše u cesty do Vlásenice",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18997,
+                    49.42329
+                ]
+            }
+        }
+    ]
+}

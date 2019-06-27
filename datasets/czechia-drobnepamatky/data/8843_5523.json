@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Záluží",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Záluží",
+                "P6736": "24786"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3235,
+                    50.45874
+                ]
+            }
+        }
+    ]
+}

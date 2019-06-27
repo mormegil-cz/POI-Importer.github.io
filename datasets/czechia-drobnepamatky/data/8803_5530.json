@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v osadě Vičice",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Březno",
+                "P6736": "23872"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43399,
+                    50.37022
+                ]
+            }
+        }
+    ]
+}

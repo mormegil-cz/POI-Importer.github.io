@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriana v Mladějově na Moravě jižní okraj obce",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Mladějov na Moravě",
+                "P6736": "15505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.60125,
+                    49.82474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Mladějově na Moravě v zahradě domu č 168",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladějov na Moravě",
+                "P6736": "15504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.60683,
+                    49.82561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie Immaculaty v Mladějově na Moravě",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Mladějov na Moravě",
+                "P6736": "15503"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.60363,
+                    49.82674
+                ]
+            }
+        }
+    ]
+}

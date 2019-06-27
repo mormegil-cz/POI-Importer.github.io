@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Vestavěná kaplička v Liticích u Klatovské ulice",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Plzeň",
+                "P6736": "10822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35347,
+                    49.6969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Litice (část)",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "10821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35623,
+                    49.70795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Liticích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Plzeň",
+                "P6736": "8904"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35471,
+                    49.6979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník amerických letců v Liticích",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Plzeň",
+                "P6736": "8903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34958,
+                    49.69727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Liticích v Klatovské ulici",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Plzeň",
+                "P6736": "8902"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35466,
+                    49.69885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Liticích v ulici V Úhlu",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Plzeň",
+                "P6736": "8901"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3561,
+                    49.6971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u silnice mezi Liticemi a Plzní",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Plzeň",
+                "P6736": "1961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35475,
+                    49.70354
+                ]
+            }
+        }
+    ]
+}

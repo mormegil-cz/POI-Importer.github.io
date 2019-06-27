@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Útěchovic na svahu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Útěchovice",
+                "P6736": "7409"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11908,
+                    49.47505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Útěchovicích v zahradě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Útěchovice",
+                "P6736": "7408"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11754,
+                    49.47662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Útěchovic II",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Útěchovice",
+                "P6736": "7403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1253,
+                    49.47954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Útěchovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Útěchovice",
+                "P6736": "7402"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12999,
+                    49.48005
+                ]
+            }
+        }
+    ]
+}

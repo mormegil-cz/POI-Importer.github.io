@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka západně od Hodkovic nad Mohelkou",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Hodkovice nad Mohelkou",
+                "P6736": "9356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07734,
+                    50.66992
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Bičovaného Krista",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Ústí nad Orlicí",
+                "P6736": "12567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4034,
+                    49.98317
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Chářovicích",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Chářovice",
+                "P6736": "14278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57887,
+                    49.81903
+                ]
+            }
+        }
+    ]
+}

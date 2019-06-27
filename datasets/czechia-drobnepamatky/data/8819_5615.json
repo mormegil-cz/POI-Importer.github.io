@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Výklenková kaplička na západním okraji obce pod Kalvárií",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Čestice",
+                "P6736": "21757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7974,
+                    49.16691
+                ]
+            }
+        }
+    ]
+}

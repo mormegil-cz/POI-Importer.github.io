@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Železné",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "4999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58748,
+                    49.58584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Železné",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "4998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58714,
+                    49.58582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník západně od Železné u hranic",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Bělá nad Radbuzou",
+                "P6736": "4997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57668,
+                    49.58435
+                ]
+            }
+        }
+    ]
+}

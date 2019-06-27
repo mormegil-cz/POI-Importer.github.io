@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Ústrašína směrem na Hrachoviště",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ústrašín",
+                "P6736": "18692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15193,
+                    49.37912
+                ]
+            }
+        }
+    ]
+}

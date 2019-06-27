@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Floriána ve Velkých Bílovicích na náměstí Osvoboditelů",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Velké Bílovice",
+                "P6736": "12948"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89169,
+                    48.84943
+                ]
+            }
+        }
+    ]
+}

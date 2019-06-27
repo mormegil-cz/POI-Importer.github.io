@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Reliéf Panny Marie v parku v Lesní ulici ve Skalné",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Skalná",
+                "P6736": "13498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3604,
+                    50.17524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v parku v Lesní ulici ve Skalné",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Skalná",
+                "P6736": "13497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3609,
+                    50.1752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná lavice v parku v Lesní ulici ve Skalné",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Skalná",
+                "P6736": "13496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36079,
+                    50.17446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého ve Sportovní ulici ve Skalné",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Skalná",
+                "P6736": "13495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3614,
+                    50.17329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha lva před školou v Sportovní ulici ve Skalné",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Skalná",
+                "P6736": "13494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36089,
+                    50.1728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí ulic Chebská a Česká ve Skalné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Skalná",
+                "P6736": "13493"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36406,
+                    50.16907
+                ]
+            }
+        }
+    ]
+}

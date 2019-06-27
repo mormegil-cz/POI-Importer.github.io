@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Ruina kapličky na pastvině u osady Újezd v Trmicích",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Trmice",
+                "P6736": "17894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00684,
+                    50.6358
+                ]
+            }
+        }
+    ]
+}

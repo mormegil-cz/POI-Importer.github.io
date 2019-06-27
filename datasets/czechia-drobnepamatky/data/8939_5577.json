@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen v Radiměři u hlavní silnice",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Radiměř",
+                "P6736": "12622"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41544,
+                    49.70058
+                ]
+            }
+        }
+    ]
+}

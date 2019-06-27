@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kameny u Kamenné v lese na Trojmezí",
+                "P31": "Hraniční kámen",
+                "P31^label:cs": "Hraniční kámen",
+                "P131^label:cs": "Kamenná",
+                "P6736": "23591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05552,
+                    49.86925
+                ]
+            }
+        }
+    ]
+}

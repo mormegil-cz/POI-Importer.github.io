@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sportovkyně před školou v Mojžíři",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "16919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.11297,
+                    50.67985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Masarykův pomník ve Valtířově",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Velké Březno",
+                "P6736": "14738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1203,
+                    50.67361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Čtrnácti svatých Pomocníků ve Valtířově",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Velké Březno",
+                "P6736": "14737"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.12061,
+                    50.67333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození v Mojžíři",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13343"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.11422,
+                    50.67971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pohřební kaple Chotků ve Valtířově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velké Březno",
+                "P6736": "9514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.12026,
+                    50.67343
+                ]
+            }
+        }
+    ]
+}

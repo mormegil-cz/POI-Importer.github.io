@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha na náměstí v Cítolibech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Cítoliby",
+                "P6736": "7517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81288,
+                    50.332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník na statek v Cítolibech",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Cítoliby",
+                "P6736": "7516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81381,
+                    50.33213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sousoším Nejsvětější Trojice v Cítolibech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Cítoliby",
+                "P6736": "7515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81264,
+                    50.33166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Linharta v Cítolibech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Cítoliby",
+                "P6736": "7512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81196,
+                    50.33165
+                ]
+            }
+        }
+    ]
+}

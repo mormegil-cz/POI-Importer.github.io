@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na návsi ve Lkáni",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Lkáň",
+                "P6736": "20508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97114,
+                    50.44284
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Hlincovy Hora u pastvin",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hlincová Hora",
+                "P6736": "1519"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56649,
+                    48.98297
+                ]
+            }
+        }
+    ]
+}

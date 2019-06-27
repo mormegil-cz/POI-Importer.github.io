@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Aloise Jiráska před budovou ZŠ a MŠ Jiráskovo náměstí v Hradci Králové",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81125,
+                    50.2057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Betonový monument s nápisem 'Lid je hlavním tvůrcem dějin' v Sukových sadech v Hradci Králové",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16881"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81418,
+                    50.21215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ženy s košem ovoce před hotelem Černigov v Hradci Králové",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16879"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81318,
+                    50.21414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "socha ženy s košem ovoce před hotelem Černigov v Hradci Králové",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81318,
+                    50.21414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Umělecké plastiky u kulturního domu Střelnice v Hradci Králové",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16878"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81987,
+                    50.21246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem komunistického teroru na Riegrově náměstí v Hradci Králové",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81201,
+                    50.21457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník mistra Jana Husa v Sukových sadech v Hradci Králové",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16861"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81413,
+                    50.21143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník bitvy u Hradce Králové roku 1866 na Blažíčkově náměstí v Hradci Králové",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hradec Králové",
+                "P6736": "16773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.81594,
+                    50.21584
+                ]
+            }
+        }
+    ]
+}

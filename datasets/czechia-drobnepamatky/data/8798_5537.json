@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Štěpána západně od Chotěbudic",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Krásný Dvůr",
+                "P6736": "20249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32313,
+                    50.26804
+                ]
+            }
+        }
+    ]
+}

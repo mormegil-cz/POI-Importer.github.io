@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Mrtníku",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Mrtník",
+                "P6736": "8309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3173,
+                    49.8953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Mrtníku v lese",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mrtník",
+                "P6736": "2114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31617,
+                    49.90478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Mrtníkem u vodárny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mrtník",
+                "P6736": "2113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31744,
+                    49.89531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na stromě v lese mezi Plasy a Mrtníkem",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Plasy",
+                "P6736": "1976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33175,
+                    49.90553
+                ]
+            }
+        }
+    ]
+}

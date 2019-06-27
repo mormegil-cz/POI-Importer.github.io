@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Veselíčka na rozcestí",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Luká",
+                "P6736": "18568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93499,
+                    49.66615
+                ]
+            }
+        }
+    ]
+}

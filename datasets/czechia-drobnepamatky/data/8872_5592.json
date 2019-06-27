@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Zhořci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zhořec",
+                "P6736": "18375"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96252,
+                    49.48986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zhoři u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pacov",
+                "P6736": "16464"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94175,
+                    49.49545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zhoři u věže",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pacov",
+                "P6736": "16461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94201,
+                    49.49523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Staňkova Mlýna východně od Zhoře",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zhořec",
+                "P6736": "16460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9521,
+                    49.49059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Zhoře u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pacov",
+                "P6736": "16459"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94806,
+                    49.4925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Zhořci",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Zhořec",
+                "P6736": "7810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96261,
+                    49.49013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Zhořci",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Zhořec",
+                "P6736": "7809"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96258,
+                    49.48986
+                ]
+            }
+        }
+    ]
+}

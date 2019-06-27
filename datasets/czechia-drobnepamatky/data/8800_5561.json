@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u vlakového nádraží v Plasích",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Plasy",
+                "P6736": "10816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38006,
+                    49.93093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Plas u Lomanského potoka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plasy",
+                "P6736": "8105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38,
+                    49.93589
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Klášter",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Klášter",
+                "P6736": "5988"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57956,
+                    49.50314
+                ]
+            }
+        }
+    ]
+}

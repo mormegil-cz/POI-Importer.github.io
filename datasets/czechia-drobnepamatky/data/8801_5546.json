@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Mukodělech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Vroutek",
+                "P6736": "20069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39982,
+                    50.14831
+                ]
+            }
+        }
+    ]
+}

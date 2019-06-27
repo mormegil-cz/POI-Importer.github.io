@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Bělčic u dráhy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bělčice",
+                "P6736": "8470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88928,
+                    49.49087
+                ]
+            }
+        }
+    ]
+}

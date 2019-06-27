@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Honezovicemi a Nedražicemi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Honezovice",
+                "P6736": "2924"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04959,
+                    49.64544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Nedražic u cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2900"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0352,
+                    49.65298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Nedražic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03176,
+                    49.65059
+                ]
+            }
+        }
+    ]
+}

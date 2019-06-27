@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky Lipové a Přeštické v Dobřanech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dobřany",
+                "P6736": "10827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28798,
+                    49.6508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v jižní části Dobřan",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Dobřany",
+                "P6736": "10826"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28994,
+                    49.64895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hřbitovní kaple v Dobřanech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Dobřany",
+                "P6736": "10119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28999,
+                    49.64893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dobřanech v Lipové ulici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dobřany",
+                "P6736": "10118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28874,
+                    49.6534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky západně od Dobřan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dobřany",
+                "P6736": "1384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28174,
+                    49.64582
+                ]
+            }
+        }
+    ]
+}

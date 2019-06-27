@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Zhoře u rybníka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zhoř",
+                "P6736": "2912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97119,
+                    49.67048
+                ]
+            }
+        }
+    ]
+}

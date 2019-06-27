@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Čestětína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "5677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09521,
+                    49.97304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Chudeči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bezvěrov",
+                "P6736": "5586"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08192,
+                    49.97595
+                ]
+            }
+        }
+    ]
+}

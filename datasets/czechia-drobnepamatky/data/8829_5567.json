@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice západně od Neumětel.",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Neumětely",
+                "P6736": "17497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01579,
+                    49.84953
+                ]
+            }
+        }
+    ]
+}

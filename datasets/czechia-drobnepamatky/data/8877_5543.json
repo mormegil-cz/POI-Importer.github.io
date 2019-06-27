@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí ulic Maršála Koněva a Bobnická v Nymburku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nymburk",
+                "P6736": "24348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0548,
+                    50.18965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vojtěcha v Poděbradské ulici v Nymburku",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Nymburk",
+                "P6736": "24347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06263,
+                    50.18898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník ruským vojákům padlým 1813 v Poděbradově ulici v Nymburku",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Nymburk",
+                "P6736": "24346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.06289,
+                    50.18709
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Křeči u zemědělského areálu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křeč",
+                "P6736": "6741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92332,
+                    49.38972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník na husitskou bitvu u Křeče",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Křeč",
+                "P6736": "1805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93533,
+                    49.38762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty pod Křečí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křeč",
+                "P6736": "1804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92401,
+                    49.38466
+                ]
+            }
+        }
+    ]
+}

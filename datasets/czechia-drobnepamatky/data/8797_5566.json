@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Tatiné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tatiná",
+                "P6736": "2625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30851,
+                    49.85259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Tatiné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tatiná",
+                "P6736": "2624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30143,
+                    49.8541
+                ]
+            }
+        }
+    ]
+}

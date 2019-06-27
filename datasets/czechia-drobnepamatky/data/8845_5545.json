@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž u kostela Nanebevzetí Panny Marie v Úněticích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Únětice",
+                "P6736": "19826"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35494,
+                    50.15079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Josefa v Úněticích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Únětice",
+                "P6736": "16228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3582,
+                    50.15083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Jana Nepomuckého v Úněticích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Únětice",
+                "P6736": "16222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35119,
+                    50.15118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou sv. Jana Nepomuckého v Úněticích",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Únětice",
+                "P6736": "16221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.351,
+                    50.15133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Úholiček",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Úholičky",
+                "P6736": "15868"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35065,
+                    50.15818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Úněticích u Prahy",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Únětice",
+                "P6736": "11085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35545,
+                    50.15017
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Žďár",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nalžovské Hory",
+                "P6736": "10021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56315,
+                    49.38712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v jižní části Loužné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Myslív",
+                "P6736": "10020"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56719,
+                    49.39521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Loužné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Myslív",
+                "P6736": "10019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56536,
+                    49.393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Loužné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Myslív",
+                "P6736": "10018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57333,
+                    49.3949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Loužné",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Myslív",
+                "P6736": "10015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5684,
+                    49.39656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Loužné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Myslív",
+                "P6736": "10014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56839,
+                    49.39664
+                ]
+            }
+        }
+    ]
+}

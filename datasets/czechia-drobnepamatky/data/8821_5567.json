@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u koupaliště v Cerhovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Cerhovice",
+                "P6736": "23117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82682,
+                    49.84428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný sloup západně od Cerhovic",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Cerhovice",
+                "P6736": "19116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82462,
+                    49.85086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem vlakového neštěstí v Cerhovicích",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Cerhovice",
+                "P6736": "19113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83078,
+                    49.8505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u školy v Cerhovicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Cerhovice",
+                "P6736": "19108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82966,
+                    49.85112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska gen. Suvorova v Cerhovicích",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Cerhovice",
+                "P6736": "19106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83665,
+                    49.8511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná kašna u kostela sv. Martina v Cerhovicích",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Cerhovice",
+                "P6736": "19103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83456,
+                    49.84963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na schodišti ke kostelu sv. Martina v Cerhovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Cerhovice",
+                "P6736": "19101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8343,
+                    49.84948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný podstavec u kostela sv. Martina v Cerhovicích",
+                "P31": "Neznámý",
+                "P31^label:cs": "Neznámý",
+                "P131^label:cs": "Cerhovice",
+                "P6736": "19099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83426,
+                    49.84954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela sv. Martina v Cerhovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Cerhovice",
+                "P6736": "19097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83389,
+                    49.84966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého v Cerhovicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Cerhovice",
+                "P6736": "19096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8345,
+                    49.84973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička jižně od Cerhovic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Cerhovice",
+                "P6736": "13680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83721,
+                    49.84562
+                ]
+            }
+        }
+    ]
+}

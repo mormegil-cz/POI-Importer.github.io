@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Koberně východní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Slezské Rudoltice",
+                "P6736": "18059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.70691,
+                    50.22121
+                ]
+            }
+        }
+    ]
+}

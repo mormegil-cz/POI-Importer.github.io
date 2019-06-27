@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Březiny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "8245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9125,
+                    49.29716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Březiny u cesty do Psárova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "8241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90637,
+                    49.29997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Březiny u okraje lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "8240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90847,
+                    49.30442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Psárova u okraje lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Psárov",
+                "P6736": "8239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90806,
+                    49.3092
+                ]
+            }
+        }
+    ]
+}

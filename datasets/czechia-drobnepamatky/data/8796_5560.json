@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek jižně od Osojna",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Dražeň",
+                "P6736": "8320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28478,
+                    49.94111
+                ]
+            }
+        }
+    ]
+}

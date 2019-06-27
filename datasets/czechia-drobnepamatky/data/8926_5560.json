@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním okraji Vysokého Mýta",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vysoké Mýto",
+                "P6736": "12162"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14927,
+                    49.94156
+                ]
+            }
+        }
+    ]
+}

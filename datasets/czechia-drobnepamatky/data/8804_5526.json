@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u autobusové zastávky ve Všehrdech",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Všehrdy",
+                "P6736": "23727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46052,
+                    50.41894
+                ]
+            }
+        }
+    ]
+}

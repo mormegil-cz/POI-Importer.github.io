@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Libákovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Řenče",
+                "P6736": "1914"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43047,
+                    49.57117
+                ]
+            }
+        }
+    ]
+}

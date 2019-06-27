@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka západně od Ústupu",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Ústup",
+                "P6736": "9332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44763,
+                    49.56196
+                ]
+            }
+        }
+    ]
+}

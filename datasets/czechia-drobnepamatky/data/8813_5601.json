@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Pačejova na rozcestí v lese",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pačejov",
+                "P6736": "2274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65001,
+                    49.368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Pačejova u pole v křoví",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pačejov",
+                "P6736": "2275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65344,
+                    49.36665
+                ]
+            }
+        }
+    ]
+}

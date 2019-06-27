@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památní založení 53. PTP (pracovně-technického praporu) na náměstí v Libavé",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Město Libavá",
+                "P6736": "23304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.52187,
+                    49.72113
+                ]
+            }
+        }
+    ]
+}

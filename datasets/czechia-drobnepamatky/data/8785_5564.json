@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Pakoslavi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ostrov u Bezdružic",
+                "P6736": "5636"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0505,
+                    49.88182
+                ]
+            }
+        }
+    ]
+}

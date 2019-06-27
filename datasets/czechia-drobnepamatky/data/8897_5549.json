@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Újezdu u Přelouče",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Újezd u Přelouče",
+                "P6736": "14947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.49813,
+                    50.10152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriana v Újezdu u Přelouče",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Újezd u Přelouče",
+                "P6736": "14946"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4988,
+                    50.10195
+                ]
+            }
+        }
+    ]
+}

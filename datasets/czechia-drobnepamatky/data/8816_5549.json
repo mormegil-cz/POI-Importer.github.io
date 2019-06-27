@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na Husově náměstí v Rakovníku",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Rakovník",
+                "P6736": "13994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7311,
+                    50.10403
+                ]
+            }
+        }
+    ]
+}

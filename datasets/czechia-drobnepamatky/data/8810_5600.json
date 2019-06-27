@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Strážovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pačejov",
+                "P6736": "3707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6005,
+                    49.38212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Strážovicích",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Pačejov",
+                "P6736": "3706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60055,
+                    49.38213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Strážovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pačejov",
+                "P6736": "3705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60061,
+                    49.38211
+                ]
+            }
+        }
+    ]
+}

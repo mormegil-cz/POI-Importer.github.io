@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Malinové",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Malinová",
+                "P6736": "7241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65123,
+                    50.05273
+                ]
+            }
+        }
+    ]
+}

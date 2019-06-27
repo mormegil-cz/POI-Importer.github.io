@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lukové u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Luková",
+                "P6736": "12878"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.60543,
+                    49.87848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Nejsvětější Trojice v Lukové",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Luková",
+                "P6736": "12722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61127,
+                    49.87552
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž s ulomeným kovovým křížkem v Malém Březně u silnice na Děčín",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Malé Březno",
+                "P6736": "15058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.17439,
+                    50.67698
+                ]
+            }
+        }
+    ]
+}

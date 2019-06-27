@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Čapí Dvory",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Holany",
+                "P6736": "25507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48995,
+                    50.63228
+                ]
+            }
+        }
+    ]
+}

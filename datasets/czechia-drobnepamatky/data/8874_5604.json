@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Dvořiště",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnich",
+                "P6736": "7850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98587,
+                    49.32008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Dvořišti",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnich",
+                "P6736": "6817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98835,
+                    49.32059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Chválkova u Dvořiště",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnich",
+                "P6736": "1641"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.98706,
+                    49.3208
+                ]
+            }
+        }
+    ]
+}

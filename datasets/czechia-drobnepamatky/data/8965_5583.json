@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice v Olbramicích na návsi",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Olbramice",
+                "P6736": "25168"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99869,
+                    49.61338
+                ]
+            }
+        }
+    ]
+}

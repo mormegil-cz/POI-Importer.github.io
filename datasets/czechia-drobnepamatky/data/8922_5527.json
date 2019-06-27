@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Boženy Němcové ve Zlíči",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "11601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06014,
+                    50.41097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Zlíči",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "11600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06031,
+                    50.40992
+                ]
+            }
+        }
+    ]
+}

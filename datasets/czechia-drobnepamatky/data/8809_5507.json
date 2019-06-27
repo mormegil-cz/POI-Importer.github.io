@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u zámečku Lichtenwald na vrchu Bradáčov",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Český Jiřetín",
+                "P6736": "23681"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5601,
+                    50.68592
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup svatého Huberta na cestě z Ctiněvsi k Řípu",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Ctiněves",
+                "P6736": "25547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29763,
+                    50.38043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple-rotunda svatého Jiří na Řípu",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Mnetěš",
+                "P6736": "25546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.28952,
+                    50.38646
+                ]
+            }
+        }
+    ]
+}

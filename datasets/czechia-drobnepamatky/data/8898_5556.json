@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jankovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jankovice",
+                "P6736": "14552"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52858,
+                    50.0073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Seníku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jankovice",
+                "P6736": "14551"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52889,
+                    49.99737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Seníku",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Jankovice",
+                "P6736": "14550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.52889,
+                    49.99736
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Strýčkovech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rožmitál pod Třemšínem",
+                "P6736": "7197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92942,
+                    49.61702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Objekt ve Strýčkovech",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Rožmitál pod Třemšínem",
+                "P6736": "7196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92922,
+                    49.61736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Strýčkovech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Rožmitál pod Třemšínem",
+                "P6736": "7195"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92935,
+                    49.61697
+                ]
+            }
+        }
+    ]
+}

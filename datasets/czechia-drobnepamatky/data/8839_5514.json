@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Kotelicích",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Třebušín",
+                "P6736": "24011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23055,
+                    50.58862
+                ]
+            }
+        }
+    ]
+}

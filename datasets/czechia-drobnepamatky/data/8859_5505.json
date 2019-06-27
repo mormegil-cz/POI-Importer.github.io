@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Skalní kaple Božího hrobu ve Velenici u silnice na Brniště",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velenice",
+                "P6736": "15860"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66867,
+                    50.71873
+                ]
+            }
+        }
+    ]
+}

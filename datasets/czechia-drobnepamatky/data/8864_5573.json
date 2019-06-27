@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník setkání dvou armád u Dobříčkova",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Postupice",
+                "P6736": "10401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76825,
+                    49.75339
+                ]
+            }
+        }
+    ]
+}

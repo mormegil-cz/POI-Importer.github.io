@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zdi v zadním traktu kláštera v Milevsku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Milevsko",
+                "P6736": "25563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36831,
+                    49.457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u kláštera v Milevsku",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Milevsko",
+                "P6736": "13992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36745,
+                    49.45669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup v lese severně od Milevska u silnice do Dmýštic",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Milevsko",
+                "P6736": "2054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35557,
+                    49.46627
+                ]
+            }
+        }
+    ]
+}

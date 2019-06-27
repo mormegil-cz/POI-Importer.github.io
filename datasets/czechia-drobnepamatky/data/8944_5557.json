@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Petrovicích u Lanškrouna",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Petrovice",
+                "P6736": "15309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53948,
+                    49.98853
+                ]
+            }
+        }
+    ]
+}

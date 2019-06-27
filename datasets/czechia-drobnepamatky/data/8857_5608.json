@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u lesa mezi Komárovem a Svinkami",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vlastiboř",
+                "P6736": "2592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61283,
+                    49.26749
+                ]
+            }
+        }
+    ]
+}

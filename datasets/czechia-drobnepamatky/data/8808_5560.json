@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Brodeslavami u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Brodeslavy",
+                "P6736": "1292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55558,
+                    49.94969
+                ]
+            }
+        }
+    ]
+}

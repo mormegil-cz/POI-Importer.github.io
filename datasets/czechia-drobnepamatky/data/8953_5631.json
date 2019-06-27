@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Rocha v Hustopečích v Sadech Kpt Jaroše",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hustopeče",
+                "P6736": "21365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.735,
+                    48.9339
+                ]
+            }
+        }
+    ]
+}

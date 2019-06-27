@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Lipí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "4194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22575,
+                    49.96902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Lipí",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Manětín",
+                "P6736": "4193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22505,
+                    49.96814
+                ]
+            }
+        }
+    ]
+}

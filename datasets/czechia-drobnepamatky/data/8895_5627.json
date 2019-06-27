@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Novém Hobzí",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Staré Hobzí",
+                "P6736": "19661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.44902,
+                    48.98451
+                ]
+            }
+        }
+    ]
+}

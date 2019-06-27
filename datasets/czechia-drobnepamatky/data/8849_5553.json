@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela Narození Panny Marie v Michli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "24098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45259,
+                    50.04998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v parku v ulici U Pomníku v Michli",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "24097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45243,
+                    50.04964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v květnu 1945 v ulici U Michelské školy",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "24096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45379,
+                    50.04933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Moderní kašna u budovy Filadelfie v Želetavské ulici v Michli",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "24095"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45393,
+                    50.04919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Moderní kašna u restaurace Vyskočilka v Michli",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Praha",
+                "P6736": "24094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45678,
+                    50.04798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem II. odboje a Květnové revoluce 1945 u gymnázia Budějovická",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "24092"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45354,
+                    50.04324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí ulic Budějovická a Hornokrčská",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "24091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45322,
+                    50.04288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Nový den před poliklinikou Budějovická",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24090"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45117,
+                    50.04328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Lidová píseň v atriu polikliniky Budějovická",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24089"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45084,
+                    50.04269
+                ]
+            }
+        }
+    ]
+}

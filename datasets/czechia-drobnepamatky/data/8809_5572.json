@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Litohlavech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Litohlavy",
+                "P6736": "4616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56271,
+                    49.76877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Litohlavech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Litohlavy",
+                "P6736": "4615"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56315,
+                    49.76939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Litohlavech",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Litohlavy",
+                "P6736": "4614"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56349,
+                    49.76913
+                ]
+            }
+        }
+    ]
+}

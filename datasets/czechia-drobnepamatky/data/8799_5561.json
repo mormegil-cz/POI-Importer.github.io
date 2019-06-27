@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník východně od Loman",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Plasy",
+                "P6736": "5667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3492,
+                    49.93148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník západně od Mozolínského Mlýna",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Plasy",
+                "P6736": "5666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35311,
+                    49.9327
+                ]
+            }
+        }
+    ]
+}

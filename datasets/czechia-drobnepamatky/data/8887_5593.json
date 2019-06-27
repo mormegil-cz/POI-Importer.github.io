@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Sedmibolestné v Útěchovičkách",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28636,
+                    49.4682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Útěchovičkách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28627,
+                    49.46821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji lesa východně od Utěchoviček",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "19088"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27697,
+                    49.46932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji lesa mezi Kojčicemi a Utěchovičkami",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kojčice",
+                "P6736": "19086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27116,
+                    49.47239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Utěchoviček směrem na Velký rybník",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28837,
+                    49.4689
+                ]
+            }
+        }
+    ]
+}

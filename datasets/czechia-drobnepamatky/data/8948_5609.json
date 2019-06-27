@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Brně Soběšicích na rohu ulic Útěchovské a Dohnalovy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Brno",
+                "P6736": "14343"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6185,
+                    49.25052
+                ]
+            }
+        }
+    ]
+}

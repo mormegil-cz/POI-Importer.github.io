@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Lázu",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Láz",
+                "P6736": "7751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91738,
+                    49.65217
+                ]
+            }
+        }
+    ]
+}

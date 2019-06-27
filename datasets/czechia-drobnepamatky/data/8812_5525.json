@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec vylomeného kříže na jižním okraji Koporeče",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lišnice",
+                "P6736": "20005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6264,
+                    50.44091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Reliéf alegorie řemesel na ohradě domu v Koporeči",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Lišnice",
+                "P6736": "20004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62674,
+                    50.4422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Wenzelu Gallinovi na návsi v osadě Koporeč",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Lišnice",
+                "P6736": "20002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62831,
+                    50.44305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha vodníka na návsi v osadě Koporeč",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Lišnice",
+                "P6736": "20001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62825,
+                    50.44339
+                ]
+            }
+        }
+    ]
+}

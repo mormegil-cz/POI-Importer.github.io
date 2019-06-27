@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od železniční zastávky Horní Vilímeč",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Počátky",
+                "P6736": "19454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26029,
+                    49.23043
+                ]
+            }
+        }
+    ]
+}

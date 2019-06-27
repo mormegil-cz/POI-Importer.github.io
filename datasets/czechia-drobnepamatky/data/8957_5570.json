@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice v Javoří u Maletína",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Maletín",
+                "P6736": "19905"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80971,
+                    49.8062
+                ]
+            }
+        }
+    ]
+}

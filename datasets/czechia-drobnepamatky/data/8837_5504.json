@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v osadě Choratice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Malšovice",
+                "P6736": "17119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18405,
+                    50.72738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Navštívení Panny Marie u kostela v Nebočadech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Děčín",
+                "P6736": "14712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19129,
+                    50.73163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice v Nebočadech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Děčín",
+                "P6736": "14711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19042,
+                    50.73093
+                ]
+            }
+        }
+    ]
+}

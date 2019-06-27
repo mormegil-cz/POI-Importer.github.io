@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice v Bučí",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Bučí",
+                "P6736": "3547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30267,
+                    49.88414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bučí u dřevěné zvonice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bučí",
+                "P6736": "3546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30268,
+                    49.88414
+                ]
+            }
+        }
+    ]
+}

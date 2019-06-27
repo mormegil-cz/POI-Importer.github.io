@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na jižním okraji Újezdu u Chocně",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Újezd u Chocně",
+                "P6736": "21965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16404,
+                    50.02387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Újezdě u Chocně před kostelem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Újezd u Chocně",
+                "P6736": "16007"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16288,
+                    50.02703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenný kříž v Újezdě u Chocně před kostelem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Újezd u Chocně",
+                "P6736": "14632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16278,
+                    50.02707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na hřbitově v Újezdě u Chocně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Újezd u Chocně",
+                "P6736": "14628"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16337,
+                    50.02685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Prochodech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Újezd u Chocně",
+                "P6736": "11646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.15083,
+                    50.03408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Újezda",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Újezd u Chocně",
+                "P6736": "11639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17158,
+                    50.02679
+                ]
+            }
+        }
+    ]
+}

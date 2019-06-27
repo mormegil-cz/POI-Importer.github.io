@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u polní cesty jižně od Donína",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Toužetín",
+                "P6736": "25227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89699,
+                    50.31063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Doníně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Toužetín",
+                "P6736": "25226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89515,
+                    50.31585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Doníně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Toužetín",
+                "P6736": "9424"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8946,
+                    50.31648
+                ]
+            }
+        }
+    ]
+}

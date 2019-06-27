@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela svatého Martina v Holešově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Holešov",
+                "P6736": "9365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.57795,
+                    49.33068
+                ]
+            }
+        }
+    ]
+}

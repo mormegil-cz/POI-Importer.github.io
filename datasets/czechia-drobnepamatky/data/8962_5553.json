@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Kopřivné na rozcestí",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kopřivná",
+                "P6736": "22917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93859,
+                    50.04123
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Závisti",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Rybník",
+                "P6736": "4001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68302,
+                    49.49172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Nemanického potoka nedaleko Závisti",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "2848"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68526,
+                    49.48843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u stromu v polích u Závisti",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "2849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68087,
+                    49.48941
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice na východním okraji osady Javory",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Malšovice",
+                "P6736": "17116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14021,
+                    50.7303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obnovený litinový kříž v Javorech na Děčínsku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Malšovice",
+                "P6736": "14622"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14036,
+                    50.73033
+                ]
+            }
+        }
+    ]
+}

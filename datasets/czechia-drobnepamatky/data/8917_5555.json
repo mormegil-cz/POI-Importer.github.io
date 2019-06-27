@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Františka Barvy v Platěnicích",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Moravany",
+                "P6736": "25701"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.95107,
+                    50.01062
+                ]
+            }
+        }
+    ]
+}

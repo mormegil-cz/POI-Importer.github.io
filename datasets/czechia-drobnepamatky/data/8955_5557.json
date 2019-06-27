@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bukovicích u polní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Písařov",
+                "P6736": "15219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78513,
+                    49.9837
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník poslední bitvy účastníků Rumburské vzpoury jižně od Nového Boru",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Chotovice",
+                "P6736": "25630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55039,
+                    50.7495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici T.G.Masaryka jižně od Nového Boru",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chotovice",
+                "P6736": "25629"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55027,
+                    50.74951
+                ]
+            }
+        }
+    ]
+}

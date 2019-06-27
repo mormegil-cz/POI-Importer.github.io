@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Lourdská jeskyně se sochou Panny Marie ve Skrovnici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Velká Skrovnice",
+                "P6736": "12081"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31183,
+                    50.03189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Velké Skrovnici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velká Skrovnice",
+                "P6736": "12042"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31679,
+                    50.03036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Václava ve Velké Skrovnici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Velká Skrovnice",
+                "P6736": "12041"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32139,
+                    50.02809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Velké Skrovnici",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Velká Skrovnice",
+                "P6736": "12037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31765,
+                    50.03145
+                ]
+            }
+        }
+    ]
+}

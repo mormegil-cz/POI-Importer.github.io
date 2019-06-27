@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce na rozcestí ulic Dlouhá a Lesní v Královském Poříčí",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Královské Poříčí",
+                "P6736": "25725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67767,
+                    50.19152
+                ]
+            }
+        }
+    ]
+}

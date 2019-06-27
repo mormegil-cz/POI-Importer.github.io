@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u tenisových kurtů v Tajanově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25528,
+                    49.40303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u restaurace v Tajanově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25786,
+                    49.40218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého v Tajanově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15601"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25908,
+                    49.40197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na mostě přes Úhlavu u Tajanova",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Klatovy",
+                "P6736": "15600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26246,
+                    49.40309
+                ]
+            }
+        }
+    ]
+}

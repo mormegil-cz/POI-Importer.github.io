@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Číčově u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Spálené Poříčí",
+                "P6736": "5199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68425,
+                    49.63166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Číčově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Spálené Poříčí",
+                "P6736": "5013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68373,
+                    49.63044
+                ]
+            }
+        }
+    ]
+}

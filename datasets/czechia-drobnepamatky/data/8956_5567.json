@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hynčině na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hynčina",
+                "P6736": "23432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79189,
+                    49.8492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hynčině ve středu obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hynčina",
+                "P6736": "23431"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78826,
+                    49.85157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší svatého Jana Nepomuckého v Hynčině",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hynčina",
+                "P6736": "13158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79284,
+                    49.84885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Hynčiny u silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hynčina",
+                "P6736": "11698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79987,
+                    49.84626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na jižním okraji Hynčiny",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Hynčina",
+                "P6736": "11529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79443,
+                    49.84507
+                ]
+            }
+        }
+    ]
+}

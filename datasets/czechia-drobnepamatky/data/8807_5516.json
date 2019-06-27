@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlých z 1. světové války v Černicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Horní Jiřetín",
+                "P6736": "9036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52674,
+                    50.56635
+                ]
+            }
+        }
+    ]
+}

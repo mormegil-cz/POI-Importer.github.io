@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Jezerném",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velké Karlovice",
+                "P6736": "9349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2764,
+                    49.36943
+                ]
+            }
+        }
+    ]
+}

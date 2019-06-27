@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Křižanově u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hynčina",
+                "P6736": "21348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79482,
+                    49.83677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Křižanově u hlavní silnice",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hynčina",
+                "P6736": "21347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79506,
+                    49.8367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Křižanově v části Dlouhá ves",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hynčina",
+                "P6736": "13085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79479,
+                    49.82869
+                ]
+            }
+        }
+    ]
+}

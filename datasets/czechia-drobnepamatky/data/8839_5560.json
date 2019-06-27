@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Mořince",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Mořinka",
+                "P6736": "15018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23427,
+                    49.93865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Mořince",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Mořinka",
+                "P6736": "13188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23579,
+                    49.93887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Mořinky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mořinka",
+                "P6736": "13187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23112,
+                    49.93801
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Velké Vsi u Broumova na křižovatce ulic Havlíčkova a Osvobození",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Broumov",
+                "P6736": "22774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3412,
+                    50.59021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Velké Vsi u Broumova na třídě Osvobození",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "22773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34118,
+                    50.58813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Broumově na Malém náměstí",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Broumov",
+                "P6736": "22649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33392,
+                    50.58391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Broumově na Malém náměstí",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Broumov",
+                "P6736": "22284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33386,
+                    50.58397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Broumově na boku kostela svatého Petra a Pavla",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "22106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33059,
+                    50.58532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Broumově na Mírovém náměstí",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Broumov",
+                "P6736": "22105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33255,
+                    50.58521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Broumově na Mírovém náměsté",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Broumov",
+                "P6736": "22104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33245,
+                    50.58534
+                ]
+            }
+        }
+    ]
+}

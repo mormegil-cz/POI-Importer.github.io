@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník svobody v Sudslavi",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Sudslava",
+                "P6736": "12080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28433,
+                    50.04048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sudslavi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sudslava",
+                "P6736": "12073"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28419,
+                    50.04194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Sudslavi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sudslava",
+                "P6736": "12072"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29342,
+                    50.04053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž jižně od Sudslavi",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Sudslava",
+                "P6736": "12057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2882,
+                    50.03876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sudslavi u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sudslava",
+                "P6736": "12033"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28762,
+                    50.04071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Jana Nepomuckého v Sudslavi",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sudslava",
+                "P6736": "12021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2867,
+                    50.04043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup v Sudslavi",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Sudslava",
+                "P6736": "12018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28724,
+                    50.03998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Sudslavi",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Sudslava",
+                "P6736": "12017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28547,
+                    50.04099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sudslavi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sudslava",
+                "P6736": "12013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28962,
+                    50.03874
+                ]
+            }
+        }
+    ]
+}

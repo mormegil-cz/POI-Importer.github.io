@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "křížek v Bavorově na odbočce Tourov",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bavorov",
+                "P6736": "21291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0724,
+                    49.11826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kříž uprostřed pole západně od Bavorova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bavorov",
+                "P6736": "20960"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06955,
+                    49.11862
+                ]
+            }
+        }
+    ]
+}

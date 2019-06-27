@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Benešovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Benešovice",
+                "P6736": "9479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9154,
+                    49.72397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Benešovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Benešovice",
+                "P6736": "9471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89858,
+                    49.72405
+                ]
+            }
+        }
+    ]
+}

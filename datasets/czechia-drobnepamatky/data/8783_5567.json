@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník severně od Bezemína u potoka Hadovka",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Konstantinovy Lázně",
+                "P6736": "11017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99741,
+                    49.85006
+                ]
+            }
+        }
+    ]
+}

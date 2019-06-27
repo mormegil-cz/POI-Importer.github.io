@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Moravském Lačnově poblíž základní školy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Svitavy",
+                "P6736": "21377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4757,
+                    49.77657
+                ]
+            }
+        }
+    ]
+}

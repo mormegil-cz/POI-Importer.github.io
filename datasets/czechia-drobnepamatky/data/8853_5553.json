@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hostivaři",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "10525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52481,
+                    50.04689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem 2. světové války v Hostivaři",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Praha",
+                "P6736": "10524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52452,
+                    50.04678
+                ]
+            }
+        }
+    ]
+}

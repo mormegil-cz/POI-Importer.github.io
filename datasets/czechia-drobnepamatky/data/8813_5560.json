@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční hodiny na domě v Chlumu severně od návsi",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Chlum",
+                "P6736": "18083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65785,
+                    49.93742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Dolanech u Hlinců naproti kostelu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hlince",
+                "P6736": "13211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65507,
+                    49.94685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela svatého Petra a Pavla u Ptyče",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hlince",
+                "P6736": "1518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65564,
+                    49.9477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nedaleko Ptyče",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hlince",
+                "P6736": "1517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65421,
+                    49.94762
+                ]
+            }
+        }
+    ]
+}

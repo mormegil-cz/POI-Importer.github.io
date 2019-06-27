@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na rozcestí v polích u Brozánek",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Rtyně nad Bílinou",
+                "P6736": "18269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93384,
+                    50.60965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie u kostela v Brozánkách",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93682,
+                    50.60793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Brozánkách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93792,
+                    50.60796
+                ]
+            }
+        }
+    ]
+}

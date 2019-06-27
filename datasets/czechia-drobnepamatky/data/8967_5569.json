@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Pískově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Troubelice",
+                "P6736": "13227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04838,
+                    49.82169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pískově u kaple",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Troubelice",
+                "P6736": "13214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04805,
+                    49.82158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Pískova naproti hřbitovu",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Troubelice",
+                "P6736": "12359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0404,
+                    49.81953
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník na křižovatce východně od Újezdce",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Hřebečníky",
+                "P6736": "13104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74529,
+                    49.99722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána ve štítu domu na návsi v Újezdci",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hřebečníky",
+                "P6736": "13103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73476,
+                    49.99507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž na západ od návsi v Újezdci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hřebečníky",
+                "P6736": "13102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73464,
+                    49.99506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hřebečníky",
+                "P6736": "12187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73588,
+                    49.99503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Újezdci u Rakovníka",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hřebečníky",
+                "P6736": "12186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7358,
+                    49.99504
+                ]
+            }
+        }
+    ]
+}

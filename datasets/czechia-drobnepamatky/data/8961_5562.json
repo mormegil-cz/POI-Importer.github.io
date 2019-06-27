@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Chromče vedle silnice",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Chromeč",
+                "P6736": "14222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90428,
+                    49.92079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Postřelmově ve středu obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "13199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91339,
+                    49.90931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Prokopa na okraji Postřelmova",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "12159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91049,
+                    49.91271
+                ]
+            }
+        }
+    ]
+}

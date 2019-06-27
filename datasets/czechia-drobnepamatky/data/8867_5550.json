@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obecní chlebová pec ve středu obce Štolmíř",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Český Brod",
+                "P6736": "16262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.84281,
+                    50.08485
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Mostišti",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hlohovice",
+                "P6736": "3828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63029,
+                    49.87635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u rozcestí u Mostiště",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Hlohovice",
+                "P6736": "2101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63123,
+                    49.87434
+                ]
+            }
+        }
+    ]
+}

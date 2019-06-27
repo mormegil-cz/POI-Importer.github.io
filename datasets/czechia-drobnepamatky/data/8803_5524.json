@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na rozcestí v Dukelské ulici v Chomutově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Chomutov",
+                "P6736": "20933"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43051,
+                    50.4556
+                ]
+            }
+        }
+    ]
+}

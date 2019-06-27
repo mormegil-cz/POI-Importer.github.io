@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník jižně od návsi v Karlově Vsi",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Karlova Ves",
+                "P6736": "15451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86461,
+                    49.98468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Karlově Vsi",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Karlova Ves",
+                "P6736": "15450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86256,
+                    49.98665
+                ]
+            }
+        }
+    ]
+}

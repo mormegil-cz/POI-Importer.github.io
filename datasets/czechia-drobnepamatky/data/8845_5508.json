@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi ve Velké Javorské",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Žandov",
+                "P6736": "23019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35944,
+                    50.671
+                ]
+            }
+        }
+    ]
+}

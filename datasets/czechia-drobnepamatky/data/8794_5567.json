@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Všerub u smírčího kříže",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "8290"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23173,
+                    49.85112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Všerub",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "5529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22911,
+                    49.84544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého ve Všerubech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Všeruby",
+                "P6736": "5501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22807,
+                    49.84182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Všerubech u kostela",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Všeruby",
+                "P6736": "5500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22799,
+                    49.84216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Všerub",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "5499"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24615,
+                    49.8381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Všerubech u křižovatky",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Všeruby",
+                "P6736": "4833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23393,
+                    49.84147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Všerubech u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "4633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2278,
+                    49.84187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž nad Všeruby",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Kunějovice",
+                "P6736": "1842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23179,
+                    49.85113
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ' Na Budce' u Radče (Mezné)",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nedrahovice",
+                "P6736": "19216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47468,
+                    49.62399
+                ]
+            }
+        }
+    ]
+}

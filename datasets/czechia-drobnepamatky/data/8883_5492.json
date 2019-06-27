@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Gloriet (altán) na kolonádě v Lázních Libverda",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Lázně Libverda",
+                "P6736": "17699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18948,
+                    50.89001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Josefa Jungmana v Lázních Libverda",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Lázně Libverda",
+                "P6736": "13758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19067,
+                    50.8905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u Valdštejnovy sochy v Lázních Libverda",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Lázně Libverda",
+                "P6736": "13757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18987,
+                    50.8896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u kolonády v Lázních Libverda",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Lázně Libverda",
+                "P6736": "13756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19012,
+                    50.89008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Albrechta z Valdštejna u budovy lázní v Lázních Libverda",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Lázně Libverda",
+                "P6736": "13651"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18993,
+                    50.88956
+                ]
+            }
+        }
+    ]
+}

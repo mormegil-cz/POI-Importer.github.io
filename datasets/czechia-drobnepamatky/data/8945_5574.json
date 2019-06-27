@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Kamenné Horce u východního okraje obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kamenná Horka",
+                "P6736": "15328"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55411,
+                    49.74105
+                ]
+            }
+        }
+    ]
+}

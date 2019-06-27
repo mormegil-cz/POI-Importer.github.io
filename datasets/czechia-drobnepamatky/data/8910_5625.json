@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Nových Syrovicích u hřbitova",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Nové Syrovice",
+                "P6736": "20039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77699,
+                    49.02139
+                ]
+            }
+        }
+    ]
+}

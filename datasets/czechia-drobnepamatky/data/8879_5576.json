@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hrádek Odranec",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horka II",
+                "P6736": "12356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10956,
+                    49.71978
+                ]
+            }
+        }
+    ]
+}

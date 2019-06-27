@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Zadní Stříteži",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Zadní Střítež",
+                "P6736": "7136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91748,
+                    49.49464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Zadní Stříteží",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zadní Střítež",
+                "P6736": "2823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91316,
+                    49.49362
+                ]
+            }
+        }
+    ]
+}

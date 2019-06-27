@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Obory",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Obora",
+                "P6736": "25196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44666,
+                    49.88625
+                ]
+            }
+        }
+    ]
+}

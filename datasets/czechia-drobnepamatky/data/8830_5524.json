@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice ze Slatiny do Sedlece",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sedlec",
+                "P6736": "19526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02588,
+                    50.4481
+                ]
+            }
+        }
+    ]
+}

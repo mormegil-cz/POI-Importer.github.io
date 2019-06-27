@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Bošic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bošice",
+                "P6736": "17470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83393,
+                    49.092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bohumilické aleji východně od Bohumilic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bohumilice",
+                "P6736": "17468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82548,
+                    49.09441
+                ]
+            }
+        }
+    ]
+}

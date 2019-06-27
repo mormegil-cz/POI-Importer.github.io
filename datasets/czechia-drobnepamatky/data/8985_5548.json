@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na bývalém evangelickém hřbitově v Karlovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Karlovice",
+                "P6736": "24135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.44436,
+                    50.10838
+                ]
+            }
+        }
+    ]
+}

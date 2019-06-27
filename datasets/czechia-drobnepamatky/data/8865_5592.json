@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dolních Hrachovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Dolní Hrachovice",
+                "P6736": "10726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79784,
+                    49.48525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Dolních Hrachovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dolní Hrachovice",
+                "P6736": "10725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79783,
+                    49.48529
+                ]
+            }
+        }
+    ]
+}

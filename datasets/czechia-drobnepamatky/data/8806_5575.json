@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Tymákova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tymákov",
+                "P6736": "5651"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51215,
+                    49.73156
+                ]
+            }
+        }
+    ]
+}

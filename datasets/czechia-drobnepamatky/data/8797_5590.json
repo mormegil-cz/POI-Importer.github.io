@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Borovech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Borovy",
+                "P6736": "10936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29933,
+                    49.52441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Jína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Švihov",
+                "P6736": "4772"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31054,
+                    49.51282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Jína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Švihov",
+                "P6736": "4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31528,
+                    49.51481
+                ]
+            }
+        }
+    ]
+}

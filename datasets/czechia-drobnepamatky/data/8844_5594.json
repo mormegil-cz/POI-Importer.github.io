@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zbelítově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zbelítov",
+                "P6736": "7871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33205,
+                    49.457
+                ]
+            }
+        }
+    ]
+}

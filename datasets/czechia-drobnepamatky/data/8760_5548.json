@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u zámku Mostov",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Odrava",
+                "P6736": "9537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4902,
+                    50.11304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u zámku Mosto",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Odrava",
+                "P6736": "9536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49036,
+                    50.11278
+                ]
+            }
+        }
+    ]
+}

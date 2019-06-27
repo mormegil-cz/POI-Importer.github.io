@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Lšelína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2913"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00971,
+                    49.66606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Krtíně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Skapce",
+                "P6736": "2901"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0082,
+                    49.65492
+                ]
+            }
+        }
+    ]
+}

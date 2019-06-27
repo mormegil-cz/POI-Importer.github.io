@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Haltýř v Proseči-Obořišti u rozcestí",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Nová Cerekev",
+                "P6736": "7086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12761,
+                    49.40774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Karla Havlíčka Borovského v Proseči-Obořišti",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Nová Cerekev",
+                "P6736": "7085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12938,
+                    49.4062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Proseči-Obořišti na návsi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Nová Cerekev",
+                "P6736": "7084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12841,
+                    49.40828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Proseči-Obořišti",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Nová Cerekev",
+                "P6736": "6041"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12734,
+                    49.4096
+                ]
+            }
+        }
+    ]
+}

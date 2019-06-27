@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník jižně od Zálší",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Zálší",
+                "P6736": "6353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.59617,
+                    49.21339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Zálší",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Zálší",
+                "P6736": "6352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.59957,
+                    49.21677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Zálší",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Zálší",
+                "P6736": "6351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.59956,
+                    49.21669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Zálší",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zálší",
+                "P6736": "6350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.59814,
+                    49.21553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na mostě v Mažicích",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Mažice",
+                "P6736": "6349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.60984,
+                    49.21254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mažicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mažice",
+                "P6736": "6348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61075,
+                    49.21323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Mažicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Mažice",
+                "P6736": "6347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61119,
+                    49.21317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Mažicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mažice",
+                "P6736": "6346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61108,
+                    49.2132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříže západně od Mažic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mažice",
+                "P6736": "2023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6087,
+                    49.21576
+                ]
+            }
+        }
+    ]
+}

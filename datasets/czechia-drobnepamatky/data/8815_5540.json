@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kounovské řady severně od Kounova",
+                "P31": "Památný kámen",
+                "P31^label:cs": "Památný kámen",
+                "P131^label:cs": "Domoušice",
+                "P6736": "15747"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69389,
+                    50.22452
+                ]
+            }
+        }
+    ]
+}

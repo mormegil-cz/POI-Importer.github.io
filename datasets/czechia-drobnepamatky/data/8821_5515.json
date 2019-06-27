@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Úpoři",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Světec",
+                "P6736": "19059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83895,
+                    50.58014
+                ]
+            }
+        }
+    ]
+}

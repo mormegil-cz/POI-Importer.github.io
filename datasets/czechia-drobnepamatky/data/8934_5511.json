@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Heřmánkovicích jižní část obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Heřmánkovice",
+                "P6736": "22544"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3243,
+                    50.62513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Heřmánkovicích jižně od kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Heřmánkovice",
+                "P6736": "22543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32365,
+                    50.63091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Heřmánkovicích u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Heřmánkovice",
+                "P6736": "22542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32299,
+                    50.63215
+                ]
+            }
+        }
+    ]
+}

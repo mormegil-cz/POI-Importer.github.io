@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Prosba lesa Hynčina severně od obce",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Hynčina",
+                "P6736": "24642"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77167,
+                    49.86782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hoštejně před kostelem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hoštejn",
+                "P6736": "21391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77511,
+                    49.87524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hoštejně za kostelem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hoštejn",
+                "P6736": "21390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77526,
+                    49.87553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice v Hoštejně na okraji obce",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Hoštejn",
+                "P6736": "21349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77293,
+                    49.87836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hoštejně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hoštejn",
+                "P6736": "13229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77467,
+                    49.87465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Kosova u pěšiny v lukách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kosov",
+                "P6736": "12127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78655,
+                    49.87825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník dostavby železnice u Hoštejna",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Hoštejn",
+                "P6736": "9321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77707,
+                    49.877
+                ]
+            }
+        }
+    ]
+}

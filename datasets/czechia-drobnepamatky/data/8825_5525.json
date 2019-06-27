@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v centru Děčan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Děčany",
+                "P6736": "20518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90904,
+                    50.4387
+                ]
+            }
+        }
+    ]
+}

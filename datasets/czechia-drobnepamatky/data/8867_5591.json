@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Radvanově u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladá Vožice",
+                "P6736": "7129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.83303,
+                    49.50961
+                ]
+            }
+        }
+    ]
+}

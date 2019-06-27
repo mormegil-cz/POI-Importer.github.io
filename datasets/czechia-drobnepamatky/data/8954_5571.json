@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Borušově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Borušov",
+                "P6736": "11408"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74428,
+                    49.78361
+                ]
+            }
+        }
+    ]
+}

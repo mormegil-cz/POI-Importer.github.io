@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Nedražic",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kostelec",
+                "P6736": "4153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03902,
+                    49.65631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Nedražicích",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03609,
+                    49.65871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Nedražic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "2922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03581,
+                    49.65925
+                ]
+            }
+        }
+    ]
+}

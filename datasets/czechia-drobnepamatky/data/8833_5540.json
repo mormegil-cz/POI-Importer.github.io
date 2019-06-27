@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem nacistické okupace 1939-45 na Hlaváčkově náměstí ve Slaném",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Slaný",
+                "P6736": "25104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08666,
+                    50.2331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Masarykově náměstí ve Slaném",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Slaný",
+                "P6736": "25103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08679,
+                    50.23092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Masarykův pomník na Masarykově náměstí ve Slaném",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Slaný",
+                "P6736": "25102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08757,
+                    50.23086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Josefa Navrátila na domě Vinařického 11 ve Slaném",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Slaný",
+                "P6736": "25101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08825,
+                    50.23011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sošky andílků ve štítě domu Vinařická 12 ve Slaném",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Slaný",
+                "P6736": "25100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08923,
+                    50.22993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Soška v nice Modletického domu ve Slaném",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Slaný",
+                "P6736": "25099"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08878,
+                    50.22994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého nad portálem Modletického domu ve Slaném",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Slaný",
+                "P6736": "25098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08864,
+                    50.23004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského v ulici Vinařického ve Slaném",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Slaný",
+                "P6736": "25097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.09041,
+                    50.22976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí na jižním okraji Slaného",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Slaný",
+                "P6736": "25094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0846,
+                    50.22068
+                ]
+            }
+        }
+    ]
+}

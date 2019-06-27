@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Skelné Huti",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "2416"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10888,
+                    49.95144
+                ]
+            }
+        }
+    ]
+}

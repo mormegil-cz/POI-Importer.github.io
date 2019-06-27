@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Černovicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Černovice",
+                "P6736": "18253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96171,
+                    49.37279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Černovicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Černovice",
+                "P6736": "18252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9617,
+                    49.37285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Černovicích u Pacovské ulice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "6739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96216,
+                    49.37491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v druhé světové válce v Černovicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Černovice",
+                "P6736": "6738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96046,
+                    49.37269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník severně od Černovic",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Černovice",
+                "P6736": "6737"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96042,
+                    49.38069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Černovicích u věže",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "6619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96087,
+                    49.3729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Černovicích v Soběslavské ulici",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Černovice",
+                "P6736": "6618"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.95483,
+                    49.37275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Černovicích v Soběslavské ulici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "6617"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.95407,
+                    49.37154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Černovicích na náměstí",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Černovice",
+                "P6736": "6615"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96055,
+                    49.37271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Černovicích",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Černovice",
+                "P6736": "6613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96164,
+                    49.3728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Černovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černovice",
+                "P6736": "3158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94867,
+                    49.36868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka nad Černovicemi",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Černovice",
+                "P6736": "1335"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9557,
+                    49.37566
+                ]
+            }
+        }
+    ]
+}

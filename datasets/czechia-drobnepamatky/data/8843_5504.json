@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice v Českolipské ulici v Benešově nad Ploučnicí",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Benešov nad Ploučnicí",
+                "P6736": "19756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30987,
+                    50.73369
+                ]
+            }
+        }
+    ]
+}

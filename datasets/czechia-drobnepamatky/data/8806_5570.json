@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Smědčicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Smědčice",
+                "P6736": "4441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51277,
+                    49.79906
+                ]
+            }
+        }
+    ]
+}

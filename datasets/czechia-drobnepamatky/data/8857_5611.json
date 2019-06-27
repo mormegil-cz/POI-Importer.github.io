@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Mažic u rybníčku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mažice",
+                "P6736": "2022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61334,
+                    49.21163
+                ]
+            }
+        }
+    ]
+}

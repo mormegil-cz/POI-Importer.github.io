@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Chválkově na návsi",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Mnich",
+                "P6736": "7587"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96701,
+                    49.32726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Chválkově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Mnich",
+                "P6736": "7024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96655,
+                    49.32689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Chválkově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mnich",
+                "P6736": "7023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96652,
+                    49.32687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Chválkově u plotu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnich",
+                "P6736": "6982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97001,
+                    49.32618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník ve Chválkově u křižovatky",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Mnich",
+                "P6736": "6981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96862,
+                    49.32667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička nad Chválkovem",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Mnich",
+                "P6736": "1640"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96989,
+                    49.33118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Chválkova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mnich",
+                "P6736": "1639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96652,
+                    49.32852
+                ]
+            }
+        }
+    ]
+}

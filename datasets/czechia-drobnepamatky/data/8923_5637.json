@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem druhé světové války v Oblekovicích",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Znojmo",
+                "P6736": "14229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08138,
+                    48.83751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice v Oblekovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Znojmo",
+                "P6736": "14228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08148,
+                    48.83743
+                ]
+            }
+        }
+    ]
+}

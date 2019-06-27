@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Velkém Rybníku",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Velký Rybník",
+                "P6736": "20204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30828,
+                    49.49021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Velkém Rybníku",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velký Rybník",
+                "P6736": "20202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30723,
+                    49.49069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u polní cesty západně od Velkého Rybníka směrem na Onšovice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velký Rybník",
+                "P6736": "18847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30408,
+                    49.49038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zemědělských staveb ve Velkém Rybníku poblíž hlavní silnice na Humpolec",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velký Rybník",
+                "P6736": "18846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30497,
+                    49.49374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na severním okraji Velkého Rybníka u hlavní silnice na Humpolec",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velký Rybník",
+                "P6736": "18845"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30861,
+                    49.49435
+                ]
+            }
+        }
+    ]
+}

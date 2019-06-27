@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kozově u polní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "21935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85781,
+                    49.70377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kozově vedle kaple na návsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "21934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86277,
+                    49.70422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Barbory v Kozově na návsi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "21933"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86266,
+                    49.70419
+                ]
+            }
+        }
+    ]
+}

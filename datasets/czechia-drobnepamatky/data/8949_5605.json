@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Otec s dítětem v Adamově",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Adamov",
+                "P6736": "14358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65346,
+                    49.30191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Rudoarmějce v Adamově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Adamov",
+                "P6736": "14356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65356,
+                    49.30124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Busta Bedřicha Smetany v Adamově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Adamov",
+                "P6736": "14355"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65273,
+                    49.30146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Adamově nad železniční zastávkou",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Vranov",
+                "P6736": "14354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.64929,
+                    49.30127
+                ]
+            }
+        }
+    ]
+}

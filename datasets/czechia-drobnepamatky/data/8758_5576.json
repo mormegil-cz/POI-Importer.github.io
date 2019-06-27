@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ze dřeva v lese západně od Staré Knížecí Hutě",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Lesná",
+                "P6736": "18366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.44952,
+                    49.72363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památné kameny v zaniklé obci Stoupa západně od Staré Knížecí Hutě",
+                "P31": "Památný kámen",
+                "P31^label:cs": "Památný kámen",
+                "P131^label:cs": "Lesná",
+                "P6736": "18365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.44917,
+                    49.72159
+                ]
+            }
+        }
+    ]
+}

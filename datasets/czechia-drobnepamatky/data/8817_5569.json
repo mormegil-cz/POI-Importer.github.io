@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Siré",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Sirá",
+                "P6736": "24546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7384,
+                    49.82157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Siré",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sirá",
+                "P6736": "24544"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73853,
+                    49.8213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Siré",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sirá",
+                "P6736": "24543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73805,
+                    49.81883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Václavu Holubovi u Siré",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Sirá",
+                "P6736": "24542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75171,
+                    49.81136
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hlavní ulici v Mlékojedech u Neratovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Neratovice",
+                "P6736": "24210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53387,
+                    50.25983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Mlékojedech u Neratovic",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Neratovice",
+                "P6736": "24209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53249,
+                    50.25884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Štefana Uhra v Mlékojedech u Neratovic",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Neratovice",
+                "P6736": "24208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53244,
+                    50.25876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Mlékojedech u Neratovic",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Neratovice",
+                "P6736": "24207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53202,
+                    50.25832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Kamenná kniha na břehu Labe v Lobkovicích",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Neratovice",
+                "P6736": "24202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53527,
+                    50.25326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v parku u kostela v Lobkovicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Neratovice",
+                "P6736": "24201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53265,
+                    50.25274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice u kostela v Lobkovicích",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Neratovice",
+                "P6736": "24200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53295,
+                    50.25237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u železniční zastávky Lobkovice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Neratovice",
+                "P6736": "24199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53089,
+                    50.25071
+                ]
+            }
+        }
+    ]
+}

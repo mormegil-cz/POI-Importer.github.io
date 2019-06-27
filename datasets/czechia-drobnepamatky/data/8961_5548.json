@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým Vysoké Žibřidovice za kostelem",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hanušovice",
+                "P6736": "25539"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91634,
+                    50.11794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka Žleb v lese Na Kristenově",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Hanušovice",
+                "P6736": "25339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89883,
+                    50.12046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž Vysoké Žibřidovice za hřbitovem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hanušovice",
+                "P6736": "25338"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91709,
+                    50.11739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž Vysoké Žibřidovice u zdi kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hanušovice",
+                "P6736": "25337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91626,
+                    50.11758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Krista na Olivetské hoře u Vysokých Žibřidovic",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hanušovice",
+                "P6736": "9322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90254,
+                    50.11869
+                ]
+            }
+        }
+    ]
+}

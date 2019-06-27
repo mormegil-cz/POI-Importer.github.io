@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Lazců",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "3089"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95238,
+                    49.50678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Horního Valdorfu u stromu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "3087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.94253,
+                    49.50431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli severně od Mrchojed",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Meclov",
+                "P6736": "3067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95317,
+                    49.49926
+                ]
+            }
+        }
+    ]
+}

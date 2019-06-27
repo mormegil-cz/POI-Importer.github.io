@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup s plastikou v Božanově v místě zvaném Červená Hora",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Božanov",
+                "P6736": "22502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34115,
+                    50.51249
+                ]
+            }
+        }
+    ]
+}

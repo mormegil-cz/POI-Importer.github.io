@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Sytné nad Košutkou",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Chotíkov",
+                "P6736": "15266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34818,
+                    49.78174
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Klamoši",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Klamoš",
+                "P6736": "14468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.50385,
+                    50.12631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Klamoši",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Klamoš",
+                "P6736": "14467"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.50458,
+                    50.12443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník revolučního odboje v Klamoši",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Klamoš",
+                "P6736": "14466"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.50474,
+                    50.12442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Klamoši",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Klamoš",
+                "P6736": "14465"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.50384,
+                    50.12399
+                ]
+            }
+        }
+    ]
+}

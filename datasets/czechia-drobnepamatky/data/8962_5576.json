@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Obectově na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "24803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93233,
+                    49.72089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Obectově u kaple",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "24802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93171,
+                    49.72005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým Obectov naproti kapli",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Bouzov",
+                "P6736": "24644"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93207,
+                    49.71989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Obectově na návsi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "24641"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93165,
+                    49.72002
+                ]
+            }
+        }
+    ]
+}

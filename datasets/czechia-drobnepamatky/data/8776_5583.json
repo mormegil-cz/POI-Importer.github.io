@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vidicích v parku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vidice",
+                "P6736": "9953"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8348,
+                    49.61282
+                ]
+            }
+        }
+    ]
+}

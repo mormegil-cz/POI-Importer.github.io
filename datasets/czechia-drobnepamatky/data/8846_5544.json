@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Husinci",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Husinec",
+                "P6736": "24809"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37685,
+                    50.17409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici K Lomu v Husinci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Husinec",
+                "P6736": "24808"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37466,
+                    50.17294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve světových válkách v Žalově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Roztoky",
+                "P6736": "19850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37407,
+                    50.16893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž před kostelem sv. Klimenta v Žalově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Roztoky",
+                "P6736": "19849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37423,
+                    50.16923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž, ul. Járy Cimrmana v Roztokách u Prahy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Roztoky",
+                "P6736": "19827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38484,
+                    50.16298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Žalově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Roztoky",
+                "P6736": "11115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3723,
+                    50.16704
+                ]
+            }
+        }
+    ]
+}

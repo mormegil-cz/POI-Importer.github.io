@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Holovousech v zahradě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Holovousy",
+                "P6736": "10377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61201,
+                    49.96975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Holovous",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Holovousy",
+                "P6736": "5282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60649,
+                    49.96613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Holovousech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Holovousy",
+                "P6736": "3917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61573,
+                    49.96811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Holovousech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Holovousy",
+                "P6736": "3916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61575,
+                    49.96813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Holovousech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Holovousy",
+                "P6736": "3915"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6158,
+                    49.96809
+                ]
+            }
+        }
+    ]
+}

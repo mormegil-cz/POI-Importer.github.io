@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kokořova u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "9941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25978,
+                    49.83787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník západně od Nevřeně",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Všeruby",
+                "P6736": "5498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26274,
+                    49.83332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Kokořova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "4837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26749,
+                    49.83796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kokořova u Telecího mlýna",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "4815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25891,
+                    49.83372
+                ]
+            }
+        }
+    ]
+}

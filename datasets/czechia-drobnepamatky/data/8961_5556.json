@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Dolního Bohdíkova vedle silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bohdíkov",
+                "P6736": "20969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91029,
+                    50.00614
+                ]
+            }
+        }
+    ]
+}

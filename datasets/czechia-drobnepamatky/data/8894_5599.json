@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice nad Bahny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Boršov",
+                "P6736": "16233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43665,
+                    49.39056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen na Bahnech",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Boršov",
+                "P6736": "11518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43665,
+                    49.39342
+                ]
+            }
+        }
+    ]
+}

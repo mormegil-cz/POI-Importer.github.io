@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v Padařově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7861"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52453,
+                    49.45254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Padařově",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7860"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52625,
+                    49.45242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník severně od Padařova",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "2277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52451,
+                    49.45374
+                ]
+            }
+        }
+    ]
+}

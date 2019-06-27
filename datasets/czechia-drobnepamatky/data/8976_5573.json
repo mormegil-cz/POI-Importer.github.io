@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na okraji Komárova",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Komárov",
+                "P6736": "17454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.23801,
+                    49.76216
+                ]
+            }
+        }
+    ]
+}

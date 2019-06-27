@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Donáta západně od Vratěnína",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Vratěnín",
+                "P6736": "20298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5716,
+                    48.91541
+                ]
+            }
+        }
+    ]
+}

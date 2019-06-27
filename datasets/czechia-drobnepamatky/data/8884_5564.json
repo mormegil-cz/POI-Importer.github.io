@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník dobytí hradu Sionu u Chlístovic",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Chlístovice",
+                "P6736": "13767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21102,
+                    49.88938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Roháče z Dubé pod hradem Sion u Chlístovic",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Chlístovice",
+                "P6736": "13766"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21028,
+                    49.88936
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mistrovicích jižní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mistrovice",
+                "P6736": "25401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5768,
+                    50.01786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Mistrovicích jižní část obce II",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Mistrovice",
+                "P6736": "25399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57568,
+                    50.02039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Mistrovicích jižní část obce I",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Mistrovice",
+                "P6736": "25398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57481,
+                    50.02091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek ve Verměřovicích severní okraj obce",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Verměřovice",
+                "P6736": "25392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56805,
+                    50.00973
+                ]
+            }
+        }
+    ]
+}

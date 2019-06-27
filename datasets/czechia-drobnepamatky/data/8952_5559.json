@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horních Heřmanicích u hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Heřmanice",
+                "P6736": "22509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.71651,
+                    49.96067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Horních Heřmanicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horní Heřmanice",
+                "P6736": "12088"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70212,
+                    49.96183
+                ]
+            }
+        }
+    ]
+}

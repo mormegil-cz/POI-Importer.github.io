@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Křeče",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křeč",
+                "P6736": "7251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91834,
+                    49.39074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Křeči u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křeč",
+                "P6736": "7124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91623,
+                    49.38838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem ve Křeči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křeč",
+                "P6736": "7098"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91524,
+                    49.38625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Křeči",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Křeč",
+                "P6736": "7097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91561,
+                    49.38819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Křeči",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Křeč",
+                "P6736": "7096"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91671,
+                    49.38916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice nad Kozmicemi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křeč",
+                "P6736": "1806"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90081,
+                    49.38432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka západně od Křeče",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Křeč",
+                "P6736": "1807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91248,
+                    49.38876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod kostelem u Křeče",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křeč",
+                "P6736": "1802"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91603,
+                    49.3843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v břízách pod Křečí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křeč",
+                "P6736": "1801"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90144,
+                    49.391
+                ]
+            }
+        }
+    ]
+}

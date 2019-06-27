@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pylon Tomáše Šinka u hřbitova v Koryčanech",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Koryčany",
+                "P6736": "13376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16375,
+                    49.11082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Příčné ulici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Koryčany",
+                "P6736": "13375"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1641,
+                    49.10986
+                ]
+            }
+        }
+    ]
+}

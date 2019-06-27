@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hlavní křižovatky v obci Otmíče",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Otmíče",
+                "P6736": "14662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9478,
+                    49.86771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého v obci Otmíče",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Otmíče",
+                "P6736": "14661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94759,
+                    49.86914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod Otmíčskou horou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Otmíče",
+                "P6736": "14660"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94264,
+                    49.86678
+                ]
+            }
+        }
+    ]
+}

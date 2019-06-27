@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie v Horních Domaslavicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horní Domaslavice",
+                "P6736": "9331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4665,
+                    49.70539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Horních Domaslavicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horní Domaslavice",
+                "P6736": "9330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.46642,
+                    49.70536
+                ]
+            }
+        }
+    ]
+}

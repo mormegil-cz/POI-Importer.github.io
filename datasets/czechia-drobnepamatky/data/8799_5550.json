@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Tisu u Blatna",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Tis u Blatna",
+                "P6736": "11250"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34645,
+                    50.08459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Tisu u Blatna",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Tis u Blatna",
+                "P6736": "8606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34751,
+                    50.08572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tisu u Blatna u chat",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tis u Blatna",
+                "P6736": "8138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3494,
+                    50.08808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Tisu u Blatna",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Tis u Blatna",
+                "P6736": "7982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34646,
+                    50.08462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na hřbitově v Tisu u Blatna",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tis u Blatna",
+                "P6736": "7981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34389,
+                    50.08558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tisu u Blatna u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tis u Blatna",
+                "P6736": "7980"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3436,
+                    50.08527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Tisu u Blatna",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Tis u Blatna",
+                "P6736": "4212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34736,
+                    50.0856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tisu u Blatna u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tis u Blatna",
+                "P6736": "4211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34774,
+                    50.08592
+                ]
+            }
+        }
+    ]
+}

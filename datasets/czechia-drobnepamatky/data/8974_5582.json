@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Miroslava Tyrše v Horce nad Moravou",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Horka nad Moravou",
+                "P6736": "17473"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.20372,
+                    49.63771
+                ]
+            }
+        }
+    ]
+}

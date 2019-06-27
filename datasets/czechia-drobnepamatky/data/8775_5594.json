@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Postřekově u zemědělského areálu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Postřekov",
+                "P6736": "5351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.81467,
+                    49.45769
+                ]
+            }
+        }
+    ]
+}

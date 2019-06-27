@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční brána u Meziměstí",
+                "P31": "Neznámý",
+                "P31^label:cs": "Neznámý",
+                "P131^label:cs": "Meziměstí",
+                "P6736": "25297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23294,
+                    50.6228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí nad Vernéřovicemi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vernéřovice",
+                "P6736": "25295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22989,
+                    50.62074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Vernéřovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vernéřovice",
+                "P6736": "25294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22804,
+                    50.61881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vernéřovicích, jižní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vernéřovice",
+                "P6736": "22856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22076,
+                    50.61342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže ve Vernéřovicích o kostela svatého Michaela archanděla",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vernéřovice",
+                "P6736": "22697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22171,
+                    50.61403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vernéřovicích střed obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vernéřovice",
+                "P6736": "22696"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22474,
+                    50.61621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vernéřovicích východní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vernéřovice",
+                "P6736": "22558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23687,
+                    50.61626
+                ]
+            }
+        }
+    ]
+}

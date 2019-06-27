@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Nové Vsi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Ústí nad Labem",
+                "P6736": "13366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07058,
+                    50.64292
+                ]
+            }
+        }
+    ]
+}

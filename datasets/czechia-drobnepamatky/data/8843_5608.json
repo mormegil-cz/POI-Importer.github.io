@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Albrechticích nad Vltavou před kostelem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Albrechtice nad Vltavou",
+                "P6736": "6376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3083,
+                    49.25636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kapličkový hřbitov v Albrechticích nad Vltavou",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Albrechtice nad Vltavou",
+                "P6736": "6375"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.30912,
+                    49.25639
+                ]
+            }
+        }
+    ]
+}

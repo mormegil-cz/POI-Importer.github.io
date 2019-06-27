@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Němčovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Němčovice",
+                "P6736": "4447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57524,
+                    49.87715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Němčovicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Němčovice",
+                "P6736": "4037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5746,
+                    49.87723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Bohemie",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Újezd u Svatého Kříže",
+                "P6736": "2707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56679,
+                    49.8693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Němčovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Němčovice",
+                "P6736": "2157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56635,
+                    49.87791
+                ]
+            }
+        }
+    ]
+}

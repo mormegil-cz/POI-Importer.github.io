@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Holovousích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Holovousy",
+                "P6736": "15347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57566,
+                    50.37284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříže na kraji Holovous",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Holovousy",
+                "P6736": "11616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57019,
+                    50.3734
+                ]
+            }
+        }
+    ]
+}

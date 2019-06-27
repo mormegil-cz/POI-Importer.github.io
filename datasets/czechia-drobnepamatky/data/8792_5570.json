@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi Pískem a Újezdem nade Mží",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Líšťany",
+                "P6736": "1939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20248,
+                    49.80698
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kobeřicích na křižovatce ulic Opavská a Vrbová",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kobeřice",
+                "P6736": "23699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04659,
+                    49.98128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kobeřicích v ulici Osmilány severní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kobeřice",
+                "P6736": "23679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05542,
+                    49.99334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Blahoslavené Panny Marie v Kobeřicích v ulici Osmilány",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kobeřice",
+                "P6736": "23678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05508,
+                    49.99194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Kobeřicích v ulici Stiborská",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Kobeřice",
+                "P6736": "23676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05245,
+                    49.99009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kobeřicích na křižovatce ulic Slezská a Dubová",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kobeřice",
+                "P6736": "23675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05514,
+                    49.99041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Božského Srdce Páně v Kobeřicích v ulici Slezská naproti Obecnímu úřadu",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kobeřice",
+                "P6736": "23674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05008,
+                    49.98412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Krista Krále v Kobeřicích v ulici Slezská",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kobeřice",
+                "P6736": "23673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05087,
+                    49.98489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kobeřicích před kostelem Panny Marie Nanebevzaté",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kobeřice",
+                "P6736": "23671"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05122,
+                    49.9856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kobeřicích u kostela Panny Marie Nanebevzaté",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Kobeřice",
+                "P6736": "23670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05137,
+                    49.98587
+                ]
+            }
+        }
+    ]
+}

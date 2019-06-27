@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Svatý Jan Nepomucký",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Jimlín",
+                "P6736": "11680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74795,
+                    50.31995
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Osvoboditelů v Opavě",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Opava",
+                "P6736": "14137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.90749,
+                    49.93942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Horním náměstí v Opavě",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Opava",
+                "P6736": "14136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.90231,
+                    49.9389
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kaplička v Tourově na severním výjezdu z obce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Bavorov",
+                "P6736": "21292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03487,
+                    49.12301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kaplička v Tourově při vjezdu od Bavorova",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Bavorov",
+                "P6736": "20961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03548,
+                    49.12079
+                ]
+            }
+        }
+    ]
+}

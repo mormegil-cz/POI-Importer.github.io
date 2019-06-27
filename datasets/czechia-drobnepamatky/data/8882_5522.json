@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u parkoviště před hřbitovem v Sobotce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sobotka",
+                "P6736": "16384"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17383,
+                    50.47199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým rudoarmějcům u hřbitova v Sobotce",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Sobotka",
+                "P6736": "16383"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17327,
+                    50.47181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce u hřbitova v Sobotce",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Sobotka",
+                "P6736": "16382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17353,
+                    50.47163
+                ]
+            }
+        }
+    ]
+}

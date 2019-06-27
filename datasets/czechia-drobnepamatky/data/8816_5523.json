@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Ferdinanda v Zaječicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bečov",
+                "P6736": "17936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71566,
+                    50.46431
+                ]
+            }
+        }
+    ]
+}

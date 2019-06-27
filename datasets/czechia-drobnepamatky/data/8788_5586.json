@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Horní Kamenici",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Horní Kamenice",
+                "P6736": "3188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10129,
+                    49.56921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horní Kamenici u kaple",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Kamenice",
+                "P6736": "3187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10058,
+                    49.56945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Horní Kamenici",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Horní Kamenice",
+                "P6736": "3186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1007,
+                    49.56947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Horní Kamenice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Kamenice",
+                "P6736": "3185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09806,
+                    49.57061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Dolní Kamenicí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Holýšov",
+                "P6736": "3182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10758,
+                    49.57645
+                ]
+            }
+        }
+    ]
+}

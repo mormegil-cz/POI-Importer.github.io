@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce v Robčicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Útušice",
+                "P6736": "10889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.371,
+                    49.66766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Robčicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Útušice",
+                "P6736": "10888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37009,
+                    49.6686
+                ]
+            }
+        }
+    ]
+}

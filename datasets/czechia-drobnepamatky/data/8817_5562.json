@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek sv. Anny u studánky sv. Anna",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Ostrovec-Lhotka",
+                "P6736": "12790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75379,
+                    49.92263
+                ]
+            }
+        }
+    ]
+}

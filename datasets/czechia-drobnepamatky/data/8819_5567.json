@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Zbiroha",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "6938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78427,
+                    49.84292
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna Tritonů v Květné zahradě v Kroměříži",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Kroměříž",
+                "P6736": "13961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.37971,
+                    49.29728
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Malé Štáhli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Malá Štáhle",
+                "P6736": "17600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.34142,
+                    49.95179
+                ]
+            }
+        }
+    ]
+}

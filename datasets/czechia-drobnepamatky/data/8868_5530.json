@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na zámku Nový Stránov",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Jizerní Vtelno",
+                "P6736": "9584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.85542,
+                    50.37304
+                ]
+            }
+        }
+    ]
+}

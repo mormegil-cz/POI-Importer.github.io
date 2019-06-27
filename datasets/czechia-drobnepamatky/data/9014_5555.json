@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rohově v ulici Slezská severovýchodní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rohov",
+                "P6736": "23472"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.07971,
+                    50.01742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rohově na křižovatce ulic Opavská a Hlavní",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rohov",
+                "P6736": "23471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.06795,
+                    50.01525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Rohově v ulici Slezská",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Rohov",
+                "P6736": "23470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.07587,
+                    50.0152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rohově u kaple svatého Petra a Pavla",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rohov",
+                "P6736": "23469"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.07326,
+                    50.01479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Rohově v ulici Hlavní východní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rohov",
+                "P6736": "23468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.07828,
+                    50.01378
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Senici na Hané v Nádražní ulici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Senice na Hané",
+                "P6736": "15694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0966,
+                    49.6237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Senice na Hané v poli",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Senice na Hané",
+                "P6736": "14154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10576,
+                    49.62017
+                ]
+            }
+        }
+    ]
+}

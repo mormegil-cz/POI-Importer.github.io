@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Tlucné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Bělá",
+                "P6736": "9942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28798,
+                    49.87765
+                ]
+            }
+        }
+    ]
+}

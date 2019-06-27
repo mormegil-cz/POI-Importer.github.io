@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Jana Nepomuckého v Opatově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Opatov",
+                "P6736": "13046"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50478,
+                    49.82486
+                ]
+            }
+        }
+    ]
+}

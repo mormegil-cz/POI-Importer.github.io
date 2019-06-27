@@ -1,0 +1,328 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v zahradě fary v Seydlově ulici v Berouně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Beroun",
+                "P6736": "18838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07115,
+                    49.96449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Krista u kostela Zvěstování Panny Marie v Berouně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Beroun",
+                "P6736": "14999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06766,
+                    49.96142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Morový sloup u kostela Zvěstování Panny Marie v Berouně",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Beroun",
+                "P6736": "14998"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06759,
+                    49.96142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Soška svatého Jana Nepomuckého ve výklenku brány ke kostelu Zvěstování Panny Marie v Berouně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Beroun",
+                "P6736": "14997"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06765,
+                    49.96144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela Zvěstování Panny Marie v Berouně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Beroun",
+                "P6736": "14996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06745,
+                    49.96154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna ve vnitrobloku domů v ulici Na Náhonu v Berouně",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Beroun",
+                "P6736": "14995"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07017,
+                    49.95973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Tyršův pomník v Tyršově ulici v Berouně",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Beroun",
+                "P6736": "14994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07177,
+                    49.96058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Václava Tallicha na Husově náměstí v Berouně",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Beroun",
+                "P6736": "14964"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07431,
+                    49.96391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník bojovníkům za svobodu 1939-1945 v Berouně",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Beroun",
+                "P6736": "14963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06979,
+                    49.96482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v parku za Muzeem keramiky v Berouně",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Beroun",
+                "P6736": "14954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07195,
+                    49.96517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Géniu Bedřicha Smetany v parku za Muzeem keramiky v Berouně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Beroun",
+                "P6736": "14953"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07176,
+                    49.9651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna se sochou svatého Jana Nepomuckého na Husově náměstí v Berouně",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Beroun",
+                "P6736": "14952"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07266,
+                    49.96383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Berouně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Beroun",
+                "P6736": "11771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07327,
+                    49.96398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hodiny před vlakovým nádražím v Berouně",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Beroun",
+                "P6736": "10795"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07604,
+                    49.95795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Berouně u kostelní zdi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Beroun",
+                "P6736": "10793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07188,
+                    49.9639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Berouně u kostela",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Beroun",
+                "P6736": "10792"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07107,
+                    49.96381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Berouně u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Beroun",
+                "P6736": "10791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07135,
+                    49.96376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží Muka u kostela svatého Jakuba v Berouně",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Beroun",
+                "P6736": "9157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07108,
+                    49.96383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Jana Husa v Berouně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Beroun",
+                "P6736": "8951"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07443,
+                    49.9642
+                ]
+            }
+        }
+    ]
+}

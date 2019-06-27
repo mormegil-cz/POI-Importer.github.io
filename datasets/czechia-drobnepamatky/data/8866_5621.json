@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jana Nepomuckého v Novosedlech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Novosedly nad Nežárkou",
+                "P6736": "11820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8223,
+                    49.0808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Novosedlech u kapličky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Novosedly nad Nežárkou",
+                "P6736": "11819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82224,
+                    49.08083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Novosedlech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Novosedly nad Nežárkou",
+                "P6736": "11818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82205,
+                    49.08099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Novosedel nad Nežárkou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Novosedly nad Nežárkou",
+                "P6736": "2197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82265,
+                    49.07486
+                ]
+            }
+        }
+    ]
+}

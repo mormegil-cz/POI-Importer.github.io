@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Rábu u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bernartice",
+                "P6736": "7684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4078,
+                    49.39085
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,566 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Karla Josefa Heidlera v arálu nemocnice v Sokolově",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65002,
+                    50.17756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika Peníze na budově Komerční banky v Sokolově",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64704,
+                    50.17692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Husových sadech v Sokolově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64576,
+                    50.17757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Křídla v Husových sadech v Sokolově",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25711"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64335,
+                    50.17786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika ženy v Husových sadech v Sokolově",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25710"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64285,
+                    50.17813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika u potoka v Husových sadech v Sokolově",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25709"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64332,
+                    50.17828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Hravý kámen v Husových sadech v Sokolově",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25708"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64343,
+                    50.17858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Sen o jezeru Medard v Husových sadech v Sokolově",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25707"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64335,
+                    50.17906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Budovatelů v Sokolově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64496,
+                    50.18012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Reliéf Den horníka na průčelí Městského domu kultury v Sokolově",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64516,
+                    50.18099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Rudolfa Welse na Městském domě kultury v Sokolově",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64486,
+                    50.18098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší alegorie Pohostinství u kruhového objezdu v ulici Rooseweltova v Sokolově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25703"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64248,
+                    50.18017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník bitvy u Sokolova na křižovatce ulic Rokycanova a Rooseweltova v Sokolově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25702"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64255,
+                    50.17974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika Kamenné srdce v zámeckém parku v Sokolově",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64087,
+                    50.1791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v parku v Křížové ulici v Sokolově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63964,
+                    50.17973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Felixe z Alcantary u kostela svatého Antonína Paduánského v Sokolově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63735,
+                    50.17894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského u kostela svatého Antonína Paduánského v Sokolově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25696"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63741,
+                    50.17894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Františka z Assisi u kostela svatého Antonína Paduánského v Sokolově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63757,
+                    50.17894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Karla Maye na domě Staroměstské náměstí 137 v Sokolově",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25694"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63859,
+                    50.18022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Goethova pamětní deska na domě Staré náměstí 25 v Sokolově",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63844,
+                    50.18044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Americké armádě na domě Staré náměstí 26 v Sokolově",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6386,
+                    50.18059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna se sochou sokolníka na Starém náměstí v Sokolově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63903,
+                    50.1807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy na západní straně Mariánského sloupu na Starém náměstí v Sokolově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25690"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6392,
+                    50.18078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy na východní straně Mariánského sloupu na Starém náměstí v Sokolově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63927,
+                    50.18082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na Starém náměstí v Sokolově",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63924,
+                    50.18081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Jubilejní kašna na Starém náměstí v Sokolově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25687"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63982,
+                    50.18109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník popravených sovětských zajatců na Růžovém náměstí v Sokolově",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25686"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64063,
+                    50.18163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na Růžovém náměstí v Sokolově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25685"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64076,
+                    50.18165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Ježíše Krista na kostele sv.Tomáše v Sokolově",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64364,
+                    50.18148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska obětem holokaustu z Falknovska v ulici Maxima Gorkého v Sokolově",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6431,
+                    50.18212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v ulici J.K.Tyla v Sokolově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Sokolov",
+                "P6736": "25682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64266,
+                    50.18271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice v Sokolově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Sokolov",
+                "P6736": "9549"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63743,
+                    50.17919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na nádvoří zámku v Sokolově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Sokolov",
+                "P6736": "9538"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64163,
+                    50.17913
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na okraji Třeště u silnice na Batelov",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Třešť",
+                "P6736": "22729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.46885,
+                    49.297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Třeště u samoty Česalík",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Třešť",
+                "P6736": "19452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.47295,
+                    49.30758
+                ]
+            }
+        }
+    ]
+}

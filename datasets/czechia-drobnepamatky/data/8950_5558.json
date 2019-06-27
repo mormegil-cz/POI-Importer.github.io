@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Koburku",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Výprachtice",
+                "P6736": "11574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.66768,
+                    49.97357
+                ]
+            }
+        }
+    ]
+}

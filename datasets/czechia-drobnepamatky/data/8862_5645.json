@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hojné Vodě",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Horní Stropnice",
+                "P6736": "21709"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72766,
+                    48.73022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvon setkávání na vyhlídkovém místě v Hojné Vodě",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Horní Stropnice",
+                "P6736": "17264"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72653,
+                    48.72718
+                ]
+            }
+        }
+    ]
+}

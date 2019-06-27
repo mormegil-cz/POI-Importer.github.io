@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad hájovnou u Svojšína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Svojšín",
+                "P6736": "8223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91891,
+                    49.77298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž ve Svojšíně u kostela",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Svojšín",
+                "P6736": "8221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91015,
+                    49.76716
+                ]
+            }
+        }
+    ]
+}

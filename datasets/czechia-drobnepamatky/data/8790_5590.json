@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Těšovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Srbice",
+                "P6736": "3258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14668,
+                    49.5141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Hájů",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Srbice",
+                "P6736": "3257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15335,
+                    49.52266
+                ]
+            }
+        }
+    ]
+}

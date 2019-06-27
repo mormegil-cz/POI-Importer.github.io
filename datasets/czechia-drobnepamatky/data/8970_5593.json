@@ -1,0 +1,447 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v ulici Sádky v Prostějově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11546,
+                    49.47082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Hlaváčkově náměstí v Prostějově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11442,
+                    49.47296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Karla Havlíčka Borovského v Prostějově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11442,
+                    49.47272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela Povýšení svatého Kříže v Prostějově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11212,
+                    49.47188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha u kostela Povýšení svatého Kříže v Prostějově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11222,
+                    49.47188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Jiřího Wolkera v Prostějově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11396,
+                    49.47239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na náměstí T. G. Masaryka v Prostějově",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11122,
+                    49.47229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí T. G. Masaryka v Prostějově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11051,
+                    49.47235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Agrostroje v Prostějově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10913,
+                    49.47338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Pernštýrském náměstí v Prostějově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10966"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10912,
+                    49.47351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem okupace Varšavskou smlouvou v Prostějově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10965"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11012,
+                    49.47239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Tomáše G. Masaryka v Prostějově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10964"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1098,
+                    49.47236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Komenského ulice v Prostějově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11175,
+                    49.47038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Prostějově u rybníka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10562,
+                    49.46899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Busta Jana Palackého v Prostějově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10345"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10739,
+                    49.4714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Vlys vlevo od vchodu do Národního domu v Prostějově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10344"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11467,
+                    49.47349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Kostelecké ulice v Prostějově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10343"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10849,
+                    49.47491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Bedřicha Smetany v Prostějově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11005,
+                    49.47405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Bludný kámen ve Smetanových sadech v Prostějově",
+                "P31": "Památný kámen",
+                "P31^label:cs": "Památný kámen",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11168,
+                    49.47379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Spaniův - obelisk ve Smetanových sadech v Prostějově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11356,
+                    49.47351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Karla a Karly Vojáčkových v Prostějově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10339"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11504,
+                    49.47353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Vojáčkovu náměstí v Prostějově",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10338"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11558,
+                    49.47346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u sochy svatého Jana Nepomuckého v Prostějově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11661,
+                    49.47336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého ve Svatoplukově ulici v Prostějově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11658,
+                    49.47346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Klubu českých turistů v Prostějově",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10335"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11592,
+                    49.47342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie u Svatoplukovy ulice v Prostějově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Prostějov",
+                "P6736": "10334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11642,
+                    49.47292
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Otročína u okraje",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Stříbro",
+                "P6736": "8203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.94194,
+                    49.76432
+                ]
+            }
+        }
+    ]
+}

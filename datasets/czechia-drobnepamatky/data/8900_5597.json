@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hybrálci před hřbitovem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hybrálec",
+                "P6736": "12240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56356,
+                    49.42285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hybrálci",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hybrálec",
+                "P6736": "11403"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56345,
+                    49.42303
+                ]
+            }
+        }
+    ]
+}

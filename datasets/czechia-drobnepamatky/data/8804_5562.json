@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Čečína",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Plasy",
+                "P6736": "5295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46096,
+                    49.92248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek západně od Koryt",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Obora",
+                "P6736": "5087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44827,
+                    49.9098
+                ]
+            }
+        }
+    ]
+}

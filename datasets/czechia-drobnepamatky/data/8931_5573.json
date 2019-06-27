@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Stříteže při cestě do Sebranic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Polička",
+                "P6736": "23773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23864,
+                    49.75755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Stříteži u Poličky severní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Polička",
+                "P6736": "21885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23953,
+                    49.75376
+                ]
+            }
+        }
+    ]
+}

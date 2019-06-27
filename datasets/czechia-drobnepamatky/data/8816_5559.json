@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Hradišti",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hradiště",
+                "P6736": "8073"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71817,
+                    49.96297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hradišti u kaple",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hradiště",
+                "P6736": "8071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71743,
+                    49.96273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hradišti",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Hradiště",
+                "P6736": "8072"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71743,
+                    49.96275
+                ]
+            }
+        }
+    ]
+}

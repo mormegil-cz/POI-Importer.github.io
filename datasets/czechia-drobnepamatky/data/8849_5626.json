@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mozaika v Českých Budějovicích na kruhovém objezdu",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "České Budějovice",
+                "P6736": "9910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45076,
+                    49.00331
+                ]
+            }
+        }
+    ]
+}

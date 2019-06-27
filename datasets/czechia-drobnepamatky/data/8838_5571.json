@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Staré Huti",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Stará Huť",
+                "P6736": "11350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19676,
+                    49.78156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Staré Huti",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Stará Huť",
+                "P6736": "11349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19738,
+                    49.7823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Staré Huti",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Stará Huť",
+                "P6736": "11348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1974,
+                    49.78237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlého vojáka ve Staré Huti",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Stará Huť",
+                "P6736": "11347"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19789,
+                    49.78548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Staré Huti u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Stará Huť",
+                "P6736": "11346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19768,
+                    49.78554
+                ]
+            }
+        }
+    ]
+}

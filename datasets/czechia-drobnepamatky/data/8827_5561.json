@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Černíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zdice",
+                "P6736": "23126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97451,
+                    49.92761
+                ]
+            }
+        }
+    ]
+}

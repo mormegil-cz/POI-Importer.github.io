@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Martínkovicích v severní části obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Martínkovice",
+                "P6736": "22521"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34847,
+                    50.55196
+                ]
+            }
+        }
+    ]
+}

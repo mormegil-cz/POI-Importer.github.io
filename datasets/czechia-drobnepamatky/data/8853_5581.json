@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Bezmíře",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vojkov",
+                "P6736": "19278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53285,
+                    49.64661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křenovice- křížek u Drábova mlýna",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Vojkov",
+                "P6736": "19258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53316,
+                    49.64098
+                ]
+            }
+        }
+    ]
+}

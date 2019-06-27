@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nové Vsi u Litomyšle východní část obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Litomyšl",
+                "P6736": "21600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31174,
+                    49.82776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nové Vsi u Litomyšle západní část obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Litomyšl",
+                "P6736": "21599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30964,
+                    49.82843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Nové Vsi u Litomyšle",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Litomyšl",
+                "P6736": "21594"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31319,
+                    49.82734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Nové Vsi u Litomyšle",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Osík",
+                "P6736": "12261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30841,
+                    49.83216
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Lučic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chudenice",
+                "P6736": "3373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15771,
+                    49.45441
+                ]
+            }
+        }
+    ]
+}

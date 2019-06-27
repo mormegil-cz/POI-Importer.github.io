@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže ve Zhoři",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Němčice",
+                "P6736": "17550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38123,
+                    49.90399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Zhoři",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Němčice",
+                "P6736": "17549"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38295,
+                    49.90424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zhoři na severním okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Němčice",
+                "P6736": "17548"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38545,
+                    49.90481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Svinné",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Česká Třebová",
+                "P6736": "17040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38643,
+                    49.89812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Cyrila a Metoděje ve Svinné",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Česká Třebová",
+                "P6736": "17039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38486,
+                    49.89767
+                ]
+            }
+        }
+    ]
+}

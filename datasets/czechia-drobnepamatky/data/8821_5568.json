@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Újezdu",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Újezd",
+                "P6736": "13679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83757,
+                    49.83135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Újezdu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Újezd",
+                "P6736": "13678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83805,
+                    49.83126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětějšího srdce Ježíšova v Újezdu",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Újezd",
+                "P6736": "13677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83813,
+                    49.83136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na jižním okraji Újezda",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Újezd",
+                "P6736": "13676"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8386,
+                    49.82668
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Tištíně na okraji obce",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Tištín",
+                "P6736": "21643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16829,
+                    49.31376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Nezamyslic u přejezdu nad dálnicí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nezamyslice",
+                "P6736": "21465"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17023,
+                    49.31748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nezamyslicích na okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nezamyslice",
+                "P6736": "21075"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.17748,
+                    49.3247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Nezamyslicích na rozcestí ke hřbitovu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nezamyslice",
+                "P6736": "21074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1734,
+                    49.32205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Nezamyslic vedle hlavní silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nezamyslice",
+                "P6736": "21061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16217,
+                    49.32104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí Panny Marie v Nezamyslicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nezamyslice",
+                "P6736": "21057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16234,
+                    49.3227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Nezamyslicích západně od obce",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Nezamyslice",
+                "P6736": "21056"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.16222,
+                    49.3227
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha maršála Rybalka v muzeu v Rokycanech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rokycany",
+                "P6736": "9731"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58639,
+                    49.72718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava v Rokycanech v ulici Václava Nového",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rokycany",
+                "P6736": "4278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59845,
+                    49.73493
+                ]
+            }
+        }
+    ]
+}

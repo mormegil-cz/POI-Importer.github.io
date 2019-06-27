@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Nové Vsi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Děkov",
+                "P6736": "15730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57035,
+                    50.172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce v Nové Vsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Děkov",
+                "P6736": "15729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57043,
+                    50.17207
+                ]
+            }
+        }
+    ]
+}

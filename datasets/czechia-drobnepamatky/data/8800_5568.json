@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník severně od Záluží",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Třemošná",
+                "P6736": "5697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36655,
+                    49.82593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem druhé světové války u Horní Břízy",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Horní Bříza",
+                "P6736": "4713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36818,
+                    49.8341
+                ]
+            }
+        }
+    ]
+}

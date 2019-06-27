@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na Holém vrchu nad Podsrpem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strakonice",
+                "P6736": "10864"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94059,
+                    49.25092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Hajské na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strakonice",
+                "P6736": "10863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94411,
+                    49.25343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Podsrpu u cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strakonice",
+                "P6736": "10862"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9419,
+                    49.25084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Podsrpu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Strakonice",
+                "P6736": "10861"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94153,
+                    49.249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička východně od Podsrpu",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Strakonice",
+                "P6736": "10860"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94264,
+                    49.24843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Podsrpu",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Strakonice",
+                "P6736": "10859"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9378,
+                    49.24955
+                ]
+            }
+        }
+    ]
+}

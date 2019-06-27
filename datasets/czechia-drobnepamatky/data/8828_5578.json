@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Podlesí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Podlesí",
+                "P6736": "13174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98181,
+                    49.69066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Podlesí",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Podlesí",
+                "P6736": "13173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98176,
+                    49.69072
+                ]
+            }
+        }
+    ]
+}

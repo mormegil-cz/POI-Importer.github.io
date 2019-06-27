@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kvítkově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Modlany",
+                "P6736": "15186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88631,
+                    50.63786
+                ]
+            }
+        }
+    ]
+}

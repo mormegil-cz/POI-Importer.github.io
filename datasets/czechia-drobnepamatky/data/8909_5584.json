@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dva pomníky padlým ve středu Modlíkova",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Modlíkov",
+                "P6736": "17255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7691,
+                    49.60826
+                ]
+            }
+        }
+    ]
+}

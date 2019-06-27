@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vernéřovicích západní část obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vernéřovice",
+                "P6736": "22559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21019,
+                    50.61486
+                ]
+            }
+        }
+    ]
+}

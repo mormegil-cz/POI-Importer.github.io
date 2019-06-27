@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým při komunikaci severovýchodně od hřbitova v Lipné",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Potštát",
+                "P6736": "23199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.69316,
+                    49.65995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na jihozápadní straně hřbitova v Lipné",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Potštát",
+                "P6736": "23198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.69256,
+                    49.65968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na severní straně hřbitova v Lipné",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Potštát",
+                "P6736": "23192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.69308,
+                    49.65985
+                ]
+            }
+        }
+    ]
+}

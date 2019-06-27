@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Lhotě u Medvědic",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Třebenice",
+                "P6736": "25085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90401,
+                    50.5067
+                ]
+            }
+        }
+    ]
+}

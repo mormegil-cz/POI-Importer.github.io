@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Broumova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Broumov",
+                "P6736": "25303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34452,
+                    50.5692
+                ]
+            }
+        }
+    ]
+}

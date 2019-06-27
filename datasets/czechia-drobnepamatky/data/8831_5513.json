@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ecce Homo v ulici U Trati v Dolních Zálezlech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Dolní Zálezly",
+                "P6736": "17173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04798,
+                    50.59721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Chvalově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Stebno",
+                "P6736": "14580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05779,
+                    50.60237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník objeviteli zdroje pitné vody pro obec v Chvalově",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Stebno",
+                "P6736": "14579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05772,
+                    50.60247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny v Dolních Zálezlech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Dolní Zálezly",
+                "P6736": "13604"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04322,
+                    50.59726
+                ]
+            }
+        }
+    ]
+}

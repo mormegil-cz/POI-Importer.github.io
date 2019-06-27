@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela svatého Michaela archanděla v Želetavě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Želetava",
+                "P6736": "21094"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67292,
+                    49.14301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na náměstí v Želetavě",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Želetava",
+                "P6736": "21093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6734,
+                    49.14228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí v Želetavě",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Želetava",
+                "P6736": "21092"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67313,
+                    49.14248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha dělníků u školy v Želetavě",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Želetava",
+                "P6736": "21091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67132,
+                    49.14458
+                ]
+            }
+        }
+    ]
+}

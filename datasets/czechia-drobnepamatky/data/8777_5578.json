@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jiří v Borovanech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bor",
+                "P6736": "9815"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85465,
+                    49.69352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Borovan východně od Borovan",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Bor",
+                "P6736": "9813"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85489,
+                    49.69328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Borovan u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9811"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85482,
+                    49.69326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Borovan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85846,
+                    49.69149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Borovan v lese",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9809"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8715,
+                    49.68515
+                ]
+            }
+        }
+    ]
+}

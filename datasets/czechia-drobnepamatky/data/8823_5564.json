@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Točníku",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Točník",
+                "P6736": "8789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88211,
+                    49.88543
+                ]
+            }
+        }
+    ]
+}

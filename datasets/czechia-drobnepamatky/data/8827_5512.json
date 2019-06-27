@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na návsi ve Stadicích",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96787,
+                    50.61791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie na návsi ve Stadicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "14727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96796,
+                    50.61783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna s Královským pramenem ve Stadicích",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "9525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.972,
+                    50.61995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Přemysla Oráče u Stadic",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "9524"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96324,
+                    50.6146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník severovýchodně od Řehlovic",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Řehlovice",
+                "P6736": "9097"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96204,
+                    50.61209
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hájku",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Polom",
+                "P6736": "12093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31327,
+                    50.04571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památný kámen v Hájku",
+                "P31": "Památný kámen",
+                "P31^label:cs": "Památný kámen",
+                "P131^label:cs": "Polom",
+                "P6736": "12086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3136,
+                    50.04565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek na stromě východně od Sudslavi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sudslava",
+                "P6736": "11805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30449,
+                    50.04469
+                ]
+            }
+        }
+    ]
+}

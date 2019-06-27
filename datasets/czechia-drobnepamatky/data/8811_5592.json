@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Dvorci v ulici Ke Dvorům",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Nepomuk",
+                "P6736": "8543"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60173,
+                    49.49287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Dvorci v Rožmitálské ulici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nepomuk",
+                "P6736": "8520"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60111,
+                    49.49598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Třebčicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Třebčice",
+                "P6736": "7438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61168,
+                    49.48362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Třebčicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Třebčice",
+                "P6736": "7437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61158,
+                    49.48394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severozápadně od Třebčic",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Třebčice",
+                "P6736": "7435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60861,
+                    49.48529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Dvorci v Tojické ulici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nepomuk",
+                "P6736": "7434"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60607,
+                    49.49365
+                ]
+            }
+        }
+    ]
+}

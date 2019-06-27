@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Čmelín",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Čmelíny",
+                "P6736": "8550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6433,
+                    49.49397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Tojicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Tojice",
+                "P6736": "7432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62677,
+                    49.49252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v Tojicích",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Tojice",
+                "P6736": "7433"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62667,
+                    49.49228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí severně od Tojic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tojice",
+                "P6736": "7431"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6253,
+                    49.49429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Tojicích u silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tojice",
+                "P6736": "4982"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62309,
+                    49.49258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Tojicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tojice",
+                "P6736": "4958"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62668,
+                    49.49257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Tojicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Tojice",
+                "P6736": "4957"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62664,
+                    49.49261
+                ]
+            }
+        }
+    ]
+}

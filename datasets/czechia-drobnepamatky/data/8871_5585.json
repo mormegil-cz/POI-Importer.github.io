@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí nad Slavětínem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Načeradec",
+                "P6736": "2244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92236,
+                    49.58614
+                ]
+            }
+        }
+    ]
+}

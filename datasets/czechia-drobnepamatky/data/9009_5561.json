@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svaté Anny ve Velkých Hošticích západní okraj obce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Velké Hoštice",
+                "P6736": "23541"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.96668,
+                    49.93695
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Nové Vsi mezi stromy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "5862"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05031,
+                    49.31384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Nové Vsi",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Kamenice nad Lipou",
+                "P6736": "5863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04918,
+                    49.31438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Včelničky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bohdalín",
+                "P6736": "1250"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03306,
+                    49.31385
+                ]
+            }
+        }
+    ]
+}

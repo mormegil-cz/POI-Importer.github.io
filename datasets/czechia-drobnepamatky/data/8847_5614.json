@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u zaniklého Podhájí",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Temelín",
+                "P6736": "1287"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40162,
+                    49.17989
+                ]
+            }
+        }
+    ]
+}

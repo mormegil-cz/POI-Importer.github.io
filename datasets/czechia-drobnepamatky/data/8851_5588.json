@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Chlístovské menhiry",
+                "P31": "Menhir",
+                "P31^label:cs": "Menhir",
+                "P131^label:cs": "Nadějkov",
+                "P6736": "17227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.48823,
+                    49.54675
+                ]
+            }
+        }
+    ]
+}

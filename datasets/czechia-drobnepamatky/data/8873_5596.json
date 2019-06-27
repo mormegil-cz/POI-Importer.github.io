@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Šimpachu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Obrataň",
+                "P6736": "6318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97623,
+                    49.43639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Šimpachu",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Obrataň",
+                "P6736": "6319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97638,
+                    49.43642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u pěstitelské pálenice Dvořiště",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Obrataň",
+                "P6736": "2488"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97501,
+                    49.42538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Šimpachu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Obrataň",
+                "P6736": "2491"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97982,
+                    49.43197
+                ]
+            }
+        }
+    ]
+}

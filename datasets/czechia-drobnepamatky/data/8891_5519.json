@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod vodojemem v ulici Antala Staška v Lomnici nad Popelkou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "14519"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36158,
+                    50.52604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty na Chlum u rozcestí do obory v Lomnici nad Popelkou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "14514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.36974,
+                    50.5213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u viaduktu na Jičínské ulici v Lomnici nad Popelkou",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Lomnice nad Popelkou",
+                "P6736": "14066"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.37821,
+                    50.52646
+                ]
+            }
+        }
+    ]
+}

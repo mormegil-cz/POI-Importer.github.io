@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pranýř v Jistebnici",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52639,
+                    49.48552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna se sochou svatého Jana Nepomuckého v Jistebnici",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52739,
+                    49.48572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jistebnici na náměstí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7787"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52738,
+                    49.48597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Jistebnici v Táborské ulici",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "7786"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53203,
+                    49.4834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka východně od Jistebnice",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Jistebnice",
+                "P6736": "1674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53386,
+                    49.4826
+                ]
+            }
+        }
+    ]
+}

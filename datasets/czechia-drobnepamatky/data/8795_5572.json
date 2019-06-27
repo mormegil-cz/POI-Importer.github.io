@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u stromu u Města Touškov",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Město Touškov",
+                "P6736": "2034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26206,
+                    49.77879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Města Touškov",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Město Touškov",
+                "P6736": "2035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25126,
+                    49.78099
+                ]
+            }
+        }
+    ]
+}

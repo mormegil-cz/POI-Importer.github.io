@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Barokní kašna na náměstí v Čechticích",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Čechtice",
+                "P6736": "23210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04882,
+                    49.6233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Václava na náměstí v Čechticích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Čechtice",
+                "P6736": "23140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04892,
+                    49.62312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. sv. válce před zvonicí v Čechticích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Čechtice",
+                "P6736": "23139"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04873,
+                    49.62279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka při silnici Čechtice - Nové Práchňany",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Čechtice",
+                "P6736": "23138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02933,
+                    49.61778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie na náměstí v Čechticích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Čechtice",
+                "P6736": "19479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04872,
+                    49.62346
+                ]
+            }
+        }
+    ]
+}

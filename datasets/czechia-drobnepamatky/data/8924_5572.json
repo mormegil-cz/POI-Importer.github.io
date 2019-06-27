@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička a Boží muka na severozápadním okraji obce Martinice u Skutče",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Proseč",
+                "P6736": "15879"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10292,
+                    49.7798
+                ]
+            }
+        }
+    ]
+}

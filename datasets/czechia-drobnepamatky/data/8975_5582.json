@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Horce nad Moravou v Okružní ulici",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Horka nad Moravou",
+                "P6736": "17275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.20627,
+                    49.63732
+                ]
+            }
+        }
+    ]
+}

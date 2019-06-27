@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Plachtíně za plotem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3356"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16171,
+                    49.94677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Plachtíně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3344"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1627,
+                    49.94664
+                ]
+            }
+        }
+    ]
+}

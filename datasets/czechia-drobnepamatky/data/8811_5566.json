@@ -1,0 +1,481 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž jihovýchodně od Radnic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radnice",
+                "P6736": "16633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61417,
+                    49.85516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika na fasádě domu v Dědické ulici v Radnici",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Radnice",
+                "P6736": "15958"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60782,
+                    49.8577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska v Dědické ulici v Radnici",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Radnice",
+                "P6736": "15957"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60764,
+                    49.85777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava nad hlavním vchodem do kostela v Radnici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Radnice",
+                "P6736": "15956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6072,
+                    49.85746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Radnicích u Plzeňské ulice",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Radnice",
+                "P6736": "8027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60303,
+                    49.8563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Radnic na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radnice",
+                "P6736": "8026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61387,
+                    49.85541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Radnic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Radnice",
+                "P6736": "4566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60192,
+                    49.85995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na konci křížové cesty u Radnic",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Radnice",
+                "P6736": "4565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61071,
+                    49.86044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na křížové cestě u Radnic - 14. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4564"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61091,
+                    49.86039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 13. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61131,
+                    49.8601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 12. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61162,
+                    49.85986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 11. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61198,
+                    49.85966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 10. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61238,
+                    49.85947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 9. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61279,
+                    49.8593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 8. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4558"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61318,
+                    49.85914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 7. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4557"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61358,
+                    49.85897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 5. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4556"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61397,
+                    49.85834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 4. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61343,
+                    49.85826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 3. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61292,
+                    49.85823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 2. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61239,
+                    49.85826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 1. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "4552"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61187,
+                    49.85829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha piety u Radnic",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Radnice",
+                "P6736": "4551"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61009,
+                    49.85793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha mistra Jana Husa v Radnicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Radnice",
+                "P6736": "4550"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60658,
+                    49.85723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Radnicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Radnice",
+                "P6736": "4549"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60569,
+                    49.85688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Radnicemi zarostlý v náletových dřevinách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radnice",
+                "P6736": "2438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62111,
+                    49.86211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Radnicemi u silnice na Zbiroh",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radnice",
+                "P6736": "2436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61131,
+                    49.85276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížová cesta u Radnic - 6. zastavení",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radnice",
+                "P6736": "2432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61398,
+                    49.8588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křížové cesty nad Radnicemi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radnice",
+                "P6736": "2433"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61437,
+                    49.85863
+                ]
+            }
+        }
+    ]
+}

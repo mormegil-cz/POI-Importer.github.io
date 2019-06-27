@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky jižně od Hradecka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "1581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50621,
+                    50.00637
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Dírné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dírná",
+                "P6736": "6311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8662,
+                    49.24199
+                ]
+            }
+        }
+    ]
+}

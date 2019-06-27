@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Sudic při cestě do Třebomi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sudice",
+                "P6736": "23464"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05581,
+                    50.0355
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Chotěbudicích",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Krásný Dvůr",
+                "P6736": "20079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34167,
+                    50.26807
+                ]
+            }
+        }
+    ]
+}

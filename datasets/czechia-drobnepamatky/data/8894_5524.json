@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Radimi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radim",
+                "P6736": "16401"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42809,
+                    50.45738
+                ]
+            }
+        }
+    ]
+}

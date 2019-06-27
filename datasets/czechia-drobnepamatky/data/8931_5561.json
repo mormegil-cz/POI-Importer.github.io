@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Českých Heřmanicích u hřbitova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "České Heřmanice",
+                "P6736": "12137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25331,
+                    49.93174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy Panny Marie v Českých Heřmanicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "České Heřmanice",
+                "P6736": "12130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25249,
+                    49.93143
+                ]
+            }
+        }
+    ]
+}

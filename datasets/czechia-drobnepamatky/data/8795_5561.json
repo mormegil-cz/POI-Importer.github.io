@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník severně od Lítého",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Hvozd",
+                "P6736": "8319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26211,
+                    49.92419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod Hvozdem nedaleko rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hvozd",
+                "P6736": "1606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.26076,
+                    49.93483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Hvozdu",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Hvozd",
+                "P6736": "1613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25944,
+                    49.93253
+                ]
+            }
+        }
+    ]
+}

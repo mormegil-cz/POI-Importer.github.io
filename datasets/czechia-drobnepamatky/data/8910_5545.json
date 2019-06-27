@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kámen s mementem u křižovatky poblíž parku v Opatovicích nad Labem",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Opatovice nad Labem",
+                "P6736": "17148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.79541,
+                    50.15047
+                ]
+            }
+        }
+    ]
+}

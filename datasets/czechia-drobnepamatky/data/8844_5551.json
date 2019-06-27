@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v květnu 1945 u Motolského potoka",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Praha",
+                "P6736": "24661"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34655,
+                    50.06897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy zvířat za dětským pavilonem nemocnice v Motole",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34285,
+                    50.07325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník popraveného pěšáka Kudrny v areálu nemocnice v Motole",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Praha",
+                "P6736": "24653"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34398,
+                    50.07413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha matky s dětmi před nemocnicí v Motole",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "24652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34123,
+                    50.07459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička se zvonicí v Praze 6, ul. Bělohorská",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Praha",
+                "P6736": "17830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33108,
+                    50.07613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "6. kaple Hájecké cesty v Praze",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "17795"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33848,
+                    50.07642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "5. kaple Hájecké cesty v Praze",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "17794"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34742,
+                    50.07767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v ulici Za Opravnou v Praze",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Praha",
+                "P6736": "11147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33101,
+                    50.0676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ženy s dítětem v areálu nemocnice Na Homolce",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Praha",
+                "P6736": "11146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34348,
+                    50.07356
+                ]
+            }
+        }
+    ]
+}

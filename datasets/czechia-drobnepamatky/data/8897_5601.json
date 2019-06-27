@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Kostelce pod Kosteleckým vrchem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostelec",
+                "P6736": "19407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.49771,
+                    49.3569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Kostelce",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kostelec",
+                "P6736": "9371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.49602,
+                    49.36636
+                ]
+            }
+        }
+    ]
+}

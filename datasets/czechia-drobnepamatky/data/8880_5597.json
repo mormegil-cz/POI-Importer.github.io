@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese východně od Nové Cerekve",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nová Cerekev",
+                "P6736": "7358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12308,
+                    49.4184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Proseče-Obořiště",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nová Cerekev",
+                "P6736": "7083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12613,
+                    49.4114
+                ]
+            }
+        }
+    ]
+}

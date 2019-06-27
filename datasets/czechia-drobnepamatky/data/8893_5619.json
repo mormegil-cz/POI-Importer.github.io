@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zahradě kláštera karmelitánů v Kostelním Vydří",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostelní Vydří",
+                "P6736": "23361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41914,
+                    49.10237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Josefa na barokním mostě v Kostelním Vydří",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Kostelní Vydří",
+                "P6736": "23360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42321,
+                    49.10953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Jana Nepomuckého na barokním mostě v Kostelním Vydří",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Kostelní Vydří",
+                "P6736": "23359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42313,
+                    49.10954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela Panny Marie Karmelské v Kostelním Vydří",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostelní Vydří",
+                "P6736": "18555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4191,
+                    49.10312
+                ]
+            }
+        }
+    ]
+}

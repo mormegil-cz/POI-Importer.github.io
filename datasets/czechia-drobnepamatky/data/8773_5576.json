@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Špitální kaple v Boru u Tachova",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bor",
+                "P6736": "9668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7774,
+                    49.71121
+                ]
+            }
+        }
+    ]
+}

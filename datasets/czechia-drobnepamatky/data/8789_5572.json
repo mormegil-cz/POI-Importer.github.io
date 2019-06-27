@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Pňovanech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pňovany",
+                "P6736": "8295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12217,
+                    49.77539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pňovanech u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pňovany",
+                "P6736": "4910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12189,
+                    49.78024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Pňovan",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Pňovany",
+                "P6736": "3715"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12342,
+                    49.77871
+                ]
+            }
+        }
+    ]
+}

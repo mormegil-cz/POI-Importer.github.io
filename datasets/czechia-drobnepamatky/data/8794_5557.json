@@ -1,0 +1,787 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Manětína u polní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "10271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23353,
+                    49.98481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Manětíně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Manětín",
+                "P6736": "10270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23769,
+                    49.9923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy v Manětíně na zámku",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "9693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23262,
+                    49.9915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Manětíně před zámkem",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Manětín",
+                "P6736": "9688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2327,
+                    49.99134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v zámeckém parku v Manětíně",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Manětín",
+                "P6736": "9682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23285,
+                    49.99109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížové kameny u kostela v Manětíně",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Manětín",
+                "P6736": "7994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23101,
+                    49.99152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u kostela v Manětíně",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Manětín",
+                "P6736": "7993"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23103,
+                    49.99151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Piety v nice v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "7992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23127,
+                    49.99163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Manětíně u kostela",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Manětín",
+                "P6736": "7991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23162,
+                    49.99162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Aeskulapa v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "7990"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23276,
+                    49.99192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Moudrosti v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "7989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23287,
+                    49.99181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Štěstěny v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "7988"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23312,
+                    49.99187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha lásky v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "7987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23227,
+                    49.99171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Otýlie v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "7986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23138,
+                    49.99141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Spravedlnosti v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "7985"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23169,
+                    49.99155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha trpícího Krista v nice v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "7984"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23139,
+                    49.99154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Křtitele u kostela v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "7983"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23082,
+                    49.99154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Manětína v poli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "7972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2381,
+                    49.98863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Manětíně u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "7971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23559,
+                    49.98964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Manětíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "7969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23107,
+                    49.99152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Manětína na svahu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "7968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24422,
+                    49.99234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple východně od Manětína",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Manětín",
+                "P6736": "5585"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24333,
+                    49.99213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na křižovatce v Manětíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "5584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2352,
+                    49.9925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Karla Boromejského v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "5583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23157,
+                    49.99133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v západní části Manětína",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Manětín",
+                "P6736": "5580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22893,
+                    49.99156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava v Manětíně v kašně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "4166"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23285,
+                    49.9919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Nejsvětější Trojice v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "4165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2322,
+                    49.9918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní sloup výročí založení Manětína",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Manětín",
+                "P6736": "3580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23552,
+                    49.99263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Anny v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23737,
+                    49.99225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Josefa v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23733,
+                    49.99216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Fabiána v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23806,
+                    49.99189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Šebestiána v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3576"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23811,
+                    49.99196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Rocha v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3575"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23892,
+                    49.99179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Rosalie v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2389,
+                    49.99188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Bolestné Matky Boží v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23978,
+                    49.9919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ecce Homo v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23979,
+                    49.99182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Donáta v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3571"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24041,
+                    49.99194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Benna v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24034,
+                    49.99201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Anděla Strážce v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24172,
+                    49.99234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Archanděla Michaela v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2415,
+                    49.99226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3567"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2422,
+                    49.99253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Ludmily v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3566"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24207,
+                    49.99262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Barbory v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24274,
+                    49.99207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Manětíně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "3564"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24245,
+                    49.99197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Raymunda u Manětína",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Manětín",
+                "P6736": "2011"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24317,
+                    49.99033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka nad Manětínem",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Manětín",
+                "P6736": "2015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24386,
+                    49.98557
+                ]
+            }
+        }
+    ]
+}

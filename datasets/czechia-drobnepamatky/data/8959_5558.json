@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Rudě nad Moravou na ulici 9. května",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Ruda nad Moravou",
+                "P6736": "24228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87488,
+                    49.97726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší svatého Jana Nepomuckého s andílky v Rudě nad Moravou před zámkem",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Ruda nad Moravou",
+                "P6736": "23203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87485,
+                    49.97578
+                ]
+            }
+        }
+    ]
+}

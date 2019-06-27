@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Ústrašína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ústrašín",
+                "P6736": "6047"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17612,
+                    49.38108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Ústrašínského rybníka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ústrašín",
+                "P6736": "6046"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16696,
+                    49.38006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Ústrašína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ústrašín",
+                "P6736": "6045"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16539,
+                    49.37826
+                ]
+            }
+        }
+    ]
+}

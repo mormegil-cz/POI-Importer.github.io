@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Černé u Bohdanče",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Černá u Bohdanče",
+                "P6736": "15378"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67088,
+                    50.05596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Černé u Bohdanče",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Černá u Bohdanče",
+                "P6736": "15377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67099,
+                    50.05596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Černé u Bohdanče",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Černá u Bohdanče",
+                "P6736": "15375"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67109,
+                    50.05595
+                ]
+            }
+        }
+    ]
+}

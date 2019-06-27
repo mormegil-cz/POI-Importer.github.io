@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník první zmínky o obci na návsi v Hrušovanech",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Hrušovany",
+                "P6736": "23733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49782,
+                    50.3862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Hrušovanech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Hrušovany",
+                "P6736": "23732"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49801,
+                    50.38656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Rocha na návsi v Hrušovanech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hrušovany",
+                "P6736": "23731"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49862,
+                    50.38702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Kalvárie na návsi v Hrušovanech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hrušovany",
+                "P6736": "23730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49794,
+                    50.38686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Hanse Kudlicha na návsi v Hrušovanech",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Hrušovany",
+                "P6736": "23729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4982,
+                    50.38702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Malá kašna na návsi v Hrušovanech",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Hrušovany",
+                "P6736": "23728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.498,
+                    50.38714
+                ]
+            }
+        }
+    ]
+}

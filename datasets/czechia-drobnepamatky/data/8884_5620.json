@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v lese jihovýchodně od Kunžaku",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Kunžak",
+                "P6736": "12645"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.21656,
+                    49.09266
+                ]
+            }
+        }
+    ]
+}

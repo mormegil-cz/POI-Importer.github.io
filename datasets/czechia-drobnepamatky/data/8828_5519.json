@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Březně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velemín",
+                "P6736": "18077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.97593,
+                    50.52445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Piety v polním remízu východně od Března",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Velemín",
+                "P6736": "18074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98937,
+                    50.52668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u studánky na návsi v Režném Újezdě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velemín",
+                "P6736": "16163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99361,
+                    50.51791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Režném Újezdě",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velemín",
+                "P6736": "16162"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99412,
+                    50.51822
+                ]
+            }
+        }
+    ]
+}

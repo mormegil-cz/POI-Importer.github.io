@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník výstavby silnice na Pozorce u Sekerských Chalup",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Stará Voda",
+                "P6736": "9213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63298,
+                    49.97599
+                ]
+            }
+        }
+    ]
+}

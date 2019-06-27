@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Olšanech vedle kapličky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chotěnov",
+                "P6736": "21689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.17969,
+                    49.82568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Olšanech",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Chotěnov",
+                "P6736": "21688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1796,
+                    49.82567
+                ]
+            }
+        }
+    ]
+}

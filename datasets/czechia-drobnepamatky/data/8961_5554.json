@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na okraji Raškova na rozcestí",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Bohdíkov",
+                "P6736": "24014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89985,
+                    50.03148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Raškově před kostelem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bohdíkov",
+                "P6736": "24013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89932,
+                    50.03321
+                ]
+            }
+        }
+    ]
+}

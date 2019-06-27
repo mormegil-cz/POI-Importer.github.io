@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Perálci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Perálec",
+                "P6736": "21685"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08453,
+                    49.82566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník padlým v 1 světové válce ve Zderazi",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Zderaz",
+                "P6736": "21680"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.10057,
+                    49.82847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zderazi u kapličky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zderaz",
+                "P6736": "21679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.09971,
+                    49.82814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Zderazi",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Zderaz",
+                "P6736": "21678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0998,
+                    49.82818
+                ]
+            }
+        }
+    ]
+}

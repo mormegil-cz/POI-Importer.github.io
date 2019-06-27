@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Benedy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zálezly",
+                "P6736": "17646"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91828,
+                    49.10465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí východně od Zálezel",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zálezly",
+                "P6736": "16596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91244,
+                    49.10543
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Jiřího Hrubého u Letkova",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Letkov",
+                "P6736": "10818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4638,
+                    49.72316
+                ]
+            }
+        }
+    ]
+}

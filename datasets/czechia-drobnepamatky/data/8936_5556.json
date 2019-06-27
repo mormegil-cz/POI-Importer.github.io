@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dobré Vodě",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Orlické Podhůří",
+                "P6736": "12092"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35105,
+                    50.00309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Pomocné v Klopotech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Orlické Podhůří",
+                "P6736": "12083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35321,
+                    49.99589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Dobré Vody",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Libchavy",
+                "P6736": "12071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36518,
+                    50.00222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Říček",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Orlické Podhůří",
+                "P6736": "12044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3633,
+                    49.99731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dobré Vodě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Orlické Podhůří",
+                "P6736": "12024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35098,
+                    50.0031
+                ]
+            }
+        }
+    ]
+}

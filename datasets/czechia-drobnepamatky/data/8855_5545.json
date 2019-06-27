@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Přezleticích při silnici na Veleň",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Přezletice",
+                "P6736": "15699"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57264,
+                    50.1605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na křižovatce v Přezleticích",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Přezletice",
+                "P6736": "15361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57714,
+                    50.15528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v ctěnickém háji",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Praha",
+                "P6736": "14747"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5739,
+                    50.14933
+                ]
+            }
+        }
+    ]
+}

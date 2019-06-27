@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie v Morávce",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Morávka",
+                "P6736": "14912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5392,
+                    49.58625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník vodního díla na Morávce v Morávce",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Morávka",
+                "P6736": "14896"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53608,
+                    49.58381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník u přehrady v Morávce",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Morávka",
+                "P6736": "14895"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53657,
+                    49.58375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník staviteli beskydských přehrad v Morávce",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Morávka",
+                "P6736": "14894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53635,
+                    49.5839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník dvěma popraveným z 2. světové války v Morávce",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Morávka",
+                "P6736": "14893"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53527,
+                    49.58651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník umučeným v Morávce",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Morávka",
+                "P6736": "14892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52805,
+                    49.59092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž poblíž parkoviště Na Lipovém v Morávce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Morávka",
+                "P6736": "14875"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5267,
+                    49.59371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Noční přechod u Morávky",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Morávka",
+                "P6736": "9272"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52683,
+                    49.5933
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník u Popovic",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Všeruby",
+                "P6736": "5515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.17347,
+                    49.85257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli u Klenovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Všeruby",
+                "P6736": "1730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18138,
+                    49.85371
+                ]
+            }
+        }
+    ]
+}

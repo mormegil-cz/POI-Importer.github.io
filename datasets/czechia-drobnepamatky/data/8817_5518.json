@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha anděla před kaplí v Kaňkově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Braňany",
+                "P6736": "16656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73482,
+                    50.53879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kaplí v Kaňkově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Braňany",
+                "P6736": "16655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73476,
+                    50.5388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny v Kaňkově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Braňany",
+                "P6736": "16654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7348,
+                    50.53876
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Výrově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Blížejov",
+                "P6736": "4714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97497,
+                    49.49063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka nad Výrovem",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Blížejov",
+                "P6736": "3062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97415,
+                    49.4948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v západní části Výrova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blížejov",
+                "P6736": "3061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97374,
+                    49.49052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Výrova",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Blížejov",
+                "P6736": "2808"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97232,
+                    49.49039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Výrova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blížejov",
+                "P6736": "2807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97243,
+                    49.49023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Nahošic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blížejov",
+                "P6736": "2147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9825,
+                    49.48776
+                ]
+            }
+        }
+    ]
+}

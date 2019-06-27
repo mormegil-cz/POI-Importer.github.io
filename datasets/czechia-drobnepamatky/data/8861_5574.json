@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horním Podhájí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Struhařov",
+                "P6736": "10593"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72127,
+                    49.74815
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u Zbirožského dvora",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77473,
+                    49.86126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Zbirohu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7657,
+                    49.85827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela ve Zbirohu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76875,
+                    49.85858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha lva před zámkem Zbiroh vlevo od brány",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8082"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7608,
+                    49.85876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha lva před zámkem Zbiroh vpravo od brány",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8081"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7607,
+                    49.85863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na zámku Zbiroh",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "8080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76186,
+                    49.85851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie ve Zbirohu",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "6940"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76894,
+                    49.85873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého ve Zbirohu",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "6939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76885,
+                    49.85895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Zbirohu",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "6937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7686,
+                    49.85883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zbirohu u kostelní zdi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "6936"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76858,
+                    49.85863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zbirohu u Muchovy ulice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "6935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76905,
+                    49.85624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Zbiroha",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zbiroh",
+                "P6736": "6916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76515,
+                    49.85367
+                ]
+            }
+        }
+    ]
+}

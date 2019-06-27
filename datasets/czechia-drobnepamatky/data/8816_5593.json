@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Chloumku u lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8582"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72767,
+                    49.48152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Chloumku u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.726,
+                    49.478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Kasejovic u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73193,
+                    49.47063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Kasejovic v sadu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8580"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73141,
+                    49.4712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Kasejovic u polní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72961,
+                    49.46942
+                ]
+            }
+        }
+    ]
+}

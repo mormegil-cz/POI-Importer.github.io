@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek západně od Dobříče",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Obora",
+                "P6736": "5085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45567,
+                    49.88995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Dobříči",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Dobříč",
+                "P6736": "4803"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46873,
+                    49.88426
+                ]
+            }
+        }
+    ]
+}

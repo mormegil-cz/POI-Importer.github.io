@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Vránova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Staňkov",
+                "P6736": "4240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03674,
+                    49.54302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vránově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Staňkov",
+                "P6736": "3201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03987,
+                    49.5412
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Radčicích v zahradě",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Plzeň",
+                "P6736": "6798"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32343,
+                    49.76364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem náletu v Radčicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32844,
+                    49.767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v první světové válce v Radčicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4499"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32834,
+                    49.76685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Radčicích v ulici Na Jívách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4498"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32408,
+                    49.76397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Radčicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32611,
+                    49.76236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Radčicích",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Plzeň",
+                "P6736": "4496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32738,
+                    49.76211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na skalách nad řekou Mží východně od Radčic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plzeň",
+                "P6736": "2419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.337,
+                    49.75903
+                ]
+            }
+        }
+    ]
+}

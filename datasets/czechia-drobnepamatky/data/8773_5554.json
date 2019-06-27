@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Nejsvětější trojice u Sítin",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Mnichov",
+                "P6736": "11202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76676,
+                    50.02438
+                ]
+            }
+        }
+    ]
+}

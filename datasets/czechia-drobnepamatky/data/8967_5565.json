@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Nedvězí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rohle",
+                "P6736": "16280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03071,
+                    49.87128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Nedvězí",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Rohle",
+                "P6736": "13228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03273,
+                    49.87181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Nedvězí u hlavní silnice",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Rohle",
+                "P6736": "13014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03383,
+                    49.87326
+                ]
+            }
+        }
+    ]
+}

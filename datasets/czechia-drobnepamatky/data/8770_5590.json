@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křeslo v krajině nad Šidlákovem",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "10780"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71303,
+                    49.52106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Šidlákova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "4169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72169,
+                    49.52256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Šidlákově u cesty do Korytan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "4167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71597,
+                    49.5207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Šidlákova u cesty do Šibanova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "2487"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71718,
+                    49.52038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Šidlákova u rybníčku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "2485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72057,
+                    49.52299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Šidlákova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "2486"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71984,
+                    49.5223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Šidlákovem a nad zaniklými Korytany",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "2480"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.70661,
+                    49.52138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Šidlákově na návsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "2483"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71981,
+                    49.52261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Šidlákova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "2481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71761,
+                    49.51794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Šidlákovem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "2482"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71518,
+                    49.5224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Menhir u Šidlákova",
+                "P31": "Menhir",
+                "P31^label:cs": "Menhir",
+                "P131^label:cs": "Hora Svatého Václava",
+                "P6736": "2484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.71543,
+                    49.52262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad zaniklými Korytany",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "1765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7027,
+                    49.52034
+                ]
+            }
+        }
+    ]
+}

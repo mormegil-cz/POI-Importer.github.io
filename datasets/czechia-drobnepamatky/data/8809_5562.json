@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Bujesily",
+                "P6736": "12103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57424,
+                    49.91499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Bujesil na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Liblín",
+                "P6736": "8162"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56055,
+                    49.91496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bujesilech u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bujesily",
+                "P6736": "8161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57489,
+                    49.91139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bujesilech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bujesily",
+                "P6736": "4574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57332,
+                    49.9153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Bujesilech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bujesily",
+                "P6736": "4573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57419,
+                    49.91489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bujesilech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Bujesily",
+                "P6736": "4572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57409,
+                    49.91487
+                ]
+            }
+        }
+    ]
+}

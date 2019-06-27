@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice u kostela Narození Panny Marie v centru obce Sudoměř",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Sudoměř",
+                "P6736": "15874"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.73983,
+                    50.44424
+                ]
+            }
+        }
+    ]
+}

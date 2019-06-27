@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník pochodu smrti u Pístova",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Chodová Planá",
+                "P6736": "6528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76639,
+                    49.92421
+                ]
+            }
+        }
+    ]
+}

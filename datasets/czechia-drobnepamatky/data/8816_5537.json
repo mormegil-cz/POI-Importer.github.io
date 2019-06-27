@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Konětopech",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Pnětluky",
+                "P6736": "9437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73045,
+                    50.26805
+                ]
+            }
+        }
+    ]
+}

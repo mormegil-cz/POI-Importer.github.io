@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Janovičkách u Broumova",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Heřmánkovice",
+                "P6736": "22285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35947,
+                    50.64044
+                ]
+            }
+        }
+    ]
+}

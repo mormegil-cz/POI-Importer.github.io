@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Svojanova v lese",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Borušov",
+                "P6736": "13112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79516,
+                    49.77453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Svojanova v lese",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Borušov",
+                "P6736": "12054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79815,
+                    49.77188
+                ]
+            }
+        }
+    ]
+}

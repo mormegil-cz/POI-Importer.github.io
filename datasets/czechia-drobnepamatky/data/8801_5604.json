@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky severozápadně od Mlázov",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kolinec",
+                "P6736": "10254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40219,
+                    49.32029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Mlázov u samoty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kolinec",
+                "P6736": "10253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40286,
+                    49.31714
+                ]
+            }
+        }
+    ]
+}

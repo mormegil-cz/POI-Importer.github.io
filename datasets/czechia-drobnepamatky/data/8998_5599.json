@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Cyrila a Metoděje ve Chvalčově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Chvalčov",
+                "P6736": "11161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7113,
+                    49.39117
+                ]
+            }
+        }
+    ]
+}

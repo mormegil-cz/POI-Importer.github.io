@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Horním Houžovci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ústí nad Orlicí",
+                "P6736": "21071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4807,
+                    49.96132
+                ]
+            }
+        }
+    ]
+}

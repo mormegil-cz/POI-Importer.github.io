@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž na Dlouhé louce",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Zahrádka",
+                "P6736": "1603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1778,
+                    49.91435
+                ]
+            }
+        }
+    ]
+}

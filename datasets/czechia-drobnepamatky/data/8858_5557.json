@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž v Říčanech u Prahy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Říčany",
+                "P6736": "14288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64124,
+                    49.98664
+                ]
+            }
+        }
+    ]
+}

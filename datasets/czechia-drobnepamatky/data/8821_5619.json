@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Hradčanech",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bošice",
+                "P6736": "16942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84153,
+                    49.0985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Hradčanech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bošice",
+                "P6736": "16934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84143,
+                    49.09854
+                ]
+            }
+        }
+    ]
+}

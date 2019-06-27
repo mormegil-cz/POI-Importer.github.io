@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v údolí Malého Lipového v Morávce",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Morávka",
+                "P6736": "14887"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52217,
+                    49.61124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Morávce",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Morávka",
+                "P6736": "14869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.50277,
+                    49.61097
+                ]
+            }
+        }
+    ]
+}

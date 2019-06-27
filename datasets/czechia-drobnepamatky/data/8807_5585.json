@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Blovicích v Setecké ulici",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Blovice",
+                "P6736": "7491"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53212,
+                    49.58476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem totalitních režimů nad Blovicemi",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Blovice",
+                "P6736": "7490"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52277,
+                    49.58484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Blovic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Blovice",
+                "P6736": "7489"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52281,
+                    49.58471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Blovic",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Blovice",
+                "P6736": "5772"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53304,
+                    49.58902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Blovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blovice",
+                "P6736": "5771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53364,
+                    49.58909
+                ]
+            }
+        }
+    ]
+}

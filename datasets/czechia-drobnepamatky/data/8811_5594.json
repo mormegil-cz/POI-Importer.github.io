@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Záhoří",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Mileč",
+                "P6736": "5973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61738,
+                    49.46104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Záhoří u Maňovského rybníka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mileč",
+                "P6736": "5972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60964,
+                    49.45682
+                ]
+            }
+        }
+    ]
+}

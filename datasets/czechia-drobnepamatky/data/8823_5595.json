@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Bezdědovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chlum",
+                "P6736": "8511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86812,
+                    49.44983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Bezdědovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bezdědovice",
+                "P6736": "8479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88111,
+                    49.44393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Bezdědovicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Bezdědovice",
+                "P6736": "8478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88099,
+                    49.44397
+                ]
+            }
+        }
+    ]
+}

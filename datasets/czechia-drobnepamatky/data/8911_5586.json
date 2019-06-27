@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na západním okraji obce Pořežín u křižovatky silnice na Přibyslav a místních komunikací",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Velká Losenice",
+                "P6736": "15837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80335,
+                    49.57829
+                ]
+            }
+        }
+    ]
+}

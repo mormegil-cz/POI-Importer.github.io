@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u křížové cesty na Dunajovické hoře",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Dunajovice",
+                "P6736": "1497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69799,
+                    49.02333
+                ]
+            }
+        }
+    ]
+}

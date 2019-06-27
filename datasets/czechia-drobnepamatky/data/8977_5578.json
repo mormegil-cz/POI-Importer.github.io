@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Štarnova u kapličky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Štarnov",
+                "P6736": "18934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26681,
+                    49.6836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Panny Marie Bolestné na okraji Štarnova",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Štarnov",
+                "P6736": "18926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26677,
+                    49.68357
+                ]
+            }
+        }
+    ]
+}

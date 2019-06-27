@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Klabavě",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Klabava",
+                "P6736": "4617"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54034,
+                    49.75315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u Klabavy",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Klabava",
+                "P6736": "4534"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53873,
+                    49.75296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u Klabavy",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Klabava",
+                "P6736": "1717"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54753,
+                    49.75399
+                ]
+            }
+        }
+    ]
+}

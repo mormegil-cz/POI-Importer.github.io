@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník na svahu jižně od Rakové",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Kamenný Újezd",
+                "P6736": "3131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58367,
+                    49.71111
+                ]
+            }
+        }
+    ]
+}

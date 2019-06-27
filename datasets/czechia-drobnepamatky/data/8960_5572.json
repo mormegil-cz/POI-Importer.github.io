@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Podolí na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "22178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89485,
+                    49.77766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nejsvětější Trojice v Podolí na návsi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "22177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89059,
+                    49.77697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Podolí vedle silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "22176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88698,
+                    49.77622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Vyšehorkách",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Líšnice",
+                "P6736": "16140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8759,
+                    49.76834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Podolí v poli",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "14919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88155,
+                    49.77229
+                ]
+            }
+        }
+    ]
+}

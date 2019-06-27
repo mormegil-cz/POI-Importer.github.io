@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na jižní straně Horní návsi v Dobřichově",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "24668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0321,
+                    50.07627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Františka Klecanského před kostelem Nejsvětější Trojice v Dobřichově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "24665"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03351,
+                    50.07529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka před kostelem Nejsvětější Trojice v Dobřichově",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "24659"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03326,
+                    50.07528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka západně od hřbitova v Dobřichově",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "24656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03396,
+                    50.07385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník na vrchu Píčhora nad Dobřichovem",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "13923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02985,
+                    50.07495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty k Píčhoře nad Dobřichovem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "13922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03038,
+                    50.07373
+                ]
+            }
+        }
+    ]
+}

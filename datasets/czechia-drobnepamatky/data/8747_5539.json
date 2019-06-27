@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Deska s reliéfem Friedricha Schillera u rozhledny Háj",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Aš",
+                "P6736": "13513"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20226,
+                    50.23392
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na okraji Valticích na rozcestí",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Valtice",
+                "P6736": "17307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7579,
+                    48.73368
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Tisu u Blatna",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tis u Blatna",
+                "P6736": "7979"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33168,
+                    50.08087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kračíně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Tis u Blatna",
+                "P6736": "4213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31581,
+                    50.09034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Kračína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Tis u Blatna",
+                "P6736": "1789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32406,
+                    50.08731
+                ]
+            }
+        }
+    ]
+}

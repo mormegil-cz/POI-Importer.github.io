@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž severně od Kbelan",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Kbelany",
+                "P6736": "8812"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14253,
+                    49.7453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž na okraji lesa severně od Rochlova",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Kbelany",
+                "P6736": "6822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15761,
+                    49.74321
+                ]
+            }
+        }
+    ]
+}

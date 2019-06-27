@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bačkovicích jižní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bačkovice",
+                "P6736": "20253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5896,
+                    48.96254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Bačkovic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Bačkovice",
+                "P6736": "20225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58632,
+                    48.96412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Lubnice II",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lubnice",
+                "P6736": "20224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.59901,
+                    48.95192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Bačkovic u křižovatky cest",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bačkovice",
+                "P6736": "19674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.59417,
+                    48.95803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka jižně od Bačkovic u křižovatky cest",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Bačkovice",
+                "P6736": "19673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.59391,
+                    48.95813
+                ]
+            }
+        }
+    ]
+}

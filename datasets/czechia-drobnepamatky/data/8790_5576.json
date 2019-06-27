@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Blatnici",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Blatnice",
+                "P6736": "8296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15665,
+                    49.71962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Rochlova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rochlov",
+                "P6736": "6178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14149,
+                    49.7242
+                ]
+            }
+        }
+    ]
+}

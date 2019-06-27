@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička u turistické cesty z Malých Žernosek do Litochovic",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Malé Žernoseky",
+                "P6736": "21389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04298,
+                    50.54149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Navštívení Panny Marie u zeleně značené cesty pod vrchem Strážiště",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Libochovany",
+                "P6736": "14616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05558,
+                    50.55258
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána ve středu Charvát",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Charváty",
+                "P6736": "16781"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25489,
+                    49.51845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Charvátech na křižovatce",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Charváty",
+                "P6736": "16130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25279,
+                    49.51823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v Drahlově na návsi",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Charváty",
+                "P6736": "16129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2524,
+                    49.51123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Charvátech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Charváty",
+                "P6736": "15358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25369,
+                    49.51158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Charvátech u cyklostezky",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Charváty",
+                "P6736": "15355"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25742,
+                    49.51104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na okraji Charvát u hlavní silnice",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Charváty",
+                "P6736": "15354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25249,
+                    49.51562
+                ]
+            }
+        }
+    ]
+}

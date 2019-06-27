@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. a 2.světové válce v Brozanech nad Ohří",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Brozany nad Ohří",
+                "P6736": "16806"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14524,
+                    50.45324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na Palackého náměstí v Brozanech nad Ohří",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Brozany nad Ohří",
+                "P6736": "16805"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.14547,
+                    50.45372
+                ]
+            }
+        }
+    ]
+}

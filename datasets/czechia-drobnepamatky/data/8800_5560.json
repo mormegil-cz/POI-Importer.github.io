@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Plas za mostem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plasy",
+                "P6736": "4085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37064,
+                    49.93778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v západní části Plas",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Plasy",
+                "P6736": "3125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38114,
+                    49.94125
+                ]
+            }
+        }
+    ]
+}

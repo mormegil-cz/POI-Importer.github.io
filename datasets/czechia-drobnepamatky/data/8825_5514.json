@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v ulici U Kapličky v Žalanech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Žalany",
+                "P6736": "15027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91465,
+                    50.58808
+                ]
+            }
+        }
+    ]
+}

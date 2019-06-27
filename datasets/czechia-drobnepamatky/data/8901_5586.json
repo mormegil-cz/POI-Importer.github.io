@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v místní části Ovčín U Veselých",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Havlíčkův Brod",
+                "P6736": "18763"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58657,
+                    49.5703
+                ]
+            }
+        }
+    ]
+}

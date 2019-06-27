@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Březnice u mostu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Březnice",
+                "P6736": "10500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.96348,
+                    49.55142
+                ]
+            }
+        }
+    ]
+}

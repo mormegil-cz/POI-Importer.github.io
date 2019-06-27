@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník prusko rakouské války 1866 pod Ostaší",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Bukovice",
+                "P6736": "22248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21927,
+                    50.55342
+                ]
+            }
+        }
+    ]
+}

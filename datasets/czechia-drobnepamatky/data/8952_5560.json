@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Cotkytle v polích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Cotkytle",
+                "P6736": "17514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.71903,
+                    49.94072
+                ]
+            }
+        }
+    ]
+}

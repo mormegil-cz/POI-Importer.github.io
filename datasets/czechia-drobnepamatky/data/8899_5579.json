@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple a kříž u obecního úřadu ve středu Olešné",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Olešná",
+                "P6736": "17519"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54806,
+                    49.6813
+                ]
+            }
+        }
+    ]
+}

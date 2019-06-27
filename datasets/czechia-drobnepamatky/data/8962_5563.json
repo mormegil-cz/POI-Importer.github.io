@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Postřelmově v Novodvorské ulici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Postřelmov",
+                "P6736": "17821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9202,
+                    49.9028
+                ]
+            }
+        }
+    ]
+}

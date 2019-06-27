@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník povstání nevolníků v roce 1775 u zámku Konopiště",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Benešov",
+                "P6736": "19529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65574,
+                    49.77938
+                ]
+            }
+        }
+    ]
+}

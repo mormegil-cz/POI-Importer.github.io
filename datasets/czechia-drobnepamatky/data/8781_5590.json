@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Lazců v poli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horšovský Týn",
+                "P6736": "3090"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95384,
+                    49.51187
+                ]
+            }
+        }
+    ]
+}

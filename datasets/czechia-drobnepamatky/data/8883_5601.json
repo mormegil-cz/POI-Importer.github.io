@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Čelistné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Čelistná",
+                "P6736": "6066"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20323,
+                    49.35569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Čelistné u lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Čelistná",
+                "P6736": "6059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20441,
+                    49.36368
+                ]
+            }
+        }
+    ]
+}

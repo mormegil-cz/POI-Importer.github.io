@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Záhoří",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Záhoří",
+                "P6736": "6304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79916,
+                    49.21251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Záhoří",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Záhoří",
+                "P6736": "6305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79831,
+                    49.21282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Záhoří",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Záhoří",
+                "P6736": "6303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79989,
+                    49.21164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Záhoří",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Záhoří",
+                "P6736": "2825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79614,
+                    49.21449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Lžína u silnice do Záhoří",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dírná",
+                "P6736": "2001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79459,
+                    49.21993
+                ]
+            }
+        }
+    ]
+}

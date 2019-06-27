@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hřbitovní zdi v Chouči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hrobčice",
+                "P6736": "20890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76705,
+                    50.5118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Chouči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hrobčice",
+                "P6736": "20885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76603,
+                    50.51231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Chouče do Mirošovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hrobčice",
+                "P6736": "17942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77599,
+                    50.50834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na rozcestí jihovýchodně od Chouče",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Hrobčice",
+                "P6736": "17941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77005,
+                    50.51077
+                ]
+            }
+        }
+    ]
+}

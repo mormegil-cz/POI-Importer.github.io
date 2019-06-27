@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torza soch na terase pod schodištěm Kalvárie u Ostrého",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25139"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37185,
+                    50.58773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo sochy na dolní terase schodiště Kalvárie u Ostrého",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37208,
+                    50.5877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Kristus pod křížem na horní terase schodiště Kalvárie u Ostrého",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37224,
+                    50.58769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Bičovaný Kristus na horní terase schodiště Kalvárie u Ostrého",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37223,
+                    50.58778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Nalezení svatého Kříže na Kalvárii u Ostrého",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37255,
+                    50.58779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Povýšení svatého Kříže na Kalvárii u Ostrého",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37261,
+                    50.58763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Božího hrobu na Kalvárii u Ostrého",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37266,
+                    50.58773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kapličky Křížové cesty na Kalvárii v Ostrém",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37234,
+                    50.5872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Loučení Ježíše s Pannou Marií u cesty ke Kalvárii v Ostrém",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37259,
+                    50.58698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ulomeného kříže na návsi v Ostrém",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37306,
+                    50.5861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození na návsi v Ostrém",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Úštěk",
+                "P6736": "25129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37263,
+                    50.58552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kapličky Kalvárie na Ostrém",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Úštěk",
+                "P6736": "9546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37263,
+                    50.58772
+                ]
+            }
+        }
+    ]
+}

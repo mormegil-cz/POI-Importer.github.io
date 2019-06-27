@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kajetíně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Choustník",
+                "P6736": "13396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8232,
+                    49.32813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Kajetína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Choustník",
+                "P6736": "13395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82045,
+                    49.3256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kajetíně u kaple",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Choustník",
+                "P6736": "13394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82335,
+                    49.32812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kajetína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Choustník",
+                "P6736": "7682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82261,
+                    49.32943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Kajetína u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Choustník",
+                "P6736": "7681"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82306,
+                    49.3317
+                ]
+            }
+        }
+    ]
+}

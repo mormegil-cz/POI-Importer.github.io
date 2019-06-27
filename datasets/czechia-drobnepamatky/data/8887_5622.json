@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Matějovce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12959"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27569,
+                    49.0588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Matějovce II",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28103,
+                    49.06144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Matějovce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12954"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27496,
+                    49.06074
+                ]
+            }
+        }
+    ]
+}

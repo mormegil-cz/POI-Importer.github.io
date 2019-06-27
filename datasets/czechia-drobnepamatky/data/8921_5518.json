@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Velkých Svatoňovicích u autobusové zastávky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velké Svatoňovice",
+                "P6736": "14821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02561,
+                    50.5377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Velkých Svatoňovicích na modré turistické značce poblíž železniční trati",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velké Svatoňovice",
+                "P6736": "14820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03159,
+                    50.53754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Velkých Svatoňovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velké Svatoňovice",
+                "P6736": "13374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02534,
+                    50.53508
+                ]
+            }
+        }
+    ]
+}

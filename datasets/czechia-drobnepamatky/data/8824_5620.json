@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Libotyni",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radhostice",
+                "P6736": "17670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89467,
+                    49.0815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Libotyni",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Radhostice",
+                "P6736": "17669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89463,
+                    49.08149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Libotyni na staré křižovatce pod hlavní silnicí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radhostice",
+                "P6736": "17662"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.89627,
+                    49.08145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice v Bolíkovicích na návsi",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Zálezly",
+                "P6736": "17652"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9006,
+                    49.08973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zvonice v Bolíkovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zálezly",
+                "P6736": "17651"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90062,
+                    49.08978
+                ]
+            }
+        }
+    ]
+}

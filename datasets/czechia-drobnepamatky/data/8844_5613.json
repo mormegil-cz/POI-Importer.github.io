@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Temelíně u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Temelín",
+                "P6736": "6247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34473,
+                    49.19313
+                ]
+            }
+        }
+    ]
+}

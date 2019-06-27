@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník jezdecké srážky u Střezetic roku 1866",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Střezetice",
+                "P6736": "14131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.72416,
+                    50.25801
+                ]
+            }
+        }
+    ]
+}

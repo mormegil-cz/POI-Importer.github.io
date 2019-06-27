@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji lesa severozápadně od Kunžaku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kunžak",
+                "P6736": "12600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17366,
+                    49.1305
+                ]
+            }
+        }
+    ]
+}

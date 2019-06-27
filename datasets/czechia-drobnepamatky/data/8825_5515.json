@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Campanella u Cesty přátelství z Bílky do Bořislavi",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Bořislav",
+                "P6736": "16843"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93,
+                    50.57074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Hold Raineru Maria Rilkemu u Cesty přátelství z Bílky do Bořislavi",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Bořislav",
+                "P6736": "16842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93058,
+                    50.57036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kudlichův pomník na návsi v Lelově",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Žalany",
+                "P6736": "15026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91415,
+                    50.58144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Lelově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Žalany",
+                "P6736": "15025"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91404,
+                    50.58145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hřbitovní kaple v Bořislavi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bořislav",
+                "P6736": "15024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92419,
+                    50.58281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Výklenková kaplička v ohradní zdi kostela v Bořislavi",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Bořislav",
+                "P6736": "15023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92959,
+                    50.57962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Bořislavi",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Bořislav",
+                "P6736": "15019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92836,
+                    50.58
+                ]
+            }
+        }
+    ]
+}

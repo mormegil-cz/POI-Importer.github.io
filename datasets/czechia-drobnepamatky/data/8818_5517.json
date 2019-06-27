@@ -1,0 +1,345 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Ikarina v Pivovarské ulici v Bílině",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bílina",
+                "P6736": "21265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.776,
+                    50.54993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Pivovarské ulici v Bílině",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bílina",
+                "P6736": "21263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77593,
+                    50.55013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika v parku v Pivovarské ulici v Bílině",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Bílina",
+                "P6736": "21262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77561,
+                    50.54989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika v parku v Pivovarské ulici v Bílině",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Bílina",
+                "P6736": "21260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77582,
+                    50.54966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika z kamene a kovu Gelege v parku v Pivovarské ulici v Bílině",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Bílina",
+                "P6736": "21256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77589,
+                    50.54946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika Ležící na Žižkově náměstí v Bílině",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Bílina",
+                "P6736": "21251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77491,
+                    50.54971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kamenná plastika v Pivovarské ulici v Bílině",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Bílina",
+                "P6736": "19325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77355,
+                    50.55057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec s vylomeným křížem u kostela svatých Petra a Pavla v Bílíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bílina",
+                "P6736": "17025"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77507,
+                    50.54736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského u kostela svatých Petra a Pavla v Bílině",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bílina",
+                "P6736": "17024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77536,
+                    50.54739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u kostela svatých Petra a Pavla v Bílině",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Bílina",
+                "P6736": "17023"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77482,
+                    50.54753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem okupace 1939-1945 ve Lidické ulici v Bílině",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Bílina",
+                "P6736": "17022"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77065,
+                    50.54965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína Paduánského v parku v Mostecké ulici v Bílině",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bílina",
+                "P6736": "16660"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77107,
+                    50.54846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie v parku v Mostecké ulici v Bílině",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bílina",
+                "P6736": "16659"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77063,
+                    50.54828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jeronýma u hřbitova v Bílině",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bílina",
+                "P6736": "16658"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7685,
+                    50.54761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna u pramene Bílinské kyselky v Bílině",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Bílina",
+                "P6736": "16657"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75719,
+                    50.54276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v areálu bývalých lázní Bílina Kyselka v Bílině",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Bílina",
+                "P6736": "13684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75881,
+                    50.54206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána u kostela svatých Petra a Pavla v Bílině",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Bílina",
+                "P6736": "13683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77501,
+                    50.5472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Mírovém náměstí v Bílině",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Bílina",
+                "P6736": "13682"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77457,
+                    50.54809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na Mírovém náměstí v Bílině",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Bílina",
+                "P6736": "13681"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77475,
+                    50.5484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Reussů v Bílině - Kyselce",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Bílina",
+                "P6736": "9461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75879,
+                    50.54204
+                ]
+            }
+        }
+    ]
+}

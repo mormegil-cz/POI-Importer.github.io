@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy na můstku u Dolanského rybníku",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Holany",
+                "P6736": "25514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.46064,
+                    50.62214
+                ]
+            }
+        }
+    ]
+}

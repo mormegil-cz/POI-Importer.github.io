@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Líském jihozápadní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Líský",
+                "P6736": "15337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92562,
+                    50.24702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička na západním okraji obce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Pozdeň",
+                "P6736": "15081"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9188,
+                    50.23367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hřešicích ve středu obce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Pozdeň",
+                "P6736": "15080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92125,
+                    50.23475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hřešicích na východním okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pozdeň",
+                "P6736": "15079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92542,
+                    50.23579
+                ]
+            }
+        }
+    ]
+}

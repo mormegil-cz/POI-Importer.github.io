@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese jižně od Lštění",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radhostice",
+                "P6736": "16602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88563,
+                    49.06643
+                ]
+            }
+        }
+    ]
+}

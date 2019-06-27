@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "kaplička na rozcestí silnice Neveklov - Sedlčany odbočka na Brdečný",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Maršovice",
+                "P6736": "21425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53545,
+                    49.71904
+                ]
+            }
+        }
+    ]
+}

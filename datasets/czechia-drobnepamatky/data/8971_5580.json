@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mezicích na okraji vesnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Náklo",
+                "P6736": "22925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1201,
+                    49.66281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mezicích před kaplí na návsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Náklo",
+                "P6736": "22924"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11904,
+                    49.65953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Mezicích na návsi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Náklo",
+                "P6736": "22923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11903,
+                    49.65955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mezicích na návsi",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Náklo",
+                "P6736": "22922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11939,
+                    49.65936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Nákla",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Náklo",
+                "P6736": "16214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12128,
+                    49.65772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie Lurdské v Nákle před kostelem",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Náklo",
+                "P6736": "12108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13302,
+                    49.65554
+                ]
+            }
+        }
+    ]
+}

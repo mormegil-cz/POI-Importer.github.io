@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen za kostelem u Horního Újezdu",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Horní Újezd",
+                "P6736": "9350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84488,
+                    49.14116
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v západní části Skapců",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Skapce",
+                "P6736": "2908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98847,
+                    49.65723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka ve Skapcích",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Skapce",
+                "P6736": "2907"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98982,
+                    49.65797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Skapců",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Skapce",
+                "P6736": "2906"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.992,
+                    49.65919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Deska Stromů republiky ve Skapcích",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Skapce",
+                "P6736": "2905"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98993,
+                    49.65737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela ve Skapcích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Skapce",
+                "P6736": "2904"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99055,
+                    49.65665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Skapcích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Skapce",
+                "P6736": "2903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99051,
+                    49.65658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Vestavěná kaplička v Krtíně",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Skapce",
+                "P6736": "2902"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00718,
+                    49.65423
+                ]
+            }
+        }
+    ]
+}

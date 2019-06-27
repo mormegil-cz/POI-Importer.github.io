@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hasičské zbrojnice v obci Doupě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Doupě",
+                "P6736": "19471"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.43437,
+                    49.23689
+                ]
+            }
+        }
+    ]
+}

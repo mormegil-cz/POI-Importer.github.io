@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Zvíkova nad rozcestím",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zvíkov",
+                "P6736": "2897"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61046,
+                    48.98127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Zvíkova u polní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zvíkov",
+                "P6736": "2888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.60898,
+                    48.98236
+                ]
+            }
+        }
+    ]
+}

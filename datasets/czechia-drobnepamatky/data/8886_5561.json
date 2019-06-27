@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Poličanech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kutná Hora",
+                "P6736": "9292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25584,
+                    49.9262
+                ]
+            }
+        }
+    ]
+}

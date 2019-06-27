@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Malé Černoci",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Blšany",
+                "P6736": "19885"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54913,
+                    50.20545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek v Malé Černoci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blšany",
+                "P6736": "19884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55063,
+                    50.20729
+                ]
+            }
+        }
+    ]
+}

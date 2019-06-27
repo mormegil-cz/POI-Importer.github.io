@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u polní cesty severně od Podolanky",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Podolanka",
+                "P6736": "16180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.60547,
+                    50.16836
+                ]
+            }
+        }
+    ]
+}

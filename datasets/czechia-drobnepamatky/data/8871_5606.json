@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Březiny v poli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "8247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92909,
+                    49.28769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Březiny u polní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Březina",
+                "P6736": "8246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.92198,
+                    49.28655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Drunčí",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Drunče",
+                "P6736": "6996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93289,
+                    49.29533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Drunčích u silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drunče",
+                "P6736": "6992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93685,
+                    49.29637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na vrchu Na Vrších u Drunčí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drunče",
+                "P6736": "1478"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94,
+                    49.29363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty v poli u Drunčí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drunče",
+                "P6736": "1477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93274,
+                    49.29335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli u Drunčí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drunče",
+                "P6736": "1476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.93103,
+                    49.29288
+                ]
+            }
+        }
+    ]
+}

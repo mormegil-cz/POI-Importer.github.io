@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dašicích na křižovatce ulic Žižkova a 28 října",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dašice",
+                "P6736": "21637"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91184,
+                    50.02443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Dašicích u vodního mlýna v ulici Štenclova",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Dašice",
+                "P6736": "21635"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91572,
+                    50.02949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dašicích u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dašice",
+                "P6736": "21634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91292,
+                    50.03042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dašicích na náměstí T. G. Masaryka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dašice",
+                "P6736": "21240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91263,
+                    50.02895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Dašicích na náměstí T. G. Masaryka",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Dašice",
+                "P6736": "21239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91284,
+                    50.02907
+                ]
+            }
+        }
+    ]
+}

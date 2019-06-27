@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Menhir severozápadně od hradu Švecburg v lesíku východně od Kváskovic",
+                "P31": "Menhir",
+                "P31^label:cs": "Menhir",
+                "P131^label:cs": "Kváskovice",
+                "P6736": "21761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00999,
+                    49.18671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička sv Huberta u hradu Švecburg v lesíku východně od Kváskovic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Kváskovice",
+                "P6736": "21760"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00999,
+                    49.18638
+                ]
+            }
+        }
+    ]
+}

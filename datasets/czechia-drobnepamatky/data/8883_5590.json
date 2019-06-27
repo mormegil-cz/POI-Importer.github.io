@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička nad Trnávkou mezi Želivem a Červenou Řečicí",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Želiv",
+                "P6736": "18765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20289,
+                    49.52066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před hřbitovem v Červené Řečiči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Červená Řečice",
+                "P6736": "18764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.18818,
+                    49.51368
+                ]
+            }
+        }
+    ]
+}

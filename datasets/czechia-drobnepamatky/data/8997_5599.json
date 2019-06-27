@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svaté Anny s Pannou Marií u Chvalčova",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Chvalčov",
+                "P6736": "11162"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.70484,
+                    49.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve válkách ve Chvalčově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Chvalčov",
+                "P6736": "11160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.70024,
+                    49.39439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice ve Chvalčově",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Chvalčov",
+                "P6736": "11159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.69924,
+                    49.39517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž mezi lípami ve Chvalčově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chvalčov",
+                "P6736": "11158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7074,
+                    49.39088
+                ]
+            }
+        }
+    ]
+}

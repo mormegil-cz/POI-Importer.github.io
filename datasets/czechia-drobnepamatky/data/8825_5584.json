@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Nesvačilech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Rožmitál pod Třemšínem",
+                "P6736": "6855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.913,
+                    49.60717
+                ]
+            }
+        }
+    ]
+}

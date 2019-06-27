@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Milník na křižovatce Vrbenská-Plzeňská v Blatné",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Blatná",
+                "P6736": "16747"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86402,
+                    49.42497
+                ]
+            }
+        }
+    ]
+}

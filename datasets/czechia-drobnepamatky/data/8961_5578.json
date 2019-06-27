@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u Bouzova u Panského rybníka",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90392,
+                    49.68545
+                ]
+            }
+        }
+    ]
+}

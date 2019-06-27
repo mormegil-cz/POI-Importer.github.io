@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Radiměři",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Radiměř",
+                "P6736": "21301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.45467,
+                    49.69496
+                ]
+            }
+        }
+    ]
+}

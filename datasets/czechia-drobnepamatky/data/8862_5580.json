@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Jankovské Lhoty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jankov",
+                "P6736": "10634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72266,
+                    49.6612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Jankova",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Jankov",
+                "P6736": "10631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72703,
+                    49.65915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Jiter",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jankov",
+                "P6736": "10626"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74181,
+                    49.65953
+                ]
+            }
+        }
+    ]
+}

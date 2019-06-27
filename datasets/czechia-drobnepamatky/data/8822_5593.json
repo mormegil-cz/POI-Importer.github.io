@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Hornosína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Hornosín",
+                "P6736": "8512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8534,
+                    49.48084
+                ]
+            }
+        }
+    ]
+}

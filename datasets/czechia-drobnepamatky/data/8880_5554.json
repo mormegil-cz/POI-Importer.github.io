@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník bitvy u Kolína roku 1759 u Křečhoře",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Křečhoř",
+                "P6736": "9286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12185,
+                    50.02877
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička a kříž ve středu Opolánek",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Opolany",
+                "P6736": "17144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24168,
+                    50.13337
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dolním Miletíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lišov",
+                "P6736": "6759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66691,
+                    49.0163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky severně od Horního Miletína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lišov",
+                "P6736": "1560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67453,
+                    49.01774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rozcestí severně od Horního Miletína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lišov",
+                "P6736": "1561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67616,
+                    49.01713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Štěpánovic u Dolního Miletína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lišov",
+                "P6736": "1414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65744,
+                    49.01519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v poli severně od Štěpánovic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Lišov",
+                "P6736": "1413"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6575,
+                    49.01394
+                ]
+            }
+        }
+    ]
+}

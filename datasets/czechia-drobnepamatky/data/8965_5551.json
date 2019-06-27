@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska v Žárové v Horním Bohdíkově na zdi kaple",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Velké Losiny",
+                "P6736": "24015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99606,
+                    50.06555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svaté Anny na okraji Žárové v části Horní Bohdíkov",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velké Losiny",
+                "P6736": "14764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99611,
+                    50.06549
+                ]
+            }
+        }
+    ]
+}

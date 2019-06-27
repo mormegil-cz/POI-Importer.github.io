@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka východně od Přítluk u silnice",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Přítluky",
+                "P6736": "11734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7945,
+                    48.85507
+                ]
+            }
+        }
+    ]
+}

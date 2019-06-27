@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vysokém Chvojně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vysoké Chvojno",
+                "P6736": "11807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.97867,
+                    50.11204
+                ]
+            }
+        }
+    ]
+}

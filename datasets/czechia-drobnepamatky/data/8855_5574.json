@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Dlouhé Lhoty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Maršovice",
+                "P6736": "2828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58363,
+                    49.74089
+                ]
+            }
+        }
+    ]
+}

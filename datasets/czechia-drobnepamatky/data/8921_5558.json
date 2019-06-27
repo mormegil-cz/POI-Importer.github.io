@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník padlým v 1 světové válce v Ostrově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Ostrov",
+                "P6736": "21331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03217,
+                    49.97264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Ostrově střed obce",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Ostrov",
+                "P6736": "21330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03005,
+                    49.9724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Ostrově západní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ostrov",
+                "P6736": "21329"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02627,
+                    49.9722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Ostrově na návsi v parku",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Ostrov",
+                "P6736": "12623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03168,
+                    49.97266
+                ]
+            }
+        }
+    ]
+}

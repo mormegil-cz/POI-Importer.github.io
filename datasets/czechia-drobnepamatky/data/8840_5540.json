@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Zeměch",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Kralupy nad Vltavou",
+                "P6736": "23530"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25609,
+                    50.23058
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u silnice z Tisé do Libouchce",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Libouchec",
+                "P6736": "15654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03952,
+                    50.77337
+                ]
+            }
+        }
+    ]
+}

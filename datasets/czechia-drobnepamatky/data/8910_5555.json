@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na hřbitově v Pardubicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pardubice",
+                "P6736": "19377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77837,
+                    50.02021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník tureckým vojákům padlým v 1. světové válce na hřbitově v Pardubicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Pardubice",
+                "P6736": "19376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77797,
+                    50.01997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy u vstupu do krematoria v Pardubicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Pardubice",
+                "P6736": "19375"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77694,
+                    50.01973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na hřbitově v Pardubicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Pardubice",
+                "P6736": "19374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77652,
+                    50.02035
+                ]
+            }
+        }
+    ]
+}

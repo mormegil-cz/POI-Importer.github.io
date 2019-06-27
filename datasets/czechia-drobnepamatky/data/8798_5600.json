@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Soběticích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "3697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31763,
+                    49.37466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli východně od Sobětic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "2520"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32633,
+                    49.37672
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Roseči",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Roseč",
+                "P6736": "6414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91039,
+                    49.12745
+                ]
+            }
+        }
+    ]
+}

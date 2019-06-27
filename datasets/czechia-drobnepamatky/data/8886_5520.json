@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Josefa u obecního úřadu v Újezdu pod Troskami",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Újezd pod Troskami",
+                "P6736": "22834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26294,
+                    50.50668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice z Újezda do Troskovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Újezd pod Troskami",
+                "P6736": "22833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25649,
+                    50.50669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Újezdu pod Troskami",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Újezd pod Troskami",
+                "P6736": "22832"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26227,
+                    50.50757
+                ]
+            }
+        }
+    ]
+}

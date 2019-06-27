@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie Lurdské u Choliny",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Cholina",
+                "P6736": "16527"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.02975,
+                    49.65883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Pieta severně od Choliny",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Cholina",
+                "P6736": "12482"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04958,
+                    49.66362
+                ]
+            }
+        }
+    ]
+}

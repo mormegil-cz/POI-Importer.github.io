@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová plastika na hradě Klenová",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Klenová",
+                "P6736": "24419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22856,
+                    49.33227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Václava u 2.brány hradu Klenová",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Klenová",
+                "P6736": "16908"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22856,
+                    49.33183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy svaté Walburgy a svaté Anny na hradě Klenová",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Klenová",
+                "P6736": "15599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22809,
+                    49.33196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy svatého Jana Nepomuckého a svatého Josefa na hradě Klenová",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Klenová",
+                "P6736": "15598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22806,
+                    49.33191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy Panny Marie a svatého Norberta na hradě Klenová",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Klenová",
+                "P6736": "15597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22805,
+                    49.33186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Bronzová socha býka na parkovišti před hradem Klenová",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Klenová",
+                "P6736": "15596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22941,
+                    49.33358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Bronzová plastika Sépie naproti hradu v Klenové",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Klenová",
+                "P6736": "15595"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23005,
+                    49.3342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Klenové",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Klenová",
+                "P6736": "15594"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23373,
+                    49.33322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Felixe naproti hradu v Klenové",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Klenová",
+                "P6736": "15593"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22922,
+                    49.33495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Rytíř s drakem na Klenové",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Klenová",
+                "P6736": "9615"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2286,
+                    49.33215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Oharek ve tmě u hradu Klenová",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Klenová",
+                "P6736": "9614"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22961,
+                    49.33195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u sýpky v Klenové",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Klenová",
+                "P6736": "9599"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2293,
+                    49.33343
+                ]
+            }
+        }
+    ]
+}

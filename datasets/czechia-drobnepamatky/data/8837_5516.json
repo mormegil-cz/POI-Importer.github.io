@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Maškovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Ploskovice",
+                "P6736": "17204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18635,
+                    50.55882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice v Maškovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Ploskovice",
+                "P6736": "17203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1886,
+                    50.5583
+                ]
+            }
+        }
+    ]
+}

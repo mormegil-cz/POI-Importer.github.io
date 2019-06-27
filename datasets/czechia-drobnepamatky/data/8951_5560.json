@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Svaté Trojice v Dolních Heřmanicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horní Heřmanice",
+                "P6736": "12972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6881,
+                    49.95078
+                ]
+            }
+        }
+    ]
+}

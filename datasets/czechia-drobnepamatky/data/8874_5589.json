@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Jana Křtitele pod Strážištěm",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bratřice",
+                "P6736": "20647"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99995,
+                    49.53419
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Řemešína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "5242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38837,
+                    49.99785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Řemešíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "3821"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3874,
+                    49.99459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Řemešíně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Kralovice",
+                "P6736": "3820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38771,
+                    49.99476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na Řemešínském vrchu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kralovice",
+                "P6736": "1306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40254,
+                    50.00123
+                ]
+            }
+        }
+    ]
+}

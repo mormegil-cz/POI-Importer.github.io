@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na křížové cestě v Dýšině - 14. zastavení",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5758"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49024,
+                    49.77599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od kostela v Dýšině",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4895,
+                    49.77605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na křížové cestě v Dýšině - 2. zastavení",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49075,
+                    49.77813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek na křížové cestě v Dýšině - 1. zastavení",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49064,
+                    49.777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dýšině u kostela na svahu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4901,
+                    49.77654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek u kostela v Dýšině",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Dýšina",
+                "P6736": "5743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49035,
+                    49.77645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dýšině před kostelem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dýšina",
+                "P6736": "4937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49036,
+                    49.7766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dýšině nedaleko kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dýšina",
+                "P6736": "3853"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49052,
+                    49.77676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Dýšinou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dýšina",
+                "P6736": "1500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48231,
+                    49.77531
+                ]
+            }
+        }
+    ]
+}

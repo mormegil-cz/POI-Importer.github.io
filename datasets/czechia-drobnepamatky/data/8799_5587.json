@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Příchovicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Příchovice",
+                "P6736": "5036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33905,
+                    49.56204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Příchovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Příchovice",
+                "P6736": "4131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3392,
+                    49.56305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Příchovicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Příchovice",
+                "P6736": "4130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33863,
+                    49.56178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Příchovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Příchovice",
+                "P6736": "4129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33897,
+                    49.56203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Malba Svatý Vojtěch na vrchu Ticholovec",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Příchovice",
+                "P6736": "2396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35495,
+                    49.5638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple nad Příchovicemi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Příchovice",
+                "P6736": "2395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3525,
+                    49.55949
+                ]
+            }
+        }
+    ]
+}

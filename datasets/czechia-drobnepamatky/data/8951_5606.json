@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička svatého Jana Nepomuckého v Babicích nad Svitavou",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Babice nad Svitavou",
+                "P6736": "14361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69652,
+                    49.28348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Busta Josefa Hybeše v Babicích nad Svitavou",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Babice nad Svitavou",
+                "P6736": "14360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69813,
+                    49.28685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Babicích nad Svitavou",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Babice nad Svitavou",
+                "P6736": "14359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69779,
+                    49.28575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Babicích nad Svitavou na severním okraji obce u turistického rozcestníku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Babice nad Svitavou",
+                "P6736": "14334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69756,
+                    49.28832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Babicích nad Svitavou před kostelem svatého Jana Křtitele",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Babice nad Svitavou",
+                "P6736": "14333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69754,
+                    49.28423
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Radňově",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.273,
+                    49.38443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na severním okraji Radňova směrem na Harlíkov",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "18624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27423,
+                    49.38557
+                ]
+            }
+        }
+    ]
+}

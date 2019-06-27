@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha býka v areálu jatek v západní části Hradišťského Újezdu",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Blovice",
+                "P6736": "22614"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57735,
+                    49.57208
+                ]
+            }
+        }
+    ]
+}

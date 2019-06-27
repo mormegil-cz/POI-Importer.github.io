@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Horní Vísce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lestkov",
+                "P6736": "9856"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86188,
+                    49.85776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Horní Vísky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lestkov",
+                "P6736": "9855"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8622,
+                    49.85822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Horní Vísky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lestkov",
+                "P6736": "9854"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8599,
+                    49.85679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Horní Vísky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lestkov",
+                "P6736": "9853"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85847,
+                    49.85965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Dolní Vísky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lestkov",
+                "P6736": "9852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86434,
+                    49.85791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Dolní Vísce u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lestkov",
+                "P6736": "9851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86674,
+                    49.8562
+                ]
+            }
+        }
+    ]
+}

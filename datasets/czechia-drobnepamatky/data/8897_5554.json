@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Milník na křižovatce západně od Lhoty pod Přeloučí",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Řečany nad Labem",
+                "P6736": "15077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.50831,
+                    50.03354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Labětíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Řečany nad Labem",
+                "P6736": "15071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4954,
+                    50.03501
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice v Třebařově u kostela",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Třebařov",
+                "P6736": "16197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70315,
+                    49.82359
+                ]
+            }
+        }
+    ]
+}

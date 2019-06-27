@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Dubu nad Moravou v místní části Tučapy",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Dub nad Moravou",
+                "P6736": "15341"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26956,
+                    49.48885
+                ]
+            }
+        }
+    ]
+}

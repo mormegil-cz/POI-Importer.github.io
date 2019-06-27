@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Lazska",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lazsko",
+                "P6736": "1874"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01196,
+                    49.62793
+                ]
+            }
+        }
+    ]
+}

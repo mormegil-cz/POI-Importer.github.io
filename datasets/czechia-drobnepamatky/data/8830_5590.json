@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Mirovic",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10516"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03905,
+                    49.51839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mirovicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03873,
+                    49.51796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mirovicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10514"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03735,
+                    49.5159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Mirovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10513"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03339,
+                    49.51522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník před kostelem v Mirovicích",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03359,
+                    49.51519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mirovicích před kostelem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10511"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03374,
+                    49.51517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Mirovicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10510"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03391,
+                    49.5151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Mirovicích",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03645,
+                    49.51594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Mirovicích u Táborské ulice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.03053,
+                    49.51248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Mirovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02526,
+                    49.51365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Plíškovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mirovice",
+                "P6736": "10505"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02008,
+                    49.51504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v Plíškovicích",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Mirovice",
+                "P6736": "7927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01934,
+                    49.51548
+                ]
+            }
+        }
+    ]
+}

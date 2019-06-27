@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Sedlišti u Litomyšle",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sedliště",
+                "P6736": "12374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27412,
+                    49.89492
+                ]
+            }
+        }
+    ]
+}

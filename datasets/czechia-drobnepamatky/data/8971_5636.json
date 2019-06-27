@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Hodoníně na Měšťanské ulici",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Hodonín",
+                "P6736": "12899"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13271,
+                    48.85421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Svatého Vendelína v Hodoníně na Měšťanské ulici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hodonín",
+                "P6736": "12896"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13473,
+                    48.85699
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Bad Schlag - Háj hrdinů 1. světové války",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Jablonec nad Nisou",
+                "P6736": "24418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19109,
+                    50.73083
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Jasenicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Jasenice",
+                "P6736": "9312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16267,
+                    49.25779
+                ]
+            }
+        }
+    ]
+}

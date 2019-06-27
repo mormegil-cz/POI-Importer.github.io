@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u potoka Modla ve Vlastislavi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Vlastislav",
+                "P6736": "18035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95042,
+                    50.5017
+                ]
+            }
+        }
+    ]
+}

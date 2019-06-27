@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen u silnice ve východní části Všetat",
+                "P31": "Hraniční kámen",
+                "P31^label:cs": "Hraniční kámen",
+                "P131^label:cs": "Všetaty",
+                "P6736": "16631"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76216,
+                    50.0461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hraniční kámen u silnice ve východní části Všetat",
+                "P31": "Hraniční kámen",
+                "P31^label:cs": "Hraniční kámen",
+                "P131^label:cs": "Všetaty",
+                "P6736": "16630"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76278,
+                    50.04604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička na východním okraji Všetat",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Všetaty",
+                "P6736": "16529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76334,
+                    50.04607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup západně od zámku ve Všetatech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Všetaty",
+                "P6736": "16528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75549,
+                    50.04651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Všetatech u Rakovníka",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Všetaty",
+                "P6736": "10436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75749,
+                    50.04563
+                ]
+            }
+        }
+    ]
+}

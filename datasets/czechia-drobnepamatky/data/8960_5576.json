@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek v Dolech vedle statku",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "21927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88136,
+                    49.71065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Jeřmani u autobusové zastávky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bouzov",
+                "P6736": "18418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89551,
+                    49.71787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Radnice u polní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pavlov",
+                "P6736": "17828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8757,
+                    49.72274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Jiří v Jeřmani",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89466,
+                    49.7164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Panny Marie u Jeřmaně na loukách",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89673,
+                    49.72309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek Panny Marie u Bouzova na kraji lesa",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Bouzov",
+                "P6736": "13129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89004,
+                    49.71144
+                ]
+            }
+        }
+    ]
+}

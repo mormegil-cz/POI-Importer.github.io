@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Zhoři",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Zhoř u Tábora",
+                "P6736": "7589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65781,
+                    49.35724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Zhoře u Tábora",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Zhoř u Tábora",
+                "P6736": "2876"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66793,
+                    49.35573
+                ]
+            }
+        }
+    ]
+}

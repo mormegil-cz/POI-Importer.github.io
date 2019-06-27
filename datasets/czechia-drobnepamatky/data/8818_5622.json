@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem světových válek na Novém hřbitově ve Vimperku",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Vimperk",
+                "P6736": "17427"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77564,
+                    49.05666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u hřbitovní kaple ve Vimperku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vimperk",
+                "P6736": "17426"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77607,
+                    49.05655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Hřbitovní kaple Nejsvětějšího Srdce Páně ve Vimperku",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Vimperk",
+                "P6736": "17425"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77611,
+                    49.05662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na zdi závěru kostela Navštívení Panny Marie ve Vimperku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vimperk",
+                "P6736": "17298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77472,
+                    49.05264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Novodobá kašna v Pivovarské ulici ve Vimperku",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Vimperk",
+                "P6736": "17292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77449,
+                    49.05345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Panny Marie na nároží domu čp. 2 na náměstí Svobody ve Vimperku",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Vimperk",
+                "P6736": "17291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77361,
+                    49.05252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na zdi městské zvonice ve Vimperku",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Vimperk",
+                "P6736": "17290"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77434,
+                    49.05241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dolní kašna na náměstí Svobody ve Vimperku se sochou Immaculaty",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Vimperk",
+                "P6736": "17289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77374,
+                    49.05238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Horní kašna na náměstí Svobody ve Vimperku se sochou svatého Floriána",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Vimperk",
+                "P6736": "17288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77246,
+                    49.05235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u kostela Navštívení Panny Marie ve Vimperku",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Vimperk",
+                "P6736": "17287"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7744,
+                    49.0525
+                ]
+            }
+        }
+    ]
+}

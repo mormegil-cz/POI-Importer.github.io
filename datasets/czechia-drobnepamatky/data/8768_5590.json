@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník u Rybníka",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Rybník",
+                "P6736": "4142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67204,
+                    49.51255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Rybníku",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Rybník",
+                "P6736": "4003"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67746,
+                    49.51293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Rybníka mezi stromy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rybník",
+                "P6736": "2464"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67555,
+                    49.51851
+                ]
+            }
+        }
+    ]
+}

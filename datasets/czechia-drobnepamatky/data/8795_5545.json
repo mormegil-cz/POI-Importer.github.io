@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž severozápadně od Kostrčan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Valeč",
+                "P6736": "25378"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25457,
+                    50.15352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek sv. Huberta severozápadně od Kostrčan",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Valeč",
+                "P6736": "25377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24981,
+                    50.15758
+                ]
+            }
+        }
+    ]
+}

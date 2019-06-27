@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Mostech západní okraj obce",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Kunžak",
+                "P6736": "12736"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22952,
+                    49.11064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v obci Mosty západní část",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kunžak",
+                "P6736": "12735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23101,
+                    49.11039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v obci Mosty u Kunžaku",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Kunžak",
+                "P6736": "12734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23416,
+                    49.1102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v obci Mosty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kunžak",
+                "P6736": "12733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23359,
+                    49.10999
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Mstic",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Vřeskovice",
+                "P6736": "10941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27984,
+                    49.53271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Mstic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vřeskovice",
+                "P6736": "10940"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28448,
+                    49.5286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vřeskovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vřeskovice",
+                "P6736": "10939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28801,
+                    49.52705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha ve Vřeskovicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Vřeskovice",
+                "P6736": "3306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27532,
+                    49.52657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Vřeskovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vřeskovice",
+                "P6736": "3305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27704,
+                    49.52977
+                ]
+            }
+        }
+    ]
+}

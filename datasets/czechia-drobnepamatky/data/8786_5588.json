@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Bílého Mlýna",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Staňkov",
+                "P6736": "3198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05686,
+                    49.54275
+                ]
+            }
+        }
+    ]
+}

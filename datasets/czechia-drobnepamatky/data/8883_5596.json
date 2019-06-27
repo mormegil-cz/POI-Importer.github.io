@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na západním okraji Starého Pelhřimova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20272"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1902,
+                    49.43846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž před hřbitovem ve Starém Pelhřimově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19669,
+                    49.43536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Starém Pelhřimově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19663,
+                    49.43608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Starém Pelhřimově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pelhřimov",
+                "P6736": "20210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19924,
+                    49.43438
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník bitvy u silnice jižně od Horního Baldova",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Luženičky",
+                "P6736": "16074"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91603,
+                    49.4617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple u Baldova",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Luženičky",
+                "P6736": "4237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9163,
+                    49.4618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Luženičkami před rozcestím",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Luženičky",
+                "P6736": "1993"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90401,
+                    49.45734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž nad Luženičkami",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Luženičky",
+                "P6736": "1994"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90786,
+                    49.4559
+                ]
+            }
+        }
+    ]
+}

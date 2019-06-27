@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup jižně od Lanškrouna",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Lanškroun",
+                "P6736": "12281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.60418,
+                    49.89286
+                ]
+            }
+        }
+    ]
+}

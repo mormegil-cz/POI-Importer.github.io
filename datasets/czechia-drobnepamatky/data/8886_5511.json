@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v osadě Dlouhý",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Záhoří",
+                "P6736": "16367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25557,
+                    50.62527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v osadě Dlouhý",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Záhoří",
+                "P6736": "16366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25554,
+                    50.62523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v osadě Dlouhý",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Záhoří",
+                "P6736": "16365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2557,
+                    50.62535
+                ]
+            }
+        }
+    ]
+}

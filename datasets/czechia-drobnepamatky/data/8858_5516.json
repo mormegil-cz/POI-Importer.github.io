@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup na náměstí Republiky v Doksech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Doksy",
+                "P6736": "23410"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65562,
+                    50.56414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v zámecké zahradě v Doksech",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Doksy",
+                "P6736": "23409"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65075,
+                    50.56379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Prokopa v Máchově ulici v Doksech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Doksy",
+                "P6736": "23408"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65434,
+                    50.5662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Karla Hynka Máchy u školy v Doksech",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Doksy",
+                "P6736": "23407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65306,
+                    50.56745
+                ]
+            }
+        }
+    ]
+}

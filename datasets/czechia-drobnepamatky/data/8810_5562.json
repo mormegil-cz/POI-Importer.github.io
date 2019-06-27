@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pocta svatému Hubertovi a Bohyni lovu Dianě západně od Bujesil",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Bujesily",
+                "P6736": "12104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59575,
+                    49.91747
+                ]
+            }
+        }
+    ]
+}

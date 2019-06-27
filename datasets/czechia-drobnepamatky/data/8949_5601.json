@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Afrodity v Blansku",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Blansko",
+                "P6736": "9684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.64569,
+                    49.36365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Busta v Seifertově ulici v Blansku",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Blansko",
+                "P6736": "9683"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.64516,
+                    49.36296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v Blansku",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Blansko",
+                "P6736": "9672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.64608,
+                    49.36383
+                ]
+            }
+        }
+    ]
+}

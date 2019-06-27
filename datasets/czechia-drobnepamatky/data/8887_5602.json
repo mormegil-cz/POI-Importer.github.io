@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u železniční stanice Nová Buková",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nová Buková",
+                "P6736": "19759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28926,
+                    49.34241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na východním okraji Rohovky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dobrá Voda",
+                "P6736": "19496"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.276,
+                    49.341
+                ]
+            }
+        }
+    ]
+}

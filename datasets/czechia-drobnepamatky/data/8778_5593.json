@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Březí v poli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Meclov",
+                "P6736": "3428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88274,
+                    49.4812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Luženic u památné lípy a výhledu do krajiny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Luženičky",
+                "P6736": "1992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89287,
+                    49.46828
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Lechovicích u rybníka",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pavlov",
+                "P6736": "17961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88636,
+                    49.73836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve středu Radnice",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Pavlov",
+                "P6736": "17865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87533,
+                    49.72466
+                ]
+            }
+        }
+    ]
+}

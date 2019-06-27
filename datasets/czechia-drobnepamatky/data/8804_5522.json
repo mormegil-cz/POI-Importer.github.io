@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Julia Fučíka na návsi v Otvicích",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Otvice",
+                "P6736": "19692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45141,
+                    50.47984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým na návsi v Otvicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Otvice",
+                "P6736": "19691"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4509,
+                    50.47976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Otvicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Otvice",
+                "P6736": "19690"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4508,
+                    50.47993
+                ]
+            }
+        }
+    ]
+}

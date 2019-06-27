@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloupová výklenková kaplička jižně od Vlašimi při silnici do Kondrace",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Vlašim",
+                "P6736": "23280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8939,
+                    49.68913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sluneční hodiny u lidové hvězdárny při silnici jižně od Vlašimi",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Vlašim",
+                "P6736": "23279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89425,
+                    49.69197
+                ]
+            }
+        }
+    ]
+}

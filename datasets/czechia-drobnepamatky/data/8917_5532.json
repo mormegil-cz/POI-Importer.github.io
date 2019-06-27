@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž v Josefově na Masarykově náměstí",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Jaroměř",
+                "P6736": "11447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.93202,
+                    50.33905
+                ]
+            }
+        }
+    ]
+}

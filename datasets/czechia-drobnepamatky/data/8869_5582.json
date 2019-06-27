@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Karhule na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pravonín",
+                "P6736": "1822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89682,
+                    49.63227
+                ]
+            }
+        }
+    ]
+}

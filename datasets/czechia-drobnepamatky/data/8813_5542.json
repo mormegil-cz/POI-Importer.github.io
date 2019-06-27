@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Povlčíně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Milostín",
+                "P6736": "15740"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65457,
+                    50.19784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Povlčíně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Milostín",
+                "P6736": "15739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65451,
+                    50.1978
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Hrádku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mirošov",
+                "P6736": "7150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62803,
+                    49.70056
+                ]
+            }
+        }
+    ]
+}

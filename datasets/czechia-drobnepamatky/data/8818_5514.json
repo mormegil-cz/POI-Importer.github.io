@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník hrdinům 1. a 2. odboje v parku u stadionu v Ledvicích",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Ledvice",
+                "P6736": "17021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.77166,
+                    50.5872
+                ]
+            }
+        }
+    ]
+}

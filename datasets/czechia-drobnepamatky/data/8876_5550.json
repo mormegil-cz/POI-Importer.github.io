@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník T. G. Masaryka na náměstí v Pečkách",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Pečky",
+                "P6736": "24673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03151,
+                    50.09065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Dobřichovské ulici v Pečkách",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Pečky",
+                "P6736": "24672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03092,
+                    50.08514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u mostu přes Výrovku v Dobřichově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Dobřichov",
+                "P6736": "24670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03221,
+                    50.07909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Masarykově náměstí v Pečkách",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Pečky",
+                "P6736": "13927"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03164,
+                    50.09082
+                ]
+            }
+        }
+    ]
+}

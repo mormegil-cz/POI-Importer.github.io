@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Luké na okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Luká",
+                "P6736": "20796"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.95218,
+                    49.6517
+                ]
+            }
+        }
+    ]
+}

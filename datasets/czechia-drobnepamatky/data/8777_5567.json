@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihozápadně od Olbramova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Olbramov",
+                "P6736": "9857"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86604,
+                    49.8419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Olbramova",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Olbramov",
+                "P6736": "9848"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86693,
+                    49.84544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha u obecního úřadu v Olbramově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Olbramov",
+                "P6736": "9847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86594,
+                    49.84357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Olbramově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Olbramov",
+                "P6736": "9846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86701,
+                    49.84539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Svaté rodiny v Olbramově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Olbramov",
+                "P6736": "9845"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8673,
+                    49.84303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Olbramova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Olbramov",
+                "P6736": "9844"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87058,
+                    49.84269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Olbramova u silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Olbramov",
+                "P6736": "9843"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87127,
+                    49.84087
+                ]
+            }
+        }
+    ]
+}

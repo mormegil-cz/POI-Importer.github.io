@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Police",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Police",
+                "P6736": "20123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.60963,
+                    48.96142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička západně od Police",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Police",
+                "P6736": "20122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61518,
+                    48.96307
+                ]
+            }
+        }
+    ]
+}

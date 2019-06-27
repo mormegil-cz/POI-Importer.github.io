@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v údolí Ropičného potoka v Morávce",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Morávka",
+                "P6736": "14898"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.59936,
+                    49.58879
+                ]
+            }
+        }
+    ]
+}

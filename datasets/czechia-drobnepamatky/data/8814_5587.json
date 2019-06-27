@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Železném Újezdu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Čížkov",
+                "P6736": "3987"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67485,
+                    49.56427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v Železném Újezdu",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Čížkov",
+                "P6736": "3986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67412,
+                    49.56168
+                ]
+            }
+        }
+    ]
+}

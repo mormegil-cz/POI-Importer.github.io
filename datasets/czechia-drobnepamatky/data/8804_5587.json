@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Drahkově na rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Drahkov",
+                "P6736": "4342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46887,
+                    49.55457
+                ]
+            }
+        }
+    ]
+}

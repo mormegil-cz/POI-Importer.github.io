@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Svaté Anny u Plané",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Planá",
+                "P6736": "6509"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72168,
+                    49.8796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník u Svaté Anny u Plané",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Planá",
+                "P6736": "6508"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72162,
+                    49.88038
+                ]
+            }
+        }
+    ]
+}

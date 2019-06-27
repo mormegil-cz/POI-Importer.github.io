@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým ve Skomelnu",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Skomelno",
+                "P6736": "3888"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.64083,
+                    49.84777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Skomelnu",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Skomelno",
+                "P6736": "3884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6404,
+                    49.84774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí u Skomelna",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Radnice",
+                "P6736": "2430"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62899,
+                    49.84834
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou panny Marie Svatohorské v Hnátnici jižní okraj obce",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Hnátnice",
+                "P6736": "25552"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46014,
+                    50.00516
+                ]
+            }
+        }
+    ]
+}

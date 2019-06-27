@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kozojed",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kozojedy",
+                "P6736": "4273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52684,
+                    49.93056
+                ]
+            }
+        }
+    ]
+}

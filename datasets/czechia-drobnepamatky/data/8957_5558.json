@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Horních Studénkách na Pustině",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Studénky",
+                "P6736": "21040"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.81179,
+                    49.96931
+                ]
+            }
+        }
+    ]
+}

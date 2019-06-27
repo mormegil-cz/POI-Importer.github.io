@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník letce kpt. Kříže na západním okraji obce Vidim",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Vidim",
+                "P6736": "16115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52004,
+                    50.46719
+                ]
+            }
+        }
+    ]
+}

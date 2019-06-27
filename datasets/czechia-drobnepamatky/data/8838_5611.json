@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Myšenci",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Protivín",
+                "P6736": "6369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20883,
+                    49.223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Myšenci",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Protivín",
+                "P6736": "6368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20947,
+                    49.22302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Protivína",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Protivín",
+                "P6736": "6367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21372,
+                    49.21409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Myšenci",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Protivín",
+                "P6736": "6366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21424,
+                    49.2238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese nad Myšencem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Protivín",
+                "P6736": "2123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21117,
+                    49.22474
+                ]
+            }
+        }
+    ]
+}

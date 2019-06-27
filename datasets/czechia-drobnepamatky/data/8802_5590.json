@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Týništi u hostince",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Týniště",
+                "P6736": "4318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41728,
+                    49.52188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Týniště",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Týniště",
+                "P6736": "4317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41726,
+                    49.52229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Týništi",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Týniště",
+                "P6736": "4294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41811,
+                    49.52117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Týniště",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Týniště",
+                "P6736": "2697"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41229,
+                    49.52496
+                ]
+            }
+        }
+    ]
+}

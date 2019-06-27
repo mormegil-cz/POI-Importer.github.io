@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památný kříž na Mcelských hájích při silnici na Seletice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mcely",
+                "P6736": "16255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0769,
+                    50.30632
+                ]
+            }
+        }
+    ]
+}

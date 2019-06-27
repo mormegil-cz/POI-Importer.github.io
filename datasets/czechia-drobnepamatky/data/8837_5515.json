@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec s ulomeným kamenným křížem na rozcestí v Chudoslavicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chudoslavice",
+                "P6736": "17573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18768,
+                    50.58167
+                ]
+            }
+        }
+    ]
+}

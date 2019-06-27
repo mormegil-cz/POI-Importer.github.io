@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Antonína ve Slabcích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Slabce",
+                "P6736": "23620"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7092,
+                    50.00093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého na západním okraji Slabců u silnice na Modřejovice",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Slabce",
+                "P6736": "12213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71046,
+                    49.99877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Slabce",
+                "P6736": "12179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69101,
+                    49.99414
+                ]
+            }
+        }
+    ]
+}

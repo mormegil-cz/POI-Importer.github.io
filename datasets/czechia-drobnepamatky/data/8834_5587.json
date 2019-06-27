@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Holušicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kozárovice",
+                "P6736": "7555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.11365,
+                    49.56563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kozárovicích u křižovatky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kozárovice",
+                "P6736": "7219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10768,
+                    49.55389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Kozárovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kozárovice",
+                "P6736": "7218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10693,
+                    49.55562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kozárovicích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kozárovice",
+                "P6736": "7217"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10686,
+                    49.55562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Kozárovicích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Kozárovice",
+                "P6736": "7216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1069,
+                    49.55576
+                ]
+            }
+        }
+    ]
+}

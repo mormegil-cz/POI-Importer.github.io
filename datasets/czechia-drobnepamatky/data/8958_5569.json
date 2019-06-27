@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Krchlebech u družstva",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Krchleby",
+                "P6736": "21346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83465,
+                    49.82142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Svaté Trojice západně od Řepové",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "14623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84817,
+                    49.80977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup Nejsvětější Trojice v Krchlebech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Krchleby",
+                "P6736": "12249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83302,
+                    49.82103
+                ]
+            }
+        }
+    ]
+}

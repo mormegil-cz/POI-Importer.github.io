@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Bílově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bílov",
+                "P6736": "3807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42717,
+                    50.01887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u Bílova",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Bílov",
+                "P6736": "3806"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42782,
+                    50.01715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Vysoké Libyně u polní cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bílov",
+                "P6736": "1239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4438,
+                    50.01204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka mezi Bílovem a Vysokou Libyní",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Bílov",
+                "P6736": "1235"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43768,
+                    50.02154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Bílova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bílov",
+                "P6736": "1233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43052,
+                    50.0215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka u Bílova",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Bílov",
+                "P6736": "1232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42786,
+                    50.01717
+                ]
+            }
+        }
+    ]
+}

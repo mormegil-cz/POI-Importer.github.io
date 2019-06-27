@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie ve středu místní části Habroveč",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Vrbatův Kostelec",
+                "P6736": "23437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.91291,
+                    49.84395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Karla Kněze u silnice z Louky do Habrovče",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Vrbatův Kostelec",
+                "P6736": "23436"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.92014,
+                    49.84379
+                ]
+            }
+        }
+    ]
+}

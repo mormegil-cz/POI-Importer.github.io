@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Francouzský kámen k bitvě 1813 u lesní cesty nad Dubím",
+                "P31": "Památný kámen",
+                "P31^label:cs": "Památný kámen",
+                "P131^label:cs": "Dubí",
+                "P6736": "21282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78816,
+                    50.70368
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Pohodlí",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Litomyšl",
+                "P6736": "12272"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29494,
+                    49.81977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Pohodlí",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Litomyšl",
+                "P6736": "12271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29494,
+                    49.81964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Pohodlí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Litomyšl",
+                "P6736": "12269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29515,
+                    49.81981
+                ]
+            }
+        }
+    ]
+}

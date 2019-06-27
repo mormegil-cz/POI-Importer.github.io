@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Strážovic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pačejov",
+                "P6736": "2560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59778,
+                    49.38308
+                ]
+            }
+        }
+    ]
+}

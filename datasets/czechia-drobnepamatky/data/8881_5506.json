@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník obětem 1. světové války Dobrá Voda",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Jablonec nad Nisou",
+                "P6736": "25141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15865,
+                    50.70821
+                ]
+            }
+        }
+    ]
+}

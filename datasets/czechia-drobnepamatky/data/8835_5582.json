@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Smolotel",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Smolotely",
+                "P6736": "7763"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13728,
+                    49.62544
+                ]
+            }
+        }
+    ]
+}

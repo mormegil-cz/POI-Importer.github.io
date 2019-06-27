@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v lese u Lhůty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rokycany",
+                "P6736": "3136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53738,
+                    49.70697
+                ]
+            }
+        }
+    ]
+}

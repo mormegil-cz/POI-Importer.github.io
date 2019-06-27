@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Kosova nad Dolským mlýnem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bor",
+                "P6736": "9824"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84506,
+                    49.71144
+                ]
+            }
+        }
+    ]
+}

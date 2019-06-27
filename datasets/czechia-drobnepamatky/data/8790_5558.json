@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník severovýchodně od Březína",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "10276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14929,
+                    49.96669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Landart jižně od Nečtin",
+                "P31": "Něco jiného",
+                "P31^label:cs": "Něco jiného",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "5542"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16049,
+                    49.97049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Leopoldova pod vrchem Kozelka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "2151"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14099,
+                    49.97755
+                ]
+            }
+        }
+    ]
+}

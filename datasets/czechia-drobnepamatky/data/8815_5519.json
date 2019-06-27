@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší u kostela v Českých Zlatníkách",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Obrnice",
+                "P6736": "18721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70463,
+                    50.51505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Českých Zlatníkách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Obrnice",
+                "P6736": "18720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70413,
+                    50.51495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zahradě domu u bývalé školy v Českých Zlatníkách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Obrnice",
+                "P6736": "18719"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70282,
+                    50.51406
+                ]
+            }
+        }
+    ]
+}

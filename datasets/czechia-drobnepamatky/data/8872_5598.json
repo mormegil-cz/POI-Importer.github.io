@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u rybníka u Sudkova Dolu",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Obrataň",
+                "P6736": "2753"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94733,
+                    49.40211
+                ]
+            }
+        }
+    ]
+}

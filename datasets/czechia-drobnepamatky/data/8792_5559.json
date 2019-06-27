@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek východně od Nového Městečka",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Nečtiny",
+                "P6736": "3365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18995,
+                    49.96128
+                ]
+            }
+        }
+    ]
+}

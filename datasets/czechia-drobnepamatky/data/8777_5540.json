@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické sochy vlevo na průčelí hlavní pošty v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87408,
+                    50.22903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Alegorické sochy vpravo na průčelí hlavní pošty v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25832"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87389,
+                    50.22902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy nad portálem okresního soudu v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25831"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86771,
+                    50.22866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Porcelánový sloup-obelisk u magistrátu v Karlových Varech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25830"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86584,
+                    50.22825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna ve Smetanových sadech v Karlových Varech",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25829"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87262,
+                    50.22989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého na nábřeží Osvobození v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87321,
+                    50.23041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Anny Politkovské v ulici Krále Jiřího v Karlových Varech",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25826"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87244,
+                    50.2284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Nový život v Parku Anny Politkovské v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87259,
+                    50.22856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Petra Velikého v Sadové ulici v Karlových Varech",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8752,
+                    50.22475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička Ecce Homo v ulici I.P.Pavlova v Karlových Varech",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "25777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87347,
+                    50.2312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna s obeliskem na nábřeží Osvobození v Karlových Varech",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "",
+                "P6736": "13820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.87393,
+                    50.22932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Masarykova socha v ulici Tomáše Garigue Masaryka v Karlových Varech",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Karlovy Vary",
+                "P6736": "13819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8705,
+                    50.22947
+                ]
+            }
+        }
+    ]
+}

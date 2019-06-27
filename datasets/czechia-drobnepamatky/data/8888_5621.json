@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Českého Rudolce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "13031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30999,
+                    49.06812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Českého Rudolce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31179,
+                    49.07436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Dolního Radíkova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Český Rudolec",
+                "P6736": "12916"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29701,
+                    49.07566
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Domamyšli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vodice",
+                "P6736": "7123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87694,
+                    49.46627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Domamyšli",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Vodice",
+                "P6736": "7122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87696,
+                    49.46631
+                ]
+            }
+        }
+    ]
+}

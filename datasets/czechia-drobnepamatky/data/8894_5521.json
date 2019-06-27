@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Františka Cyrila Kampelíka na budově obecního úřadu v Syřenově",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Syřenov",
+                "P6736": "16525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42773,
+                    50.49892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1.světové válce v Syřenově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Syřenov",
+                "P6736": "16351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42781,
+                    50.49901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u obecního úřadu v Syřenově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Syřenov",
+                "P6736": "16350"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42771,
+                    50.49886
+                ]
+            }
+        }
+    ]
+}

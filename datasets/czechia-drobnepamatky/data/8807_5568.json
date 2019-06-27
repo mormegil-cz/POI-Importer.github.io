@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple nad Darovou",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Břasy",
+                "P6736": "1817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52314,
+                    49.83607
+                ]
+            }
+        }
+    ]
+}

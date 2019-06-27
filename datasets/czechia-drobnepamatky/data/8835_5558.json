@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u pramene svatého Ivana ve Svatém Janu pod Skalou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Svatý Jan pod Skalou",
+                "P6736": "14970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1342,
+                    49.96875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž před kostelem ve Svatém Janu pod Skalou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Svatý Jan pod Skalou",
+                "P6736": "14969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13401,
+                    49.96904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Husův kámen ve Svatém Janu pod Skalou",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Svatý Jan pod Skalou",
+                "P6736": "14968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13383,
+                    49.96897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Povýšení svatého Kříže ve Svatém Janu pod Skalou",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Svatý Jan pod Skalou",
+                "P6736": "14967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13523,
+                    49.97104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Maxmiliána ve Svatém Janu pod Skalou",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Svatý Jan pod Skalou",
+                "P6736": "14966"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13038,
+                    49.96983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížek u cesty ve Svatém Janu pod Skalou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Svatý Jan pod Skalou",
+                "P6736": "9176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13225,
+                    49.96786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánské sousoší ve Svatém Janu pod Skalou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Svatý Jan pod Skalou",
+                "P6736": "9175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13331,
+                    49.96889
+                ]
+            }
+        }
+    ]
+}

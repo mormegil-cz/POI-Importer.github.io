@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Hluboké",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sruby",
+                "P6736": "11859"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.15307,
+                    50.00338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Srubů",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Sruby",
+                "P6736": "11749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16445,
+                    50.00178
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Zahrádce",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Zahrádka",
+                "P6736": "4415"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20982,
+                    49.88114
+                ]
+            }
+        }
+    ]
+}

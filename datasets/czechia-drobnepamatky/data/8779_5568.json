@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Lhoty v osadě U Silnice",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Horní Kozolupy",
+                "P6736": "9866"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91712,
+                    49.83602
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Ploština",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Drnovice",
+                "P6736": "9298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.95851,
+                    49.195
+                ]
+            }
+        }
+    ]
+}

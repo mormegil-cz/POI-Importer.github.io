@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severozápadně od Vysočan",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vysočany",
+                "P6736": "20240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.66487,
+                    48.95096
+                ]
+            }
+        }
+    ]
+}

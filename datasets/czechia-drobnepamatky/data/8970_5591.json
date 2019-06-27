@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Smržice u hřbitova",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Smržice",
+                "P6736": "25790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10884,
+                    49.50874
+                ]
+            }
+        }
+    ]
+}

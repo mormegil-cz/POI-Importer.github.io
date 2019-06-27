@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice k hřbitovu v Bechlíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bechlín",
+                "P6736": "22361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34764,
+                    50.41766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Polodřevěná zvonice u kostela v Bechlíně",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Bechlín",
+                "P6736": "22360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34074,
+                    50.4167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Bechlíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Bechlín",
+                "P6736": "22359"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34056,
+                    50.41661
+                ]
+            }
+        }
+    ]
+}

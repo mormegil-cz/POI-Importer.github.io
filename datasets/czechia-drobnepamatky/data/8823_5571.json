@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Neřežíně",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Chaloupky",
+                "P6736": "14060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8832,
+                    49.7862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Neřežíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chaloupky",
+                "P6736": "14059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88313,
+                    49.78622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník obětem 2. svět. války na Chaloupkách",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Chaloupky",
+                "P6736": "14058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8721,
+                    49.7911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1. svět. válce na Chaloupkách",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Chaloupky",
+                "P6736": "14057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86819,
+                    49.79224
+                ]
+            }
+        }
+    ]
+}

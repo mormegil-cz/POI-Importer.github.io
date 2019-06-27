@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Šonově severní okraj obce",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Šonov",
+                "P6736": "22858"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39317,
+                    50.60325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Šonově severní okraj obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Šonov",
+                "P6736": "22586"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39374,
+                    50.60053
+                ]
+            }
+        }
+    ]
+}

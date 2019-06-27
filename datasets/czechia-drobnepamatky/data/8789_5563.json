@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Číhané u lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "5674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12053,
+                    49.90507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Číhané v poli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "3363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11874,
+                    49.89764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Číhané u Údolního rybníka",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "1353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12376,
+                    49.90046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Číhané v remízku v poli",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "1351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12976,
+                    49.89624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple západně od Číhané",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Úněšov",
+                "P6736": "1352"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12136,
+                    49.89542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u louky severně od Číhané",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úněšov",
+                "P6736": "1318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.13658,
+                    49.90096
+                ]
+            }
+        }
+    ]
+}

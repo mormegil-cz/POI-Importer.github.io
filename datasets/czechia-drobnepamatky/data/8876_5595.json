@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Dolu",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Důl",
+                "P6736": "6158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.03008,
+                    49.45151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Dolu u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Důl",
+                "P6736": "6157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02933,
+                    49.45351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Pošné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pošná",
+                "P6736": "6144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04714,
+                    49.45265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Proseče",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pošná",
+                "P6736": "6143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04674,
+                    49.4488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple severně od Proseče",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pošná",
+                "P6736": "6142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04604,
+                    49.44587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Proseči",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Pošná",
+                "P6736": "6141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04663,
+                    49.44352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Proseče",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Pošná",
+                "P6736": "6140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04638,
+                    49.44147
+                ]
+            }
+        }
+    ]
+}

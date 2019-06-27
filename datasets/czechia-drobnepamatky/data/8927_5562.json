@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Džbánově u Vysokého Mýta",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Džbánov",
+                "P6736": "12220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.15833,
+                    49.91653
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice mezi Svatým Křížem a Mendlovou vsí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Havlíčkův Brod",
+                "P6736": "18762"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58079,
+                    49.56663
+                ]
+            }
+        }
+    ]
+}

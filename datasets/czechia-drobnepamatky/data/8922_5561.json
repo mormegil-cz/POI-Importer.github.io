@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Štěnci na návsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Jenišovice",
+                "P6736": "21408"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05222,
+                    49.93158
+                ]
+            }
+        }
+    ]
+}

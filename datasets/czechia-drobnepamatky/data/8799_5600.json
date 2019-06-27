@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v poli východně od Kosmáčova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "1869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35364,
+                    49.379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kosmáčova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "1770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3416,
+                    49.37968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kosmáčova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Klatovy",
+                "P6736": "1769"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33913,
+                    49.38134
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Krči",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Protivín",
+                "P6736": "6238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24984,
+                    49.19657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Krče u cesty do Podkrčí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Protivín",
+                "P6736": "1797"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.25513,
+                    49.20197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na kameni u Krče",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Protivín",
+                "P6736": "1796"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2531,
+                    49.2012
+                ]
+            }
+        }
+    ]
+}

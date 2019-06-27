@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Heřmanově Huti v Husově ulici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Heřmanova Huť",
+                "P6736": "6182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09117,
+                    49.71317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Heřmanově Huti v Březové ulici",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Heřmanova Huť",
+                "P6736": "6181"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08019,
+                    49.71753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození v Heřmanově Huti",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Heřmanova Huť",
+                "P6736": "4679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08878,
+                    49.71146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vlkýši",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Heřmanova Huť",
+                "P6736": "3946"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09232,
+                    49.71604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vlkýši",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Heřmanova Huť",
+                "P6736": "3945"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09123,
+                    49.71614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník v Heřmanově Huti",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Heřmanova Huť",
+                "P6736": "3944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09041,
+                    49.7131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Heřmanově Huti",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Heřmanova Huť",
+                "P6736": "3943"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0907,
+                    49.71302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u polní cesty u Heřmanovy Huti",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Heřmanova Huť",
+                "P6736": "2777"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07613,
+                    49.71334
+                ]
+            }
+        }
+    ]
+}

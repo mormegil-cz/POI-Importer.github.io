@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Třemešné u autobusové zastávky žel.st.",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Třemešná",
+                "P6736": "17743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.57427,
+                    50.20153
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Utěchoviček",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Útěchovičky",
+                "P6736": "22621"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09912,
+                    49.45715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Útěchoviček",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Útěchovičky",
+                "P6736": "16440"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10131,
+                    49.4634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Útěchovičkách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Útěchovičky",
+                "P6736": "7413"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09851,
+                    49.46077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Útěchovičkách",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Útěchovičky",
+                "P6736": "7415"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09845,
+                    49.46074
+                ]
+            }
+        }
+    ]
+}

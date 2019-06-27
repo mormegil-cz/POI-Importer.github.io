@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u polní cesty západně od Kravař",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Kravaře",
+                "P6736": "22638"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38811,
+                    50.6345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého poblíž mostu v Kravařích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Kravaře",
+                "P6736": "22602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39175,
+                    50.63464
+                ]
+            }
+        }
+    ]
+}

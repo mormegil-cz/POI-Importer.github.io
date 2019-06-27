@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Poděbradech na Pražské ulici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Poděbrady",
+                "P6736": "19069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11609,
+                    50.14108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sloup se sochou Panny Marie Svatohorské v Poděbradech",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Poděbrady",
+                "P6736": "15950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11421,
+                    50.14008
+                ]
+            }
+        }
+    ]
+}

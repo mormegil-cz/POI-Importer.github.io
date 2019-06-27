@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž na Hostince",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Vestec",
+                "P6736": "11612"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01104,
+                    50.42923
+                ]
+            }
+        }
+    ]
+}

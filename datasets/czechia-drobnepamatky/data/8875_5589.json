@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Útěchovicích pod Stražištěm",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Útěchovice pod Stražištěm",
+                "P6736": "20651"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02908,
+                    49.53731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Útěchovic pod Stražištěm",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Útěchovice pod Stražištěm",
+                "P6736": "20650"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0283,
+                    49.53364
+                ]
+            }
+        }
+    ]
+}

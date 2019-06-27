@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na okraji Vísky vedle silnice",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Litovel",
+                "P6736": "22941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05339,
+                    49.69719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na kraji Vísky",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Litovel",
+                "P6736": "11596"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05363,
+                    49.69703
+                ]
+            }
+        }
+    ]
+}

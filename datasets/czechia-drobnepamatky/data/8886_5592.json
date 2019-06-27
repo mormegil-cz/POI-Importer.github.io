@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Vadčicích na zahradě u čp.15",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dehtáře",
+                "P6736": "23561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26888,
+                    49.49429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky na Vadčice a Dehtáře",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dehtáře",
+                "P6736": "18850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26497,
+                    49.49046
+                ]
+            }
+        }
+    ]
+}

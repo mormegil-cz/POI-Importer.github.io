@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice na severozápadním okraji Blíževedel",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blíževedly",
+                "P6736": "22598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39293,
+                    50.6125
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Pernarci u silnice",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Pernarec",
+                "P6736": "4745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09869,
+                    49.8428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Pernarci u rozcestí",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Pernarec",
+                "P6736": "4744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10168,
+                    49.84127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osvobození v Pernarci",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Pernarec",
+                "P6736": "4743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10619,
+                    49.83835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník osídlování v Pernarci",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Pernarec",
+                "P6736": "3993"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10423,
+                    49.83983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník konce druhé světové války v Pernarci",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Pernarec",
+                "P6736": "3992"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10429,
+                    49.83978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka mezi Pernarcem a Málkovicemi",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Pernarec",
+                "P6736": "2286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10289,
+                    49.84787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Pernarci před kostelem",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Pernarec",
+                "P6736": "2283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10792,
+                    49.83873
+                ]
+            }
+        }
+    ]
+}

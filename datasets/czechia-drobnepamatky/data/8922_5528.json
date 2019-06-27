@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v České Skalici",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "11606"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05192,
+                    50.39507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v ulici TGM v České Skalici",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8977"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05266,
+                    50.39743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici TGM v České Skalici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04952,
+                    50.3959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník v ulici TGM v České Skalici",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8975"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04869,
+                    50.39587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v ulici TGM v České Skalici",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04682,
+                    50.39555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u obchodního domu v České Skalici",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04638,
+                    50.39543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Plastika před obchodním domem v České Skalici",
+                "P31": "Plastika",
+                "P31^label:cs": "Plastika",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04618,
+                    50.39526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v České Skalici",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8971"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04411,
+                    50.39492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí v České Skalici",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8970"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04384,
+                    50.39473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na náměstí v České Skalici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04363,
+                    50.39476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Boženy Němcové v České Skalici",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Česká Skalice",
+                "P6736": "8968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04338,
+                    50.39463
+                ]
+            }
+        }
+    ]
+}

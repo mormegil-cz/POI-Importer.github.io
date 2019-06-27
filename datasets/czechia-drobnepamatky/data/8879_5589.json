@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Arneštovic u silnice do Košetic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Arneštovice",
+                "P6736": "19846"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.10731,
+                    49.53468
+                ]
+            }
+        }
+    ]
+}

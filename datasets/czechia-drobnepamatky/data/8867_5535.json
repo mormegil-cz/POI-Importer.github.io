@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka na hřbitové v Benátkách nad Jizerou, části Nové Benátky",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Benátky nad Jizerou",
+                "P6736": "16261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.83344,
+                    50.29567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na hřbitově v Benátkách nad Jizerou, části Nové Benátky",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Benátky nad Jizerou",
+                "P6736": "16260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.83357,
+                    50.29577
+                ]
+            }
+        }
+    ]
+}

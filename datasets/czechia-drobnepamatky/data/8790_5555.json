@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Zhořce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "8191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14634,
+                    50.00837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Zhořce u zatáčky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "5561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14204,
+                    50.01086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Zhořci u silnice na Vlkošov",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "5560"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.13999,
+                    50.00863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Lukové",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Manětín",
+                "P6736": "4518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16041,
+                    50.01638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Lukové",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Manětín",
+                "P6736": "4517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16012,
+                    50.01611
+                ]
+            }
+        }
+    ]
+}

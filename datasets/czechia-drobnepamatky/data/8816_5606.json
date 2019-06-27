@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Veřechova u cesty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "10147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72726,
+                    49.2873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Veřechova u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "10146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72495,
+                    49.29233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Veřechova u pole",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "10145"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72553,
+                    49.29058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Veřechova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "10143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71682,
+                    49.28926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna ve Veřechově na návsi",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "10142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71324,
+                    49.28824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Veřechově v zahradě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "10141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71285,
+                    49.28826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple ve Veřechově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "10140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7117,
+                    49.28772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Veřechově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Horažďovice",
+                "P6736": "10139"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71178,
+                    49.28772
+                ]
+            }
+        }
+    ]
+}

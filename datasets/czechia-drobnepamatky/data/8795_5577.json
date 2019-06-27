@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severovýchodně od Líní",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Líně",
+                "P6736": "8793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2665,
+                    49.70444
+                ]
+            }
+        }
+    ]
+}

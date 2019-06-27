@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u cesty za kaplí v Kletečné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velemín",
+                "P6736": "15241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98407,
+                    50.56804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec ulomeného kříže na návsi v Kletečné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velemín",
+                "P6736": "15240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98485,
+                    50.5681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi v Kletečné",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Velemín",
+                "P6736": "15239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98464,
+                    50.56813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec zničeného kříže na rozcestí ke Kletečné",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velemín",
+                "P6736": "15238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98811,
+                    50.56691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Hanse Kudlicha u Kletečné",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Velemín",
+                "P6736": "9216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98844,
+                    50.56675
+                ]
+            }
+        }
+    ]
+}

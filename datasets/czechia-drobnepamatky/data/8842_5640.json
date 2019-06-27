@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička pod Dubíkem",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Český Krumlov",
+                "P6736": "14490"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29688,
+                    48.8026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen západně od Českého Krumlova",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Český Krumlov",
+                "P6736": "14236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29748,
+                    48.80086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u Dubíku",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Kájov",
+                "P6736": "14235"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29051,
+                    48.80066
+                ]
+            }
+        }
+    ]
+}

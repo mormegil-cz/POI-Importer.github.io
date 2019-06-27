@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka v Třebařově na jižním konci obce",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Třebařov",
+                "P6736": "14989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69245,
+                    49.81641
+                ]
+            }
+        }
+    ]
+}

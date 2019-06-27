@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Dubné rozcestí u okraje lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dubné",
+                "P6736": "1810"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.34496,
+                    48.97668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Dubného u okraje lesa",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Dubné",
+                "P6736": "1649"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.33377,
+                    48.97996
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž pod pastvinou u potoka v jižní části Horní Police",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Police",
+                "P6736": "23026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40801,
+                    50.69917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Stoupně v Horní Polici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41378,
+                    50.70491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici 9.května v Horní Polici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40625,
+                    50.70369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Jana Husa na náměstí Odboje v Horní Polici",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40292,
+                    50.70415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na náměstí Odboje v Horní Polici",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40267,
+                    50.70406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice před poutním kostelem v Horní Polici",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40178,
+                    50.70367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup před poutním areálem v Horní Polici",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40143,
+                    50.70369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy erbonošů nad portálem poutního kostela v Horní Polici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40126,
+                    50.70378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy světic na bráně k poutnímu areálu v Horní Polici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40143,
+                    50.70378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Wenzela Hocke před poutním areálem v Horní Polici",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20391"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40197,
+                    50.70377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník osvobození v Křižíkově ulici v Horní Polici",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40357,
+                    50.70362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Školní ulici v Horní Polici",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40387,
+                    50.70354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup u mostu v Horní Polici",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40424,
+                    50.70409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na mostě přes Ploučnici v Horní Polici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20387"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40446,
+                    50.70487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u železničního přejezdu v Horní Polici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Police",
+                "P6736": "20386"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40356,
+                    50.70575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovaný křížek na kamenném podstavci u Horní Police",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Horní Police",
+                "P6736": "13275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3932,
+                    50.70646
+                ]
+            }
+        }
+    ]
+}

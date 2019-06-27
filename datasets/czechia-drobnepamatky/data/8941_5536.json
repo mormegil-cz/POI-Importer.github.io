@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha anděla v Kunštátě u Orlického Záhoří",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Orlické Záhoří",
+                "P6736": "12854"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46915,
+                    50.28023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Kunštátě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Orlické Záhoří",
+                "P6736": "12627"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46969,
+                    50.27997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Orlickém Záhoří u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Orlické Záhoří",
+                "P6736": "12598"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.47516,
+                    50.27843
+                ]
+            }
+        }
+    ]
+}

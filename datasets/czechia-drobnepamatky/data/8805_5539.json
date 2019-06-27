@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple svatého Václava severně od Blšan",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Blšany",
+                "P6736": "20058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47449,
+                    50.23571
+                ]
+            }
+        }
+    ]
+}

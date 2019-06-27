@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Mutěnína v zahradě",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mutěnín",
+                "P6736": "4103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75523,
+                    49.54626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v zahradě v Mutěníně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mutěnín",
+                "P6736": "4091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7484,
+                    49.54499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha v zahradě v Mutěníně",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Mutěnín",
+                "P6736": "4090"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74665,
+                    49.54438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Křížový kámen u Mutěnína",
+                "P31": "Křížový kámen",
+                "P31^label:cs": "Křížový kámen",
+                "P131^label:cs": "Mutěnín",
+                "P6736": "4039"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75025,
+                    49.54704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mutěníně",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mutěnín",
+                "P6736": "4038"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74436,
+                    49.54486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého u Mutěnína",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Mutěnín",
+                "P6736": "2117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75018,
+                    49.54707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u silnice mezi Hostouní a Mutěnínem",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mutěnín",
+                "P6736": "2118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75584,
+                    49.54873
+                ]
+            }
+        }
+    ]
+}

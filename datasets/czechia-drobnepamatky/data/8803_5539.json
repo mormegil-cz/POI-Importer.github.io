@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník na příchod Rudé armády do Podbořan u Pšova",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43757,
+                    50.24373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Podstavec u čp. 7 v Letově",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44263,
+                    50.23493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Šebestiána u čp. 33 v Letově",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44524,
+                    50.23409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple s hrobkou v Letově u čp. 24",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Podbořany",
+                "P6736": "20187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44404,
+                    50.234
+                ]
+            }
+        }
+    ]
+}

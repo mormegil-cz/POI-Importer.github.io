@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Obrázek ve Slavoňově vedle polní cesty",
+                "P31": "Obrázek",
+                "P31^label:cs": "Obrázek",
+                "P131^label:cs": "Lukavice",
+                "P6736": "21435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88309,
+                    49.81832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž ve Slavoňově před kaplí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lukavice",
+                "P6736": "17017"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89272,
+                    49.8192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie Pomocnice křesťanů ve Slavoňově",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Lukavice",
+                "P6736": "15136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89261,
+                    49.81927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Slavoňova východně od vsi",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Lukavice",
+                "P6736": "14575"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89677,
+                    49.82119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Květína",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "12818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89235,
+                    49.81672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Vojtěcha Bělice ve Slavoňově",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Lukavice",
+                "P6736": "11882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89161,
+                    49.82089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Boží muka severně od Květína",
+                "P31": "Boží muka",
+                "P31^label:cs": "Boží muka",
+                "P131^label:cs": "Mohelnice",
+                "P6736": "11525"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89381,
+                    49.81337
+                ]
+            }
+        }
+    ]
+}

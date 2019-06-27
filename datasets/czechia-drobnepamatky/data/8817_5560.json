@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Podmokelského Mlýna",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Podmokly",
+                "P6736": "8092"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74164,
+                    49.94302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník odboje u Podmokelského Mlýna",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Podmokly",
+                "P6736": "8091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74335,
+                    49.94485
+                ]
+            }
+        }
+    ]
+}

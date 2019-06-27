@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple ve Vodokrtech",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Řenče",
+                "P6736": "5373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38991,
+                    49.5901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Knihách",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Řenče",
+                "P6736": "5372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40296,
+                    49.5901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Knihách",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Řenče",
+                "P6736": "5371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40234,
+                    49.59008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž východně od Vodokrt",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Řenče",
+                "P6736": "5370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39596,
+                    49.58861
+                ]
+            }
+        }
+    ]
+}

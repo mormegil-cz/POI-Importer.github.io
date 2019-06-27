@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u zdi statku v Pořešíně",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kaplice",
+                "P6736": "21122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50254,
+                    48.77842
+                ]
+            }
+        }
+    ]
+}

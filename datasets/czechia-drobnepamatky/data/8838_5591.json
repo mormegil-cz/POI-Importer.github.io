@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kostelce nad Vltavou u zatáčky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostelec nad Vltavou",
+                "P6736": "7886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20344,
+                    49.50164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela v Kostelci nad Vltavou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostelec nad Vltavou",
+                "P6736": "7884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2124,
+                    49.49943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Kostelci nad Vltavou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Kostelec nad Vltavou",
+                "P6736": "7883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21243,
+                    49.4996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička u kostela v Kostelci nad Vltavou",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Kostelec nad Vltavou",
+                "P6736": "7882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21242,
+                    49.49951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kostelce nad Vltavou mezi stromy",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostelec nad Vltavou",
+                "P6736": "7852"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20809,
+                    49.50093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Kostelce nad Vltavou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kostelec nad Vltavou",
+                "P6736": "7851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20798,
+                    49.50095
+                ]
+            }
+        }
+    ]
+}

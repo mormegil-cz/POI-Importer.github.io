@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Blatné v ulici U Sladovny",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blatná",
+                "P6736": "8488"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88111,
+                    49.42423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Floriána v Blatné",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Blatná",
+                "P6736": "8487"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88125,
+                    49.42443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Památník Jana Pavla Hilleho",
+                "P31": "Památník",
+                "P31^label:cs": "Památník",
+                "P131^label:cs": "Blatná",
+                "P6736": "8486"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8813,
+                    49.42458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Blatné",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Blatná",
+                "P6736": "8485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88271,
+                    49.42437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Blatné v Purkyňově ulici",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Blatná",
+                "P6736": "8484"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8843,
+                    49.42462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým u kostela v Blatné",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Blatná",
+                "P6736": "7634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88151,
+                    49.42468
+                ]
+            }
+        }
+    ]
+}

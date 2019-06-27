@@ -1,0 +1,668 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Torzo kříže v Hradební ulici v Rychnově nad Kněžnou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21926"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27495,
+                    50.16469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Josefa Vycpálka na Základní umělecké škole v Rychnově nad Kněžnou",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21789"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27703,
+                    50.16435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Vratislava Vycpálka v parku Slavín v Rychnově nad Kněžnou",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21788"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27758,
+                    50.16764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Otmara Vaňorného v parku Slavín v Rychnově nad Kněžnou",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21787"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27743,
+                    50.16767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník zaniklé piaristické koleje v parku Slavín v Rychnově nad Kněžnou",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21786"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27733,
+                    50.16777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Anatola Provazníka v parku Slavín v Rychnově nad Kněžnou",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21785"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27715,
+                    50.16774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Madony ve výklenku kostela Nejsvětější Trojice v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21784"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27626,
+                    50.16735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonička v ulici Chaloupky v Rychnově nad Kněžnou",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21783"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2742,
+                    50.16661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na nádvoří zámku v Rychnově nad Kněžnou",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2758,
+                    50.16681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Magdaleny Dobromily Rettigové na budově radnice v Rychnově nad Kněžnou",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27436,
+                    50.16343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Karla Poláčka na domě 17 na Starém náměstí v Rychnově nad Kněžnou",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21769"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27507,
+                    50.16301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy svatého Floriána a svatého Jana Nepomuckého na Starém náměstí v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21768"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27476,
+                    50.16327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Kalvárie s křížem na Starém náměstí v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27459,
+                    50.16314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna na Starém náměstí v Rychnově nad Kněžnou",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27426,
+                    50.16293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pelclův pomník na Pelclově nábřeží v Rychnově nad Kněžnou",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27419,
+                    50.16769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na odbočce z Pelclova nábřeží v Rychnově nad Kněžnou",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21743"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27283,
+                    50.16764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého nad ulicí Malá láň v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21742"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26917,
+                    50.16423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Bičovaný Kristus v ulici U Židovského hřbitova v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21741"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26568,
+                    50.16435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Zvonice u kostela svatého Havla v Rychnově nad Kněžnou",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21740"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27325,
+                    50.16333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Piety v Masarykově ulici v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27843,
+                    50.1655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Marka ve Smetanově ulici v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21738"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27994,
+                    50.16653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kovová kašna na nádvoří pivovaru v Rychnově nad Kněžnou",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27886,
+                    50.1713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Mariánského obrazu u pivovaru v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21734"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27889,
+                    50.17083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v ulici Kaštany v Rychnově nad Kněžnou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27886,
+                    50.16895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Nejsvětější Trojice ve Smetanově ulici v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21732"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27804,
+                    50.1674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní deska Jiřího Rychnovského na zvonici v Rychnově nad Kněžnou",
+                "P31": "Pamětní deska",
+                "P31^label:cs": "Pamětní deska",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21731"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2774,
+                    50.16738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Renesanční zvonice v Kolowratské ulici v Rychnově nad Kněžnou",
+                "P31": "Zvonička",
+                "P31^label:cs": "Zvonička",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21730"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27749,
+                    50.16742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy erbonošů (puttů) u kostela Nejsvětější Trojice v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27682,
+                    50.16734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kašna v zámeckém parku v Rychnově nad Kněžnou",
+                "P31": "Kašna",
+                "P31^label:cs": "Kašna",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27641,
+                    50.16593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Jana Nepomuckého v Betenglově ulici v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27464,
+                    50.16576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Vincence Ferrarského v Betenglově ulici v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21726"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27457,
+                    50.16581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Mariánský sloup v Betenglově ulici v Rychnově nad Kněžnou",
+                "P31": "Sloup",
+                "P31^label:cs": "Sloup",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27457,
+                    50.16575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Josefa Pěstouna na Poláčkově náměstí v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21724"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27609,
+                    50.16537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník Karla Poláčka na Poláčkově náměstí v Rychnově nad Kněžnou",
+                "P31": "Pomník",
+                "P31^label:cs": "Pomník",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21723"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27653,
+                    50.16526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha múzy na Poláčkově náměstí v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21722"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27677,
+                    50.16524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sousoší Bylo nás pět v Panské ulici v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.276,
+                    50.16442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha Loučení Krista s Pannou Marií v Krocínově ulici v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "21720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27334,
+                    50.16455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha svatého Havla za kostelem v Rychnově nad Kněžnou",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "12584"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27302,
+                    50.16333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kostela svatého Havla v Rychnově nad Kněžnou",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Rychnov nad Kněžnou",
+                "P6736": "12583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27347,
+                    50.16358
+                ]
+            }
+        }
+    ]
+}

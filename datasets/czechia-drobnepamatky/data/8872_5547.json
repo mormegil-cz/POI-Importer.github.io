@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha sv. Panny Marie u silnice Velenka - Sadská",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Hradištko",
+                "P6736": "17143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94983,
+                    50.13195
+                ]
+            }
+        }
+    ]
+}

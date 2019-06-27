@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Sochy sv. Judy Tadeáše a sv. Václava na vrcholu schodiště do areálu kostelu sv. Barbory jižně od Zahrádek u České Lípy",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Zahrádky",
+                "P6736": "18991"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52938,
+                    50.62552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v 1 .sv. válce na rzcestí turistických tras Zahrádky - zámek",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Zahrádky",
+                "P6736": "18989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52399,
+                    50.63427
+                ]
+            }
+        }
+    ]
+}

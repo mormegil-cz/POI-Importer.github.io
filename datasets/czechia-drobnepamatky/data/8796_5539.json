@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple na návsi ve Chmelištné",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Nepomyšl",
+                "P6736": "19981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27488,
+                    50.23559
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky v Kučeři",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kučeř",
+                "P6736": "7668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24842,
+                    49.43261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u křižovatky v Kučeři",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kučeř",
+                "P6736": "7617"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24431,
+                    49.43528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u kaple v Kučeři",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kučeř",
+                "P6736": "7616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2463,
+                    49.43368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Kučeři",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kučeř",
+                "P6736": "7615"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24627,
+                    49.43362
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple sv. Barbory u Seče",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Seč",
+                "P6736": "7071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49315,
+                    49.57878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Chocenické Lhoty",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Chocenice",
+                "P6736": "6005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50604,
+                    49.57373
+                ]
+            }
+        }
+    ]
+}

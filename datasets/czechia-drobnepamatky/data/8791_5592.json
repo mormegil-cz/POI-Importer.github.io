@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž západně od Býšova",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Křenice",
+                "P6736": "3271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1697,
+                    49.48884
+                ]
+            }
+        }
+    ]
+}

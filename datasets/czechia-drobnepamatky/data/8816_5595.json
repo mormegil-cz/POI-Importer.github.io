@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička v Řesanici",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8400"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7129,
+                    49.44165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na návsi v Řesanicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71214,
+                    49.44035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Řesanicích u kostela",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8397"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71343,
+                    49.44206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Řesanicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7118,
+                    49.44264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Řesanic u výjezdu na pole",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71326,
+                    49.44365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Řesanic u okraje pole",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8394"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71386,
+                    49.4443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž severně od Řesanic u kapličky",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71479,
+                    49.44596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička severně od Řesanic u rozcestí",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71501,
+                    49.44627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Polánky u rozcestí",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8390"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72425,
+                    49.45166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Polánky u bytových domů",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8389"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72511,
+                    49.45302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple v Polánce",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Kasejovice",
+                "P6736": "8388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72698,
+                    49.45301
+                ]
+            }
+        }
+    ]
+}

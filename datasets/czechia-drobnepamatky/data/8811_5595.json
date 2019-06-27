@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na rozcestí v Maňovicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mileč",
+                "P6736": "9980"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60144,
+                    49.45195
+                ]
+            }
+        }
+    ]
+}

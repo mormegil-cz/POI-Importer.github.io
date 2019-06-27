@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pamětní kříž na NS Skalní defilé u Svojšína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Svojšín",
+                "P6736": "23132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92483,
+                    49.76973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž na svahu východně od Svojšína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Svojšín",
+                "P6736": "8224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92652,
+                    49.76839
+                ]
+            }
+        }
+    ]
+}

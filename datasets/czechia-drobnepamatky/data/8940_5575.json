@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaplička ve Vendolí v jižní části obce",
+                "P31": "Kaplička",
+                "P31^label:cs": "Kaplička",
+                "P131^label:cs": "Vendolí",
+                "P6736": "15323"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4381,
+                    49.72949
+                ]
+            }
+        }
+    ]
+}

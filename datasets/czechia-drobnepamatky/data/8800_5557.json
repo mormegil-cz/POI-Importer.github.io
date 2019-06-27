@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Husitská kaple v Mladoticích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Mladotice",
+                "P6736": "8118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36461,
+                    49.98536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jihovýchodně od Mladotic",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "8110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36699,
+                    49.9812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Dřevěný kříž v Mladoticích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "4383"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36557,
+                    49.9857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kaple Panny Marie v Mladoticích",
+                "P31": "Kaple",
+                "P31^label:cs": "Kaple",
+                "P131^label:cs": "Mladotice",
+                "P6736": "4382"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3667,
+                    49.98589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Pomník padlým v Mladoticích",
+                "P31": "Pomník padlým",
+                "P31^label:cs": "Pomník padlým",
+                "P131^label:cs": "Mladotice",
+                "P6736": "4381"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36409,
+                    49.98556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž u Mladotic na křižovatce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Mladotice",
+                "P6736": "2062"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36957,
+                    49.98433
+                ]
+            }
+        }
+    ]
+}

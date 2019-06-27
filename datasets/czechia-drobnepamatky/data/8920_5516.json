@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Markoušovicích na severním okraji obce",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velké Svatoňovice",
+                "P6736": "14818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01692,
+                    50.56821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Socha císaře Josefa II v Markoušovicích",
+                "P31": "Socha",
+                "P31^label:cs": "Socha",
+                "P131^label:cs": "Velké Svatoňovice",
+                "P6736": "14817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01598,
+                    50.56795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž v Markoušovicích u turistického rozcestníku",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Velké Svatoňovice",
+                "P6736": "14816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01547,
+                    50.5676
+                ]
+            }
+        }
+    ]
+}

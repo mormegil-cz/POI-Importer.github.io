@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Kříž jižně od Vidžína",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Úterý",
+                "P6736": "8929"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.98436,
+                    49.96125
+                ]
+            }
+        }
+    ]
+}

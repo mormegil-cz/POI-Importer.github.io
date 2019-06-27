@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Smírčí kříž u Vranové Lhoty",
+                "P31": "Smírčí kříž",
+                "P31^label:cs": "Smírčí kříž",
+                "P131^label:cs": "Vranová Lhota",
+                "P6736": "11667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82006,
+                    49.71817
+                ]
+            }
+        }
+    ]
+}

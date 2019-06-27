@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "label:cs": "Centrální kříž na hřbitově ve Volevčicích",
+                "P31": "Pamětní kříž",
+                "P31^label:cs": "Pamětní kříž",
+                "P131^label:cs": "Volevčice",
+                "P6736": "22300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68896,
+                    50.4327
+                ]
+            }
+        }
+    ]
+}
