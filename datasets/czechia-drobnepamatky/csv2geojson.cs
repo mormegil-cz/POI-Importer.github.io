@@ -58,8 +58,7 @@ void Main()
 			var lon = ParseFloat(entry[2]);
 			var name = entry[0];
 			var typeLabel = entry[5];
-			// TODO: Map to Wikidata class
-			var typeClass = typeLabel;
+			var typeClass = typeClassMapping[typeLabel];
 			var administrative = entry[3];
 			var id = entry[6].Substring(urlPrefixLength);
 
