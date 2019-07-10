@@ -59,39 +59,3 @@ var queryProviderWikidata = {
         return result.join('');
     }
 }
-
-/*
-SELECT ?item ?tileName ?coords ?label_cs ?P31 ?P131_label_cs ?P6736 WHERE {
-  { BIND ('1_2' AS ?tileName)
-  ?item wdt:P31/wdt:P279* wd:Q8205328.
-  SERVICE wikibase:box {
-    ?item wdt:P625 ?coords .
-    bd:serviceParam wikibase:cornerWest "Point(50.317135802484295 14.765198412673273)"^^geo:wktLiteral .
-    bd:serviceParam wikibase:cornerEast "Point(50.34573012546885 14.809992837340186)"^^geo:wktLiteral .
-  }
-  ?item wdt:P31 ?P31.
-  ?item wdt:P131 ?P131.
-  ?item rdfs:label ?label_cs.
-  FILTER(LANG(?label_cs)='cs')
-  ?P131 rdfs:label ?P131_label_cs.
-  FILTER(LANG(?P131_label_cs)='cs')
-  ?item wdt:P6736 ?P6736.
-  }
-  UNION {
-  BIND ('1_3' AS ?tileName)
-  ?item wdt:P31/wdt:P279* wd:Q8205328.
-  SERVICE wikibase:box {
-    ?item wdt:P625 ?coords .
-    bd:serviceParam wikibase:cornerWest "Point(50.317135802484295 14.765198412673273)"^^geo:wktLiteral .
-    bd:serviceParam wikibase:cornerEast "Point(50.34573012546885 14.809992837340186)"^^geo:wktLiteral .
-  }
-  ?item wdt:P31 ?P31.
-  ?item wdt:P131 ?P131.
-  ?item rdfs:label ?label_cs.
-  FILTER(LANG(?label_cs)='cs')
-  ?P131 rdfs:label ?P131_label_cs.
-  FILTER(LANG(?P131_label_cs)='cs')
-  ?item wdt:P6736 ?P6736.
-  }
-}
-*/

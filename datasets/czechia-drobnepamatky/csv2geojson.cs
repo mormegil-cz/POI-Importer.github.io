@@ -58,7 +58,7 @@ void Main()
 			var lon = ParseFloat(entry[2]);
 			var name = entry[0];
 			var typeLabel = entry[5];
-			var typeClass = typeClassMapping[typeLabel];
+			var typeClass = "http://www.wikidata.org/entity/" + typeClassMapping[typeLabel];
 			var administrative = entry[3];
 			var id = entry[6].Substring(urlPrefixLength);
 
