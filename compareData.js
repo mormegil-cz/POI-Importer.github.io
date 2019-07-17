@@ -42,6 +42,12 @@ function compareDataOsm(tiles, resultData)
 				if (geoHelper.getDistance(element.center || element, point.coordinates) > settings.dist)
 					continue;
 
+				var isMatched = element.tags[settings.id] === point.properties[settings.id];
+				if (!isMatched && element.tags[settings.id]) {
+					// ID already matched to a different element, not a candidate for this element
+					continue;
+				}
+
 				var score = 1;
 				for (var t = 0; t < settings.tagmatch.length; t++)
 				{
@@ -54,7 +60,7 @@ function compareDataOsm(tiles, resultData)
 				{
 					point.osmElement = element;
 					point.score = score;
-					point.isMatched = osmElement.tags[settings.id] === point.properties[settings.id];
+					point.isMatched = isMatched;
 					bestScore = score;
 				}
 			}
@@ -129,11 +135,16 @@ function compareDataWikidata(tiles, resultData)
 				if (geoHelper.getDistance(elementCenter, point.coordinates) > settings.dist)
 					continue;
 
+				var isMatched = osmElement.tags[settings.id] === point.properties[settings.id];
+				if (!isMatched && osmElement.tags[settings.id]) {
+					// ID already matched to a different element, not a candidate for this element
+					continue;
+				}
+
 				var score = 0.1;
 				for (var t = 0; t < settings.tagmatch.length; t++)
 				{
 					var tag = settings.tagmatch[t];
-					var varName = tag.key.replace('^', '_').replace(':', '_');
 					var tagScore = comparisonAlgorithms[tag.algorithm || "equality"](
 						point.properties[tag.key],
 						osmElement.tags[tag.key]);
@@ -143,7 +154,7 @@ function compareDataWikidata(tiles, resultData)
 				{
 					point.osmElement = osmElement;
 					point.score = score;
-					point.isMatched = osmElement.tags[settings.id] === point.properties[settings.id];
+					point.isMatched = isMatched;
 					bestScore = score;
 				}
 			}
