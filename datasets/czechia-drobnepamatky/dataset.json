@@ -13,5 +13,5 @@
 		{"key":"P131^label:cs", "algorithm":"equality"},
 		{"key":"P6736", "algorithm":"equality", "autolink": "https://www.drobnepamatky.cz/node/$1"}
 	],
-	"quickStatementsReferences": { "S6736": { "from": "P6736" }, "S854": { "prefix": "https://www.drobnepamatky.cz/node/", "from": "P6736" }, "S813": { "value": "+2019-08-04T00:00:00Z/11", "type": "time" } }
+	"quickStatementsReferences": { "S6736": { "from": "P6736" }, "S854": { "prefix": "https://www.drobnepamatky.cz/node/", "from": "P6736" }, "S813": { "value": "+2020-03-17T00:00:00Z/11", "type": "time" } }
 }

@@ -1,4 +1,15 @@
 private static readonly int urlPrefixLength = "https://www.drobnepamatky.cz/node/".Length;
+
+// name; Druh památky; latitude; longitude; Okres; Obec; řazení; Katastrální území; Datum; URL
+// name;Druh památky;latitude;longitude;Okres;Obec; XXX řazení XXX;Katastrální území;Datum;URL
+private const int COLUMN_NAME = 0;
+private const int COLUMN_TYPE = 1;
+private const int COLUMN_LAT = 2;
+private const int COLUMN_LON = 3;
+private const int COLUMN_ADMINISTRATIVE = 5;
+private const int COLUMN_URL = 8;
+private const int COLUMN_COUNT = 9;
+
 private static readonly Dictionary<string, string> typeClassMapping = new Dictionary<string, string> {
  { "Altán", "Q961082" },
  { "Boží muka", "Q3395121" },
@@ -33,8 +44,8 @@ private static readonly Dictionary<string, string> typeClassMapping = new Dictio
 
 void Main()
 {
-	var csvFilename = @"y:\_3rdparty\POI-Importer.github.io\datasets\czechia-drobnepamatky\drobnepamatky-2019-08-04.csv";
-	using (var geojson = new StreamWriter(@"y:\_3rdparty\POI-Importer.github.io\datasets\czechia-drobnepamatky\drobnepamatky-2019-08-04.json", false, new UTF8Encoding(false)))
+	var csvFilename = @"y:\_3rdparty\POI-Importer.github.io\datasets\czechia-drobnepamatky\drobnepamatky-2020-03-17.csv";
+	using (var geojson = new StreamWriter(@"y:\_3rdparty\POI-Importer.github.io\datasets\czechia-drobnepamatky\drobnepamatky-2020-03-17.json", false, new UTF8Encoding(false)))
 	{
 		float minLat = Single.PositiveInfinity;
 		float maxLat = Single.NegativeInfinity;
@@ -42,8 +53,12 @@ void Main()
 		float maxLon = Single.NegativeInfinity;
 		foreach (var entry in ReadCsv(csvFilename))
 		{
-			var lat = ParseFloat(entry[8]);
-			var lon = ParseFloat(entry[7]);
+			if (entry.Length < COLUMN_COUNT)
+			{
+				throw new FormatException("Unexpected row content: " + String.Join(";", entry));
+			}
+			var lat = ParseFloat(entry[COLUMN_LAT]);
+			var lon = ParseFloat(entry[COLUMN_LON]);
 			minLat = Math.Min(lat, minLat);
 			maxLat = Math.Max(lat, maxLat);
 			minLon = Math.Min(lon, minLon);
@@ -74,13 +89,13 @@ void Main()
 		*/
 		foreach (var entry in ReadCsv(csvFilename))
 		{
-			var lat = ParseFloat(entry[8]);
-			var lon = ParseFloat(entry[7]);
-			var name = entry[0];
-			var typeLabel = entry[6];
+			var lat = ParseFloat(entry[COLUMN_LAT]);
+			var lon = ParseFloat(entry[COLUMN_LON]);
+			var name = entry[COLUMN_NAME];
+			var typeLabel = entry[COLUMN_TYPE];
 			var typeClass = "http://www.wikidata.org/entity/" + typeClassMapping[typeLabel];
-			var administrative = entry[3];
-			var id = entry[10].Substring(urlPrefixLength);
+			var administrative = entry[COLUMN_ADMINISTRATIVE];
+			var id = entry[COLUMN_URL].Substring(urlPrefixLength);
 
 			if (!first)
 			{
@@ -136,6 +151,11 @@ private static IEnumerable<string[]> ReadCsv(string filename)
 					// TODO: Do not replace " with ' as soon as we have JSON escaping
 					columns[i] = columns[i].Substring(1, columns[i].Length - 2).Replace("\"\"", "'");
 				}
+				else
+				{
+					// ugly fix, should not be here at all
+					columns[i] = columns[i].Replace('"', '\'');
+				}
 			}
 			yield return columns;
 		}
@@ -144,7 +164,14 @@ private static IEnumerable<string[]> ReadCsv(string filename)
 
 private static float ParseFloat(string s)
 {
-	return Single.Parse(s, CultureInfo.InvariantCulture);
+	try
+	{
+		return Single.Parse(s, CultureInfo.InvariantCulture);
+	}
+	catch (Exception e)
+	{
+		throw new FormatException(String.Format("Invalid number: '{0}'", s), e);
+	}
 }
 
 private static string CoordToStr(float c)
