@@ -2,13 +2,14 @@ private static readonly int urlPrefixLength = "https://www.drobnepamatky.cz/node
 
 // name; Druh památky; latitude; longitude; Okres; Obec; řazení; Katastrální území; Datum; URL
 // name;Druh památky;latitude;longitude;Okres;Obec; XXX řazení XXX;Katastrální území;Datum;URL
+// name;Druh památky;latitude;longitude;Okres;Obec;Katastrální území;URL
 private const int COLUMN_NAME = 0;
 private const int COLUMN_TYPE = 1;
 private const int COLUMN_LAT = 2;
 private const int COLUMN_LON = 3;
 private const int COLUMN_ADMINISTRATIVE = 5;
-private const int COLUMN_URL = 8;
-private const int COLUMN_COUNT = 9;
+private const int COLUMN_URL = 7;
+private const int COLUMN_COUNT = 8;
 
 private static readonly Dictionary<string, string> typeClassMapping = new Dictionary<string, string> {
  { "Altán", "Q961082" },
@@ -23,6 +24,7 @@ private static readonly Dictionary<string, string> typeClassMapping = new Dictio
  { "Křížový kámen", "Q38411643" },
  { "Menhir", "Q193475" },
  { "Něco jiného", "?" },
+ { "Nenalezena", "?" },	//???
  { "Neznámý", "?" },	//??
  { "Obrázek", "Q478798" },	//?
  { "Památná dlažba", "Q3328263" }, //?
@@ -44,8 +46,8 @@ private static readonly Dictionary<string, string> typeClassMapping = new Dictio
 
 void Main()
 {
-	var csvFilename = @"y:\_3rdparty\POI-Importer.github.io\datasets\czechia-drobnepamatky\drobnepamatky-2020-03-17.csv";
-	using (var geojson = new StreamWriter(@"y:\_3rdparty\POI-Importer.github.io\datasets\czechia-drobnepamatky\drobnepamatky-2020-03-17.json", false, new UTF8Encoding(false)))
+	var csvFilename = @"y:\_3rdparty\POI-Importer.github.io\datasets\czechia-drobnepamatky\drobnepamatky-2021-01.csv";
+	using (var geojson = new StreamWriter(@"y:\_3rdparty\POI-Importer.github.io\datasets\czechia-drobnepamatky\drobnepamatky-2021-01.json", false, new UTF8Encoding(false)))
 	{
 		float minLat = Single.PositiveInfinity;
 		float maxLat = Single.NegativeInfinity;
@@ -93,7 +95,10 @@ void Main()
 			var lon = ParseFloat(entry[COLUMN_LON]);
 			var name = entry[COLUMN_NAME];
 			var typeLabel = entry[COLUMN_TYPE];
-			var typeClass = "http://www.wikidata.org/entity/" + typeClassMapping[typeLabel];
+			if (!typeClassMapping.TryGetValue(typeLabel, out var typeClassQid)) {
+				throw new FormatException("Unsupported type: " + typeLabel);
+			}
+			var typeClass = "http://www.wikidata.org/entity/" + typeClassQid;
 			var administrative = entry[COLUMN_ADMINISTRATIVE];
 			var id = entry[COLUMN_URL].Substring(urlPrefixLength);
 
